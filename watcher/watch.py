@@ -49,6 +49,50 @@ def is_match(title):
     return bool(FULLTIME.search(t) and ROLE.search(t))
 
 
+# ---------------------------------------------------------------- location filter
+# Keep: United States, mainland China, Hong Kong. A posting with no location
+# information is kept, since we can't tell where it is.
+US_STATES = ("Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|"
+             "Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|"
+             "Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|"
+             "North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|"
+             "Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming|District of Columbia")
+US_CODES = ("AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|"
+            "OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC")
+US_CITIES = ("New York|NYC|San Francisco|Chicago|Boston|Houston|Dallas|Charlotte|Los Angeles|Miami|Atlanta|Philadelphia|"
+             "Minneapolis|Denver|Seattle|Austin|Pittsburgh|Buffalo|Stamford|Greenwich|Jersey City|Menlo Park|Palo Alto|"
+             "Salt Lake City|Columbus|Cleveland|Detroit|Nashville|Richmond|Baltimore|St\\. Louis|Kansas City|Phoenix|"
+             "San Diego|Wilmington|Princeton|Newport Beach|Cincinnati|Milwaukee|Omaha|Tampa|Raleigh|Indianapolis|"
+             "Little Rock|Des Moines|Hartford|Irvine|Plano|Fort Worth|San Antonio|Tulsa|Broomfield|Akron|Silicon Valley")
+ALLOWED = re.compile(
+    rf"united states|americas|\b({US_STATES})\b|\b({US_CITIES})\b|"
+    r"china|shanghai|beijing|shenzhen|guangzhou|hangzhou|chengdu|suzhou|tianjin|nanjing|wuhan|xi'?an|"
+    r"hong kong|kowloon", re.I)
+ALLOWED_SHORT = re.compile(r"\b(US|USA|U\.S\.A?|PRC|HK|HKG|SHA|NYC)\b")  # case-sensitive
+ALLOWED_CODES = re.compile(rf"(?:,\s*|[\s\-/])({US_CODES})(?=$|[\s\-/,)])")
+ELSEWHERE = re.compile(
+    r"london|united kingdom|\bUK\b|england|scotland|edinburgh|glasgow|ireland|dublin|cork|frankfurt|germany|munich|"
+    r"m(?:ü|ue|u)nchen|berlin|hamburg|d(?:ü|ue|u)sseldorf|stuttgart|paris|france|milan|italy|madrid|spain|amsterdam|"
+    r"netherlands|z(?:ü|ue|u)rich|geneva|switzerland|luxembourg|brussels|belgium|stockholm|sweden|oslo|norway|"
+    r"copenhagen|denmark|helsinki|finland|vienna|austria|warsaw|poland|prague|lisbon|portugal|athens|dubai|abu dhabi|"
+    r"\bUAE\b|riyadh|saudi|doha|qatar|tel aviv|israel|mumbai|bangalore|bengaluru|india|delhi|gurgaon|gurugram|"
+    r"hyderabad|pune|chennai|singapore|tokyo|japan|seoul|korea|sydney|melbourne|australia|new zealand|auckland|"
+    r"toronto|canada|montreal|vancouver|calgary|mexico|s(?:ã|a)o paulo|brazil|buenos aires|bogot|santiago|lima|"
+    r"johannesburg|south africa|taipei|taiwan|macau|macao|manila|philippines|jakarta|indonesia|kuala lumpur|malaysia|"
+    r"bangkok|thailand|vietnam|budapest|bucharest|krak(?:ó|o)w|northampton|leeds|\bEMEA\b|\bLDN\b|\bAMS\b|"
+    r"\bSGP\b|cayman|bermuda|jersey channel|guernsey", re.I)
+
+
+def location_ok(j):
+    """Keep postings in the US, mainland China or Hong Kong, plus any whose location is unknown."""
+    raw_path = re.sub(r"\b[a-z]{2}[-_][A-Z]{2}\b", " ", urlparse(j.get("url") or "").path)  # drop locales like en-US
+    raw = " ".join([j.get("title") or "", str(j.get("location") or ""), raw_path])
+    text = raw.replace("-", " ").replace("_", " ")
+    if ALLOWED.search(text) or ALLOWED_SHORT.search(text) or ALLOWED_CODES.search(raw):
+        return True
+    return not ELSEWHERE.search(text)
+
+
 # ---------------------------------------------------------------- http helpers
 S = requests.Session()
 S.headers.update({"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"})
@@ -347,7 +391,7 @@ def check_firm(firm):
             jobs = fn(src["key"])
             entry["ok"], entry["count"] = True, len(jobs)
             for j in jobs:
-                if j["title"] and is_match(j["title"]):
+                if j["title"] and is_match(j["title"]) and location_ok(j):
                     j["key"] = f"{firm['id']}|{src['kind']}|{j['id'] if not j['id'].startswith('text:') else j['title'].lower()}"
                     res["matches"].append(j)
         except Exception as e:  # noqa: BLE001
@@ -408,16 +452,25 @@ def main():
                 seen[m["key"]] = {"firm": r["name"], "title": m["title"], "url": m["url"], "first_seen": now}
                 new.append((r["name"], m))
 
+    current = {}
+    for r in results:
+        if r["matches"]:
+            current[r["name"]] = r["matches"]
+    total = sum(len(v) for v in current.values())
+    with open(os.path.join(DATA, "open_now.md"), "w") as fh:
+        fh.write(f"# Open right now: {total} postings at {len(current)} firms\n\n"
+                 "Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong "
+                 "(postings with no location listed are included). Internships and senior roles are left out. "
+                 "Refreshed on every check.\n\n")
+        for f in sorted(current, key=str.lower):
+            fh.write(f"## {f}\n" + "".join(f"- [{m['title']}]({m['url']})\n" for m in current[f]) + "\n")
+
     topic = os.environ.get("NTFY_TOPIC", "")
     if first_run:
         repo = os.environ.get("GITHUB_REPOSITORY", "")
         groups = {}
         for f, m in new:
             groups.setdefault(f, []).append(m)
-        with open(os.path.join(DATA, "open_now.md"), "w") as fh:
-            fh.write(f"# Open right now: {len(new)} postings\n\nTitles with 2027 or a full-time analyst sign, as of {now}.\n\n")
-            for f in sorted(groups):
-                fh.write(f"## {f}\n" + "".join(f"- [{m['title']}]({m['url']})\n" for m in groups[f]) + "\n")
         link = f"https://github.com/{repo}/blob/main/data/open_now.md" if repo else "data/open_now.md"
         top = sorted(groups.items(), key=lambda x: -len(x[1]))
         github_issue(f"Job watcher is live: {len(new)} matching postings open right now",
