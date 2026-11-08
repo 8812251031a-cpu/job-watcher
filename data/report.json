@@ -38,7 +38,7 @@
   "id": "aarete",
   "readable": true,
   "postings_read": 175,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -55,10 +55,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Business Analytics Intern (Summer 2027)",
-   "Data Architecture & Engineering Intern (Summer 2027)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Abdiel Capital",
@@ -161,7 +158,7 @@
   "sources": [
    {
     "kind": "paylocity",
-    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4479180",
+    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452768",
     "ok": true,
     "count": 0,
     "error": ""
@@ -169,13 +166,13 @@
    {
     "kind": "paylocity",
     "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "RuntimeError: Paylocity page data not found"
    },
    {
     "kind": "paylocity",
-    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452768",
+    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4479180",
     "ok": true,
     "count": 0,
     "error": ""
@@ -188,7 +185,7 @@
   "id": "aeris-partners",
   "readable": true,
   "postings_read": 7,
-  "matches": 6,
+  "matches": 4,
   "sources": [
    {
     "kind": "lever",
@@ -202,8 +199,7 @@
    "Tech M&A Investment Banking Full-Time Analyst, Boston",
    "Tech M&A Investment Banking Full-Time Analyst, San Francisco",
    "Tech M&A Investment Banking Full-Time Associate, Boston",
-   "Tech M&A Investment Banking Full-Time Associate, San Francisco",
-   "Tech M&A Investment Banking Summer Associate 2027, Boston"
+   "Tech M&A Investment Banking Full-Time Associate, San Francisco"
   ]
  },
  {
@@ -245,7 +241,7 @@
   "id": "agentis-capital",
   "readable": true,
   "postings_read": 27,
-  "matches": 4,
+  "matches": 1,
   "sources": [
    {
     "kind": "ashby",
@@ -256,10 +252,7 @@
    }
   ],
   "sample_matches": [
-   "Investment Banking Summer Analyst - Infrastructure M&A Advisory - Summer 2027",
-   "Investment Banking Analyst - Infrastructure M&A Advisory - 2027",
-   "Investment Banking Winter Analyst - Infrastructure M&A Advisory - Winter 2027",
-   "Principal Investments Winter Analyst - Winter 2027"
+   "Investment Banking Analyst - Infrastructure M&A Advisory - 2027"
   ]
  },
  {
@@ -267,7 +260,7 @@
   "id": "agwest-farm-credit",
   "readable": true,
   "postings_read": 18,
-  "matches": 2,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -278,8 +271,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Lending Trainee Program",
-   "2027 Summer Internship Program"
+   "2027 Lending Trainee Program"
   ]
  },
  {
@@ -287,7 +279,7 @@
   "id": "akuna-capital",
   "readable": true,
   "postings_read": 31,
-  "matches": 4,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -298,10 +290,7 @@
    }
   ],
   "sample_matches": [
-   "Expression of Interest: 2027 Trading Sneak Peek Weeks",
-   "Platform Engineer Intern, Summer 2027",
-   "Quantitative Development & Strategy Intern, Summer 2027",
-   "Quantitative Research Intern, Summer 2027"
+   "Expression of Interest: 2027 Trading Sneak Peek Weeks"
   ]
  },
  {
@@ -429,14 +418,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941816101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
+    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941982101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 154,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941982101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
+    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941816101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 154,
     "error": ""
@@ -460,17 +449,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.alvarezandmarsal.com/search/jobs?q=%22summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://careers.alvarezandmarsal.com/search/jobs?q=%22summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_F"
-   },
-   {
-    "kind": "site",
     "key": "https://careers.alvarezandmarsal.com/jobs/18296245-restructuring-summer-analyst-2028?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://careers.alvarezandmarsal.com/jobs/18296245-restructuring-summer-analyst-2028?utm_source=Trackr&utm_medium=tracker&u"
+   },
+   {
+    "kind": "site",
+    "key": "https://careers.alvarezandmarsal.com/search/jobs?q=%22summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://careers.alvarezandmarsal.com/search/jobs?q=%22summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_F"
    },
    {
     "kind": "site",
@@ -535,7 +524,7 @@
   "id": "anthelion-capital",
   "readable": true,
   "postings_read": 1,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "ashby",
@@ -545,9 +534,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Quant Developer / Quant Research Intern - 2026/2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Apogem Capital",
@@ -618,7 +605,7 @@
   "id": "apple",
   "readable": true,
   "postings_read": 601,
-  "matches": 29,
+  "matches": 6,
   "sources": [
    {
     "kind": "site",
@@ -636,11 +623,11 @@
    }
   ],
   "sample_matches": [
-   "2027 Apple Internship - Information Systems and Technology",
-   "2027 Apple Internship - Information Systems and Technology",
-   "2027 Apple Internship - Information Systems and Technology (AUS)",
    "Operations Support, Wallet Services - Cork Graduate Programme 2027",
-   "Applied Data Solutions Program, Internships \u2013 Summer 2027"
+   "Partner Support, Apple Media Product (AMP) - Cork Graduate Programme 2027",
+   "Operations Support, Wallet Services - Cork Graduate Programme 2027",
+   "Share Operations Support, Wallet Services - Cork Graduate Programme 2027 200689467-1418",
+   "Partner Support, Apple Media Product (AMP) - Cork Graduate Programme 2027"
   ]
  },
  {
@@ -648,7 +635,7 @@
   "id": "aq-technology-partners",
   "readable": true,
   "postings_read": 4,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -658,16 +645,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "MBA Associate: Investment Banking | Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "AQR Capital Management",
   "id": "aqr-capital-management",
   "readable": true,
   "postings_read": 53,
-  "matches": 8,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -678,11 +663,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Business Development Analyst - US Wealth",
-   "2027 Business Development Summer Analyst",
-   "2027 Engineering Summer Analyst",
-   "2027 PhD Summer Associate, Machine Learning Research",
-   "2027 Quantitative Prediction Markets Research Summer Analyst"
+   "2027 Business Development Analyst - US Wealth"
   ]
  },
  {
@@ -690,7 +671,7 @@
   "id": "aquatic-capital-management",
   "readable": true,
   "postings_read": 12,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -700,10 +681,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Quantitative Researcher, Intern (Summer 2027)",
-   "Software Engineer, Intern (Summer 2027)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Ardea Partners",
@@ -727,7 +705,7 @@
   "id": "ardian",
   "readable": true,
   "postings_read": 51,
-  "matches": 40,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -738,11 +716,7 @@
    }
   ],
   "sample_matches": [
-   "Infrastructure Intern - Luxembourg - March 2027",
-   "Secondaries & Primaries Intern - Summer 2027 | SF",
-   "Infrastructure Intern \u2013 February 2027 I NYC",
-   "Data Scientist Intern - February 2027 | NYC",
-   "Secondaries & Primaries Intern \u2013 Summer 2027 I NYC"
+   "Risk Analyst (H/F) - Janvier 2027 | Paris"
   ]
  },
  {
@@ -801,7 +775,7 @@
   "id": "arrowstreet-capital",
   "readable": true,
   "postings_read": 6,
-  "matches": 4,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -811,12 +785,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Quantitative Developer Intern, Summer 2027",
-   "Quantitative Researcher Intern, Summer 2027",
-   "Investment Processes Intern, Summer 2027",
-   "Software Engineer Intern, Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "ATKG",
@@ -885,17 +854,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.bain.com/careers/work-with-us/internships-programs/associate-consultant-internship/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.bain.com/careers/work-with-us/internships-programs/associate-consultant-internship/?utm_source=Trackr&utm_mediu"
-   },
-   {
-    "kind": "site",
     "key": "https://www.bain.com/careers/find-a-role/position/?jobid=10396&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.bain.com/careers/find-a-role/position/?jobid=10396&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance"
+   },
+   {
+    "kind": "site",
+    "key": "https://www.bain.com/careers/work-with-us/internships-programs/associate-consultant-internship/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.bain.com/careers/work-with-us/internships-programs/associate-consultant-internship/?utm_source=Trackr&utm_mediu"
    },
    {
     "kind": "site",
@@ -929,7 +898,7 @@
   "id": "baird",
   "readable": true,
   "postings_read": 89,
-  "matches": 31,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -940,11 +909,8 @@
    }
   ],
   "sample_matches": [
-   "Internship - Investment Banking Associate (Summer 2027)",
-   "Internship \u2013 Hospitality (Louisville, KY Summer 2027)",
-   "Internship \u2013 Business Transformation (Milwaukee, WI Summer 2027)",
-   "Internship - Investment Banking Associate Summer 2027 (Charlotte, NC)",
-   "Internship \u2013 Private Wealth Management (Akron, OH Summer 2027)"
+   "Institutional Equities Sales & Trading Shadow Week (August 2027) - Milwaukee",
+   "Institutional Equities Sales & Trading Shadow Week (May 2027) \u2013 New York City"
   ]
  },
  {
@@ -952,7 +918,7 @@
   "id": "baker-tilly",
   "readable": true,
   "postings_read": 42,
-  "matches": 4,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -962,12 +928,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer 2027 Affordable Housing Intern",
-   "Winter 2027 Audit Internship - New England",
-   "Winter 2027 Tax Internship - New England",
-   "Summer 2027 Consultant - Forensic, Litigation, & Valuation Services"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Balyasny Asset Management",
@@ -978,14 +939,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Associate-Summer-Intern-Program--Summer-2027-Internship--_REQ7745&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Grad-Program--2027-Graduates-_REQ8261&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 2,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Grad-Program--2027-Graduates-_REQ8261&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Associate-Summer-Intern-Program--Summer-2027-Internship--_REQ7745&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 2,
     "error": ""
@@ -1005,7 +966,7 @@
   "id": "bank-of-america",
   "readable": true,
   "postings_read": 38,
-  "matches": 18,
+  "matches": 5,
   "sources": [
    {
     "kind": "oleeo",
@@ -1016,11 +977,11 @@
    }
   ],
   "sample_matches": [
-   "Global Investment Banking Summer Associate - Tokyo - 2027",
    "Global Markets Fixed Income, Currencies & Commodities Sales Full Time Analyst - 2027 - Tokyo",
    "2027 Global Markets Military and Athlete Programme",
    "Investment Banking 2027 Full-time Analyst - Paris",
-   "Global Corporate Banking 2027, Full-time Analyst - Paris"
+   "Global Corporate Banking 2027, Full-time Analyst - Paris",
+   "Investment Banking 2027 Full-time Analyst - Frankfurt"
   ]
  },
  {
@@ -1028,7 +989,7 @@
   "id": "barclays",
   "readable": true,
   "postings_read": 119,
-  "matches": 90,
+  "matches": 22,
   "sources": [
    {
     "kind": "workday",
@@ -1039,11 +1000,11 @@
    }
   ],
   "sample_matches": [
-   "2027 Operations Analyst Degree Apprenticeship Programme Northampton",
-   "2027 Operations Analyst Project Management Degree Apprenticeship Programme Knutsford",
-   "2027 Operations Analyst Data Science Degree Apprenticeship Programme Knutsford",
-   "2027 Business Banking Degree Apprenticeship Programme London",
-   "Workday Specialist (HCM Consultant) AVP - FTC until the end of December 2027"
+   "Workday Specialist (HCM Consultant) AVP - FTC until the end of December 2027",
+   "2027 Technology Developer Graduate Programme Northampton",
+   "2027 Technology Developer Graduate Programme Knutsford",
+   "2027 Technology Developer Graduate Programme Glasgow",
+   "2027 Human Resources Analyst Graduate Programme London"
   ]
  },
  {
@@ -1051,7 +1012,7 @@
   "id": "barings",
   "readable": true,
   "postings_read": 31,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -1062,8 +1023,6 @@
    }
   ],
   "sample_matches": [
-   "2027 Corporate Finance & Operations Summer Internship",
-   "2027 Client Portfolio Management Summer Internship",
    "Analyst Programme - Capital Solutions"
   ]
  },
@@ -1096,7 +1055,7 @@
   "id": "battery",
   "readable": true,
   "postings_read": 2,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -1106,9 +1065,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Summer Investment Internship"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "BCG",
@@ -1140,11 +1097,11 @@
    }
   ],
   "sample_matches": [
-   "Consultant, Philippines, 2027",
    "Associate, Malaysia (2027)",
    "Consultant, Malaysia (2027)",
-   "Associate, Philippines 2027",
-   "Consultant, Singapore (2027)"
+   "Associate, Indonesia (2027)",
+   "Consultant, Philippines, 2027",
+   "Associate, Philippines 2027"
   ]
  },
  {
@@ -1152,7 +1109,7 @@
   "id": "bdo-global",
   "readable": true,
   "postings_read": 204,
-  "matches": 27,
+  "matches": 1,
   "sources": [
    {
     "kind": "oracle",
@@ -1170,11 +1127,7 @@
    }
   ],
   "sample_matches": [
-   "Tax Intern, Transfer Pricing - Summer 2027 (Detroit)",
-   "Tax Intern, Transfer Pricing - Summer 2027 (Dallas)",
-   "Assurance Intern - Summer 2027 (NYC)",
-   "Assurance Intern - Summer 2027 (Omaha)",
-   "Advisory Intern, Forensics, Claims Recovery - Summer 2027 (Chicago, Dallas, Grand Rapids)"
+   "Assurance Associate - January 2027 (Miami)"
   ]
  },
  {
@@ -1199,7 +1152,7 @@
   "id": "belvedere-trading",
   "readable": true,
   "postings_read": 17,
-  "matches": 4,
+  "matches": 2,
   "sources": [
    {
     "kind": "lever",
@@ -1211,9 +1164,7 @@
   ],
   "sample_matches": [
    "Quantitative Researcher - Entry Level 2027",
-   "Quantitative Trader - Entry Level 2027",
-   "Quantitative Trading Intern - Summer 2027",
-   "Quantitative Trading Intern - Winter Quarter 2027"
+   "Quantitative Trader - Entry Level 2027"
   ]
  },
  {
@@ -1245,7 +1196,7 @@
   "id": "bennett-thrasher",
   "readable": true,
   "postings_read": 40,
-  "matches": 5,
+  "matches": 0,
   "sources": [
    {
     "kind": "ukg",
@@ -1255,20 +1206,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Audit Intern - Summer 2027 - Dallas, TX",
-   "Tax Intern - Summer 2027",
-   "Tax Intern - Summer 2027",
-   "Tax Intern - Spring 2027",
-   "Tax Intern - Spring 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Berkeley Research Group",
   "id": "berkeley-research-group",
   "readable": true,
   "postings_read": 32,
-  "matches": 5,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -1279,9 +1224,6 @@
    }
   ],
   "sample_matches": [
-   "Internship - Competition Economics (April 2027 Start)",
-   "Managing Economist (AEA 2027)",
-   "2027 Summer Associate (Intern) - Corporate Finance - Healthcare Transaction Advisory - Nashville, TN",
    "2027 Associate - Corporate Finance - Healthcare Transaction Advisory - Nashville, TN",
    "Fall 2027 Advisory Associate"
   ]
@@ -1401,30 +1343,24 @@
   "id": "bmo-capital-markets",
   "readable": true,
   "postings_read": 51,
-  "matches": 11,
+  "matches": 0,
   "sources": [
-   {
-    "kind": "workday",
-    "key": "bmo.wd3.myworkdayjobs.com|bmo|Privileged",
-    "ok": true,
-    "count": 25,
-    "error": ""
-   },
    {
     "kind": "workday",
     "key": "bmo.wd3.myworkdayjobs.com|bmo|Campus",
     "ok": true,
     "count": 26,
     "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "bmo.wd3.myworkdayjobs.com|bmo|Privileged",
+    "ok": true,
+    "count": 25,
+    "error": ""
    }
   ],
-  "sample_matches": [
-   "Technology Research Associate, Winter 2027 (Co-op/Internship) - 4 months",
-   "Private Wealth Associate, Winter 2027 (Co-op/Internship) - 4 months",
-   "Investment Team Intern, Summer 2027 (Co-op/Internship) - 4 months",
-   "Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months",
-   "BMO Capital Markets Summer 2027 Corporate Banking Analyst, Toronto"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "BNP Paribas",
@@ -1435,16 +1371,16 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114295&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124464&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114296&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124465&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
-    "count": 76,
+    "count": 75,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114296&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124465&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114293&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124462&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
-    "count": 75,
+    "count": 76,
     "error": ""
    },
    {
@@ -1462,7 +1398,7 @@
   "id": "bny-mellon",
   "readable": true,
   "postings_read": 200,
-  "matches": 100,
+  "matches": 33,
   "sources": [
    {
     "kind": "oracle",
@@ -1473,11 +1409,11 @@
    }
   ],
   "sample_matches": [
-   "2027 BNY Summer Internship Program \u2013 Client Coverage (Houston, TX)",
-   "2027 BNY Summer Internship Program - Credit & Lending - Dublin",
-   "2027 BNY Summer Internship Program - Client Coverage - Luxembourg",
-   "2027 Summer Internship Program - Client Service - Luxembourg",
-   "2027 BNY Analyst Program - Product Management - Dublin"
+   "2027 BNY Analyst Program - Product Management - Dublin",
+   "2027 BNY Analyst Program - Credit and Lending - Dublin",
+   "2027 BNY Analyst Program - Client Coverage - Luxembourg - Start Date: February 2027",
+   "2027 BNY Analyst Program - Trade Execution (London)",
+   "2027 BNY Analyst Program \u2013 Product Management (Manchester)"
   ]
  },
  {
@@ -1485,7 +1421,7 @@
   "id": "boulay",
   "readable": true,
   "postings_read": 9,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workable",
@@ -1495,16 +1431,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Tax Internship - Mankato Office (Jan - April 2027)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "bp",
   "id": "bp",
   "readable": true,
   "postings_read": 32,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -1515,8 +1449,6 @@
    }
   ],
   "sample_matches": [
-   "Polytechnic Internship - Supply, Trading & Shipping - Singapore (2027)",
-   "TEST REQ Azubis 2027",
    "2027 Future Talent Scholarship Programme (First Nations) - Australia"
   ]
  },
@@ -1525,7 +1457,7 @@
   "id": "bracebridge-capital",
   "readable": true,
   "postings_read": 5,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -1535,27 +1467,25 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer 2027 Investment Operations Intern"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Brevan Howard",
   "id": "brevan-howard",
   "readable": true,
   "postings_read": 90,
-  "matches": 14,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.brevanhoward.com/gb/en/job/JR101594/2027-Summer-Internship-Program-Venture-Capital-New-York?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://careers.brevanhoward.com/gb/en/job/JR101591/2027-Summer-Internship-Program-Systematic-Trading-New-York?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 30,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://careers.brevanhoward.com/gb/en/job/JR101583/2027-Summer-Internship-Program-Trading-New-York?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://careers.brevanhoward.com/gb/en/job/JR101594/2027-Summer-Internship-Program-Venture-Capital-New-York?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 30,
     "error": ""
@@ -1568,20 +1498,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Summer Internship Program \u2013 Geneva",
-   "2027 Summer Internship Program \u2013 Trading, Singapore",
-   "2027 Summer Internship Program \u2013 Trading, London",
-   "2027 Summer Internship Program \u2013 QIS, London",
-   "2027 Summer Internship Program \u2013 Trading, Abu Dhabi"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "BRG",
   "id": "brg",
   "readable": true,
   "postings_read": 32,
-  "matches": 5,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -1592,9 +1516,6 @@
    }
   ],
   "sample_matches": [
-   "Internship - Competition Economics (April 2027 Start)",
-   "Managing Economist (AEA 2027)",
-   "2027 Summer Associate (Intern) - Corporate Finance - Healthcare Transaction Advisory - Nashville, TN",
    "2027 Associate - Corporate Finance - Healthcare Transaction Advisory - Nashville, TN",
    "Fall 2027 Advisory Associate"
   ]
@@ -1621,26 +1542,24 @@
   "id": "bridgewater-associates",
   "readable": true,
   "postings_read": 14,
-  "matches": 1,
+  "matches": 0,
   "sources": [
-   {
-    "kind": "greenhouse",
-    "key": "bwaltpostings",
-    "ok": true,
-    "count": 9,
-    "error": ""
-   },
    {
     "kind": "greenhouse",
     "key": "bridgewatercampusrecruiting",
     "ok": true,
     "count": 5,
     "error": ""
+   },
+   {
+    "kind": "greenhouse",
+    "key": "bwaltpostings",
+    "ok": true,
+    "count": 9,
+    "error": ""
    }
   ],
-  "sample_matches": [
-   "Investment Associate Intern - 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "BrightTower",
@@ -1854,7 +1773,7 @@
   "id": "cantor-fitzgerald",
   "readable": true,
   "postings_read": 96,
-  "matches": 4,
+  "matches": 1,
   "sources": [
    {
     "kind": "oracle",
@@ -1865,10 +1784,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Internship Program: Investment Banking (Energy) Houston",
-   "Investment Banking Analyst \u2013 Energy (Class of 2027)",
-   "2027 Internship Program: Sales & Trading",
-   "2027 Internship Program: Asset Management"
+   "Investment Banking Analyst \u2013 Energy (Class of 2027)"
   ]
  },
  {
@@ -1893,7 +1809,7 @@
   "id": "capital-one",
   "readable": true,
   "postings_read": 69,
-  "matches": 10,
+  "matches": 3,
   "sources": [
    {
     "kind": "workday",
@@ -1904,11 +1820,9 @@
    }
   ],
   "sample_matches": [
-   "Intern, Strategy Analyst - Summer 2027",
    "Associate, Strategy Analyst - New Grad 2027",
-   "Technology Internship Program - Mexico - 2027",
    "Investment Banking Analyst - TripleTree - 2027",
-   "MBA Product Intern - Summer 2027"
+   "Technology Development Program Associate - Mexico - 2027"
   ]
  },
  {
@@ -1933,7 +1847,7 @@
   "id": "capstone",
   "readable": true,
   "postings_read": 15,
-  "matches": 8,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -1943,13 +1857,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer 2027 - Execution Tech Internship",
-   "Summer 2027 - Investment Internship LDN",
-   "Summer 2027 - Investment Internship NYC",
-   "Summer 2027 - Marketing & Communications Internship",
-   "Summer 2027 - Quant Internship"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Capstone Partners",
@@ -1980,7 +1888,7 @@
   "id": "capula-investment-management",
   "readable": true,
   "postings_read": 10,
-  "matches": 5,
+  "matches": 2,
   "sources": [
    {
     "kind": "workable",
@@ -1992,10 +1900,7 @@
   ],
   "sample_matches": [
    "2027 Technology Graduate Programme",
-   "Capula Analyst Programme",
-   "2027 Technology Internship",
-   "2027 Trading and Research Summer Internship (Tokyo)",
-   "2027 Trading and Research Summer Internship"
+   "Capula Analyst Programme"
   ]
  },
  {
@@ -2003,7 +1908,7 @@
   "id": "cargill",
   "readable": true,
   "postings_read": 399,
-  "matches": 4,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
@@ -2021,10 +1926,7 @@
    }
   ],
   "sample_matches": [
-   "Commodity Trading Internship - 2027",
-   "Commodity Trading Internship - 2027",
-   "Pursuing a bachelor\u2019s or master\u2019s degree from an accredited program graduating between December 2027 and August 2028",
-   "Able to complete a 12-week internship in the summer (May/June - August 2027)"
+   "Pursuing a bachelor\u2019s or master\u2019s degree from an accredited program graduating between December 2027 and August 2028"
   ]
  },
  {
@@ -2036,17 +1938,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.criadv.com/career-opportunities/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.criadv.com/career-opportunities/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028"
-   },
-   {
-    "kind": "site",
     "key": "https://www.criadv.com/career-opportunities/?gnk=job&gni=8a7887a19c2b6f1c019c2eee704a06b5&gns=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.criadv.com/career-opportunities/?gnk=job&gni=8a7887a19c2b6f1c019c2eee704a06b5&gns=Trackr&utm_source=Trackr&utm_"
+   },
+   {
+    "kind": "site",
+    "key": "https://www.criadv.com/career-opportunities/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.criadv.com/career-opportunities/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028"
    },
    {
     "kind": "site",
@@ -2068,9 +1970,9 @@
    {
     "kind": "paylocity",
     "key": "https://recruiting.paylocity.com/recruiting/jobs/Apply/3810629/Cascadia-Capital-LLC/2027-Investment-Banking-Summer-Analyst",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "RuntimeError: Paylocity page data not found"
    }
   ],
   "sample_matches": []
@@ -2097,7 +1999,7 @@
   "id": "cbiz",
   "readable": true,
   "postings_read": 109,
-  "matches": 9,
+  "matches": 5,
   "sources": [
    {
     "kind": "oracle",
@@ -2108,7 +2010,7 @@
    }
   ],
   "sample_matches": [
-   "Financial Valuation Intern | Spring 2027",
+   "Sales Development Representative | Benefits & Insurance | February 2027",
    "Sales Development Representative | Benefits & Insurance | February 2027",
    "Sales Development Representative | Benefits & Insurance | February 2027",
    "Sales Development Representative | Benefits & Insurance | February 2027",
@@ -2152,15 +2054,15 @@
  {
   "firm": "CCK Strategies",
   "id": "cck-strategies",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 9,
   "matches": 0,
   "sources": [
    {
     "kind": "paylocity",
     "key": "https://recruiting.paylocity.com/recruiting/jobs/All/15392739-e8a7-4858-a8bb-07f4efbce077/CCK-Internship-Opportunities",
     "ok": true,
-    "count": 0,
+    "count": 9,
     "error": ""
    }
   ],
@@ -2207,7 +2109,7 @@
   "id": "charles-river-associates",
   "readable": true,
   "postings_read": 92,
-  "matches": 20,
+  "matches": 8,
   "sources": [
    {
     "kind": "greenhouse",
@@ -2247,7 +2149,7 @@
   "id": "chicago-trading-company",
   "readable": true,
   "postings_read": 4,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -2258,9 +2160,7 @@
    }
   ],
   "sample_matches": [
-   "Associate Engineer - 2027 Start",
-   "Quant Trading Internship - Summer 2027",
-   "Software Engineering Internship - Summer 2027"
+   "Associate Engineer - 2027 Start"
   ]
  },
  {
@@ -2309,7 +2209,7 @@
   "id": "cibc",
   "readable": true,
   "postings_read": 83,
-  "matches": 30,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -2319,13 +2219,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Summer Intern - Commercial Banking",
-   "Winter 2027 Direct Applicant Portal",
-   "Project Analyst Co-op- Winter 2027",
-   "2027 Summer Intern - People, Culture & Talent",
-   "2027 Summer Intern - Commercial Real Estate"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "CIFC Asset Management",
@@ -2353,17 +2247,17 @@
   "sources": [
    {
     "kind": "site",
+    "key": "https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2027/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2027/?utm_source=Trackr&utm_me"
+   },
+   {
+    "kind": "site",
     "key": "https://www.citadel.com/careers/open-opportunities?experience-filter=new-graduates&sections-filter=investing%2Cquantitative-research&location-filter=americas%2Cchicago%2Cgreenwich%2Chouston%2Cmiami%2Cnew-york&selected-job-sections=388%2C389%2C387%2C390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/careers/open-opportunities?experience-filter=new-graduates&sections-filter=investing%2Cquantitative"
-   },
-   {
-    "kind": "site",
-    "key": "https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/?utm_source=Trackr&utm_me"
    },
    {
     "kind": "site",
@@ -2380,7 +2274,7 @@
   "id": "citi",
   "readable": true,
   "postings_read": 109,
-  "matches": 82,
+  "matches": 45,
   "sources": [
    {
     "kind": "workday",
@@ -2391,11 +2285,11 @@
    }
   ],
   "sample_matches": [
-   "Services - Summer Analyst, China, 2027",
-   "Services \u2013 Internship, Bogot\u00e1 \u2013 Colombia, 2027",
-   "Wealth - Citigold, Summer Analyst, Singapore, 2027",
-   "Services - Summer Analyst, UK - London, 2027",
-   "Internal Audit - Summer Analyst, Warsaw, 2027"
+   "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
+   "Technology - Application Development, Placement Analyst, Belfast 2027",
+   "Investment Banking, Placement Analyst, Dubai, UAE 2027",
+   "Technology-Infrastructure, Full Time Analyst, Philippines 2027",
+   "Technology - Infrastructure, Full Time Analyst, Warsaw 2027"
   ]
  },
  {
@@ -2456,9 +2350,9 @@
    {
     "kind": "site",
     "key": "https://www.classvipartners.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
    }
   ],
   "sample_matches": []
@@ -2468,7 +2362,7 @@
   "id": "cleveland-research-company",
   "readable": true,
   "postings_read": 144,
-  "matches": 3,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -2485,18 +2379,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Research Intern- Summer 2027",
-   "Research Intern- Summer 2027 Cleveland, OH",
-   "Research Intern- Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "CliftonLarsonAllen",
   "id": "cliftonlarsonallen",
   "readable": true,
   "postings_read": 62,
-  "matches": 32,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -2506,13 +2396,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Assurance Associate - Winter 2027 - Northeast WI",
-   "Associate - Winter 2027 - Fox Cities, WI",
-   "Internal Operations Intern - Winter 2027 - Wenatchee",
-   "Tax Associates - Winter 2027 - Portland, OR",
-   "Tax/Audit Intern - Winter 2027 - Denver, CO"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "CMD Global Partners",
@@ -2553,27 +2437,24 @@
   "id": "cohen-company",
   "readable": true,
   "postings_read": 22,
-  "matches": 4,
+  "matches": 1,
   "sources": [
-   {
-    "kind": "workday",
-    "key": "cohenco.wd108.myworkdayjobs.com|cohenco|CC",
-    "ok": true,
-    "count": 22,
-    "error": ""
-   },
    {
     "kind": "icims",
     "key": "careers-cohenco.icims.com",
     "ok": true,
     "count": 0,
     "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "cohenco.wd108.myworkdayjobs.com|cohenco|CC",
+    "ok": true,
+    "count": 22,
+    "error": ""
    }
   ],
   "sample_matches": [
-   "Office of the CFO, Managerial Investment Consultant, October 2027",
-   "Office of the CFO, Managerial Operating Intern, Summer 2027",
-   "Office of the CFO, Transformational Operating Intern, Summer 2027",
    "Family Office Tax Associate, October 2027 or January 2028"
   ]
  },
@@ -2582,7 +2463,7 @@
   "id": "cohnreznick",
   "readable": true,
   "postings_read": 18,
-  "matches": 7,
+  "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
@@ -2592,13 +2473,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Audit Winter 2027 Internship - Atlanta, GA",
-   "Tax Summer 2027 Internship - Holmdel, NJ",
-   "Audit Winter 2027 Internship - Chicago, IL",
-   "Valuation Advisory Services - VAS Summer 2027 Internship \u2013 Chicago, IL, New York, NY & Bethesda, MD",
-   "Project Finance Consulting Advisory Services - PFC Summer 2027 Internship \u2013 Charlotte, NC"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Columbia Threadneedle Investments",
@@ -2639,7 +2514,7 @@
   "id": "corient",
   "readable": true,
   "postings_read": 76,
-  "matches": 21,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -2649,13 +2524,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Tax Intern: Spring 2027",
-   "Portfolio Implementation Intern (Summer 2027)",
-   "Individual Equity Strategy Intern (Summer 2027)",
-   "Wealth Management Intern (Summer 2027, Wayne)",
-   "Wealth Management Intern (Summer 2027, Denver)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Cornerstone Research",
@@ -2679,7 +2548,7 @@
   "id": "crowe",
   "readable": true,
   "postings_read": 32,
-  "matches": 6,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
@@ -2697,11 +2566,7 @@
    }
   ],
   "sample_matches": [
-   "Tax Intern Summer 2027",
-   "Audit Intern Summer 2027",
-   "Audit Staff Fall 2027",
-   "Audit Intern Winter 2027",
-   "AI Functional Intern - WINTER 2027"
+   "Audit Staff Fall 2027"
   ]
  },
  {
@@ -2725,21 +2590,21 @@
   "firm": "D.E. Shaw",
   "id": "d-e-shaw",
   "readable": true,
-  "postings_read": 195,
+  "postings_read": 311,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.deshaw.com/careers/cove-private-equity-intern-summer-2027-5875?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&source=Trackr",
+    "key": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2027-5709?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&source=Trackr",
     "ok": true,
     "count": 0,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2027-5709?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&source=Trackr",
+    "key": "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
-    "count": 0,
+    "count": 116,
     "error": ""
    },
    {
@@ -2798,7 +2663,7 @@
   "id": "deloitte",
   "readable": true,
   "postings_read": 10,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "avature",
@@ -2808,10 +2673,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Audit & Assurance \u2013 Intern \u2013 Technology Controls Advisory (Japanese Services Group) \u2013 Summer 2027",
-   "Audit & Assurance \u2013 Analyst \u2013 Technology Controls Advisory (Japanese Services Group) \u2013 Summer/Fall 2027, Winter 2028"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Deutsche Bank",
@@ -2822,16 +2684,16 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://careers.db.com/students-graduates/Search-Programmes/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
-    "count": 5,
+    "count": 152,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://careers.db.com/students-graduates/Search-Programmes/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 152,
+    "count": 5,
     "error": ""
    },
    {
@@ -2853,7 +2715,7 @@
   "id": "djj",
   "readable": true,
   "postings_read": 207,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -2870,9 +2732,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Commodity Markets Analyst Intern (Summer 2027)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Dodge & Cox",
@@ -2930,7 +2790,7 @@
   "id": "ducera-partners",
   "readable": true,
   "postings_read": 4,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -2940,16 +2800,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Investment Banking Summer Associate - New York"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "DV Trading",
   "id": "dv-trading",
   "readable": true,
   "postings_read": 73,
-  "matches": 22,
+  "matches": 3,
   "sources": [
    {
     "kind": "greenhouse",
@@ -2961,10 +2819,8 @@
   ],
   "sample_matches": [
    "2027 Quantitative Researcher Graduate (DV QES)",
-   "2027 Quantitative Research Intern (DV QES)",
    "2027 Quantitative Trader Graduate (DV Equities)",
-   "2027 Quantitative Trader Graduate (DV QES)",
-   "2027 Software Developer Intern (DV QES)"
+   "2027 Quantitative Trader Graduate (DV QES)"
   ]
  },
  {
@@ -2972,7 +2828,7 @@
   "id": "eastdil-secured",
   "readable": true,
   "postings_read": 8,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "bamboo",
@@ -2983,9 +2839,7 @@
    }
   ],
   "sample_matches": [
-   "2027 U.S. Summer Internship Program",
-   "2027 Virtual Real Estate Finance Training Program",
-   "2027 U.S. Summer Internship Program \u2013 M&A/Corporate Advisory"
+   "2027 Virtual Real Estate Finance Training Program"
   ]
  },
  {
@@ -3017,16 +2871,16 @@
    {
     "kind": "site",
     "key": "https://ensispartners.com/careers/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
    },
    {
     "kind": "site",
     "key": "https://ensispartners.com/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
    }
   ],
   "sample_matches": []
@@ -3124,7 +2978,7 @@
   "id": "evercore",
   "readable": true,
   "postings_read": 132,
-  "matches": 24,
+  "matches": 8,
   "sources": [
    {
     "kind": "oleeo",
@@ -3143,10 +2997,10 @@
   ],
   "sample_matches": [
    "2027 Graduate Programme - Real Estate Strategic Advisory (RESA), Frankfurt",
-   "2027 Real Estate Strategic Advisory (RESA) Internship - Frankfurt",
    "2027 Graduate Analyst, Communications & Digital Infrastructure Team, Paris, EMEA",
-   "Q4 2027 Internship Programme (Frankfurt)",
-   "Stockholm Off-Cycle Internship - Generalist Team (January - June 2027)"
+   "2027 Graduate Programme, Generalist Advisory, Frankfurt",
+   "2027 Strategic Advisory: Mergers & Acquisitions Full Time Associate Program: Consumer & Retail Advisory - New York, NY",
+   "2027 Graduate Programme - Real Estate Strategic Advisory (RESA), Frankfurt"
   ]
  },
  {
@@ -3221,7 +3075,7 @@
   "id": "federated-insurance",
   "readable": true,
   "postings_read": 39,
-  "matches": 16,
+  "matches": 0,
   "sources": [
    {
     "kind": "icims",
@@ -3231,13 +3085,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Claims College Internship - Atlanta, GA",
-   "2027 Claims College Internship - Edina, MN",
-   "2027 Claims College Internship - Glendale, AZ",
-   "2027 Claims College Internship - Indianapolis, IN",
-   "2027 Claims College Internship - North Richland Hills, TX"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Fidelity International",
@@ -3280,7 +3128,7 @@
   "id": "fifth-third-bank",
   "readable": true,
   "postings_read": 80,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -3290,17 +3138,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Wealth and Asset Management Co-Op - FULL TIME January 2027 - May 2027",
-   "Wealth and Asset Management Co-Op - FULL TIME May 2027-August 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Five Rings",
   "id": "five-rings",
   "readable": true,
   "postings_read": 17,
-  "matches": 11,
+  "matches": 7,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3323,7 +3168,7 @@
   "id": "flow-traders",
   "readable": true,
   "postings_read": 42,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3333,9 +3178,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Quantitative Trading Intern Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "FMI Capital Advisors",
@@ -3407,7 +3250,7 @@
   "id": "frazier-deeter",
   "readable": true,
   "postings_read": 50,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3418,9 +3261,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Fall Assurance Associate",
-   "Campus 2027 Spring Assurance Intern",
-   "Campus 2027 Summer Assurance Intern"
+   "2027 Fall Assurance Associate"
   ]
  },
  {
@@ -3445,7 +3286,7 @@
   "id": "ft-partners",
   "readable": true,
   "postings_read": 22,
-  "matches": 5,
+  "matches": 2,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3457,10 +3298,7 @@
   ],
   "sample_matches": [
    "2027 Full-time Associate, Investment Banking \u2013 San Francisco",
-   "2027 January Internship - Private Capital Markets & Financial Sponsor Coverage (London)",
-   "2027 July Sponsor Coverage Full-time Analyst (San Francisco)",
-   "2027 July Strategic Insights Full Time Analyst (San Francisco)",
-   "2027 Summer Associate, Investment Banking (US)"
+   "2027 July Sponsor Coverage Full-time Analyst (San Francisco)"
   ]
  },
  {
@@ -3468,7 +3306,7 @@
   "id": "fti-consulting",
   "readable": true,
   "postings_read": 74,
-  "matches": 18,
+  "matches": 3,
   "sources": [
    {
     "kind": "workday",
@@ -3479,11 +3317,9 @@
    }
   ],
   "sample_matches": [
-   "2027 Internship, Risk & Investigations, Forensic and Litigation Consulting",
-   "2027 Stage Ressources Humaines",
-   "2027 Intern, Corporate Finance",
    "2027 Graduate Scheme, Data, Tech & Transformation",
-   "2027 IMPACT Leadership Program"
+   "2027 IMPACT Leadership Program",
+   "2027, Business Analyst - Graduate Program, Strategy & Transformation (Saudi Nationals Only)"
   ]
  },
  {
@@ -3491,7 +3327,7 @@
   "id": "g2-capital-advisors",
   "readable": true,
   "postings_read": 12,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "bamboo",
@@ -3501,16 +3337,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer Analyst 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Galaxy",
   "id": "galaxy",
   "readable": true,
   "postings_read": 55,
-  "matches": 5,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3520,13 +3354,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Digital Infrastructure Intern - NYC",
-   "2027 Investment Banking Summer Analyst - NYC",
-   "2027 Research Intern - NYC",
-   "2027 Risk Intern - NYC",
-   "2027 Sales and Trading Internships - NYC"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Garda Capital Partners",
@@ -3550,7 +3378,7 @@
   "id": "gcm-grosvenor",
   "readable": true,
   "postings_read": 18,
-  "matches": 9,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3560,13 +3388,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 ARS Research Summer Intern",
-   "2027 Cybersecurity Summer Intern",
-   "2027 Fund Accounting Summer Intern",
-   "2027 Investor Operations Summer Intern",
-   "2027 IT Operations Summer Intern"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Geffen Mesher",
@@ -3578,9 +3400,9 @@
    {
     "kind": "paylocity",
     "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4123439",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "RuntimeError: Paylocity page data not found"
    }
   ],
   "sample_matches": []
@@ -3594,16 +3416,16 @@
   "sources": [
    {
     "kind": "greenhouse",
-    "key": "generalatlantic",
+    "key": "gacampus",
     "ok": true,
-    "count": 14,
+    "count": 5,
     "error": ""
    },
    {
     "kind": "greenhouse",
-    "key": "gacampus",
+    "key": "generalatlantic",
     "ok": true,
-    "count": 5,
+    "count": 14,
     "error": ""
    }
   ],
@@ -3720,7 +3542,7 @@
   "id": "goldman-sachs",
   "readable": true,
   "postings_read": 2,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "goldman",
@@ -3730,16 +3552,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Asset & Wealth Management, PWM, Brand Marketing and Creative Strategy, Vice President - New York - 2027 (Vice President)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Graham Capital Management",
   "id": "graham-capital-management",
   "readable": true,
   "postings_read": 13,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3749,17 +3569,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Graham Capital Summer Internship \u2013 CT / NYC",
-   "2027 Graham Capital Summer Internship \u2013 London"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Graham Partners",
   "id": "graham-partners",
   "readable": true,
-  "postings_read": 9,
-  "matches": 0,
+  "postings_read": 163,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
@@ -3772,18 +3589,20 @@
     "kind": "site",
     "key": "https://www.grahampartners.net/careers/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
     "ok": true,
-    "count": 0,
+    "count": 154,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Full Time: Business Development Analyst"
+  ]
  },
  {
   "firm": "Grant Thornton",
   "id": "grant-thornton",
   "readable": true,
   "postings_read": 104,
-  "matches": 4,
+  "matches": 0,
   "sources": [
    {
     "kind": "oracle",
@@ -3793,19 +3612,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Risk Advisory Intern - Summer 2027",
-   "Audit IT Assurance Intern - Summer 2027",
-   "Risk Advisory Intern - Summer 2027",
-   "Cybersecurity and Privacy Associate - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Greenhill",
   "id": "greenhill",
   "readable": true,
   "postings_read": 37,
-  "matches": 11,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -3816,11 +3630,8 @@
    }
   ],
   "sample_matches": [
-   "2027 Summer Associate \u2013 Houston",
-   "Summer 2027 Compliance Internship",
-   "Summer 2027 Treasury Internship",
    "2027 M&A Analyst - Chicago",
-   "2027 Americas Risk Management Internship"
+   "2027 M&A Associate - Mizuho | Greenhill - Chicago"
   ]
  },
  {
@@ -3845,7 +3656,7 @@
   "id": "greystone",
   "readable": true,
   "postings_read": 18,
-  "matches": 5,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -3855,20 +3666,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Full Stack Engineer Intern - Summer 2027",
-   "Salesforce Developer Intern - Summer 2027",
-   "Agency Production Intern - Summer 2027",
-   "Corporate Finance Intern - Summer 2027",
-   "Multifamily Structured Finance and Capital Advisory Intern - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "GSA Capital",
   "id": "gsa-capital",
   "readable": true,
   "postings_read": 13,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3878,10 +3683,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "General Trading & Technology Insight Programme - 2027",
-   "Women in Trading & Technology Insight Programme - 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "GTCR",
@@ -3922,7 +3724,7 @@
   "id": "guggenheim-partners",
   "readable": true,
   "postings_read": 6,
-  "matches": 6,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -3933,10 +3735,6 @@
    }
   ],
   "sample_matches": [
-   "2027 Guggenheim Securities Investment Banking Summer Associate \u2013 Chicago Industrials",
-   "2027 Guggenheim Securities Investment Banking Summer Associate \u2013 Chicago Technology & Services",
-   "2027 Guggenheim Securities Investment Banking Summer Associate \u2013 Los Angeles Industrials",
-   "2027 Guggenheim Securities Investment Banking Summer Associate \u2013 New York Generalist Program",
    "2027 Guggenheim Securities Investment Banking Analyst \u2013 New York Leveraged Finance & Debt Advisory"
   ]
  },
@@ -3945,7 +3743,7 @@
   "id": "guidehouse",
   "readable": true,
   "postings_read": 79,
-  "matches": 6,
+  "matches": 4,
   "sources": [
    {
     "kind": "workday",
@@ -3959,8 +3757,7 @@
    "2027 DoW/HOH SkillBridge (Onsite)",
    "Consulting Analyst - State & Local Government - Campus 2027",
    "Information Security Systems Officer - DoW/HOH SkillBridge 2027",
-   "Intern - Health Automation & Analytics, Provider Advisory - Campus 2027",
-   "Senior Consultant - Life Sciences Advisory, Health Segment - Campus 2027"
+   "Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027"
   ]
  },
  {
@@ -3968,7 +3765,7 @@
   "id": "gunvor",
   "readable": true,
   "postings_read": 22,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -3978,9 +3775,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Centalion 2027 US Internship Program"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Halvorsen Capital Partners",
@@ -4067,7 +3862,7 @@
   "id": "harrison-street",
   "readable": true,
   "postings_read": 6,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "lever",
@@ -4077,9 +3872,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer 2027 Investor Solutions Group Intern - London"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Headlands Technologies",
@@ -4146,7 +3939,7 @@
   "id": "houlihan-lokey",
   "readable": true,
   "postings_read": 39,
-  "matches": 16,
+  "matches": 5,
   "sources": [
    {
     "kind": "workday",
@@ -4157,11 +3950,11 @@
    }
   ],
   "sample_matches": [
-   "2027 Investment Banking Summer Associate (Class of 2028) \u2013 Los Angeles Business Services",
-   "2027 Investment Banking Summer Associate (Class of 2028) \u2013 Atlanta Business Services",
    "2027 Graduate Financial Analyst - Corporate Finance (IT Services)",
    "2027 Graduate Financial Analyst - Corporate Finance (Consumer Group)",
-   "2027 Graduate Financial Analyst - Corporate Finance (Industrials)"
+   "2027 Graduate Financial Analyst - Corporate Finance (Industrials)",
+   "2027 Graduate Financial Analyst - Corporate Finance (Technology)",
+   "Investment Banking Financial Analyst | Los Angeles, Consumer (Class of 2027)"
   ]
  },
  {
@@ -4210,7 +4003,7 @@
   "id": "hudson-river-trading",
   "readable": true,
   "postings_read": 83,
-  "matches": 11,
+  "matches": 6,
   "sources": [
    {
     "kind": "greenhouse",
@@ -4223,9 +4016,9 @@
   "sample_matches": [
    "Algorithm Developer (Quant Research & Trading) \u2013 2027 Grads",
    "Algorithm Developer (Quant Research & Trading) \u2013 2027 PhDs",
-   "Algorithm Development (Quant Research & Trading) Internship \u2013 Summer 2027",
-   "Algorithm Development (Quant Research & Trading) PhD Internship \u2013 Summer 2027",
-   "Data Scientist Intern - 2027"
+   "Design Verification (DV) Engineer - 2027 Grads",
+   "Electronic Trading Support Engineer - 2026/2027 Grads",
+   "Hardware Design Engineer - 2027 Grads"
   ]
  },
  {
@@ -4233,7 +4026,7 @@
   "id": "huntington-national-bank",
   "readable": true,
   "postings_read": 72,
-  "matches": 11,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -4243,20 +4036,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer 2027 Operations Internship",
-   "Summer 2027 Communications Internship",
-   "Summer 2027 Law Clerk Internship",
-   "Summer 2027 Regional Banking Internship",
-   "Summer 2027 Social Media Internship"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Huron",
   "id": "huron",
   "readable": true,
   "postings_read": 63,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -4267,8 +4054,6 @@
    }
   ],
   "sample_matches": [
-   "MBA Summer Associate, Education & Research - Summer 2027",
-   "Digital Consulting Intern Summer 2027, Montreal (Spring 2028 Graduates)",
    "Consulting Analyst, Digital (Chicago, IL) - March 2027 Start Date"
   ]
  },
@@ -4277,7 +4062,7 @@
   "id": "imc-trading",
   "readable": true,
   "postings_read": 162,
-  "matches": 17,
+  "matches": 4,
   "sources": [
    {
     "kind": "greenhouse",
@@ -4291,8 +4076,7 @@
    "2027 EU Campus Programme Talent Community",
    "2027 EU Chess Academy - Expression of Interest",
    "2027 US Chess Academy Interest Form",
-   "Deep Learning Research Intern - 2027 - Sydney",
-   "Deep Learning Research Intern - Summer 2027 - Amsterdam"
+   "Graduate Software Engineer (2027)"
   ]
  },
  {
@@ -4300,7 +4084,7 @@
   "id": "infinitequant",
   "readable": true,
   "postings_read": 3,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "smartrecruiters",
@@ -4310,17 +4094,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Quantitative Researcher - Internship - Summer 2027",
-   "Quantitative Developer - Internship - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "ING",
   "id": "ing",
   "readable": true,
   "postings_read": 86,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -4330,10 +4111,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "(Sec) Financial Markets Sales Intern - 2027 1H",
-   "(Bank) Financial Markets Intern - 2027 H1"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Insight Partners",
@@ -4398,7 +4176,7 @@
   "id": "itw",
   "readable": true,
   "postings_read": 30,
-  "matches": 9,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -4415,20 +4193,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer 2027 Electrical Engineering Intern",
-   "Summer 2027 Manufacturing Engineering Intern",
-   "Summer 2027 Sales Engineering Intern",
-   "Summer 2027 Human Resources Internship",
-   "Summer 2027 Software Engineering Intern"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "J.P. Morgan",
   "id": "j-p-morgan",
   "readable": true,
   "postings_read": 172,
-  "matches": 68,
+  "matches": 16,
   "sources": [
    {
     "kind": "oracle",
@@ -4439,11 +4211,11 @@
    }
   ],
   "sample_matches": [
-   "2027 Markets Summer Analyst Program - Research",
    "2027 Global Private Bank Advisor Program (Full-time Associate) - US Private Bank",
-   "2027 Machine Learning Center of Excellence (NLP) - Internship",
-   "2027 Global Corporate Banking (CEE Team) - Off-Cycle Internship Program - Warsaw",
-   "2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (New York)"
+   "2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (New York)",
+   "2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (Dallas or Houston)",
+   "Software Engineer Program Early Careers - April 2027",
+   "2027 Global Finance & Business Management Analyst Program - Full Time Analyst Corporate Controllers Track (DE)"
   ]
  },
  {
@@ -4474,7 +4246,7 @@
   "id": "jefferies",
   "readable": true,
   "postings_read": 50,
-  "matches": 35,
+  "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
@@ -4485,11 +4257,8 @@
    }
   ],
   "sample_matches": [
-   "2027 Summer Analyst Program - Investment Banking - Hong Kong",
-   "2027 Summer Analyst Program - Investment Banking - Singapore",
-   "2027 Equity Research Summer Analyst Program - Hong Kong",
-   "2027 Equity Research Summer Analyst Program - Singapore",
-   "2027 Quant Masters Summer Programme - London"
+   "2027 Finance Controllers Analyst Programme - London",
+   "2027 Investment Banking Analyst - Houston, Energy Group (February Start)"
   ]
  },
  {
@@ -4521,7 +4290,7 @@
   "id": "jll",
   "readable": true,
   "postings_read": 100,
-  "matches": 35,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -4532,11 +4301,8 @@
    }
   ],
   "sample_matches": [
-   "AMGEN PDS Summer 2027 Internship - Thousand Oaks, CA",
-   "Leasing Summer 2027 Internship - Irvine, CA",
-   "Hotels and Hospitality Summer 2027 Internship - Chicago, IL",
-   "Capital Markets Summer 2027 Internship - Miami, FL",
-   "Capital Markets Summer 2027 Internship - Washington, DC"
+   "Project Management Graduate - London (September 2027 Start)",
+   "Capital Markets Academy 2027 - Launch Your Real Estate Career"
   ]
  },
  {
@@ -4565,14 +4331,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.johnsonlambert.com/open-positions/?search=%22summer+2028%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://www.johnsonlambert.com/open-positions/?search=%22intern+-+summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 289,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.johnsonlambert.com/open-positions/?search=%22intern+-+summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://www.johnsonlambert.com/open-positions/?search=%22summer+2028%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
     "count": 289,
     "error": ""
@@ -4592,7 +4358,7 @@
   "id": "jump-trading",
   "readable": true,
   "postings_read": 92,
-  "matches": 5,
+  "matches": 4,
   "sources": [
    {
     "kind": "greenhouse",
@@ -4605,7 +4371,6 @@
   "sample_matches": [
    "Campus Crypto Researcher (Full-Time)",
    "Campus Quantitative Researcher (Full-Time)",
-   "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
    "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)",
    "Campus Quantitative Trader (Full-Time)"
   ]
@@ -4615,7 +4380,7 @@
   "id": "k1-investment-management",
   "readable": true,
   "postings_read": 75,
-  "matches": 2,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
@@ -4626,16 +4391,15 @@
    }
   ],
   "sample_matches": [
-   "Analyst, Diligence (Fall 2027)",
-   "Intern, Business Development (Summer 2027)"
+   "Analyst, Diligence (Fall 2027)"
   ]
  },
  {
   "firm": "Kearney",
   "id": "kearney",
   "readable": true,
-  "postings_read": 478,
-  "matches": 1,
+  "postings_read": 477,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -4648,20 +4412,18 @@
     "kind": "site",
     "key": "https://www.kearney.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
     "ok": true,
-    "count": 439,
+    "count": 438,
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Kearney Summer Business Analyst Intern 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "KeyBank",
   "id": "key-bank",
   "readable": true,
   "postings_read": 68,
-  "matches": 19,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -4672,11 +4434,8 @@
    }
   ],
   "sample_matches": [
-   "2027 Summer Risk Management Internship Program- Cleveland",
-   "2027 Summer Real Estate Capital Internship - Denver CDLI",
-   "2027 Summer Real Estate Capital Internship - Dallas",
-   "2027 Summer Commercial Bank Internship - Atlanta (Credit)",
-   "2027 Summer Commercial Bank Internship - Cleveland (Credit)"
+   "2027 Marketing Analytics Analyst Program - Cleveland, OH",
+   "2027 Enterprise Marketing Rotational Analyst Program - Cleveland"
   ]
  },
  {
@@ -4732,7 +4491,7 @@
   "id": "kline-hill-partners",
   "readable": true,
   "postings_read": 3,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "bamboo",
@@ -4742,9 +4501,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Spring 2027 Intern"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Koch",
@@ -4767,8 +4524,8 @@
   "firm": "KPMG",
   "id": "kpmg",
   "readable": true,
-  "postings_read": 657,
-  "matches": 13,
+  "postings_read": 653,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -4779,9 +4536,9 @@
    },
    {
     "kind": "site",
-    "key": "https://www.kpmguscareers.com/job-search/?location-filter=&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&keyword=&location=&radius=50&career-level-parents=&career-level=Early+Career%7C&spage=1",
+    "key": "https://www.kpmguscareers.com/job-search/?career-level-parents=Early+Career%7C&career-level=&location-filter=&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028&keyword=%22summer+2028%22&location=&radius=50&spage=1",
     "ok": true,
-    "count": 243,
+    "count": 239,
     "error": ""
    },
    {
@@ -4792,13 +4549,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Early Career Tax Tax Intern, Global Rewards Services | Multiple Locations Winter 2027 1 Location Tax Intern, Global Rewards Services | Multiple Locations Winter 2027 Tax | San Francisco, CA",
-   "Early Career Tax Tax Intern | Multiple Locations Summer 2027 3 Locations Tax Intern | Multiple Locations Summer 2027 Tax | Austin, TX; Philadelphia, PA; Santa Clara, CA",
-   "Early Career Tax Intern, Trade and Customs - JD | Multiple Locations Summer 2027 2 Locations Intern, Trade and Customs - JD | Multiple Locations Summer 2027 Tax | Dallas, TX; Detroit, MI",
-   "Early Career - All Seasons/Years Summer 2027 Summer/Fall 2027 Winter 2027 Summer 2028 Winter 2028",
-   "Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "KWC CPAs",
@@ -4839,7 +4590,7 @@
   "id": "lazard",
   "readable": true,
   "postings_read": 135,
-  "matches": 60,
+  "matches": 1,
   "sources": [
    {
     "kind": "oracle",
@@ -4857,11 +4608,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Q3 - M&A Internship - Frankfurt and Munich",
-   "2027 Summer Associate - San Francisco Technology",
-   "2027 Summer Associate - San Francisco Healthcare",
-   "2027 Summer Associate - Chicago Restructuring & Liability Management",
-   "2027 Summer Associate - Boston Technology"
+   "2027-2028 London Financial Advisory Industrial Placement"
   ]
  },
  {
@@ -4886,7 +4633,7 @@
   "id": "leerink-partners",
   "readable": true,
   "postings_read": 17,
-  "matches": 2,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -4897,8 +4644,7 @@
    }
   ],
   "sample_matches": [
-   "Investment Banking Analyst, Class of 2027",
-   "Equity Research Intern (PhD, Summer 2027)"
+   "Investment Banking Analyst, Class of 2027"
   ]
  },
  {
@@ -4923,7 +4669,7 @@
   "id": "lincoln-international",
   "readable": true,
   "postings_read": 37,
-  "matches": 5,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -4934,11 +4680,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Full-Time Analyst, Valuations & Opinions Group",
-   "2027 M&A Summer Associate Intern",
-   "2027 Summer Analyst Intern, Valuations & Opinions Group",
-   "Debt Advisory Internship (March 2027)",
-   "M&A Internship Amsterdam (May-August 2027)"
+   "2027 Full-Time Analyst, Valuations & Opinions Group"
   ]
  },
  {
@@ -5040,7 +4782,7 @@
   "id": "lord-abbett",
   "readable": true,
   "postings_read": 24,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "icims",
@@ -5050,17 +4792,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Technology Associate, Internship - Summer 2027",
-   "Technology Associate Full-Time - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Lumsden McCormick CPA",
   "id": "lumsden-mccormick-cpa",
   "readable": true,
   "postings_read": 323,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
@@ -5078,9 +4817,7 @@
    }
   ],
   "sample_matches": [
-   "POSITION: Audit Intern - Summer 2027",
-   "Duration: June 2027 through August 2027.",
-   "Tax Intern \u2013 Spring 2027 Buffalo Office or Hybrid (Combo Office/Remote) Apply"
+   "Duration: June 2027 through August 2027."
   ]
  },
  {
@@ -5136,7 +4873,7 @@
   "id": "m-t-bank",
   "readable": true,
   "postings_read": 56,
-  "matches": 49,
+  "matches": 39,
   "sources": [
    {
     "kind": "workday",
@@ -5250,7 +4987,7 @@
   "id": "marshberry",
   "readable": true,
   "postings_read": 19,
-  "matches": 5,
+  "matches": 0,
   "sources": [
    {
     "kind": "ukg",
@@ -5260,13 +4997,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Graphic Design Intern - Summer 2027",
-   "Accounting Intern - Summer 2027",
-   "Insurance Operations Intern - Summer 2027",
-   "Experiential Marketing Intern - Summer 2027",
-   "Investment Banking Analyst - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Maven Securities",
@@ -5311,14 +5042,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalystintern-15275?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-15136?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "ReadTimeout: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=25)"
    },
    {
     "kind": "site",
-    "key": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalyst-15136?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalystintern-15275?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "ReadTimeout: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=25)"
@@ -5355,7 +5086,7 @@
   "id": "mesirow",
   "readable": true,
   "postings_read": 19,
-  "matches": 3,
+  "matches": 0,
   "sources": [
    {
     "kind": "ukg",
@@ -5365,18 +5096,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer Intern 2027 - Capital Markets (Rotational)",
-   "Summer 2027 Intern - IT, Software Developer",
-   "Summer 2027 Intern - IT, Cloud Engineering"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Millennium Management",
   "id": "millennium-management",
   "readable": true,
   "postings_read": 138,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -5400,16 +5127,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Internship Program applications are now open"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Mizuho",
   "id": "mizuho",
   "readable": true,
   "postings_read": 37,
-  "matches": 11,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -5420,11 +5145,8 @@
    }
   ],
   "sample_matches": [
-   "2027 Summer Associate \u2013 Houston",
-   "Summer 2027 Compliance Internship",
-   "Summer 2027 Treasury Internship",
    "2027 M&A Analyst - Chicago",
-   "2027 Americas Risk Management Internship"
+   "2027 M&A Associate - Mizuho | Greenhill - Chicago"
   ]
  },
  {
@@ -5456,29 +5178,27 @@
   "id": "moelis-co",
   "readable": true,
   "postings_read": 56,
-  "matches": 13,
+  "matches": 3,
   "sources": [
-   {
-    "kind": "oleeo",
-    "key": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/adv/",
-    "ok": true,
-    "count": 28,
-    "error": ""
-   },
    {
     "kind": "oleeo",
     "key": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
     "ok": true,
     "count": 28,
     "error": ""
+   },
+   {
+    "kind": "oleeo",
+    "key": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/adv/",
+    "ok": true,
+    "count": 28,
+    "error": ""
    }
   ],
   "sample_matches": [
-   "2027 Off-Cycle Intern, Investment Banking \u2013 Dubai",
    "2027 Analyst, Investment Banking \u2013 Frankfurt",
    "2027 Analyst, Investment Banking - Private Capital Advisory, Primary Fundraising - New York City",
-   "2027 Investment Banking Summer Associate \u2013 Generalist \u2013 Los Angeles",
-   "2027 Investment Banking Summer Associate \u2013 Generalist \u2013 Chicago"
+   "2027 Analyst, Investment Banking \u2013 Hong Kong"
   ]
  },
  {
@@ -5544,7 +5264,7 @@
   "id": "morgan-stanley",
   "readable": true,
   "postings_read": 50,
-  "matches": 49,
+  "matches": 6,
   "sources": [
    {
     "kind": "oleeo",
@@ -5555,11 +5275,11 @@
    }
   ],
   "sample_matches": [
-   "2027 Spring Investment Management Sustainability and Global Stewardship Co-Op (New York)",
    "2027 Global Capital Markets Full-Time Analyst Program (Sydney)",
-   "2027 Quantitative Investment Strategies Summer Associate Program (New York)",
-   "2027 Institutional Equity Quantitative Finance Off-Cycle Internship - Derivatives (New York)",
-   "2027 Investment Management Off-cycle Internship - Office of the COO (London)"
+   "2027 Operations Full-Time Analyst Program (Tokyo/Osaka)",
+   "2027 Step In, Step Up: Empowering Women - Career Pathways Programmme",
+   "2027 Institutional Equity Division Full-Time Analyst Program (Tokyo)",
+   "2027 Investment Banking Full-Time Analyst Programme (Frankfurt or Munich)"
   ]
  },
  {
@@ -5584,7 +5304,7 @@
   "id": "mts-partners",
   "readable": true,
   "postings_read": 1,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "lever",
@@ -5594,38 +5314,36 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Summer Associate, Investment Banking"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "MUFG",
   "id": "mufg",
   "readable": true,
   "postings_read": 97,
-  "matches": 43,
+  "matches": 12,
   "sources": [
-   {
-    "kind": "workday",
-    "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-Careers",
-    "ok": true,
-    "count": 72,
-    "error": ""
-   },
    {
     "kind": "workday",
     "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-EarlyCareers",
     "ok": true,
     "count": 25,
     "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-Careers",
+    "ok": true,
+    "count": 72,
+    "error": ""
    }
   ],
   "sample_matches": [
    "MUFG Analyst Programme 2027 \u2013 Corporate Functions",
    "MUFG Analyst Programme 2027 \u2013 Global Operations",
-   "2027 Operations Summer Analyst Program - Tempe, AZ",
-   "2027 Operations Summer Analyst Program - Tampa, FL",
-   "MUFG Analyst Programme 2027 \u2013 Global Corporate Banking"
+   "MUFG Analyst Programme 2027 \u2013 Global Corporate Banking",
+   "2027 MUFG UK Analyst Programme: Digital Transformation & Artificial Intelligence",
+   "2027 MUFG UK Analyst Programme:Global Markets - Markets Engineering"
   ]
  },
  {
@@ -5657,7 +5375,7 @@
   "id": "nationwide-mutual-insurance-company",
   "readable": true,
   "postings_read": 61,
-  "matches": 5,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -5667,13 +5385,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer 2027 Surety Underwriting Intern",
-   "2027 Corporate Tax Winter-Spring Internship",
-   "2027 Agribusiness Commercial Casualty Claims Intern",
-   "2027 Agribusiness Commercial Property Claims Intern",
-   "Summer 2027 State Product Analyst Intern - Personal Lines"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Natixis",
@@ -5728,7 +5440,7 @@
   "id": "nera",
   "readable": true,
   "postings_read": 71,
-  "matches": 13,
+  "matches": 2,
   "sources": [
    {
     "kind": "site",
@@ -5746,11 +5458,8 @@
    }
   ],
   "sample_matches": [
-   "Insurance Intern (Summer 2027)",
-   "2027 Summer Internship Program",
-   "2027 Summer Internship Program",
-   "2027 Summer Internship Program",
-   "2027 Summer Internship Program"
+   "Government Health Consulting Analyst - College Program 2027",
+   "Workforce and Rewards Analyst - Houston - College Program 2027"
   ]
  },
  {
@@ -5775,7 +5484,7 @@
   "id": "nomura",
   "readable": true,
   "postings_read": 46,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
@@ -5785,9 +5494,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Investment Banking Summer Associate Program - San Francisco"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Nonantum Capital Partners",
@@ -5861,7 +5568,7 @@
   "id": "northwestern-mutual",
   "readable": true,
   "postings_read": 26,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -5871,9 +5578,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Investment Strategy Analyst Intern, Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Novelty Hill Capital",
@@ -5935,17 +5640,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.occstrategy.com/vacancies/382/usa-summer-internship-2027-associate-consultant.html?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 410 Client Error: Gone for url: https://careers.occstrategy.com/vacancies/382/usa-summer-internship-2027-associate-consultant.html?utm_source=Trackr&utm_medium="
-   },
-   {
-    "kind": "site",
     "key": "https://careers.occstrategy.com/vacancies/381/usa-associate-consultant-2027.html?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 410 Client Error: Gone for url: https://careers.occstrategy.com/vacancies/381/usa-associate-consultant-2027.html?utm_source=Trackr&utm_medium=tracker&utm_campai"
+   },
+   {
+    "kind": "site",
+    "key": "https://careers.occstrategy.com/vacancies/382/usa-summer-internship-2027-associate-consultant.html?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 410 Client Error: Gone for url: https://careers.occstrategy.com/vacancies/382/usa-summer-internship-2027-associate-consultant.html?utm_source=Trackr&utm_medium="
    },
    {
     "kind": "site",
@@ -5979,7 +5684,7 @@
   "id": "oliver-wyman",
   "readable": true,
   "postings_read": 166,
-  "matches": 16,
+  "matches": 3,
   "sources": [
    {
     "kind": "site",
@@ -5997,11 +5702,9 @@
    }
   ],
   "sample_matches": [
-   "Insurance Intern (Summer 2027)",
-   "2027 Summer Internship Program",
-   "2027 Summer Internship Program",
-   "2027 Summer Internship Program",
-   "2027 Summer Internship Program"
+   "Government Health Consulting Analyst - College Program 2027",
+   "Workforce and Rewards Analyst - Houston - College Program 2027",
+   "Data And Analytics Industrial Placement 2027 (12 months) Newcastle"
   ]
  },
  {
@@ -6009,7 +5712,7 @@
   "id": "omers",
   "readable": true,
   "postings_read": 32,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -6019,10 +5722,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Student, US Tax Accountant (Summer 2027, 12 Months)",
-   "Student, Canadian Tax Accountant (Summer 2027, 12 Months)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Oppenheimer & Co",
@@ -6060,7 +5760,7 @@
   "id": "optiver",
   "readable": true,
   "postings_read": 155,
-  "matches": 29,
+  "matches": 14,
   "sources": [
    {
     "kind": "greenhouse",
@@ -6071,11 +5771,11 @@
    }
   ],
   "sample_matches": [
-   "2027 Shanghai FPGA Developer Summer Internship",
-   "2027 Shanghai Machine Learning Engineer Summer Internship",
-   "2027 Shanghai Performance Researcher Summer Internship",
-   "2027 Shanghai Software Developer Summer Internship",
-   "Career Kickstarter - Trading 2027"
+   "Career Kickstarter - Trading 2027",
+   "Career Kickstarter: Women in Tech 2027",
+   "Expressions of Interest - Graduate Quantitative Researcher 2027",
+   "Expressions of Interest - Graduate Quantitative Trader 2027",
+   "Expressions of Interest - Graduate Software Developer 2027"
   ]
  },
  {
@@ -6119,7 +5819,7 @@
   "id": "oxford-properties-group",
   "readable": true,
   "postings_read": 32,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -6129,10 +5829,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Student, US Tax Accountant (Summer 2027, 12 Months)",
-   "Student, Canadian Tax Accountant (Summer 2027, 12 Months)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Paralign Capital Partners",
@@ -6197,7 +5894,7 @@
   "id": "peak6",
   "readable": true,
   "postings_read": 23,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -6215,9 +5912,7 @@
    }
   ],
   "sample_matches": [
-   "Trading Associate - 2027",
-   "Trading Bootcamp Micro-Internship - Summer 2027",
-   "Trading Internship for Women+ Summer 2027"
+   "Trading Associate - 2027"
   ]
  },
  {
@@ -6225,7 +5920,7 @@
   "id": "perella-weinberg-partners",
   "readable": true,
   "postings_read": 7,
-  "matches": 4,
+  "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
@@ -6235,12 +5930,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Advisory Summer Analyst Programme (Munich / London)",
-   "2027 NY Summer Associate - M&A (Consumer/Retail, Healthcare, FIG, Technology)",
-   "2027 NY Summer Associate - Restructuring",
-   "2027 Advisory Off-Cycle Internship Programme (Paris / London) - July"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Performance Trust Capital Partners",
@@ -6252,9 +5942,9 @@
    {
     "kind": "paylocity",
     "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414555",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "RuntimeError: Paylocity page data not found"
    }
   ],
   "sample_matches": []
@@ -6281,7 +5971,7 @@
   "id": "pgim",
   "readable": true,
   "postings_read": 48,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -6291,9 +5981,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "PGIM | Intern, Real Estate Private Equity Portfolio Management (all genders) as of Q1 2027, Based in Frankfurt"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Phillips Edison & Company",
@@ -6317,7 +6005,7 @@
   "id": "pimco",
   "readable": true,
   "postings_read": 68,
-  "matches": 35,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -6327,13 +6015,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Summer Internship \u2013 Account Analyst, Tokyo",
-   "2027 Summer Intern - Finance & Accounting Analyst",
-   "2027 Summer Intern - Legal & Compliance Analyst",
-   "2027 Summer Intern \u2013 Trading Analyst, US",
-   "2027 Summer Intern - Trade Support Analyst"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Pinion",
@@ -6357,7 +6039,7 @@
   "id": "piper-sandler",
   "readable": true,
   "postings_read": 38,
-  "matches": 12,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -6368,11 +6050,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Summer Internship Program \u2013 Public Finance",
-   "2027 Investment Banking Analyst \u2013 Healthcare Biotech",
-   "2027 Summer Internship Program - Technology (Employee Access)",
-   "2027 Campus Recruiting - Investment Banking Summer Associate - Minneapolis",
-   "2027 Campus Recruiting - Investment Banking Summer Associate - Charlotte"
+   "2027 Investment Banking Analyst \u2013 Healthcare Biotech"
   ]
  },
  {
@@ -6380,7 +6058,7 @@
   "id": "pjt-partners",
   "readable": true,
   "postings_read": 16,
-  "matches": 15,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -6391,11 +6069,8 @@
    }
   ],
   "sample_matches": [
-   "2027 Summer Analyst - PJT Camberview (Governance)",
-   "2027 Summer Analyst - PJT Camberview (Activism)",
-   "2027 Summer Analyst - Corporate Rotational Program",
-   "2027 Summer Associate (Strategic Advisory) London",
-   "2027 Summer Associate - PJT Camberview (Activism)"
+   "2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)",
+   "2027 Full Time Analyst - PJT Camberview (Governance - San Francisco)"
   ]
  },
  {
@@ -6403,7 +6078,7 @@
   "id": "pmcf-investment-banking",
   "readable": true,
   "postings_read": 66,
-  "matches": 39,
+  "matches": 10,
   "sources": [
    {
     "kind": "workday",
@@ -6414,11 +6089,11 @@
    }
   ],
   "sample_matches": [
-   "2027 Cybersecurity Consultant Intern",
-   "2027 Marketing Technology Intern",
-   "2027 Investment Research Intern",
-   "2027 Tax Solutions Group Intern",
-   "2027 Audit or Tax Intern"
+   "2027 Audit or Tax Entry Level Staff",
+   "2027 Tax Solutions Group Entry Level Staff",
+   "2027 Business Technology Advisory Entry Level Consultant",
+   "2027 Healthcare Revenue Cycle Entry Level Consultant",
+   "2027 Healthcare Reimbursement (Acute Care) Entry Level Consultant"
   ]
  },
  {
@@ -6443,7 +6118,7 @@
   "id": "point72",
   "readable": true,
   "postings_read": 201,
-  "matches": 13,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -6453,13 +6128,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Economist Intern",
-   "2027 MI Data Research & AI Intern - APAC",
-   "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan",
-   "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF)",
-   "2027 Point72 Academy Spring Insight Programme \u2013 UK"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Prairie Capital Advisors",
@@ -6483,7 +6152,7 @@
   "id": "protiviti",
   "readable": true,
   "postings_read": 52,
-  "matches": 21,
+  "matches": 7,
   "sources": [
    {
     "kind": "workday",
@@ -6494,11 +6163,11 @@
    }
   ],
   "sample_matches": [
-   "Atlanta Technology Consulting Intern - 2027",
-   "Chicago Technology Consulting Intern - 2027",
-   "Dallas Technology Consulting Intern - 2027",
-   "Houston Technology Consulting Intern - 2027",
-   "Americas Delivery Center Analyst - 2027"
+   "Americas Delivery Center Analyst - 2027",
+   "Chicago Business Performance Improvement Consultant - 2027",
+   "Houston Internal Audit and Financial Advisory Consultant - 2027",
+   "Minneapolis Internal Audit and Financial Advisory Consultant - 2027",
+   "Philadelphia Internal Audit and Financial Advisory Consultant - 2027"
   ]
  },
  {
@@ -6535,9 +6204,9 @@
    {
     "kind": "site",
     "key": "https://proximagroup.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
    }
   ],
   "sample_matches": []
@@ -6564,7 +6233,7 @@
   "id": "psp-investments",
   "readable": true,
   "postings_read": 33,
-  "matches": 5,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -6574,13 +6243,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Intern, Business and Technology Governance (January - April 2027)",
-   "Intern, Market Data Vendors (January - April 2027)",
-   "Intern, Portfolio Management, Real Estate Investments (January \u2013 April 2027)",
-   "Intern, GenAI and Digital Workplace (January \u2013 April 2027)",
-   "Intern, Natural Resources Investments, Latin America (January \u2013 April 2027)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "PSRS/PEERS",
@@ -6621,7 +6284,7 @@
   "id": "pwc",
   "readable": true,
   "postings_read": 50,
-  "matches": 48,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -6631,13 +6294,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Denver - Tax - Associate - Summer/Fall 2027",
-   "New York - Tax - Associate - Winter 2027",
-   "San Antonio - Tax - Associate - Summer/Fall 2027",
-   "Miami - Tax LLM - Associate - Summer/Fall 2027",
-   "Miami - Tax JD - Intern - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Q Advisors",
@@ -6678,7 +6335,7 @@
   "id": "quantbot-technologies",
   "readable": true,
   "postings_read": 6,
-  "matches": 6,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -6688,13 +6345,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Data Trading Analyst Summer Internship - 2027 [Hong Kong]",
-   "Machine Learning Research Engineer Internship - 2027 [New York]",
-   "Quantitative Developer Internship - 2027 [New York]",
-   "Quantitative Researcher Internship - 2027 [Hong Kong]",
-   "Quantitative Researcher Internship - 2027 [London]"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Rabobank",
@@ -6725,7 +6376,7 @@
   "id": "raine-group",
   "readable": true,
   "postings_read": 2,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "lever",
@@ -6735,16 +6386,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Off-Cycle Analyst (Singapore)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Raymond James",
   "id": "raymond-james",
   "readable": true,
   "postings_read": 10,
-  "matches": 8,
+  "matches": 3,
   "sources": [
    {
     "kind": "workday",
@@ -6755,19 +6404,17 @@
    }
   ],
   "sample_matches": [
-   "2027 Clark Capital Mentoring/Internship Program",
    "2027 Investment Banking Analyst I Diversified Industrials McLean, VA",
-   "2027 Investment Banking Summer Associate Program Multiple Locations",
-   "2027 Investment Banking Summer Analyst Diversified Industrials McLean, VA",
-   "2027 Spring Associate - Paralegal/Legal Assistant - St. Petersburg, FL"
+   "2027 Spring Associate - Paralegal/Legal Assistant - St. Petersburg, FL",
+   "2027 Investment Banking Analyst I Health Care New York, NY"
   ]
  },
  {
   "firm": "RBC Capital Markets",
   "id": "rbc-capital-markets",
   "readable": true,
-  "postings_read": 288,
-  "matches": 14,
+  "postings_read": 248,
+  "matches": 10,
   "sources": [
    {
     "kind": "site",
@@ -6778,10 +6425,10 @@
    },
    {
     "kind": "site",
-    "key": "https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
-    "ok": true,
-    "count": 40,
-    "error": ""
+    "key": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000185170EXTERNALENCA/2027-Capital-Markets-Global-Investment-Banking-Analyst?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 410 Client Error: Gone for url: https://jobs.rbc.com/ca/en/job/RBCAA0088R0000185170EXTERNALENCA/2027-Capital-Markets-Global-Investment-Banking-Analyst?utm_sourc"
    },
    {
     "kind": "site",
@@ -6793,8 +6440,8 @@
   ],
   "sample_matches": [
    "d\u00e9veloppeur, RBC amplifie 2027, Montr\u00e9al / Developer, RBC Amplify 2027, Montreal",
-   "Developer, RBC Amplify 2027, Toronto",
    "Developer, RBC Amplify 2027, Vancouver",
+   "Developer, RBC Amplify 2027, Toronto",
    "Developer, RBC Amplify 2027, Calgary",
    "Developer, RBC Amplify 2027, Toronto"
   ]
@@ -6821,7 +6468,7 @@
   "id": "readystate",
   "readable": true,
   "postings_read": 1,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -6831,16 +6478,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Investment Intern (Summer 2027 & 2028)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Regions Bank",
   "id": "regions-bank",
   "readable": true,
   "postings_read": 21,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -6857,27 +6502,25 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 BlackArch Investment Banking Summer Analyst/ Associate"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Renaissance Strategic Advisors",
   "id": "renaissance-strategic-advisors",
   "readable": true,
   "postings_read": 141,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
-    "key": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/3bbf21b0-8121-45b5-a663-9f88710d2f78?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/243e29ea-62c3-4e3f-93be-e1d2fd37c0ed?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 18,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/243e29ea-62c3-4e3f-93be-e1d2fd37c0ed?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/3bbf21b0-8121-45b5-a663-9f88710d2f78?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 18,
     "error": ""
@@ -6891,8 +6534,6 @@
    }
   ],
   "sample_matches": [
-   "2027 Strategy Consulting Associate or Senior Associate",
-   "2027 Strategy Consulting, Associate or Senior Associate Arrow icon Arrow icon",
    "2026 - 2027 Strategy Consulting Analyst [London] Arrow icon Arrow icon"
   ]
  },
@@ -6942,7 +6583,7 @@
   "id": "rothesay",
   "readable": true,
   "postings_read": 6,
-  "matches": 6,
+  "matches": 4,
   "sources": [
    {
     "kind": "greenhouse",
@@ -6956,8 +6597,7 @@
    "2027 Graduate Programme - Financial Reporting",
    "2027 Graduate Programme - Macro Risk",
    "2027 Graduate Programme - Operations",
-   "2027 Graduate Programme - Operations - Asset Operations",
-   "2027 Summer Internship Programme - Quantitative Strategist"
+   "2027 Graduate Programme - Operations - Asset Operations"
   ]
  },
  {
@@ -6965,7 +6605,7 @@
   "id": "rothschild-co",
   "readable": true,
   "postings_read": 18,
-  "matches": 18,
+  "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
@@ -6976,11 +6616,8 @@
    }
   ],
   "sample_matches": [
-   "Stage \u2013 Business Development \u2013 Transaction R&Co \u2013 Janvier 2027",
    "Paris - Rothschild & Co Sovereign Advisory \u2013 Investment Banking Graduate positions \u2013 2027",
-   "Stage \u2013 Transaction R & Co - Global Advisory \u2013 Janvier/Mars 2027",
-   "Long Term Internship \u2013 Sovereign Advisory \u2013 Janvier/Mars 2027",
-   "Long Term Internship - Global Advisory FIG - Janvier 2027"
+   "Paris - Rothschild & Co Global Advisory \u2013 Investment Banking Graduate positions 2027"
   ]
  },
  {
@@ -7012,7 +6649,7 @@
   "id": "rwe",
   "readable": true,
   "postings_read": 363,
-  "matches": 19,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -7029,20 +6666,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Ausbildung zum Fachinformatiker 2027 d/w/m",
-   "Duales Studium Bachelor of Arts in BWL - Energie- und Wassermanagement 2027",
-   "Duales Studium Bachelor of Science in Wirtschaftsinformatik 2027",
-   "Duales Studium Bachelor of Science in Angewandter Mathematik & Informatik 2027",
-   "Ausbildung Kaufmann f\u00fcr B\u00fcromanagement 2027 d/w/m"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Rystad Energy",
   "id": "rystad-energy",
   "readable": true,
   "postings_read": 2,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workable",
@@ -7052,9 +6683,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Commercial Intern - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Sands Capital",
@@ -7078,7 +6707,7 @@
   "id": "santander",
   "readable": true,
   "postings_read": 79,
-  "matches": 3,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -7088,11 +6717,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Investment Banking Summer Associate Program - New York",
-   "2027 Investment Banking Summer Associate Program - San Francisco",
-   "2027 Investment Banking Summer Associate Program - Los Angeles"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "SBF Advisors",
@@ -7139,21 +6764,21 @@
   "firm": "Scotiabank",
   "id": "scotiabank",
   "readable": true,
-  "postings_read": 290,
-  "matches": 23,
+  "postings_read": 269,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Mergers-&-Acquisitions-Investment-Banking-Analyst-NYC-NY-10001/606607417/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Infrastructure-&-Project-Finance-Investment-Banking-Analyst-NYC-NY-10001/606607817/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 79,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://jobs.scotiabank.com/search/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&createNewAlert=false&q=%22summer+analyst%22",
+    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Leveraged-Finance-Investment-Banking-Analyst-NYC-NY-10001/606628817/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 100,
+    "count": 79,
     "error": ""
    },
    {
@@ -7164,13 +6789,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 UK Technology Summer Internship",
-   "2027 UK Finance Summer Internship",
-   "2027 UK Business Risk Management Summer Internship",
-   "2027 UK Treasury Summer Internship",
-   "2027 UK Global Wholesale Operations Summer Internship"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Sculptor Capital Management",
@@ -7228,7 +6847,7 @@
   "id": "shell",
   "readable": true,
   "postings_read": 68,
-  "matches": 19,
+  "matches": 10,
   "sources": [
    {
     "kind": "workday",
@@ -7398,7 +7017,7 @@
   "id": "southstate-bank",
   "readable": true,
   "postings_read": 42,
-  "matches": 19,
+  "matches": 4,
   "sources": [
    {
     "kind": "workday",
@@ -7411,9 +7030,8 @@
   "sample_matches": [
    "Commercial Banking Associate - Houston January Cohort 2027",
    "Commercial Banking Associate - Orlando FL January Cohort 2027",
-   "Summer 2027 Commercial Banking Intern Charleston, SC",
-   "Summer 2027 Commercial Banking Intern Greenville, SC",
-   "Summer 2027 Commercial Banking Intern Raleigh, NC"
+   "Commercial Banking Associate- Charleston, SC July 2027 Cohort",
+   "Commercial Banking Associate - Tampa FL January Cohort 2027"
   ]
  },
  {
@@ -7495,7 +7113,7 @@
   "id": "starwood-capital-group",
   "readable": true,
   "postings_read": 139,
-  "matches": 5,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -7512,13 +7130,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Fund Accounting Summer Intern",
-   "2027 Management Company Accounting Summer Intern",
-   "2027 Agentic Engineering Intern",
-   "2027 Data Summer Intern",
-   "2027 Information Technology Summer Intern"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "State Farm",
@@ -7549,7 +7161,7 @@
   "id": "state-street",
   "readable": true,
   "postings_read": 104,
-  "matches": 10,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -7560,11 +7172,8 @@
    }
   ],
   "sample_matches": [
-   "Global Delivery Intern - 2027",
-   "Global Technology Services Intern - 2027",
    "Cyber Security Early Career Entry Program 2027",
-   "State Street Investment Management - US Wealth - 2027 Summer Internship",
-   "State Street Investment Management - Credit Research - 2027 Summer Internship"
+   "Software Engineer (Cyber Security) Early Career Entry Program 2027"
   ]
  },
  {
@@ -7589,7 +7198,7 @@
   "id": "stephens",
   "readable": true,
   "postings_read": 20,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "ukg",
@@ -7599,9 +7208,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Stephens Insurance Summer Intern"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "StepStone Group",
@@ -7612,14 +7219,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872889&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&gh_src=Trackr",
+    "key": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=8112319&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 433,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=8112319&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
+    "key": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872889&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 433,
     "error": ""
@@ -7642,7 +7249,7 @@
   "id": "stifel",
   "readable": true,
   "postings_read": 82,
-  "matches": 3,
+  "matches": 0,
   "sources": [
    {
     "kind": "icims",
@@ -7652,11 +7259,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Stifel Capital Structure Advisory MBA Summer Associate \u2013 New York",
-   "Venture Banking Credit Analyst (Summer 2027 Start)",
-   "Venture Banking Credit Analyst (Summer 2027 Start)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Stone Point Capital",
@@ -7680,7 +7283,7 @@
   "id": "stout",
   "readable": true,
   "postings_read": 4,
-  "matches": 3,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -7690,11 +7293,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer 2027 Intern - Disputes, Claims & Investigations: Cleveland, OH",
-   "Summer 2027 Intern - Disputes, Claims & Investigations: San Diego",
-   "Summer 2027 Intern - Disputes, Claims & Investigations: Washington, DC"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Strategic Investment Group",
@@ -7780,17 +7379,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.sig.com/search-results?keywords=Summer+2027&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
-    "ok": false,
-    "count": 0,
-    "error": "TooManyRedirects: Exceeded 30 redirects."
-   },
-   {
-    "kind": "site",
     "key": "https://careers.sig.com/recent-graduate/jobs?locations=Bala+Cynwyd+%28Philadelphia+Area%29%2CPennsylvania%2CUnited+States%7CNew+York%2CNew+York%2CUnited+States&page=1&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 30,
     "error": ""
+   },
+   {
+    "kind": "site",
+    "key": "https://careers.sig.com/search-results?keywords=Summer+2027&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "TooManyRedirects: Exceeded 30 redirects."
    },
    {
     "kind": "site",
@@ -7918,7 +7517,7 @@
   "id": "td-securities",
   "readable": true,
   "postings_read": 90,
-  "matches": 15,
+  "matches": 5,
   "sources": [
    {
     "kind": "workday",
@@ -7930,10 +7529,10 @@
   ],
   "sample_matches": [
    "2027 Technology Graduate Programme",
-   "2027 Summer Internship - Technology",
    "2027 Technology Graduate Programme",
-   "2027 Summer Internship - Technology",
-   "2027 Summer Internship Graduate Leadership Program- Marketing"
+   "2027 Technology Graduate Programme - AI-Native Data Platform Engineering",
+   "2027 Industrial Placement Global Transaction Banking - Corporate Sales (12 Month Placement)",
+   "Personal Banking Associate (Future opportunities) - Montreal East (full-time)"
   ]
  },
  {
@@ -7967,7 +7566,7 @@
   "id": "texas-capital-bank",
   "readable": true,
   "postings_read": 1,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -7977,16 +7576,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Summer Analyst (Internship)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "The Brattle Group",
   "id": "the-brattle-group",
   "readable": true,
   "postings_read": 44,
-  "matches": 23,
+  "matches": 16,
   "sources": [
    {
     "kind": "greenhouse",
@@ -8074,7 +7671,7 @@
   "id": "tiaa",
   "readable": true,
   "postings_read": 51,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -8084,9 +7681,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Early Talent Internship: Internal Audit"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Tidal Partners",
@@ -8110,7 +7705,7 @@
   "id": "tower-research-capital",
   "readable": true,
   "postings_read": 91,
-  "matches": 6,
+  "matches": 2,
   "sources": [
    {
     "kind": "greenhouse",
@@ -8121,11 +7716,8 @@
    }
   ],
   "sample_matches": [
-   "Quantitative Developer Intern - Summer 2027",
    "Quantitative Trader/Researcher - 2027",
-   "Quantitative Trader/Researcher Graduate Programme 2027",
-   "Quantitative Trader/Researcher Intern - Summer 2027",
-   "Quantitative Trader/Researcher Summer Internship 2027"
+   "Quantitative Trader/Researcher Graduate Programme 2027"
   ]
  },
  {
@@ -8150,7 +7742,7 @@
   "id": "trillium-trading",
   "readable": true,
   "postings_read": 10,
-  "matches": 6,
+  "matches": 3,
   "sources": [
    {
     "kind": "greenhouse",
@@ -8163,9 +7755,7 @@
   "sample_matches": [
    "Fall 2027 Discretionary Trader",
    "Fall 2027 Discretionary Trader",
-   "Fall 2027 Discretionary Trader",
-   "Summer 2027 Discretionary Trading Internship",
-   "Summer 2027 Discretionary Trading Internship"
+   "Fall 2027 Discretionary Trader"
   ]
  },
  {
@@ -8173,15 +7763,8 @@
   "id": "truist",
   "readable": true,
   "postings_read": 46,
-  "matches": 3,
+  "matches": 0,
   "sources": [
-   {
-    "kind": "site",
-    "key": "https://careers.truist.com/us/en/job/R0121314/2028-Truist-Securities-Energy-Oil-Gas-Investment-Banking-Summer-Analyst-Program-Houston-TX?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 410 Client Error: Gone for url: https://careers.truist.com/us/en/job/R0121314/2028-Truist-Securities-Energy-Oil-Gas-Investment-Banking-Summer-Analyst-Program-Ho"
-   },
    {
     "kind": "site",
     "key": "https://careers.truist.com/us/en/search-results?keywords=%22summer+analyst+program%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
@@ -8191,24 +7774,27 @@
    },
    {
     "kind": "site",
+    "key": "https://careers.truist.com/us/en/job/R0118959?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 410 Client Error: Gone for url: https://careers.truist.com/us/en/job/R0118959?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027"
+   },
+   {
+    "kind": "site",
     "key": "https://careers.truist.com/us/en?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
     "ok": true,
     "count": 23,
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Enterprise Payments Summer Intern",
-   "2027 Wholesale Client Coverage & Credit Summer Intern (Internship)",
-   "2027 Truist Securities - Investment Banking - Summer Associate Program (MBA Internship)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Tudor Group",
   "id": "tudor-group",
   "readable": true,
   "postings_read": 5,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -8218,9 +7804,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Summer Internship 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Turn/River Capital",
@@ -8232,16 +7816,16 @@
    {
     "kind": "site",
     "key": "https://turnriver.com/careers/openings/?ashby_jid=23f04521-5b4b-418a-85ac-547116a4ef56&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "HTTPError: 520 Server Error: <none> for url: https://turnriver.com/careers/openings/?ashby_jid=23f04521-5b4b-418a-85ac-547116a4ef56&utm_source=Trackr&utm_medium=tracker&ut"
    },
    {
     "kind": "site",
     "key": "https://turnriver.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "HTTPError: 520 Server Error: <none> for url: https://turnriver.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers"
    }
   ],
   "sample_matches": []
@@ -8268,7 +7852,7 @@
   "id": "u-s-bank",
   "readable": true,
   "postings_read": 72,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -8278,9 +7862,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Payment Sales Intern"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "UBS",
@@ -8311,7 +7893,7 @@
   "id": "uline",
   "readable": true,
   "postings_read": 77,
-  "matches": 41,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -8321,20 +7903,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "UX Design Internship - Summer 2027",
-   "Supply Chain Internship - Summer 2027",
-   "Logistics Analyst Internship - Summer 2027",
-   "French Translation Internship / Co-op - Summer 2027",
-   "Marketing Internship - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Union Square Advisors",
   "id": "union-square-advisors",
   "readable": true,
   "postings_read": 39,
-  "matches": 3,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -8351,11 +7927,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Enterprise Payments Summer Intern",
-   "2027 Wholesale Client Coverage & Credit Summer Intern (Internship)",
-   "2027 Truist Securities - Investment Banking - Summer Associate Program (MBA Internship)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "University Partners",
@@ -8379,7 +7951,7 @@
   "id": "uvimco",
   "readable": true,
   "postings_read": 1,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -8389,16 +7961,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Investment Analyst - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Vanguard",
   "id": "vanguard",
   "readable": true,
   "postings_read": 74,
-  "matches": 4,
+  "matches": 3,
   "sources": [
    {
     "kind": "workday",
@@ -8411,8 +7981,7 @@
   "sample_matches": [
    "Entry Level Application Engineer - 2027 Start Date",
    "Entry Level Application Engineer - 2027 Start Date - Malvern",
-   "Entry Level Application Engineer - Dallas - 2027 Start Date",
-   "2027 Spring/Summer Co-op Opportunities - Malvern/Philly"
+   "Entry Level Application Engineer - Dallas - 2027 Start Date"
   ]
  },
  {
@@ -8478,7 +8047,7 @@
   "id": "virtu-financial",
   "readable": true,
   "postings_read": 47,
-  "matches": 15,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -8488,13 +8057,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Internship \u2013 Core Operations Engineer",
-   "2027 Internship - FPGA Engineer",
-   "2027 Internship - Frontend Engineer (UI)",
-   "2027 Internship- Hardware Engineer (FPGA)",
-   "2027 Internship - Quantitative Researcher (Master or PhD)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Vista Equity Partners",
@@ -8532,7 +8095,7 @@
   "id": "voloridge-investment-management",
   "readable": true,
   "postings_read": 77,
-  "matches": 4,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
@@ -8550,10 +8113,7 @@
    }
   ],
   "sample_matches": [
-   "Quantitative Developer Intern 2027",
-   "Quantitative Research Fellowship 2027",
-   "Quantitative Research Intern 2027",
-   "Quantitative Trading Intern 2027"
+   "Quantitative Research Fellowship 2027"
   ]
  },
  {
@@ -8561,7 +8121,7 @@
   "id": "walleye-capital",
   "readable": true,
   "postings_read": 1,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -8571,9 +8131,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Equity Volatility Quant Researcher Intern (Summer 2027)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Warburg Pincus",
@@ -8681,7 +8239,7 @@
   "id": "wells-fargo",
   "readable": true,
   "postings_read": 192,
-  "matches": 4,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -8698,12 +8256,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Technology Summer Internship - Early Careers (Cybersecurity)",
-   "2027 Investment Banking Summer Associate Program - Early Careers",
-   "2027 Technology Summer Internship \u2013 Early Careers (Data Engineering)",
-   "2027 Investment Banking Summer Associate Program (CA) - Early Careers"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Wesleyan University",
@@ -8727,7 +8280,7 @@
   "id": "william-blair",
   "readable": true,
   "postings_read": 50,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -8738,9 +8291,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Investment Banking Full-Time MBA Associate",
-   "Working in Technology (WiT) - Agentic AI Development - Summer 2027",
-   "Working in Technology (WiT) - Agentic AI Development- Summer 2027"
+   "2027 Investment Banking Full-Time MBA Associate"
   ]
  },
  {
@@ -8791,7 +8342,7 @@
   "id": "withum",
   "readable": true,
   "postings_read": 16,
-  "matches": 12,
+  "matches": 4,
   "sources": [
    {
     "kind": "workday",
@@ -8802,11 +8353,10 @@
    }
   ],
   "sample_matches": [
-   "Tax Summer Internship 2027",
-   "Audit Summer Internship 2027",
-   "Tax Spring Internship 2027",
-   "Audit Spring Internship 2027",
-   "Valuation Consulting Summer Internship 2027"
+   "Tour de Withum Leadership Program 2027",
+   "Outsourced Accounting Entry Level Analyst 2027",
+   "Audit Entry Level Accountant 2027",
+   "Tax Entry Level Accountant 2027"
   ]
  },
  {
