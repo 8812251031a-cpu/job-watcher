@@ -165,17 +165,17 @@
    },
    {
     "kind": "paylocity",
-    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798",
-    "ok": false,
-    "count": 0,
-    "error": "RuntimeError: Paylocity page data not found"
-   },
-   {
-    "kind": "paylocity",
     "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4479180",
     "ok": true,
     "count": 0,
     "error": ""
+   },
+   {
+    "kind": "paylocity",
+    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798",
+    "ok": false,
+    "count": 0,
+    "error": "RuntimeError: Paylocity page data not found"
    }
   ],
   "sample_matches": []
@@ -241,7 +241,7 @@
   "id": "agentis-capital",
   "readable": true,
   "postings_read": 27,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "ashby",
@@ -251,9 +251,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Investment Banking Analyst - Infrastructure M&A Advisory - 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "AgWest Farm Credit",
@@ -418,14 +416,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941982101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
+    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941816101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 154,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941816101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
+    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941982101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 154,
     "error": ""
@@ -582,7 +580,7 @@
   "id": "appian",
   "readable": true,
   "postings_read": 155,
-  "matches": 7,
+  "matches": 4,
   "sources": [
    {
     "kind": "greenhouse",
@@ -595,9 +593,8 @@
   "sample_matches": [
    "Associate Application Engineer (2027 Graduates)",
    "Associate Consultant (2027 Graduates)",
-   "Associate Consultant (2027 Graduates)",
-   "Associate Consultant (2027 Graduates)",
-   "Associate Consultant (2027 Graduates)"
+   "Associate Consultant (2027 Graduates, Top Secret Clearance)",
+   "Associate Solutions Consultant (2027 Graduates)"
   ]
  },
  {
@@ -605,7 +602,7 @@
   "id": "apple",
   "readable": true,
   "postings_read": 601,
-  "matches": 6,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -622,13 +619,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Operations Support, Wallet Services - Cork Graduate Programme 2027",
-   "Partner Support, Apple Media Product (AMP) - Cork Graduate Programme 2027",
-   "Operations Support, Wallet Services - Cork Graduate Programme 2027",
-   "Share Operations Support, Wallet Services - Cork Graduate Programme 2027 200689467-1418",
-   "Partner Support, Apple Media Product (AMP) - Cork Graduate Programme 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "AQ Technology Partners",
@@ -705,7 +696,7 @@
   "id": "ardian",
   "readable": true,
   "postings_read": 51,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -715,9 +706,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Risk Analyst (H/F) - Janvier 2027 | Paris"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Ares Management",
@@ -939,14 +928,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Grad-Program--2027-Graduates-_REQ8261&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Associate-Summer-Intern-Program--Summer-2027-Internship--_REQ7745&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 2,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Associate-Summer-Intern-Program--Summer-2027-Internship--_REQ7745&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Grad-Program--2027-Graduates-_REQ8261&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 2,
     "error": ""
@@ -966,7 +955,7 @@
   "id": "bank-of-america",
   "readable": true,
   "postings_read": 38,
-  "matches": 5,
+  "matches": 1,
   "sources": [
    {
     "kind": "oleeo",
@@ -977,11 +966,7 @@
    }
   ],
   "sample_matches": [
-   "Global Markets Fixed Income, Currencies & Commodities Sales Full Time Analyst - 2027 - Tokyo",
-   "2027 Global Markets Military and Athlete Programme",
-   "Investment Banking 2027 Full-time Analyst - Paris",
-   "Global Corporate Banking 2027, Full-time Analyst - Paris",
-   "Investment Banking 2027 Full-time Analyst - Frankfurt"
+   "2027 Global Markets Military and Athlete Programme"
   ]
  },
  {
@@ -989,7 +974,7 @@
   "id": "barclays",
   "readable": true,
   "postings_read": 119,
-  "matches": 22,
+  "matches": 9,
   "sources": [
    {
     "kind": "workday",
@@ -1001,10 +986,10 @@
   ],
   "sample_matches": [
    "Workday Specialist (HCM Consultant) AVP - FTC until the end of December 2027",
-   "2027 Technology Developer Graduate Programme Northampton",
    "2027 Technology Developer Graduate Programme Knutsford",
-   "2027 Technology Developer Graduate Programme Glasgow",
-   "2027 Human Resources Analyst Graduate Programme London"
+   "S&T - Prime Sales Analyst Graduate Program 2027 New York",
+   "Private Bank and Wealth Management Graduate Programme 2027 Jersey",
+   "Private Bank and Wealth Management Graduate Programme 2027 Monaco"
   ]
  },
  {
@@ -1012,7 +997,7 @@
   "id": "barings",
   "readable": true,
   "postings_read": 31,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -1022,9 +1007,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Analyst Programme - Capital Solutions"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Bates White",
@@ -1072,15 +1055,8 @@
   "id": "bcg",
   "readable": true,
   "postings_read": 60,
-  "matches": 8,
+  "matches": 0,
   "sources": [
-   {
-    "kind": "site",
-    "key": "https://careers.bcg.com/global/en/on-campus/united-states-associate-job-opportunities?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
-    "ok": true,
-    "count": 30,
-    "error": ""
-   },
    {
     "kind": "site",
     "key": "https://careers.bcg.com/global/en/job/57657/Associate-Internship-US-Offices-US-Campus?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
@@ -1090,19 +1066,20 @@
    },
    {
     "kind": "site",
+    "key": "https://careers.bcg.com/global/en/on-campus/united-states-associate-job-opportunities?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "ok": true,
+    "count": 30,
+    "error": ""
+   },
+   {
+    "kind": "site",
     "key": "https://careers.bcg.com/global/en/early-careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
     "ok": true,
     "count": 30,
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Associate, Malaysia (2027)",
-   "Consultant, Malaysia (2027)",
-   "Associate, Indonesia (2027)",
-   "Consultant, Philippines, 2027",
-   "Associate, Philippines 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "BDO Global",
@@ -1113,14 +1090,14 @@
   "sources": [
    {
     "kind": "oracle",
-    "key": "ebqb.fa.us2.oraclecloud.com|BDOEntryLevelCareers",
+    "key": "ebqb.fa.us2.oraclecloud.com|CX_1001",
     "ok": true,
     "count": 102,
     "error": ""
    },
    {
     "kind": "oracle",
-    "key": "ebqb.fa.us2.oraclecloud.com|CX_1001",
+    "key": "ebqb.fa.us2.oraclecloud.com|BDOEntryLevelCareers",
     "ok": true,
     "count": 102,
     "error": ""
@@ -1288,7 +1265,7 @@
   "id": "blackrock",
   "readable": true,
   "postings_read": 11,
-  "matches": 3,
+  "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
@@ -1299,7 +1276,6 @@
    }
   ],
   "sample_matches": [
-   "Analyst Program",
    "Analyst Program",
    "Analyst Program"
   ]
@@ -1366,21 +1342,21 @@
   "firm": "BNP Paribas",
   "id": "bnp-paribas",
   "readable": true,
-  "postings_read": 195,
+  "postings_read": 202,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114296&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124465&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114279&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124448&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
-    "count": 75,
+    "count": 83,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114293&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124462&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114263&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124440&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
-    "count": 76,
+    "count": 75,
     "error": ""
    },
    {
@@ -1398,7 +1374,7 @@
   "id": "bny-mellon",
   "readable": true,
   "postings_read": 200,
-  "matches": 33,
+  "matches": 17,
   "sources": [
    {
     "kind": "oracle",
@@ -1409,11 +1385,11 @@
    }
   ],
   "sample_matches": [
-   "2027 BNY Analyst Program - Product Management - Dublin",
-   "2027 BNY Analyst Program - Credit and Lending - Dublin",
-   "2027 BNY Analyst Program - Client Coverage - Luxembourg - Start Date: February 2027",
-   "2027 BNY Analyst Program - Trade Execution (London)",
-   "2027 BNY Analyst Program \u2013 Product Management (Manchester)"
+   "2027 BNY Analyst Program - Engineering (Developer) - Pittsburgh, PA",
+   "2027 BNY Analyst Program - Engineering (Developer) - New York, NY",
+   "2027 BNY Analyst Program - Risk and Compliance (Pittsburgh, PA)",
+   "2027 BNY Analyst Program - Risk and Compliance (Lake Mary, FL)",
+   "2027 BNY Analyst Program - Office of the CFO - Delivery"
   ]
  },
  {
@@ -1438,7 +1414,7 @@
   "id": "bp",
   "readable": true,
   "postings_read": 32,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -1448,9 +1424,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Future Talent Scholarship Programme (First Nations) - Australia"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Bracebridge Capital",
@@ -1478,14 +1452,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.brevanhoward.com/gb/en/job/JR101591/2027-Summer-Internship-Program-Systematic-Trading-New-York?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://careers.brevanhoward.com/gb/en/job/JR101583/2027-Summer-Internship-Program-Trading-New-York?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 30,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://careers.brevanhoward.com/gb/en/job/JR101594/2027-Summer-Internship-Program-Venture-Capital-New-York?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://careers.brevanhoward.com/gb/en/job/JR101591/2027-Summer-Internship-Program-Systematic-Trading-New-York?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 30,
     "error": ""
@@ -1809,7 +1783,7 @@
   "id": "capital-one",
   "readable": true,
   "postings_read": 69,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -1820,9 +1794,7 @@
    }
   ],
   "sample_matches": [
-   "Associate, Strategy Analyst - New Grad 2027",
-   "Investment Banking Analyst - TripleTree - 2027",
-   "Technology Development Program Associate - Mexico - 2027"
+   "Investment Banking Analyst - TripleTree - 2027"
   ]
  },
  {
@@ -2109,7 +2081,7 @@
   "id": "charles-river-associates",
   "readable": true,
   "postings_read": 92,
-  "matches": 8,
+  "matches": 4,
   "sources": [
    {
     "kind": "greenhouse",
@@ -2120,11 +2092,10 @@
    }
   ],
   "sample_matches": [
-   "[2027 Bachelor's graduates] Analyst (European Competition practice)",
    "(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate",
    "(2027 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate",
-   "(2027 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate",
-   "(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate"
+   "(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate",
+   "(2027 Bachelor's/Master's graduates) Management Advisory Analyst/Associate"
   ]
  },
  {
@@ -2254,10 +2225,10 @@
    },
    {
     "kind": "site",
-    "key": "https://www.citadel.com/careers/open-opportunities?experience-filter=new-graduates&sections-filter=investing%2Cquantitative-research&location-filter=americas%2Cchicago%2Cgreenwich%2Chouston%2Cmiami%2Cnew-york&selected-job-sections=388%2C389%2C387%2C390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": false,
     "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/careers/open-opportunities?experience-filter=new-graduates&sections-filter=investing%2Cquantitative"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/?utm_source=Trackr&utm_me"
    },
    {
     "kind": "site",
@@ -2274,7 +2245,7 @@
   "id": "citi",
   "readable": true,
   "postings_read": 109,
-  "matches": 45,
+  "matches": 10,
   "sources": [
    {
     "kind": "workday",
@@ -2285,11 +2256,11 @@
    }
   ],
   "sample_matches": [
-   "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
-   "Technology - Application Development, Placement Analyst, Belfast 2027",
-   "Investment Banking, Placement Analyst, Dubai, UAE 2027",
-   "Technology-Infrastructure, Full Time Analyst, Philippines 2027",
-   "Technology - Infrastructure, Full Time Analyst, Warsaw 2027"
+   "Technology- Cyber Security, Full Time Analyst, Irving 2027",
+   "Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027",
+   "Functions - Internal Audit, Full-Time Analyst, Dallas - USA, 2027",
+   "Functions - Internal Audit, Full-Time Analyst, Tampa - USA, 2027",
+   "Technology, Application Development, Full Time Analyst, Tampa - USA, 2027"
   ]
  },
  {
@@ -2595,7 +2566,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2027-5709?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&source=Trackr",
+    "key": "https://www.deshaw.com/careers/d-e-shaw-investment-management-desim-intern-new-york-summer-2027-5732?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 0,
     "error": ""
@@ -2684,16 +2655,16 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.db.com/students-graduates/Search-Programmes/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 152,
+    "count": 5,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://careers.db.com/students-graduates/Search-Programmes/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
-    "count": 5,
+    "count": 152,
     "error": ""
    },
    {
@@ -2758,21 +2729,21 @@
   "firm": "DRW",
   "id": "drw",
   "readable": true,
-  "postings_read": 87,
-  "matches": 0,
+  "postings_read": 90,
+  "matches": 1,
   "sources": [
-   {
-    "kind": "site",
-    "key": "https://grnh.se/evf0vgud1us",
-    "ok": true,
-    "count": 19,
-    "error": ""
-   },
    {
     "kind": "site",
     "key": "https://grnh.se/uw8za45s1us",
     "ok": true,
     "count": 17,
+    "error": ""
+   },
+   {
+    "kind": "site",
+    "key": "https://grnh.se/ugyg2tee1us",
+    "ok": true,
+    "count": 22,
     "error": ""
    },
    {
@@ -2783,7 +2754,9 @@
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Bachelor\u2019s degree in finance, business administration, economics, accounting, or liberal arts graduating between December 2027 and June 2028"
+  ]
  },
  {
   "firm": "Ducera Partners",
@@ -2847,7 +2820,7 @@
   "id": "elixirr",
   "readable": true,
   "postings_read": 16,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -2857,9 +2830,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Graduate Analyst"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Ensis Partners",
@@ -2914,7 +2885,7 @@
   "id": "equinor",
   "readable": true,
   "postings_read": 18,
-  "matches": 8,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -2924,13 +2895,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "North Development Program 2027 - Engineer Drilling & Well Operations",
-   "North Development Program 2027 - Engineer Mechanical Technology",
-   "North Development Program 2027 - Engineer Electrical Technology",
-   "North Development Program 2027 - Engineer Subsea Technology",
-   "North Development Program 2027 - Engineer Technical Safety, Process Technology / Automation"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Equiteq",
@@ -2978,7 +2943,7 @@
   "id": "evercore",
   "readable": true,
   "postings_read": 132,
-  "matches": 8,
+  "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
@@ -2996,11 +2961,8 @@
    }
   ],
   "sample_matches": [
-   "2027 Graduate Programme - Real Estate Strategic Advisory (RESA), Frankfurt",
-   "2027 Graduate Analyst, Communications & Digital Infrastructure Team, Paris, EMEA",
-   "2027 Graduate Programme, Generalist Advisory, Frankfurt",
    "2027 Strategic Advisory: Mergers & Acquisitions Full Time Associate Program: Consumer & Retail Advisory - New York, NY",
-   "2027 Graduate Programme - Real Estate Strategic Advisory (RESA), Frankfurt"
+   "2027 Strategic Advisory: Mergers & Acquisitions Full Time Associate Program: Consumer & Retail Advisory - New York, NY"
   ]
  },
  {
@@ -3145,7 +3107,7 @@
   "id": "five-rings",
   "readable": true,
   "postings_read": 17,
-  "matches": 7,
+  "matches": 4,
   "sources": [
    {
     "kind": "greenhouse",
@@ -3157,10 +3119,9 @@
   ],
   "sample_matches": [
    "Campus Full Time 2027 - Quantitative Trader",
-   "Campus Full Time 2027 - Quantitative Trader - Amsterdam",
-   "Campus Full Time 2027 - Quantitative Trader - London",
    "Campus Full Time 2027 - Software Developer",
-   "Campus Full Time 2027 - Software Developer - London"
+   "Campus Full Time 2027 - Trading Operations Engineer",
+   "LINK 2027: Software Development Intensive Program"
   ]
  },
  {
@@ -3306,7 +3267,7 @@
   "id": "fti-consulting",
   "readable": true,
   "postings_read": 74,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -3317,9 +3278,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Graduate Scheme, Data, Tech & Transformation",
-   "2027 IMPACT Leadership Program",
-   "2027, Business Analyst - Graduate Program, Strategy & Transformation (Saudi Nationals Only)"
+   "2027 IMPACT Leadership Program"
   ]
  },
  {
@@ -3457,16 +3416,16 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://gic.careers/programmes/gic-professionals-programme/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://gic.careers/programmes/gic-internship-programme/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 130,
+    "count": 108,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://gic.careers/programmes/gic-internship-programme/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://gic.careers/programmes/gic-professionals-programme/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 108,
+    "count": 130,
     "error": ""
    },
    {
@@ -3939,7 +3898,7 @@
   "id": "houlihan-lokey",
   "readable": true,
   "postings_read": 39,
-  "matches": 5,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -3950,10 +3909,6 @@
    }
   ],
   "sample_matches": [
-   "2027 Graduate Financial Analyst - Corporate Finance (IT Services)",
-   "2027 Graduate Financial Analyst - Corporate Finance (Consumer Group)",
-   "2027 Graduate Financial Analyst - Corporate Finance (Industrials)",
-   "2027 Graduate Financial Analyst - Corporate Finance (Technology)",
    "Investment Banking Financial Analyst | Los Angeles, Consumer (Class of 2027)"
   ]
  },
@@ -4003,7 +3958,7 @@
   "id": "hudson-river-trading",
   "readable": true,
   "postings_read": 83,
-  "matches": 6,
+  "matches": 5,
   "sources": [
    {
     "kind": "greenhouse",
@@ -4017,8 +3972,8 @@
    "Algorithm Developer (Quant Research & Trading) \u2013 2027 Grads",
    "Algorithm Developer (Quant Research & Trading) \u2013 2027 PhDs",
    "Design Verification (DV) Engineer - 2027 Grads",
-   "Electronic Trading Support Engineer - 2026/2027 Grads",
-   "Hardware Design Engineer - 2027 Grads"
+   "Hardware Design Engineer - 2027 Grads",
+   "Software Engineer (C++ or Python) \u2013 2027 Grads"
   ]
  },
  {
@@ -4062,7 +4017,7 @@
   "id": "imc-trading",
   "readable": true,
   "postings_read": 162,
-  "matches": 4,
+  "matches": 3,
   "sources": [
    {
     "kind": "greenhouse",
@@ -4075,8 +4030,7 @@
   "sample_matches": [
    "2027 EU Campus Programme Talent Community",
    "2027 EU Chess Academy - Expression of Interest",
-   "2027 US Chess Academy Interest Form",
-   "Graduate Software Engineer (2027)"
+   "2027 US Chess Academy Interest Form"
   ]
  },
  {
@@ -4200,7 +4154,7 @@
   "id": "j-p-morgan",
   "readable": true,
   "postings_read": 172,
-  "matches": 16,
+  "matches": 10,
   "sources": [
    {
     "kind": "oracle",
@@ -4214,8 +4168,8 @@
    "2027 Global Private Bank Advisor Program (Full-time Associate) - US Private Bank",
    "2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (New York)",
    "2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (Dallas or Houston)",
-   "Software Engineer Program Early Careers - April 2027",
-   "2027 Global Finance & Business Management Analyst Program - Full Time Analyst Corporate Controllers Track (DE)"
+   "2027 Global Finance & Business Management Analyst Program - Full Time Analyst Corporate Controllers Track (DE)",
+   "2027 Global Private Bank Program \u2013 Full Time Analyst \u2013 Hong Kong"
   ]
  },
  {
@@ -4223,7 +4177,7 @@
   "id": "jane-street",
   "readable": true,
   "postings_read": 219,
-  "matches": 9,
+  "matches": 6,
   "sources": [
    {
     "kind": "janestreet",
@@ -4236,9 +4190,9 @@
   "sample_matches": [
    "Machine Learning Researcher (Full-Time: New Grad)",
    "Machine Learning Researcher (Full-Time: New Grad)",
-   "Machine Learning Researcher (Full-Time: New Grad)",
    "Quantitative Researcher (Full-Time: New Grad)",
-   "Quantitative Researcher (Full-Time: New Grad)"
+   "Quantitative Researcher (Full-Time: New Grad)",
+   "Quantitative Trader (Full-Time: New Grad)"
   ]
  },
  {
@@ -4246,7 +4200,7 @@
   "id": "jefferies",
   "readable": true,
   "postings_read": 50,
-  "matches": 2,
+  "matches": 1,
   "sources": [
    {
     "kind": "oleeo",
@@ -4257,7 +4211,6 @@
    }
   ],
   "sample_matches": [
-   "2027 Finance Controllers Analyst Programme - London",
    "2027 Investment Banking Analyst - Houston, Energy Group (February Start)"
   ]
  },
@@ -4290,7 +4243,7 @@
   "id": "jll",
   "readable": true,
   "postings_read": 100,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -4300,10 +4253,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Project Management Graduate - London (September 2027 Start)",
-   "Capital Markets Academy 2027 - Launch Your Real Estate Career"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "JMI Equity",
@@ -4331,14 +4281,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.johnsonlambert.com/open-positions/?search=%22intern+-+summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://www.johnsonlambert.com/open-positions/?search=%22summer+2028%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
     "count": 289,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.johnsonlambert.com/open-positions/?search=%22summer+2028%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://www.johnsonlambert.com/open-positions/?search=%22intern+-+summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 289,
     "error": ""
@@ -4358,7 +4308,7 @@
   "id": "jump-trading",
   "readable": true,
   "postings_read": 92,
-  "matches": 4,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -4369,10 +4319,7 @@
    }
   ],
   "sample_matches": [
-   "Campus Crypto Researcher (Full-Time)",
-   "Campus Quantitative Researcher (Full-Time)",
-   "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)",
-   "Campus Quantitative Trader (Full-Time)"
+   "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)"
   ]
  },
  {
@@ -4524,14 +4471,14 @@
   "firm": "KPMG",
   "id": "kpmg",
   "readable": true,
-  "postings_read": 653,
+  "postings_read": 655,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.kpmguscareers.com/job-search/?career-level-parents=Early+Career%7C&career-level=&location-filter=&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&keyword=2027+intern&location=&radius=50&spage=1",
+    "key": "https://www.kpmguscareers.com/job-search/?location-filter=&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&keyword=&location=&radius=50&career-level-parents=&career-level=Early+Career%7C&spage=1",
     "ok": true,
-    "count": 241,
+    "count": 243,
     "error": ""
    },
    {
@@ -4590,26 +4537,24 @@
   "id": "lazard",
   "readable": true,
   "postings_read": 135,
-  "matches": 1,
+  "matches": 0,
   "sources": [
-   {
-    "kind": "oracle",
-    "key": "icbpjb.fa.ocs.oraclecloud.com|LazardStudentCareers",
-    "ok": true,
-    "count": 135,
-    "error": ""
-   },
    {
     "kind": "oleeo",
     "key": "https://lazard-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
     "ok": false,
     "count": 0,
     "error": "RuntimeError: no Oleeo vacancies found"
+   },
+   {
+    "kind": "oracle",
+    "key": "icbpjb.fa.ocs.oraclecloud.com|LazardStudentCareers",
+    "ok": true,
+    "count": 135,
+    "error": ""
    }
   ],
-  "sample_matches": [
-   "2027-2028 London Financial Advisory Industrial Placement"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Lead Edge Capital",
@@ -4964,7 +4909,7 @@
   "id": "marshall-wace",
   "readable": true,
   "postings_read": 5,
-  "matches": 5,
+  "matches": 3,
   "sources": [
    {
     "kind": "greenhouse",
@@ -4977,9 +4922,7 @@
   "sample_matches": [
    "Quant Developer - Quant Associate Programme - 2027",
    "Quant Research - Quant Associate Programme - 2027",
-   "Software/Infrastructure Graduate - 2027 - Hong Kong",
-   "Software/Infrastructure Graduate - 2027 - London",
-   "Software/Infrastructure Graduate - 2027 - Singapore"
+   "Software/Infrastructure Graduate - 2027 - Hong Kong"
   ]
  },
  {
@@ -5107,14 +5050,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://campusjobs.mlp.com/careers?location=New+York%2C+New+York%2C+United+States+of+America&pid=755957819888&domain=mlp.com&sort_by=relevance&triggerGoButton=true&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://campusjobs.mlp.com/careers/job/755955763508?microsite=campus-site&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 4,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://campusjobs.mlp.com/careers/job/755955763508?microsite=campus-site&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://campusjobs.mlp.com/careers?location=New+York%2C+New+York%2C+United+States+of+America&pid=755957819888&domain=mlp.com&sort_by=relevance&triggerGoButton=true&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 4,
     "error": ""
@@ -5178,7 +5121,7 @@
   "id": "moelis-co",
   "readable": true,
   "postings_read": 56,
-  "matches": 3,
+  "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
@@ -5196,7 +5139,6 @@
    }
   ],
   "sample_matches": [
-   "2027 Analyst, Investment Banking \u2013 Frankfurt",
    "2027 Analyst, Investment Banking - Private Capital Advisory, Primary Fundraising - New York City",
    "2027 Analyst, Investment Banking \u2013 Hong Kong"
   ]
@@ -5264,7 +5206,7 @@
   "id": "morgan-stanley",
   "readable": true,
   "postings_read": 50,
-  "matches": 6,
+  "matches": 1,
   "sources": [
    {
     "kind": "oleeo",
@@ -5275,11 +5217,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Global Capital Markets Full-Time Analyst Program (Sydney)",
-   "2027 Operations Full-Time Analyst Program (Tokyo/Osaka)",
-   "2027 Step In, Step Up: Empowering Women - Career Pathways Programmme",
-   "2027 Institutional Equity Division Full-Time Analyst Program (Tokyo)",
-   "2027 Investment Banking Full-Time Analyst Programme (Frankfurt or Munich)"
+   "2027 Step In, Step Up: Empowering Women - Career Pathways Programmme"
   ]
  },
  {
@@ -5321,7 +5259,7 @@
   "id": "mufg",
   "readable": true,
   "postings_read": 97,
-  "matches": 12,
+  "matches": 6,
   "sources": [
    {
     "kind": "workday",
@@ -5342,8 +5280,8 @@
    "MUFG Analyst Programme 2027 \u2013 Corporate Functions",
    "MUFG Analyst Programme 2027 \u2013 Global Operations",
    "MUFG Analyst Programme 2027 \u2013 Global Corporate Banking",
-   "2027 MUFG UK Analyst Programme: Digital Transformation & Artificial Intelligence",
-   "2027 MUFG UK Analyst Programme:Global Markets - Markets Engineering"
+   "MUFG Analyst Programme 2027 \u2013 Corporate Functions",
+   "MUFG Analyst Programme 2027 \u2013 Global Operations"
   ]
  },
  {
@@ -5760,7 +5698,7 @@
   "id": "optiver",
   "readable": true,
   "postings_read": 155,
-  "matches": 14,
+  "matches": 5,
   "sources": [
    {
     "kind": "greenhouse",
@@ -5771,11 +5709,11 @@
    }
   ],
   "sample_matches": [
-   "Career Kickstarter - Trading 2027",
-   "Career Kickstarter: Women in Tech 2027",
-   "Expressions of Interest - Graduate Quantitative Researcher 2027",
-   "Expressions of Interest - Graduate Quantitative Trader 2027",
-   "Expressions of Interest - Graduate Software Developer 2027"
+   "Graduate Equity Analyst (2027 Start - Chicago)",
+   "Graduate FPGA Engineer (2027 Start - Chicago)",
+   "Graduate Quantitative Researcher, PhD (2027 Start)",
+   "Graduate Quantitative Researcher, PhD (2027 Start)",
+   "Graduate Quantitative Researcher, PhD (2027 Start)"
   ]
  },
  {
@@ -5898,16 +5836,16 @@
   "sources": [
    {
     "kind": "workday",
-    "key": "peak6group.wd1.myworkdayjobs.com|peak6group|CapMan",
+    "key": "peak6group.wd1.myworkdayjobs.com|peak6group|PEAK6",
     "ok": true,
-    "count": 7,
+    "count": 16,
     "error": ""
    },
    {
     "kind": "workday",
-    "key": "peak6group.wd1.myworkdayjobs.com|peak6group|PEAK6",
+    "key": "peak6group.wd1.myworkdayjobs.com|peak6group|CapMan",
     "ok": true,
-    "count": 16,
+    "count": 7,
     "error": ""
    }
   ],
@@ -6414,7 +6352,7 @@
   "id": "rbc-capital-markets",
   "readable": true,
   "postings_read": 248,
-  "matches": 10,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -6438,13 +6376,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "d\u00e9veloppeur, RBC amplifie 2027, Montr\u00e9al / Developer, RBC Amplify 2027, Montreal",
-   "Developer, RBC Amplify 2027, Vancouver",
-   "Developer, RBC Amplify 2027, Toronto",
-   "Developer, RBC Amplify 2027, Calgary",
-   "Developer, RBC Amplify 2027, Toronto"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "RDV Corporation",
@@ -6509,7 +6441,7 @@
   "id": "renaissance-strategic-advisors",
   "readable": true,
   "postings_read": 141,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -6533,9 +6465,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2026 - 2027 Strategy Consulting Analyst [London] Arrow icon Arrow icon"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Roark Capital Group",
@@ -6583,7 +6513,7 @@
   "id": "rothesay",
   "readable": true,
   "postings_read": 6,
-  "matches": 4,
+  "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
@@ -6593,19 +6523,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Graduate Programme - Financial Reporting",
-   "2027 Graduate Programme - Macro Risk",
-   "2027 Graduate Programme - Operations",
-   "2027 Graduate Programme - Operations - Asset Operations"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Rothschild & Co.",
   "id": "rothschild-co",
   "readable": true,
   "postings_read": 18,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
@@ -6615,10 +6540,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Paris - Rothschild & Co Sovereign Advisory \u2013 Investment Banking Graduate positions \u2013 2027",
-   "Paris - Rothschild & Co Global Advisory \u2013 Investment Banking Graduate positions 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "RSM US",
@@ -6769,7 +6691,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Infrastructure-&-Project-Finance-Investment-Banking-Analyst-NYC-NY-10001/606607817/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Mergers-&-Acquisitions-Investment-Banking-Analyst-NYC-NY-10001/606607417/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 79,
     "error": ""
@@ -6847,7 +6769,7 @@
   "id": "shell",
   "readable": true,
   "postings_read": 68,
-  "matches": 10,
+  "matches": 2,
   "sources": [
    {
     "kind": "workday",
@@ -6858,11 +6780,8 @@
    }
   ],
   "sample_matches": [
-   "Shell Graduate Programme 2027 - Singapore",
    "Shell Graduate Programme 2027 - China",
-   "Shell Graduate Programme 2027 - Germany",
-   "Shell Graduate Programme 2027 - Netherlands",
-   "Shell Graduate Program 2027 - Malaysia"
+   "Shell Graduate Program 2027 - United States"
   ]
  },
  {
@@ -7084,16 +7003,16 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.standardchartered.com/go/Early-careers-Jobs/9783557/?feedid=363857&markerViewed=&carouselIndex=&facetFilters=%7B%22cust_csb_employmentType%22%3A%5B%22Intern%22%5D%2C%22jobLocationCountry%22%3A%5B%22United+States%22%5D%7D&pageNumber=0&feedid=363857&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://jobs.standardchartered.com/job/Financial-Markets-Graduate-Programme-2027/61814-en_GB?feedid=363857&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 82,
+    "count": 106,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://jobs.standardchartered.com/job/Financial-Markets-Graduate-Programme-2027/61814-en_GB?feedid=363857&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://jobs.standardchartered.com/go/Early-careers-Jobs/9783557/?feedid=363857&markerViewed=&carouselIndex=&facetFilters=%7B%22cust_csb_employmentType%22%3A%5B%22Intern%22%5D%2C%22jobLocationCountry%22%3A%5B%22United+States%22%5D%7D&pageNumber=0&feedid=363857&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 106,
+    "count": 82,
     "error": ""
    },
    {
@@ -7161,7 +7080,7 @@
   "id": "state-street",
   "readable": true,
   "postings_read": 104,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -7171,10 +7090,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Cyber Security Early Career Entry Program 2027",
-   "Software Engineer (Cyber Security) Early Career Entry Program 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Stellex",
@@ -7219,14 +7135,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=8112319&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
+    "key": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872889&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 433,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872889&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&gh_src=Trackr",
+    "key": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=8112319&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 433,
     "error": ""
@@ -7379,17 +7295,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.sig.com/recent-graduate/jobs?locations=Bala+Cynwyd+%28Philadelphia+Area%29%2CPennsylvania%2CUnited+States%7CNew+York%2CNew+York%2CUnited+States&page=1&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
-    "ok": true,
-    "count": 30,
-    "error": ""
-   },
-   {
-    "kind": "site",
     "key": "https://careers.sig.com/search-results?keywords=Summer+2027&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "TooManyRedirects: Exceeded 30 redirects."
+   },
+   {
+    "kind": "site",
+    "key": "https://careers.sig.com/recent-graduate/jobs?locations=Bala+Cynwyd+%28Philadelphia+Area%29%2CPennsylvania%2CUnited+States%7CNew+York%2CNew+York%2CUnited+States&page=1&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "ok": true,
+    "count": 30,
+    "error": ""
    },
    {
     "kind": "site",
@@ -7517,7 +7433,7 @@
   "id": "td-securities",
   "readable": true,
   "postings_read": 90,
-  "matches": 5,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
@@ -7527,13 +7443,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Technology Graduate Programme",
-   "2027 Technology Graduate Programme",
-   "2027 Technology Graduate Programme - AI-Native Data Platform Engineering",
-   "2027 Industrial Placement Global Transaction Banking - Corporate Sales (12 Month Placement)",
-   "Personal Banking Associate (Future opportunities) - Montreal East (full-time)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Temasek",
@@ -7583,7 +7493,7 @@
   "id": "the-brattle-group",
   "readable": true,
   "postings_read": 44,
-  "matches": 16,
+  "matches": 12,
   "sources": [
    {
     "kind": "greenhouse",
@@ -7594,8 +7504,8 @@
    }
   ],
   "sample_matches": [
-   "2027 Research Analyst - Competition - London",
-   "2027 Research Analyst - International Arbitration - London",
+   "Associate, PhD - Economics Focus (2027)",
+   "Associate, PhD - Economics Focus (2027)",
    "Associate, PhD - Economics Focus (2027)",
    "Associate, PhD - Economics Focus (2027)",
    "Associate, PhD - Economics Focus (2027)"
@@ -7644,14 +7554,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.riversidecompany.com/jobs?job=8638432002&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://www.riversidecompany.com/jobs/?job=8099028002&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 120,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.riversidecompany.com/jobs/?job=8099028002&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://www.riversidecompany.com/jobs?job=8638432002&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
     "count": 120,
     "error": ""
@@ -7705,7 +7615,7 @@
   "id": "tower-research-capital",
   "readable": true,
   "postings_read": 91,
-  "matches": 2,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
@@ -7716,8 +7626,7 @@
    }
   ],
   "sample_matches": [
-   "Quantitative Trader/Researcher - 2027",
-   "Quantitative Trader/Researcher Graduate Programme 2027"
+   "Quantitative Trader/Researcher - 2027"
   ]
  },
  {
@@ -7762,22 +7671,22 @@
   "firm": "Truist",
   "id": "truist",
   "readable": true,
-  "postings_read": 46,
+  "postings_read": 23,
   "matches": 0,
   "sources": [
-   {
-    "kind": "site",
-    "key": "https://careers.truist.com/us/en/search-results?keywords=%22summer+analyst+program%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
-    "ok": true,
-    "count": 23,
-    "error": ""
-   },
    {
     "kind": "site",
     "key": "https://careers.truist.com/us/en/job/R0118959?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 410 Client Error: Gone for url: https://careers.truist.com/us/en/job/R0118959?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027"
+   },
+   {
+    "kind": "site",
+    "key": "https://careers.truist.com/us/en/job/R0121314/2028-Truist-Securities-Energy-Oil-Gas-Investment-Banking-Summer-Analyst-Program-Houston-TX?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 410 Client Error: Gone for url: https://careers.truist.com/us/en/job/R0121314/2028-Truist-Securities-Energy-Oil-Gas-Investment-Banking-Summer-Analyst-Program-Ho"
    },
    {
     "kind": "site",
@@ -8068,16 +7977,16 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.vistaequitypartners.com/careers/vista-career-opportunities/job-posting/?id=2957&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://www.vistaequitypartners.com/careers/vista-career-opportunities/job-posting/?id=3048&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
-    "count": 96,
+    "count": 111,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.vistaequitypartners.com/careers/vista-career-opportunities/job-posting/?id=3048&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://www.vistaequitypartners.com/careers/vista-career-opportunities/job-posting/?id=2957&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
-    "count": 111,
+    "count": 96,
     "error": ""
    },
    {
