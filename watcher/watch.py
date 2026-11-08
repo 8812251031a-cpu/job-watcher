@@ -29,16 +29,22 @@ LATER = re.compile(r"\b20(28|29|30)\b")
 FULLTIME = re.compile(r"full[\s\-]?time|new[\s\-]?grad|graduate (program|programme|analyst|scheme)|campus hire|"
                       r"analyst (program|programme|class)|rotational (program|analyst)|entry[\s\-]level analyst", re.I)
 ROLE = re.compile(r"analyst|associate|trader|researcher", re.I)
-SKIP = re.compile(r"summer|intern|co-?op|insight|experienced|lateral|senior|vice president|\bvp\b|director|manager|principal|"
-                  r"\blead\b|head of|managing", re.I)
+# Internships, non-English student schemes and senior roles never count, even with 2027 in the title.
+EXCLUDE = re.compile(r"summer|\bintern\b|\binterns\b|internship|co-?op|apprentic|\bstage\b|off[\s\-]?cycle|insight|"
+                     r"spring week|winter|ausbildung|werkstudent|working student|praktikum|stagiaire|alternance|"
+                     r"duales|studium|bachelor of science|test req|experienced|lateral|senior|vice president|\bvp\b|"
+                     r"director|manager|principal|\blead\b|head of|managing", re.I)
 
 
 def is_match(title):
-    """True for titles that say 2027, or that read like a full-time analyst program."""
+    """True for titles that say 2027, or that read like a full-time analyst program.
+    Internships and senior roles are always left out."""
     t = " ".join(title.split())
+    if EXCLUDE.search(t):
+        return False
     if YEAR.search(t):
         return True
-    if LATER.search(t) or SKIP.search(t):
+    if LATER.search(t):
         return False
     return bool(FULLTIME.search(t) and ROLE.search(t))
 
@@ -182,14 +188,12 @@ def a_adp(cid):
 
 def a_paylocity(url):
     page = get(url).text
-    out = []
-    for obj in re.findall(r"\{[^{}]*\"JobId\"[^{}]*\}", page):
-        jid = re.search(r"\"JobId\":\s*(\d+)", obj)
-        tt = re.search(r"\"JobTitle\":\s*\"((?:[^\"\\]|\\.)*)\"", obj)
-        if jid and tt:
-            out.append(job(json.loads(f'"{tt.group(1)}"'),
-                           f"https://recruiting.paylocity.com/Recruiting/Jobs/Details/{jid.group(1)}", jid.group(1)))
-    return out
+    m = re.search(r"window\.pageData\s*=\s*", page)
+    if not m:
+        raise RuntimeError("Paylocity page data not found")
+    data, _ = json.JSONDecoder().raw_decode(page, m.end())
+    return [job(j.get("JobTitle"), f"https://recruiting.paylocity.com/Recruiting/Jobs/Details/{j.get('JobId')}", j.get("JobId"),
+                (j.get("LocationName") or "")) for j in data.get("Jobs", [])]
 
 
 def anchors(page, base, href_re=None):
@@ -406,13 +410,22 @@ def main():
 
     topic = os.environ.get("NTFY_TOPIC", "")
     if first_run:
-        lines = [f"- **{f}**: [{m['title']}]({m['url']})" for f, m in sorted(new, key=lambda x: x[0])]
+        repo = os.environ.get("GITHUB_REPOSITORY", "")
+        groups = {}
+        for f, m in new:
+            groups.setdefault(f, []).append(m)
+        with open(os.path.join(DATA, "open_now.md"), "w") as fh:
+            fh.write(f"# Open right now: {len(new)} postings\n\nTitles with 2027 or a full-time analyst sign, as of {now}.\n\n")
+            for f in sorted(groups):
+                fh.write(f"## {f}\n" + "".join(f"- [{m['title']}]({m['url']})\n" for m in groups[f]) + "\n")
+        link = f"https://github.com/{repo}/blob/main/data/open_now.md" if repo else "data/open_now.md"
+        top = sorted(groups.items(), key=lambda x: -len(x[1]))
         github_issue(f"Job watcher is live: {len(new)} matching postings open right now",
-                     "These 2027 / full-time analyst postings are already open. From now on you'll only "
-                     "get alerts for new ones.\n\n" + "\n".join(lines))
+                     f"Full list by firm: {link}\n\nFrom now on you'll only get alerts for new postings.\n\n"
+                     + "\n".join(f"- **{f}**: {len(ms)}" for f, ms in top))
         ntfy(topic, "Job watcher is live",
-             f"{len(new)} matching postings are already open. Full list emailed via GitHub. "
-             "You'll get a push for each new one from now on.")
+             f"{len(new)} matching postings are open across {len(groups)} firms. Tap for the full list. "
+             "From now on you'll get a push for each new one.", click=link)
     elif new:
         for firm, m in new[:25]:
             ntfy(topic, f"{firm}: new posting", m["title"], click=m["url"], priority="high")
