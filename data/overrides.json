@@ -1,0 +1,4 @@
+{
+ "goldman-sachs": {"replace": true, "sources": [{"kind": "goldman", "key": "higher.gs.com"}]},
+ "jane-street": {"replace": true, "sources": [{"kind": "janestreet", "key": "main.json"}]}
+}
