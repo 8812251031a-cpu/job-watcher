@@ -110,9 +110,46 @@ def post(url, **kw):
     return r
 
 
-def job(title, url, jid=None, loc=""):
+MAX_AGE_DAYS = 14
+TODAY = dt.datetime.now(dt.timezone.utc).date()
+
+
+def to_date(v):
+    """Posting date from epoch ms/s, an ISO string, or Workday's 'Posted 5 Days Ago'. None if unknown."""
+    if v in (None, ""):
+        return None
+    try:
+        if isinstance(v, (int, float)):
+            return dt.datetime.fromtimestamp(v / 1000 if v > 1e11 else v, dt.timezone.utc).date()
+        t = str(v).strip()
+        m = re.search(r"posted\s+(today|yesterday|(\d+)\+?\s+days?\s+ago)", t, re.I)
+        if m:
+            days = 0 if m.group(1).lower() == "today" else 1 if m.group(1).lower() == "yesterday" else int(m.group(2))
+            if "+" in t:
+                days += 1
+            return TODAY - dt.timedelta(days=days)
+        m = re.match(r"(\d{4})-(\d{2})-(\d{2})", t)
+        if m:
+            return dt.date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        m = re.search(r"/Date\((\d+)", t)
+        if m:
+            return dt.datetime.fromtimestamp(int(m.group(1)) / 1000, dt.timezone.utc).date()
+    except (ValueError, OverflowError, OSError):
+        return None
+    return None
+
+
+def fresh(posted):
+    """False only when the posting date is known and older than MAX_AGE_DAYS."""
+    d = dt.date.fromisoformat(posted) if posted else None
+    return d is None or (TODAY - d).days <= MAX_AGE_DAYS
+
+
+def job(title, url, jid=None, loc="", posted=None):
     title = " ".join(html.unescape(title or "").split())
-    return {"title": title, "url": url, "id": str(jid or url), "location": loc or ""}
+    d = to_date(posted)
+    return {"title": title, "url": url, "id": str(jid or url), "location": loc or "",
+            "posted": d.isoformat() if d else None}
 
 
 # ---------------------------------------------------------------- adapters
@@ -130,7 +167,8 @@ def a_workday(key):
                 if path in seen:
                     continue
                 seen.add(path)
-                jobs.append(job(p.get("title"), f"https://{host}/en-US/{site}{path}", path, p.get("locationsText")))
+                jobs.append(job(p.get("title"), f"https://{host}/en-US/{site}{path}", path, p.get("locationsText"),
+                                p.get("postedOn")))
             if len(posts) < 20 or (page + 1) * 20 >= (data.get("total") or 0):
                 break
     return jobs
@@ -159,38 +197,41 @@ def a_oracle(key):
         for it in items:
             for r in it.get("requisitionList", []) or []:
                 jobs.append(job(r.get("Title"), f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{r.get('Id')}",
-                                r.get("Id"), r.get("PrimaryLocation")))
+                                r.get("Id"), r.get("PrimaryLocation"), r.get("PostedDate")))
     return jobs
 
 
 def a_greenhouse(board):
     data = get(f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs").json()
-    return [job(j["title"], j.get("absolute_url"), j.get("id"), (j.get("location") or {}).get("name"))
-            for j in data.get("jobs", [])]
+    return [job(j["title"], j.get("absolute_url"), j.get("id"), (j.get("location") or {}).get("name"),
+                j.get("first_published")) for j in data.get("jobs", [])]
 
 
 def a_lever(co):
     data = get(f"https://api.lever.co/v0/postings/{co}?mode=json").json()
-    return [job(j.get("text"), j.get("hostedUrl"), j.get("id"), (j.get("categories") or {}).get("location"))
-            for j in data]
+    return [job(j.get("text"), j.get("hostedUrl"), j.get("id"), (j.get("categories") or {}).get("location"),
+                j.get("createdAt")) for j in data]
 
 
 def a_ashby(org):
     data = get(f"https://api.ashbyhq.com/posting-api/job-board/{org}").json()
-    return [job(j.get("title"), j.get("jobUrl"), j.get("id"), j.get("location")) for j in data.get("jobs", [])]
+    return [job(j.get("title"), j.get("jobUrl"), j.get("id"), j.get("location"), j.get("publishedAt"))
+            for j in data.get("jobs", [])]
 
 
 def a_smartrecruiters(co):
     data = get(f"https://api.smartrecruiters.com/v1/companies/{co}/postings?limit=100").json()
     return [job(j.get("name"), f"https://jobs.smartrecruiters.com/{co}/{j.get('id')}", j.get("id"),
-                (j.get("location") or {}).get("city")) for j in data.get("content", [])]
+                ", ".join(filter(None, [(j.get("location") or {}).get("city"), (j.get("location") or {}).get("country")])),
+                j.get("releasedDate")) for j in data.get("content", [])]
 
 
 def a_workable(co):
     data = post(f"https://apply.workable.com/api/v3/accounts/{co}/jobs",
                 json={"query": "", "location": [], "department": [], "worktype": [], "remote": []}).json()
-    return [job(j.get("title"), f"https://apply.workable.com/{co}/j/{j.get('shortcode')}", j.get("shortcode"))
-            for j in data.get("results", [])]
+    return [job(j.get("title"), f"https://apply.workable.com/{co}/j/{j.get('shortcode')}", j.get("shortcode"),
+                ", ".join(filter(None, [(j.get("location") or {}).get("city"), (j.get("location") or {}).get("country")])),
+                j.get("published")) for j in data.get("results", [])]
 
 
 def a_bamboo(host):
@@ -201,7 +242,8 @@ def a_bamboo(host):
 
 def a_breezy(host):
     data = get(f"https://{host}/json").json()
-    return [job(j.get("name"), j.get("url"), j.get("id")) for j in data]
+    return [job(j.get("name"), j.get("url"), j.get("id"), (j.get("location") or {}).get("name"), j.get("published_date"))
+            for j in data]
 
 
 def a_ukg(key):
@@ -213,8 +255,9 @@ def a_ukg(key):
                                                                     "LicenseAndCertifications": [], "Skills": [],
                                                                     "hasNoLicenses": False, "SkippedSkills": []}}
     data = post(f"{base}/JobBoardView/LoadSearchResults", json=body).json()
-    return [job(o.get("Title"), f"{base}/OpportunityDetail?opportunityId={o.get('Id')}", o.get("Id"))
-            for o in data.get("opportunities", [])]
+    return [job(o.get("Title"), f"{base}/OpportunityDetail?opportunityId={o.get('Id')}", o.get("Id"),
+                " ".join(str(((l.get("Address") or {}).get("Country") or {}).get("Name") or "") for l in o.get("Locations") or []),
+                o.get("PostedDate")) for o in data.get("opportunities", [])]
 
 
 def a_adp(cid):
@@ -226,7 +269,7 @@ def a_adp(cid):
         jid = r.get("itemID")
         out.append(job(r.get("requisitionTitle"),
                        f"https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid={cid}&jobId={jid}",
-                       jid))
+                       jid, "", r.get("postDate")))
     return out
 
 
@@ -237,7 +280,7 @@ def a_paylocity(url):
         raise RuntimeError("Paylocity page data not found")
     data, _ = json.JSONDecoder().raw_decode(page, m.end())
     return [job(j.get("JobTitle"), f"https://recruiting.paylocity.com/Recruiting/Jobs/Details/{j.get('JobId')}", j.get("JobId"),
-                (j.get("LocationName") or "")) for j in data.get("Jobs", [])]
+                (j.get("LocationName") or ""), j.get("PublishedDate")) for j in data.get("Jobs", [])]
 
 
 def anchors(page, base, href_re=None):
@@ -301,7 +344,8 @@ def phenom_jobs(page, base):
     out = []
     for j in ((obj.get("data") or {}).get("jobs") or []):
         jid = j.get("jobId") or j.get("reqId") or j.get("jobSeqNo")
-        out.append(job(j.get("title"), f"{base}/job/{jid}", j.get("jobSeqNo") or jid, j.get("location")))
+        out.append(job(j.get("title"), f"{base}/job/{jid}", j.get("jobSeqNo") or jid, j.get("location"),
+                       j.get("postedDate")))
     return out
 
 
@@ -391,7 +435,7 @@ def check_firm(firm):
             jobs = fn(src["key"])
             entry["ok"], entry["count"] = True, len(jobs)
             for j in jobs:
-                if j["title"] and is_match(j["title"]) and location_ok(j):
+                if j["title"] and is_match(j["title"]) and location_ok(j) and fresh(j.get("posted")):
                     j["key"] = f"{firm['id']}|{src['kind']}|{j['id'] if not j['id'].startswith('text:') else j['title'].lower()}"
                     res["matches"].append(j)
         except Exception as e:  # noqa: BLE001
@@ -449,21 +493,34 @@ def main():
     for r in results:
         for m in r["matches"]:
             if m["key"] not in seen:
-                seen[m["key"]] = {"firm": r["name"], "title": m["title"], "url": m["url"], "first_seen": now}
+                seen[m["key"]] = {"firm": r["name"], "title": m["title"], "url": m["url"], "first_seen": now,
+                                  "posted": m.get("posted")}
                 new.append((r["name"], m))
+
+    def age_label(m):
+        if m.get("posted"):
+            return "posted " + dt.date.fromisoformat(m["posted"]).strftime("%b %-d")
+        return "first seen " + dt.date.fromisoformat(seen[m["key"]]["first_seen"][:10]).strftime("%b %-d")
+
+    def still_fresh(m):
+        if m.get("posted"):
+            return fresh(m["posted"])
+        return fresh(seen[m["key"]]["first_seen"][:10])
 
     current = {}
     for r in results:
-        if r["matches"]:
-            current[r["name"]] = r["matches"]
+        keep = [m for m in r["matches"] if still_fresh(m)]
+        if keep:
+            current[r["name"]] = sorted(keep, key=lambda m: m.get("posted") or seen[m["key"]]["first_seen"][:10], reverse=True)
     total = sum(len(v) for v in current.values())
     with open(os.path.join(DATA, "open_now.md"), "w") as fh:
         fh.write(f"# Open right now: {total} postings at {len(current)} firms\n\n"
                  "Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong "
-                 "(postings with no location listed are included). Internships and senior roles are left out. "
+                 "(postings with no location listed are included), posted in the last 14 days. Postings with no posting date "
+                 "count from the day the watcher first saw them. Internships and senior roles are left out. "
                  "Refreshed on every check.\n\n")
         for f in sorted(current, key=str.lower):
-            fh.write(f"## {f}\n" + "".join(f"- [{m['title']}]({m['url']})\n" for m in current[f]) + "\n")
+            fh.write(f"## {f}\n" + "".join(f"- [{m['title']}]({m['url']}) · {age_label(m)}\n" for m in current[f]) + "\n")
 
     topic = os.environ.get("NTFY_TOPIC", "")
     if first_run:
