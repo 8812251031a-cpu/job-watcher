@@ -158,13 +158,6 @@
   "sources": [
    {
     "kind": "paylocity",
-    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798",
-    "ok": false,
-    "count": 0,
-    "error": "RuntimeError: Paylocity page data not found"
-   },
-   {
-    "kind": "paylocity",
     "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452768",
     "ok": true,
     "count": 0,
@@ -176,6 +169,13 @@
     "ok": true,
     "count": 0,
     "error": ""
+   },
+   {
+    "kind": "paylocity",
+    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798",
+    "ok": false,
+    "count": 0,
+    "error": "RuntimeError: Paylocity page data not found"
    }
   ],
   "sample_matches": []
@@ -183,16 +183,16 @@
  {
   "firm": "Aeris Partners",
   "id": "aeris-partners",
-  "readable": true,
-  "postings_read": 7,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "lever",
     "key": "aerispartners.com",
-    "ok": true,
-    "count": 7,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://api.lever.co/v0/postings/aerispartners.com?mode=json"
    }
   ],
   "sample_matches": []
@@ -269,14 +269,14 @@
   "firm": "Akuna Capital",
   "id": "akuna-capital",
   "readable": true,
-  "postings_read": 31,
+  "postings_read": 30,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "akunacapital",
     "ok": true,
-    "count": 31,
+    "count": 30,
     "error": ""
    }
   ],
@@ -327,14 +327,14 @@
   "firm": "All Options",
   "id": "all-options",
   "readable": true,
-  "postings_read": 12,
+  "postings_read": 11,
   "matches": 0,
   "sources": [
    {
     "kind": "bamboo",
     "key": "alloptions.bamboohr.com",
     "ok": true,
-    "count": 12,
+    "count": 11,
     "error": ""
    }
   ],
@@ -407,14 +407,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941982101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
+    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941816101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 154,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941816101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
+    "key": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4941982101&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr",
     "ok": true,
     "count": 154,
     "error": ""
@@ -679,14 +679,14 @@
   "firm": "Ardian",
   "id": "ardian",
   "readable": true,
-  "postings_read": 52,
+  "postings_read": 51,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "ardian.wd103.myworkdayjobs.com|ardian|ArdianCareers",
     "ok": true,
-    "count": 52,
+    "count": 51,
     "error": ""
    }
   ],
@@ -696,14 +696,14 @@
   "firm": "Ares Management",
   "id": "ares-management",
   "readable": true,
-  "postings_read": 34,
+  "postings_read": 35,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "aresmgmt.wd1.myworkdayjobs.com|aresmgmt|External",
     "ok": true,
-    "count": 34,
+    "count": 35,
     "error": ""
    }
   ],
@@ -870,14 +870,14 @@
   "firm": "Baird",
   "id": "baird",
   "readable": true,
-  "postings_read": 89,
+  "postings_read": 88,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "wd1.myworkdaysite.com|baird|Careers",
     "ok": true,
-    "count": 89,
+    "count": 88,
     "error": ""
    }
   ],
@@ -909,14 +909,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Associate-Summer-Intern-Program--Summer-2027-Internship--_REQ7745&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Grad-Program--2027-Graduates-_REQ8261&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 2,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Grad-Program--2027-Graduates-_REQ8261&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://bambusdev.my.site.com/s/details?jobReq=Catalyst-Equities-Associate-Summer-Intern-Program--Summer-2027-Internship--_REQ7745&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 2,
     "error": ""
@@ -954,14 +954,14 @@
   "firm": "Barclays",
   "id": "barclays",
   "readable": true,
-  "postings_read": 122,
+  "postings_read": 121,
   "matches": 3,
   "sources": [
    {
     "kind": "workday",
     "key": "barclays.wd3.myworkdayjobs.com|barclays|External_Career_Site_Barclays",
     "ok": true,
-    "count": 122,
+    "count": 121,
     "error": ""
    }
   ],
@@ -1069,14 +1069,14 @@
   "sources": [
    {
     "kind": "oracle",
-    "key": "ebqb.fa.us2.oraclecloud.com|BDOEntryLevelCareers",
+    "key": "ebqb.fa.us2.oraclecloud.com|CX_1001",
     "ok": true,
     "count": 100,
     "error": ""
    },
    {
     "kind": "oracle",
-    "key": "ebqb.fa.us2.oraclecloud.com|CX_1001",
+    "key": "ebqb.fa.us2.oraclecloud.com|BDOEntryLevelCareers",
     "ok": true,
     "count": 100,
     "error": ""
@@ -1285,7 +1285,7 @@
   "firm": "BMO Capital Markets",
   "id": "bmo-capital-markets",
   "readable": true,
-  "postings_read": 48,
+  "postings_read": 45,
   "matches": 0,
   "sources": [
    {
@@ -1299,7 +1299,7 @@
     "kind": "workday",
     "key": "bmo.wd3.myworkdayjobs.com|bmo|Privileged",
     "ok": true,
-    "count": 23,
+    "count": 20,
     "error": ""
    }
   ],
@@ -1309,7 +1309,7 @@
   "firm": "BNP Paribas",
   "id": "bnp-paribas",
   "readable": true,
-  "postings_read": 203,
+  "postings_read": 205,
   "matches": 0,
   "sources": [
    {
@@ -1321,9 +1321,9 @@
    },
    {
     "kind": "site",
-    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114295&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124464&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114294&source=Trackr&site=group.bnpparibas&campaignReal=0&src=Trackr&offerID=1234567890100124463&entityID=94&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
-    "count": 76,
+    "count": 78,
     "error": ""
    },
    {
@@ -1374,14 +1374,14 @@
   "firm": "bp",
   "id": "bp",
   "readable": true,
-  "postings_read": 31,
+  "postings_read": 32,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "bpinternational.wd3.myworkdayjobs.com|bpinternational|bpPrivateExternalCareersSite",
     "ok": true,
-    "count": 31,
+    "count": 32,
     "error": ""
    }
   ],
@@ -1478,16 +1478,16 @@
   "sources": [
    {
     "kind": "greenhouse",
-    "key": "bridgewatercampusrecruiting",
+    "key": "bwaltpostings",
     "ok": true,
-    "count": 5,
+    "count": 9,
     "error": ""
    },
    {
     "kind": "greenhouse",
-    "key": "bwaltpostings",
+    "key": "bridgewatercampusrecruiting",
     "ok": true,
-    "count": 9,
+    "count": 5,
     "error": ""
    }
   ],
@@ -1740,14 +1740,14 @@
   "firm": "Capital One",
   "id": "capital-one",
   "readable": true,
-  "postings_read": 68,
+  "postings_read": 69,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "capitalone.wd12.myworkdayjobs.com|capitalone|Capital_One",
     "ok": true,
-    "count": 68,
+    "count": 69,
     "error": ""
    }
   ],
@@ -1863,17 +1863,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.criadv.com/career-opportunities/?gnk=job&gni=8a7887a19c2b6f1c019c2eee704a06b5&gns=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.criadv.com/career-opportunities/?gnk=job&gni=8a7887a19c2b6f1c019c2eee704a06b5&gns=Trackr&utm_source=Trackr&utm_"
-   },
-   {
-    "kind": "site",
     "key": "https://www.criadv.com/career-opportunities/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.criadv.com/career-opportunities/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028"
+   },
+   {
+    "kind": "site",
+    "key": "https://www.criadv.com/career-opportunities/?gnk=job&gni=8a7887a19c2b6f1c019c2eee704a06b5&gns=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.criadv.com/career-opportunities/?gnk=job&gni=8a7887a19c2b6f1c019c2eee704a06b5&gns=Trackr&utm_source=Trackr&utm_"
    },
    {
     "kind": "site",
@@ -2161,10 +2161,10 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2027/?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": false,
     "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/?utm_source=Trackr&utm_me"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2027/?utm_source=Trackr&utm_me"
    },
    {
     "kind": "site",
@@ -2187,14 +2187,14 @@
   "firm": "Citi",
   "id": "citi",
   "readable": true,
-  "postings_read": 107,
+  "postings_read": 109,
   "matches": 3,
   "sources": [
    {
     "kind": "workday",
     "key": "citi.wd5.myworkdayjobs.com|citi|2",
     "ok": true,
-    "count": 107,
+    "count": 109,
     "error": ""
    }
   ],
@@ -2297,14 +2297,14 @@
   "firm": "CliftonLarsonAllen",
   "id": "cliftonlarsonallen",
   "readable": true,
-  "postings_read": 62,
+  "postings_read": 61,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "cliftonlarsonallen.wd115.myworkdayjobs.com|cliftonlarsonallen|CLA",
     "ok": true,
-    "count": 62,
+    "count": 61,
     "error": ""
    }
   ],
@@ -2352,17 +2352,17 @@
   "matches": 0,
   "sources": [
    {
-    "kind": "icims",
-    "key": "careers-cohenco.icims.com",
-    "ok": true,
-    "count": 0,
-    "error": ""
-   },
-   {
     "kind": "workday",
     "key": "cohenco.wd108.myworkdayjobs.com|cohenco|CC",
     "ok": true,
     "count": 23,
+    "error": ""
+   },
+   {
+    "kind": "icims",
+    "key": "careers-cohenco.icims.com",
+    "ok": true,
+    "count": 0,
     "error": ""
    }
   ],
@@ -2498,21 +2498,21 @@
   "firm": "D.E. Shaw",
   "id": "d-e-shaw",
   "readable": true,
-  "postings_read": 426,
+  "postings_read": 195,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.deshaw.com/careers/quantitative-analyst-2636?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&source=Trackr",
+    "key": "https://www.deshaw.com/careers/cove-private-equity-intern-summer-2027-5875?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&source=Trackr",
     "ok": true,
-    "count": 115,
+    "count": 0,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://www.deshaw.com/careers/d-e-shaw-investment-management-desim-intern-new-york-summer-2027-5732?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
-    "count": 116,
+    "count": 0,
     "error": ""
    },
    {
@@ -2663,21 +2663,21 @@
   "firm": "DRW",
   "id": "drw",
   "readable": true,
-  "postings_read": 87,
-  "matches": 0,
+  "postings_read": 92,
+  "matches": 1,
   "sources": [
+   {
+    "kind": "site",
+    "key": "https://grnh.se/ugyg2tee1us",
+    "ok": true,
+    "count": 22,
+    "error": ""
+   },
    {
     "kind": "site",
     "key": "https://grnh.se/evf0vgud1us",
     "ok": true,
     "count": 19,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://grnh.se/uw8za45s1us",
-    "ok": true,
-    "count": 17,
     "error": ""
    },
    {
@@ -2688,7 +2688,9 @@
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Bachelor\u2019s degree in finance, business administration, economics, accounting, or liberal arts graduating between December 2027 and June 2028"
+  ]
  },
  {
   "firm": "Ducera Partners",
@@ -2812,14 +2814,14 @@
   "firm": "Equinor",
   "id": "equinor",
   "readable": true,
-  "postings_read": 18,
+  "postings_read": 19,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "equinor.wd3.myworkdayjobs.com|equinor|EQNR",
     "ok": true,
-    "count": 18,
+    "count": 19,
     "error": ""
    }
   ],
@@ -2919,16 +2921,16 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-InternshipCo-op-Opportunities-in-Trading-TX-77389/1417886900/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 234,
+    "count": 233,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-InternshipCo-op-Opportunities-in-Trading-TX-77389/1417886900/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 233,
+    "count": 234,
     "error": ""
    },
    {
@@ -2998,14 +3000,14 @@
   "firm": "Fidelity Investments",
   "id": "fidelity",
   "readable": true,
-  "postings_read": 63,
+  "postings_read": 66,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "wd1.myworkdaysite.com|fmr|FidelityCareers",
     "ok": true,
-    "count": 63,
+    "count": 66,
     "error": ""
    }
   ],
@@ -3049,14 +3051,14 @@
   "firm": "Flow Traders",
   "id": "flow-traders",
   "readable": true,
-  "postings_read": 40,
+  "postings_read": 41,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "flowtraders",
     "ok": true,
-    "count": 40,
+    "count": 41,
     "error": ""
    }
   ],
@@ -3105,17 +3107,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.forvismazars.us/jobs?q=%22summer+2028%22&jobCategory=54&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://jobs.forvismazars.us/jobs?q=%22summer+2028%22&jobCategory=54&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_F"
-   },
-   {
-    "kind": "site",
     "key": "https://jobs.forvismazars.us/jobs?page=1&Category=Internship&remote=false&keyword=%22summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 404 Client Error: Not Found for url: https://jobs.forvismazars.us/jobs?page=1&Category=Internship&remote=false&keyword=%22summer+2027%22&utm_source=Trackr&utm_m"
+   },
+   {
+    "kind": "site",
+    "key": "https://jobs.forvismazars.us/jobs?q=%22summer+2028%22&jobCategory=54&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 404 Client Error: Not Found for url: https://jobs.forvismazars.us/jobs?q=%22summer+2028%22&jobCategory=54&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_F"
    },
    {
     "kind": "site",
@@ -3291,16 +3293,16 @@
   "sources": [
    {
     "kind": "greenhouse",
-    "key": "generalatlantic",
+    "key": "gacampus",
     "ok": true,
-    "count": 14,
+    "count": 5,
     "error": ""
    },
    {
     "kind": "greenhouse",
-    "key": "gacampus",
+    "key": "generalatlantic",
     "ok": true,
-    "count": 5,
+    "count": 14,
     "error": ""
    }
   ],
@@ -3527,14 +3529,14 @@
   "firm": "Greystone",
   "id": "greystone",
   "readable": true,
-  "postings_read": 18,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "greyco.wd108.myworkdayjobs.com|greyco|GTI",
     "ok": true,
-    "count": 18,
+    "count": 17,
     "error": ""
    }
   ],
@@ -3806,14 +3808,14 @@
   "firm": "Houlihan Lokey",
   "id": "houlihan-lokey",
   "readable": true,
-  "postings_read": 39,
+  "postings_read": 38,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "hl.wd1.myworkdayjobs.com|hl|Campus",
     "ok": true,
-    "count": 39,
+    "count": 38,
     "error": ""
    }
   ],
@@ -4050,14 +4052,14 @@
   "firm": "J.P. Morgan",
   "id": "j-p-morgan",
   "readable": true,
-  "postings_read": 171,
+  "postings_read": 172,
   "matches": 4,
   "sources": [
    {
     "kind": "oracle",
     "key": "jpmc.fa.oraclecloud.com|CX_1001",
     "ok": true,
-    "count": 171,
+    "count": 172,
     "error": ""
    }
   ],
@@ -4072,14 +4074,14 @@
   "firm": "Jane Street",
   "id": "jane-street",
   "readable": true,
-  "postings_read": 219,
+  "postings_read": 218,
   "matches": 6,
   "sources": [
    {
     "kind": "janestreet",
     "key": "main.json",
     "ok": true,
-    "count": 219,
+    "count": 218,
     "error": ""
    }
   ],
@@ -4138,14 +4140,14 @@
   "firm": "JLL",
   "id": "jll",
   "readable": true,
-  "postings_read": 98,
+  "postings_read": 99,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "jll.wd1.myworkdayjobs.com|jll|jllcareers",
     "ok": true,
-    "count": 98,
+    "count": 99,
     "error": ""
    }
   ],
@@ -4177,14 +4179,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.johnsonlambert.com/open-positions/?search=%22summer+2028%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://www.johnsonlambert.com/open-positions/?search=%22intern+-+summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": true,
     "count": 289,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.johnsonlambert.com/open-positions/?search=%22intern+-+summer+2027%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://www.johnsonlambert.com/open-positions/?search=%22summer+2028%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
     "count": 289,
     "error": ""
@@ -4239,7 +4241,7 @@
   "firm": "Kearney",
   "id": "kearney",
   "readable": true,
-  "postings_read": 478,
+  "postings_read": 477,
   "matches": 0,
   "sources": [
    {
@@ -4253,7 +4255,7 @@
     "kind": "site",
     "key": "https://www.kearney.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
     "ok": true,
-    "count": 439,
+    "count": 438,
     "error": ""
    }
   ],
@@ -4263,14 +4265,14 @@
   "firm": "KeyBank",
   "id": "key-bank",
   "readable": true,
-  "postings_read": 67,
+  "postings_read": 71,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "keybank.wd5.myworkdayjobs.com|keybank|External_Career_Site",
     "ok": true,
-    "count": 67,
+    "count": 71,
     "error": ""
    }
   ],
@@ -4367,16 +4369,16 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.kpmguscareers.com/job-search/?location-filter=&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&keyword=&location=&radius=50&career-level-parents=&career-level=Early+Career%7C&spage=1",
+    "key": "https://www.kpmguscareers.com/job-search/?career-level-parents=Early+Career%7C&career-level=&location-filter=&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028&keyword=%22summer+2028%22&location=&radius=50&spage=1",
     "ok": true,
-    "count": 243,
+    "count": 239,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://www.kpmguscareers.com/job-search/?career-level-parents=Early+Career%7C&career-level=&location-filter=&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028&keyword=%22summer+2028%22&location=&radius=50&spage=1",
+    "key": "https://www.kpmguscareers.com/job-search/?location-filter=&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&keyword=&location=&radius=50&career-level-parents=&career-level=Early+Career%7C&spage=1",
     "ok": true,
-    "count": 239,
+    "count": 243,
     "error": ""
    },
    {
@@ -4613,14 +4615,14 @@
   "firm": "Lord Abbett",
   "id": "lord-abbett",
   "readable": true,
-  "postings_read": 24,
+  "postings_read": 20,
   "matches": 0,
   "sources": [
    {
     "kind": "icims",
     "key": "careers-lordabbett.icims.com",
     "ok": true,
-    "count": 24,
+    "count": 20,
     "error": ""
    }
   ],
@@ -4630,7 +4632,7 @@
   "firm": "Lumsden McCormick CPA",
   "id": "lumsden-mccormick-cpa",
   "readable": true,
-  "postings_read": 323,
+  "postings_read": 321,
   "matches": 1,
   "sources": [
    {
@@ -4644,7 +4646,7 @@
     "kind": "site",
     "key": "https://lumsdencpa.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers",
     "ok": true,
-    "count": 307,
+    "count": 305,
     "error": ""
    }
   ],
@@ -4678,14 +4680,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.lyondellbasell.com/job/Houston-2027-Trading-&-Supply-Intern-TX-77056/1428780300/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://careers.lyondellbasell.com/job/Houston-2027-Trading-&-Supply-Analyst-TX-77056/1428785300/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 160,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://careers.lyondellbasell.com/job/Houston-2027-Trading-&-Supply-Analyst-TX-77056/1428785300/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://careers.lyondellbasell.com/job/Houston-2027-Trading-&-Supply-Intern-TX-77056/1428780300/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 160,
     "error": ""
@@ -4911,14 +4913,14 @@
   "firm": "Mesirow",
   "id": "mesirow",
   "readable": true,
-  "postings_read": 19,
+  "postings_read": 18,
   "matches": 0,
   "sources": [
    {
     "kind": "ukg",
     "key": "recruiting2.ultipro.com|MES1003MFAC|69451223-cdce-4faf-9407-23a2cd5ac83b",
     "ok": true,
-    "count": 19,
+    "count": 18,
     "error": ""
    }
   ],
@@ -4933,17 +4935,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://campusjobs.mlp.com/careers/job/755955763508?microsite=campus-site&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
-    "ok": true,
-    "count": 4,
-    "error": ""
-   },
-   {
-    "kind": "site",
     "key": "https://campusjobs.mlp.com/careers/job/755954628827?microsite=campus-site&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "HTTPError: 404 Client Error: NOT FOUND for url: https://campusjobs.mlp.com/careers/job/755954628827?microsite=campus-site&utm_source=Trackr&utm_medium=tracker&utm_campaign"
+   },
+   {
+    "kind": "site",
+    "key": "https://campusjobs.mlp.com/careers/job/755955763508?microsite=campus-site&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "ok": true,
+    "count": 4,
+    "error": ""
    },
    {
     "kind": "site",
@@ -5143,16 +5145,16 @@
   "sources": [
    {
     "kind": "workday",
-    "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-Careers",
+    "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-EarlyCareers",
     "ok": true,
-    "count": 75,
+    "count": 26,
     "error": ""
    },
    {
     "kind": "workday",
-    "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-EarlyCareers",
+    "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-Careers",
     "ok": true,
-    "count": 26,
+    "count": 75,
     "error": ""
    }
   ],
@@ -5185,16 +5187,16 @@
  {
   "firm": "Nationwide Mutual Insurance Company",
   "id": "nationwide-mutual-insurance-company",
-  "readable": true,
-  "postings_read": 59,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "nationwide.wd1.myworkdayjobs.com|nationwide|Nationwide_Career",
-    "ok": true,
-    "count": 59,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career/jobs"
    }
   ],
   "sample_matches": []
@@ -5520,16 +5522,16 @@
  {
   "firm": "OMERS",
   "id": "omers",
-  "readable": true,
-  "postings_read": 32,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "omers.wd3.myworkdayjobs.com|omers|OMERS_External",
-    "ok": true,
-    "count": 32,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://omers.wd3.myworkdayjobs.com/wday/cxs/omers/OMERS_External/jobs"
    }
   ],
   "sample_matches": []
@@ -5543,14 +5545,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://opco.hrmdirect.com/employment/job-openings.php?search=true&city=-1&state=-1&cust_sort1=177713&cust_sort2=-1&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://opco.hrmdirect.com/employment/job-openings.php?search=true&city=-1&state=-1&cust_sort1=-1&cust_sort2=86746&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&source=Trackr",
     "ok": true,
     "count": 2,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://opco.hrmdirect.com/employment/job-openings.php?search=true&city=-1&state=-1&cust_sort1=-1&cust_sort2=86746&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027&source=Trackr",
+    "key": "https://opco.hrmdirect.com/employment/job-openings.php?search=true&city=-1&state=-1&cust_sort1=177713&cust_sort2=-1&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 2,
     "error": ""
@@ -5700,16 +5702,16 @@
   "sources": [
    {
     "kind": "workday",
-    "key": "peak6group.wd1.myworkdayjobs.com|peak6group|PEAK6",
+    "key": "peak6group.wd1.myworkdayjobs.com|peak6group|CapMan",
     "ok": true,
-    "count": 16,
+    "count": 7,
     "error": ""
    },
    {
     "kind": "workday",
-    "key": "peak6group.wd1.myworkdayjobs.com|peak6group|CapMan",
+    "key": "peak6group.wd1.myworkdayjobs.com|peak6group|PEAK6",
     "ok": true,
-    "count": 7,
+    "count": 16,
     "error": ""
    }
   ],
@@ -5770,14 +5772,14 @@
   "firm": "PGIM",
   "id": "pgim",
   "readable": true,
-  "postings_read": 48,
+  "postings_read": 49,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pru.wd5.myworkdayjobs.com|pru|Careers",
     "ok": true,
-    "count": 48,
+    "count": 49,
     "error": ""
    }
   ],
@@ -6038,15 +6040,15 @@
  {
   "firm": "PSRS/PEERS",
   "id": "psrs-peers",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 2,
   "matches": 0,
   "sources": [
    {
     "kind": "oracle",
     "key": "ejrd.fa.us6.oraclecloud.com|CX_4",
     "ok": true,
-    "count": 0,
+    "count": 2,
     "error": ""
    }
   ],
@@ -6182,38 +6184,36 @@
   "firm": "Raymond James",
   "id": "raymond-james",
   "readable": true,
-  "postings_read": 9,
-  "matches": 1,
+  "postings_read": 8,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "raymondjames.wd1.myworkdayjobs.com|raymondjames|RaymondJamesEarlyCareers",
     "ok": true,
-    "count": 9,
+    "count": 8,
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Investment Banking Analyst I Health Care New York, NY"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "RBC Capital Markets",
   "id": "rbc-capital-markets",
   "readable": true,
-  "postings_read": 288,
+  "postings_read": 248,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.rbc.com/ca/en/search-results?keywords=2028+summer+analyst&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
-    "ok": true,
-    "count": 40,
-    "error": ""
+    "key": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000185170EXTERNALENCA/2027-Capital-Markets-Global-Investment-Banking-Analyst?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 410 Client Error: Gone for url: https://jobs.rbc.com/ca/en/job/RBCAA0088R0000185170EXTERNALENCA/2027-Capital-Markets-Global-Investment-Banking-Analyst?utm_sourc"
    },
    {
     "kind": "site",
-    "key": "https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs?utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
+    "key": "https://jobs.rbc.com/ca/en/search-results?keywords=2028+summer+analyst&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
     "ok": true,
     "count": 40,
     "error": ""
@@ -6295,14 +6295,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/3bbf21b0-8121-45b5-a663-9f88710d2f78?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/243e29ea-62c3-4e3f-93be-e1d2fd37c0ed?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 18,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/243e29ea-62c3-4e3f-93be-e1d2fd37c0ed?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/3bbf21b0-8121-45b5-a663-9f88710d2f78?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 18,
     "error": ""
@@ -6420,14 +6420,14 @@
   "firm": "RWE",
   "id": "rwe",
   "readable": true,
-  "postings_read": 363,
+  "postings_read": 367,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://jobs.rwe.com/RWE/search/?createNewAlert=false&q=&optionsFacetsDD_facility=Students&optionsFacetsDD_department=&optionsFacetsDD_customfield1=&optionsFacetsDD_country=US&optionsFacetsDD_location=&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 84,
+    "count": 88,
     "error": ""
    },
    {
@@ -6478,14 +6478,14 @@
   "firm": "Santander",
   "id": "santander",
   "readable": true,
-  "postings_read": 77,
+  "postings_read": 78,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "santander.wd3.myworkdayjobs.com|santander|SantanderCareers",
     "ok": true,
-    "count": 77,
+    "count": 78,
     "error": ""
    }
   ],
@@ -6541,14 +6541,14 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Leveraged-Finance-Investment-Banking-Analyst-NYC-NY-10001/606628817/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Infrastructure-&-Project-Finance-Investment-Banking-Analyst-NYC-NY-10001/606607817/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 79,
     "error": ""
    },
    {
     "kind": "site",
-    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Corporate-Finance-Advisory-Investment-Banking-Analyst-NYC-NY-10001/606607517/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "key": "https://jobs.scotiabank.com/job/New-York-City-2027-Mergers-&-Acquisitions-Investment-Banking-Analyst-NYC-NY-10001/606607417/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
     "count": 79,
     "error": ""
@@ -6921,14 +6921,14 @@
   "firm": "State Street",
   "id": "state-street",
   "readable": true,
-  "postings_read": 103,
+  "postings_read": 102,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "statestreet.wd1.myworkdayjobs.com|statestreet|Global",
     "ok": true,
-    "count": 103,
+    "count": 102,
     "error": ""
    }
   ],
@@ -7040,14 +7040,14 @@
   "firm": "Stout",
   "id": "stout",
   "readable": true,
-  "postings_read": 4,
+  "postings_read": 3,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "stout.wd5.myworkdayjobs.com|stout|Stout-Student-Careers",
     "ok": true,
-    "count": 4,
+    "count": 3,
     "error": ""
    }
   ],
@@ -7074,14 +7074,14 @@
   "firm": "STX Group",
   "id": "stx-group",
   "readable": true,
-  "postings_read": 297,
+  "postings_read": 300,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://stxgroup.com/careers/vacancy/2027-rotational-program-environmental-commodities-sales-trading/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": true,
-    "count": 139,
+    "count": 142,
     "error": ""
    },
    {
@@ -7137,17 +7137,17 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.sig.com/recent-graduate/jobs?locations=Bala+Cynwyd+%28Philadelphia+Area%29%2CPennsylvania%2CUnited+States%7CNew+York%2CNew+York%2CUnited+States&page=1&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
-    "ok": true,
-    "count": 30,
-    "error": ""
-   },
-   {
-    "kind": "site",
     "key": "https://careers.sig.com/search-results?keywords=Summer+2027&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027",
     "ok": false,
     "count": 0,
     "error": "TooManyRedirects: Exceeded 30 redirects."
+   },
+   {
+    "kind": "site",
+    "key": "https://careers.sig.com/recent-graduate/jobs?locations=Bala+Cynwyd+%28Philadelphia+Area%29%2CPennsylvania%2CUnited+States%7CNew+York%2CNew+York%2CUnited+States&page=1&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
+    "ok": true,
+    "count": 30,
+    "error": ""
    },
    {
     "kind": "site",
@@ -7452,14 +7452,14 @@
   "firm": "Tower Research Capital",
   "id": "tower-research-capital",
   "readable": true,
-  "postings_read": 91,
+  "postings_read": 92,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "towerresearchcapital",
     "ok": true,
-    "count": 91,
+    "count": 92,
     "error": ""
    }
   ],
@@ -7508,10 +7508,10 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.truist.com/us/en/job/R0121314/2028-Truist-Securities-Energy-Oil-Gas-Investment-Banking-Summer-Analyst-Program-Houston-TX?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2028",
+    "key": "https://careers.truist.com/us/en/job/R0118959?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027",
     "ok": false,
     "count": 0,
-    "error": "HTTPError: 410 Client Error: Gone for url: https://careers.truist.com/us/en/job/R0121314/2028-Truist-Securities-Energy-Oil-Gas-Investment-Banking-Summer-Analyst-Program-Ho"
+    "error": "HTTPError: 410 Client Error: Gone for url: https://careers.truist.com/us/en/job/R0118959?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027"
    },
    {
     "kind": "site",
@@ -7973,21 +7973,21 @@
   "firm": "Wells Fargo",
   "id": "wells-fargo",
   "readable": true,
-  "postings_read": 188,
+  "postings_read": 198,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
-    "key": "wd1.myworkdaysite.com|wf|WellsFargoJobs",
+    "key": "wf.wd1.myworkdayjobs.com|wf|wellsfargojobs",
     "ok": true,
-    "count": 94,
+    "count": 99,
     "error": ""
    },
    {
     "kind": "workday",
-    "key": "wf.wd1.myworkdayjobs.com|wf|wellsfargojobs",
+    "key": "wd1.myworkdaysite.com|wf|WellsFargoJobs",
     "ok": true,
-    "count": 94,
+    "count": 99,
     "error": ""
    }
   ],
@@ -7997,14 +7997,14 @@
   "firm": "Wesleyan University",
   "id": "wesleyan-university",
   "readable": true,
-  "postings_read": 17,
+  "postings_read": 16,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "wesleyan.wd5.myworkdayjobs.com|wesleyan|careers",
     "ok": true,
-    "count": 17,
+    "count": 16,
     "error": ""
    }
   ],
@@ -8014,14 +8014,14 @@
   "firm": "William Blair",
   "id": "william-blair",
   "readable": true,
-  "postings_read": 50,
+  "postings_read": 49,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "williamblair",
     "ok": true,
-    "count": 50,
+    "count": 49,
     "error": ""
    }
   ],
