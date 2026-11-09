@@ -1,4 +1,4 @@
-# Open right now: 93 postings at 39 firms
+# Open right now: 91 postings at 38 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -138,12 +138,8 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Morgan Stanley
 - [2027 Step In, Step Up: Empowering Women - Career Pathways Programmme](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22357-2027-Step-In-Step-Up-Empowering-Women-Career-Pathways-Programmme/en-GB) · first seen Nov 8
 
-## NERA
-- [Government Health Consulting Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_369793) · posted Oct 26
-
 ## Oliver Wyman
 - [Data And Analytics Industrial Placement 2027 (12 months) Newcastle](https://mmc.wd1.myworkdayjobs.com/careers/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970) · first seen Nov 8
-- [Government Health Consulting Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_369793) · posted Oct 26
 
 ## PJT Partners
 - [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
@@ -173,7 +169,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 60 firms the watcher can't read
+## Check these yourself: 58 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -210,7 +206,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
-- **MarshBerry** · [careers site](https://www.marshberry.com/about/careers) · site timed out
 - **Maven Securities** · [careers site](https://www.mavensecurities.com/work-at-maven/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
@@ -219,7 +214,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Northgate Advisory Group** · no link on Trackr · no job site listed on Trackr
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Old Mission** · [careers site](https://www.oldmissioncapital.com/careers/) · job-site link is broken or moved
-- **OMERS** · [careers site](https://www.omers.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
