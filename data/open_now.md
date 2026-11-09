@@ -1,4 +1,4 @@
-# Open right now: 82 postings at 39 firms
+# Open right now: 82 postings at 38 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -74,9 +74,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 M&A Associate, Richmond](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/VA---Richmond-23219/XMLNAME-2027-M-A-Associate--Richmond_R230675) · posted Nov 4
 - [2027 M&A Associate - Consumer, Minneapolis](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/MN---Minneapolis/XMLNAME-2027-M-A-Associate---Consumer_R230306) · posted Nov 4
 
-## Huron
-- [Consulting Analyst, Digital (Chicago, IL) - March 2027 Start Date](https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/Consulting-Analyst--Digital--Chicago--IL----March-2027-Start-Date_JR-0017064) · posted Nov 2
-
 ## J.P. Morgan
 - [2027 Global Private Bank Advisor Program (Full-time Associate) - US Private Bank](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773454) · posted Nov 6
 - [2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (New York)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804878) · posted Nov 2
@@ -84,12 +81,12 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Global Finance & Business Management Analyst Program - Full Time Analyst Corporate Controllers Track (DE)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802461) · posted Nov 2
 
 ## Jane Street
-- [Machine Learning Researcher (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8576928002/) · first seen Nov 8
 - [Machine Learning Researcher (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8576934002/) · first seen Nov 8
+- [Machine Learning Researcher (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8576928002/) · first seen Nov 8
 - [Quantitative Researcher (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8754684002/) · first seen Nov 8
 - [Quantitative Researcher (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8573726002/) · first seen Nov 8
-- [Quantitative Trader (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8415898002/) · first seen Nov 8
 - [Quantitative Trader (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8573523002/) · first seen Nov 8
+- [Quantitative Trader (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8415898002/) · first seen Nov 8
 
 ## Jefferies
 - [2027 Investment Banking Analyst - Houston, Energy Group (February Start)](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1858-2027-Investment-Banking-Analyst-Houston-Energy-Group-February-Start/en-GB) · first seen Nov 8
@@ -135,6 +132,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Government Health Consulting Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_369793) · posted Oct 26
 
 ## Oliver Wyman
+- [Data And Analytics Industrial Placement 2027 (12 months) Newcastle](https://mmc.wd1.myworkdayjobs.com/careers/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970) · first seen Nov 8
 - [Government Health Consulting Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_369793) · posted Oct 26
 
 ## PJT Partners
@@ -162,7 +160,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 59 firms the watcher can't read
+## Check these yourself: 58 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -208,7 +206,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Northgate Advisory Group** · no link on Trackr · no job site listed on Trackr
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Old Mission** · [careers site](https://www.oldmissioncapital.com/careers/) · job-site link is broken or moved
-- **OMERS** · [careers site](https://www.omers.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
