@@ -1,4 +1,4 @@
-# Open right now: 83 postings at 40 firms
+# Open right now: 84 postings at 40 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -135,6 +135,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Government Health Consulting Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_369793) · posted Oct 26
 
 ## Oliver Wyman
+- [Data And Analytics Industrial Placement 2027 (12 months) Newcastle](https://mmc.wd1.myworkdayjobs.com/careers/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970) · first seen Nov 8
 - [Government Health Consulting Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_369793) · posted Oct 26
 
 ## PJT Partners
