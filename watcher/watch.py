@@ -477,7 +477,7 @@ def github_issue(title, body):
 def site_link(firm):
     """Best page for checking a firm by hand: its careers site, else its job board."""
     if firm.get("careers_site"):
-        return firm["careers_site"]
+        return re.sub(r"[?&]utm_[^#]*", "", firm["careers_site"])
     for src in firm.get("sources", []):
         k, key = src["kind"], src["key"]
         if key.startswith("http"):
