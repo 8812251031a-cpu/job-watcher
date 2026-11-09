@@ -163,7 +163,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 59 firms the watcher can't read
+## Check these yourself: 58 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -187,7 +187,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
 - **Class VI Partners** · [careers site](https://www.classvipartners.com/careers) · job-site link is broken or moved
 - **Cornerstone Research** · [careers site](https://www.cornerstone.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
+- **Ensis Partners** · [careers site](https://ensispartners.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **EY** · [careers site](https://www.ey.com/en_uk/careers/students/programmes) · job-site link is broken or moved
 - **FMI Capital Advisors** · [careers site](https://fmicorp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Geffen Mesher** · [careers site](https://gmco.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -209,7 +209,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Northgate Advisory Group** · no link on Trackr · no job site listed on Trackr
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Old Mission** · [careers site](https://www.oldmissioncapital.com/careers/) · job-site link is broken or moved
-- **Oxford Properties Group** · [careers site](https://www.oxfordproperties.com/careers#students-and-graduates) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
