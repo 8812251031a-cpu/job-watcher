@@ -474,6 +474,55 @@ def github_issue(title, body):
         print("issue failed:", e)
 
 
+def site_link(firm):
+    """Best page for checking a firm by hand: its careers site, else its job board."""
+    if firm.get("careers_site"):
+        return firm["careers_site"]
+    for src in firm.get("sources", []):
+        k, key = src["kind"], src["key"]
+        if key.startswith("http"):
+            return key
+        if k == "workday":
+            host, _, site = key.split("|")
+            return f"https://{host}/{site}"
+        if k == "greenhouse":
+            return f"https://job-boards.greenhouse.io/{key}"
+        if k == "lever":
+            return f"https://jobs.lever.co/{key}"
+        if k == "ashby":
+            return f"https://jobs.ashbyhq.com/{key}"
+        if k == "workable":
+            return f"https://apply.workable.com/{key}"
+        if k == "smartrecruiters":
+            return f"https://jobs.smartrecruiters.com/{key}"
+        if k in ("bamboo", "breezy", "icims"):
+            return f"https://{key}/"
+        if k == "avature":
+            host, base = key.split("|")
+            return f"https://{host}{base}/SearchJobs"
+        if k == "ukg":
+            host, tenant, board = key.split("|")
+            return f"https://{host}/{tenant}/JobBoard/{board}"
+    return ""
+
+
+def why_unreadable(sources):
+    if not sources:
+        return "no job site listed on Trackr"
+    errs = " ".join(x["error"] for x in sources)
+    if "403" in errs or "429" in errs:
+        return "site blocks automated checks"
+    if "404" in errs:
+        return "job-site link is broken or moved"
+    if "401" in errs or "422" in errs:
+        return "job system refused the request"
+    if "Timeout" in errs:
+        return "site timed out"
+    if "SSLError" in errs or "ConnectionError" in errs:
+        return "site couldn't be reached securely"
+    return "no postings found (the page may load jobs in a way the watcher can't read)"
+
+
 # ---------------------------------------------------------------- main
 def main():
     report_mode = "--report" in sys.argv
@@ -555,6 +604,16 @@ def main():
                        "sample_matches": [m["title"] for m in r["matches"][:5]]})
     if report_mode or first_run:
         json.dump(health, open(os.path.join(DATA, "report.json"), "w"), indent=1)
+    by_id = {f["id"]: f for f in firms}
+    manual = sorted((h for h in health if not h["readable"]), key=lambda h: h["firm"].lower())
+    with open(os.path.join(DATA, "open_now.md"), "a") as fh:
+        fh.write(f"## Check these yourself: {len(manual)} firms the watcher can't read\n\n"
+                 "Their job sites didn't return postings on this check, so new roles there won't trigger an alert. "
+                 "Visit them directly.\n\n")
+        for h in manual:
+            link = site_link(by_id.get(h["id"], {}))
+            shown = f"[careers site]({link})" if link else "no link on Trackr"
+            fh.write(f"- **{h['firm']}** · {shown} · {why_unreadable(h['sources'])}\n")
     good = sum(1 for h in health if h["readable"])
     with open(os.path.join(DATA, "status.md"), "w") as fh:
         fh.write(f"Last run {now}. {good}/{len(health)} firms readable. "
