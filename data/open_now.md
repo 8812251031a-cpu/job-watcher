@@ -1,4 +1,4 @@
-# Open right now: 85 postings at 38 firms
+# Open right now: 91 postings at 38 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -39,6 +39,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Private Equity Analyst | Real Assets and Sustainability](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aebad3d9-4fa5-4393-8afb-3a6af61641d2&jobId=9201316633960_1) · posted Nov 4
 
 ## Citi
+- [Services, Full-Time Analyst, Argentina– Capital Federal, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Capital-Federal--Argentina/Services--Full-Time-Analyst--Argentina--Capital-Federal--2027_261007721) · posted Nov 9
 - [Technology - Application Development, Full Time Analyst, Bahrain - Seef 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seef--Bahrain/Technology---Application-Development--Full-Time-Analyst--Bahrain---Seef-2027_261005223) · posted Nov 9
 - [Market Operations Junior Analyst Program Hybrid](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Market-Operations-Junior-Analyst-Program-Hybrid_26991391-1) · posted Nov 3
 - [Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Full-Time-Analyst--Buffalo---USA--2027_26981024) · posted Oct 30
@@ -75,6 +76,11 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 M&A Associate - Consumer, Minneapolis](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/MN---Minneapolis/XMLNAME-2027-M-A-Associate---Consumer_R230306) · posted Nov 4
 
 ## J.P. Morgan
+- [2027 Global Finance & Business Management Analyst Program - Full-time Analyst - New York Metro](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802558) · posted Nov 9
+- [2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Delaware](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805977) · posted Nov 9
+- [2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Columbus, OH](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805978) · posted Nov 9
+- [2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Chicago, IL](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805979) · posted Nov 9
+- [2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Plano, TX](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805976) · posted Nov 9
 - [2027 Global Private Bank Advisor Program (Full-time Associate) - US Private Bank](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773454) · posted Nov 6
 - [2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (New York)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804878) · posted Nov 2
 - [2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (Dallas or Houston)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804892) · posted Nov 2
@@ -163,7 +169,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 58 firms the watcher can't read
+## Check these yourself: 57 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -197,7 +203,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **L.E.K. Consulting** · [careers site](https://www.lek.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Lead Edge Capital** · [careers site](https://www.leadedge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
