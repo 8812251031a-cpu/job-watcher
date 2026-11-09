@@ -1,4 +1,4 @@
-# Open right now: 84 postings at 39 firms
+# Open right now: 83 postings at 38 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -144,9 +144,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Americas Delivery Center Analyst - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Analyst---2027_JR-261879-2) · posted Nov 4
 - [Phoenix Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-257986) · posted Oct 29
 - [Minneapolis Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/MINNEAPOLIS/Minneapolis-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-260467-1) · posted Oct 27
-
-## Raymond James
-- [2027 Investment Banking Analyst I Health Care New York, NY](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/XMLNAME-2027-Investment-Banking-Analyst-I-Health-Care-New-York--NY_R-0013668) · posted Oct 30
 
 ## Standard Chartered
 - [Start Date: July 2027](https://jobs.standardchartered.com/job/Financial-Markets-Graduate-Programme-2027/61814-en_GB?feedid=363857&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027) · first seen Nov 8
