@@ -1,4 +1,4 @@
-# Open right now: 83 postings at 39 firms
+# Open right now: 84 postings at 40 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -60,6 +60,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## FTI Consulting
 - [2027 IMPACT Leadership Program](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-IMPACT-Leadership-Program_JR260427) · posted Oct 27
+
+## Graham Partners
+- [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
 
 ## Guggenheim Partners
 - [2027 Guggenheim Securities Investment Banking Analyst – New York Leveraged Finance & Debt Advisory](https://guggenheim.wd1.myworkdayjobs.com/en-US/Guggenheim_Careers_Campus/job/New-York-City-NY--US/XMLNAME-2027-Guggenheim-Securities-Investment-Banking-Analyst---New-York-Leveraged-Finance---Debt-Advisory_14849) · posted Oct 28
