@@ -1,4 +1,4 @@
-# Open right now: 85 postings at 40 firms
+# Open right now: 84 postings at 39 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -46,15 +46,12 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Complete your studies between 1st January 2026 and 31st July 2027.](https://careers.db.com/students-graduates/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers) · first seen Nov 8
 - [Be able to start full time work in July 2027, subject to local working legislation and visa requirements.](https://careers.db.com/students-graduates/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers) · first seen Nov 8
 
-## DRW
-- [Bachelor’s degree in finance, business administration, economics, accounting, or liberal arts graduating between December 2027 and June 2028](https://job-boards.greenhouse.io/drweng/jobs/7993004?gh_src=ugyg2tee1us) · first seen Nov 8
-
 ## Eastdil Secured
 - [2027 Virtual Real Estate Finance Training Program](https://eastdilsecured.bamboohr.com/careers/169) · first seen Nov 8
 
 ## Evercore
-- [2027 Strategic Advisory: Mergers & Acquisitions Full Time Associate Program: Consumer & Retail Advisory - New York, NY](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3285-2027-Strategic-Advisory-Mergers-Acquisitions-Full-Time-Associate-Program-Consumer-Retail-Advisory-New-York-NY/en-GB) · first seen Nov 8
 - [2027 Strategic Advisory: Mergers & Acquisitions Full Time Associate Program: Consumer & Retail Advisory - New York, NY](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3285-2027-Strategic-Advisory-Mergers-Acquisitions-Full-Time-Associate-Program-Consumer-Retail-Advisory-New-York-NY/en-GB) · first seen Nov 8
+- [2027 Strategic Advisory: Mergers & Acquisitions Full Time Associate Program: Consumer & Retail Advisory - New York, NY](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3285-2027-Strategic-Advisory-Mergers-Acquisitions-Full-Time-Associate-Program-Consumer-Retail-Advisory-New-York-NY/en-GB) · first seen Nov 8
 
 ## ExxonMobil
 - [Be graduating in 2026/2027 or have graduated within the last three years](https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027) · first seen Nov 8
