@@ -1,4 +1,4 @@
-# Open right now: 82 postings at 40 firms
+# Open right now: 83 postings at 39 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -61,9 +61,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## FTI Consulting
 - [2027 IMPACT Leadership Program](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-IMPACT-Leadership-Program_JR260427) · posted Oct 27
 
-## Graham Partners
-- [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
-
 ## Guggenheim Partners
 - [2027 Guggenheim Securities Investment Banking Analyst – New York Leveraged Finance & Debt Advisory](https://guggenheim.wd1.myworkdayjobs.com/en-US/Guggenheim_Careers_Campus/job/New-York-City-NY--US/XMLNAME-2027-Guggenheim-Securities-Investment-Banking-Analyst---New-York-Leveraged-Finance---Debt-Advisory_14849) · posted Oct 28
 
@@ -105,6 +102,8 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Duration: June 2027 through August 2027.](https://lumsdencpa-4898476.hs-sites.com/audit-intern-summer-2027-lumsden-mccormick-cpa?__hstc=255821719.0d5487f1e624cc2b484fd360bb990a46.1767795940944.1767795940944.1767795940944.1&__hssc=255821719.1.1767795940944&__hsfp=3664202077&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027) · first seen Nov 8
 
 ## M&T Bank
+- [2027 Technology Development Program - Software Engineering (Data & API Engineering)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036) · posted Nov 9
+- [2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) · posted Nov 9
 - [2027 Technology Development Program - Cybersecurity (Insider Threat)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500) · posted Nov 5
 - [2027 Technology Development Program - Cybersecurity (Encryption Services)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554) · posted Nov 5
 - [2027 Technology Development Program - Operating Systems Engineer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Operating-Systems-Engineer_R91770) · posted Nov 5
