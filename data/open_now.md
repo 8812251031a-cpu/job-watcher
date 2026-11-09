@@ -1,4 +1,4 @@
-# Open right now: 82 postings at 38 firms
+# Open right now: 82 postings at 39 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -17,11 +17,13 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Barclays
 - [Workday Specialist (HCM Consultant) AVP - FTC until the end of December 2027](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Workday-Specialist--HCM-Consultant--AVP---FTC-until-the-end-of-December-2027_JR-0000132979) · posted Nov 4
 - [2027 Technology Developer Graduate Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319) · posted Nov 2
-- [S&T - Prime Sales Analyst Graduate Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T---Securitized-Products-Origination-Analyst-Graduate-Program-2027-New-York_JR-0000122967) · posted Nov 2
 
 ## BlackRock
 - [Analyst Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11983-2027-Full-Time-Analyst-Program-APAC/en-GB) · first seen Nov 8
 - [Analyst Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11985-2028-Full-Time-Analyst-Program-APAC/en-GB) · first seen Nov 8
+
+## Blackstone
+- [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) · first seen Nov 9
 
 ## Cantor Fitzgerald
 - [Investment Banking Analyst – Energy (Class of 2027)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250409) · posted Oct 30
@@ -51,10 +53,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## Eastdil Secured
 - [2027 Virtual Real Estate Finance Training Program](https://eastdilsecured.bamboohr.com/careers/169) · first seen Nov 8
-
-## Evercore
-- [2027 Strategic Advisory: Mergers & Acquisitions Full Time Associate Program: Consumer & Retail Advisory - New York, NY](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3285-2027-Strategic-Advisory-Mergers-Acquisitions-Full-Time-Associate-Program-Consumer-Retail-Advisory-New-York-NY/en-GB) · first seen Nov 8
-- [2027 Strategic Advisory: Mergers & Acquisitions Full Time Associate Program: Consumer & Retail Advisory - New York, NY](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3285-2027-Strategic-Advisory-Mergers-Acquisitions-Full-Time-Associate-Program-Consumer-Retail-Advisory-New-York-NY/en-GB) · first seen Nov 8
 
 ## ExxonMobil
 - [Be graduating in 2026/2027 or have graduated within the last three years](https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027) · first seen Nov 8
@@ -137,12 +135,16 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Government Health Consulting Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_369793) · posted Oct 26
 
 ## Oliver Wyman
-- [Data And Analytics Industrial Placement 2027 (12 months) Newcastle](https://mmc.wd1.myworkdayjobs.com/careers/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970) · first seen Nov 8
 - [Government Health Consulting Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_369793) · posted Oct 26
 
 ## PJT Partners
 - [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
 - [2027 Full Time Analyst - PJT Camberview (Governance - San Francisco)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/San-Francisco/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Governance---San-Francisco-_R0003478) · first seen Nov 8
+
+## Protiviti
+- [Americas Delivery Center Analyst - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Analyst---2027_JR-261879-2) · posted Nov 4
+- [Phoenix Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-257986) · posted Oct 29
+- [Minneapolis Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/MINNEAPOLIS/Minneapolis-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-260467-1) · posted Oct 27
 
 ## Standard Chartered
 - [Start Date: July 2027](https://jobs.standardchartered.com/job/Financial-Markets-Graduate-Programme-2027/61814-en_GB?feedid=363857&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027) · first seen Nov 8
@@ -160,7 +162,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 60 firms the watcher can't read
+## Check these yourself: 59 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -172,7 +174,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Alvarez & Marsal** · [careers site](https://careers.alvarezandmarsal.com/) · site blocks automated checks
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
 - **Bain & Company** · [careers site](https://www.bain.com/careers/work-with-us/students/) · site blocks automated checks
-- **Blackstone** · [careers site](https://www.blackstone.com/careers/students/) · job system refused the request
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
 - **Caldwell Bray Securities** · no link on Trackr · no job site listed on Trackr
 - **Campbell Lutyens** · [careers site](https://www.campbell-lutyens.com/careers/graduate-programme/) · job-site link is broken or moved
@@ -207,9 +208,9 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Northgate Advisory Group** · no link on Trackr · no job site listed on Trackr
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Old Mission** · [careers site](https://www.oldmissioncapital.com/careers/) · job-site link is broken or moved
+- **OMERS** · [careers site](https://www.omers.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Protiviti** · [careers site](https://www.protiviti.com/uk-en/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Rabobank** · [careers site](https://www.rabobank.co.uk/about-us/careers) · site blocks automated checks
 - **SBF Advisors** · [careers site](https://sbfadvisors.com/careers/) · site couldn't be reached securely
