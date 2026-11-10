@@ -1,4 +1,4 @@
-# Firms the job watcher checks. Built once from Trackr's US Finance lists on 2026-11-10;
+# Firms the job watcher checks. Built once from Trackr's US Finance lists on 2026-11-09;
 # the watcher no longer reads Trackr. The raw Trackr links live in archive/trackr/.
 #
 # career_sites  the job boards the watcher reads. Plain addresses only, no tracking tags or filters.
@@ -147,8 +147,7 @@
   categories: [Miscellaneous, Promoted]
   homepage: https://www.alphasights.com/careers/students-and-interns/
   career_sites:
-    - https://app.the-trackr.com/
-    - https://www.alphasights.com/careers/
+    - https://www.alphasights.com/careers/students-and-interns/
 
 - id: alpine-investors
   name: Alpine Investors
@@ -201,7 +200,7 @@
   categories: [Buy-Side]
   homepage: https://apogemcapital.com/careers
   career_sites:
-    - https://careers.newyorklife.com/careers/
+    - https://careers.newyorklife.com/careers/?microsite=newyorklife.com
     - https://apogemcapital.com/careers
 
 - id: apollo-global-management
@@ -317,7 +316,7 @@
   homepage: https://www.bain.com/careers/work-with-us/students/
   career_sites:
     - https://www.bain.com/careers/find-a-role/
-    - https://www.bain.com/careers/work-with-us/
+    - https://www.bain.com/careers/work-with-us/internships-programs/associate-consultant-internship/
     - https://www.bain.com/careers/work-with-us/students/
 
 - id: bain-capital
@@ -347,7 +346,7 @@
   homepage: https://www.bamfunds.com/careers/internships
   career_sites:
     - https://bambusdev.my.site.com/s/
-    - https://www.bamfunds.com/careers/
+    - https://www.bamfunds.com/careers/internships
 
 - id: bank-of-america
   name: Bank of America
@@ -375,7 +374,7 @@
   categories: [Consulting]
   homepage: https://www.bateswhite.com/careers/overview
   career_sites:
-    - https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecApplicantEmail.aspx
+    - https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecApplicantEmail.aspx?Tag=a1b1ebd9-f1eb-4c55-bec5-94494ecb188d
     - https://www.bateswhite.com/careers/overview
 
 - id: battery
@@ -390,7 +389,7 @@
   categories: [Consulting]
   homepage: https://careers.bcg.com/global/en/early-careers
   career_sites:
-    - https://careers.bcg.com/global/en/on-campus/
+    - https://careers.bcg.com/global/en/on-campus/united-states-associate-job-opportunities
     - https://careers.bcg.com/global/en/
     - https://careers.bcg.com/global/en/early-careers
 
@@ -421,7 +420,7 @@
   categories: [Accounting and Audit, Promoted]
   homepage: https://bendingspoons.com/careers
   career_sites:
-    - https://jobs.bendingspoons.com/
+    - https://jobs.bendingspoons.com/positions/
     - https://bendingspoons.com/careers
 
 - id: bennett-thrasher
@@ -634,7 +633,7 @@
   categories: [Middle Market]
   homepage: https://www.campbell-lutyens.com/careers/graduate-programme/
   career_sites:
-    - https://www.campbell-lutyens.com/careers/
+    - https://www.campbell-lutyens.com/careers/graduate-programme/
 
 - id: cantor-fitzgerald
   name: Cantor Fitzgerald
@@ -728,7 +727,7 @@
   categories: [Asset Management]
   homepage: https://www.cbre.co.uk/careers/students-and-graduates
   career_sites:
-    - https://www.cbre.co.uk/careers/
+    - https://www.cbre.co.uk/careers/students-and-graduates
 
 - id: arena-investors
   name: Ccaventus
@@ -902,7 +901,7 @@
   categories: [Miscellaneous]
   homepage: https://www.connorgp.com/career/students-and-interns
   career_sites:
-    - https://www.connorgp.com/career/
+    - https://www.connorgp.com/career/students-and-interns
 
 - id: corient
   name: Corient
@@ -969,7 +968,8 @@
   homepage: https://careers.db.com/students-graduates/
   career_sites:
     - https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng
-    - https://careers.db.com/
+    - https://careers.db.com/students-graduates/Search-Programmes/
+    - https://careers.db.com/students-graduates/
 
 - id: djj
   name: DJJ
@@ -1037,7 +1037,7 @@
   categories: [Accounting and Audit]
   homepage: https://www.enterprisemobility.com/en/careers.html
   career_sites:
-    - https://www.enterprisemobility.com/en/careers/job.html/546438/wayne/
+    - https://www.enterprisemobility.com/en/careers/
     - https://www.enterprisemobility.com/en/careers.html
 
 - id: equinor
@@ -1090,7 +1090,7 @@
   categories: [Big 4]
   homepage: https://www.ey.com/en_uk/careers/students/programmes
   career_sites:
-    - https://www.ey.com/en_uk/careers/students/
+    - https://www.ey.com/en_uk/careers/students/programmes
 
 - id: federated-insurance
   name: Federated Insurance
@@ -1238,6 +1238,8 @@
   categories: [Buy-Side]
   homepage: https://gic.careers/
   career_sites:
+    - https://gic.careers/programmes/gic-professionals-programme/
+    - https://gic.careers/programmes/gic-internship-programme/
     - https://gic.careers/
 
 - id: gid
@@ -1438,7 +1440,7 @@
   homepage: https://www.hsbc.com/careers/students-and-graduates/find-a-programme
   career_sites:
     - https://hsbcearlycareers.groupgti.com/VacancyPosting/Search
-    - https://www.hsbc.com/careers/
+    - https://www.hsbc.com/careers/students-and-graduates/find-a-programme
 
 - id: hudson-river-trading
   name: Hudson River Trading
@@ -1745,7 +1747,7 @@
   homepage: https://www.lyondellbasell.com/en/careers/students-graduates/
   career_sites:
     - https://careers.lyondellbasell.com/
-    - https://www.lyondellbasell.com/en/careers/
+    - https://www.lyondellbasell.com/en/careers/students-graduates/
 
 - id: m-t-bank
   name: M&T Bank
@@ -1839,7 +1841,7 @@
   categories: [Buy-Side]
   homepage: https://www.mlp.com/careers/students/
   career_sites:
-    - https://campusjobs.mlp.com/careers/
+    - https://campusjobs.mlp.com/careers/?microsite=campus-site
     - https://campusjobs.mlp.com/careers
     - https://www.mlp.com/careers/students/
 
@@ -1923,7 +1925,7 @@
   homepage: https://www.musketcorp.com/en/careers/interns-graduate-opportunities
   career_sites:
     - https://jobs.loves.com/
-    - https://www.musketcorp.com/en/careers/
+    - https://www.musketcorp.com/en/careers/interns-graduate-opportunities
 
 - id: nationwide-mutual-insurance-company
   name: Nationwide Mutual Insurance Company
@@ -1945,7 +1947,7 @@
   categories: [Accounting and Audit]
   homepage: https://navalnuclearlab.energy.gov/careers
   career_sites:
-    - https://career-hcm03.ns2cloud.com/sfcareer/jobreqcareer
+    - https://career-hcm03.ns2cloud.com/sfcareer/jobreqcareer?company=NNLHCM03
     - https://navalnuclearlab.energy.gov/careers
 
 - id: nera
@@ -2030,7 +2032,8 @@
   categories: [Consulting]
   homepage: https://www.occstrategy.com/en/careers/careers-at-occ/
   career_sites:
-    - https://careers.occstrategy.com/
+    - https://careers.occstrategy.com/vacancies/381/
+    - https://careers.occstrategy.com/vacancies/382/
     - https://www.occstrategy.com/en/careers/careers-at-occ/
 
 - id: old-mission
@@ -2061,7 +2064,7 @@
   homepage: https://www.oppenheimer.com/careers/students-graduates
   career_sites:
     - https://opco.hrmdirect.com/employment/job-openings.php
-    - https://www.oppenheimer.com/careers/
+    - https://www.oppenheimer.com/careers/students-graduates
 
 - id: optiver
   name: Optiver
@@ -2342,6 +2345,7 @@
   homepage: https://careers.regions.com/us/en/interns-and-graduates
   career_sites:
     - https://careers.regions.com/us/en/
+    - https://careers.regions.com/us/en/interns-and-graduates
 
 - id: renaissance-strategic-advisors
   name: Renaissance Strategic Advisors
@@ -2506,7 +2510,7 @@
   homepage: https://careers.societegenerale.com/en/students-graduates
   career_sites:
     - https://careers.societegenerale.com/en/search
-    - https://careers.societegenerale.com/en/
+    - https://careers.societegenerale.com/en/students-graduates
 
 - id: solic-capital-advisors
   name: SOLIC Capital Advisors
@@ -2655,7 +2659,7 @@
   career_sites:
     - https://careers.sig.com/recent-graduate/jobs
     - https://careers.sig.com/search-results
-    - https://sig.com/careers/
+    - https://sig.com/careers/interns-co-ops/
 
 - id: susser-bank
   name: Susser Bank
@@ -2698,7 +2702,7 @@
   categories: [Asset Management]
   homepage: https://www.tcw.com/our-firm/careers/internship-recruitment
   career_sites:
-    - https://www.tcw.com/our-firm/careers/
+    - https://www.tcw.com/our-firm/careers/internship-recruitment
 
 - id: td-securities
   name: TD Securities
@@ -2813,7 +2817,7 @@
   categories: [Buy-Side]
   homepage: https://turnriver.com/careers
   career_sites:
-    - https://turnriver.com/careers/
+    - https://turnriver.com/careers/openings/
     - https://turnriver.com/careers
 
 - id: two-sigma
@@ -2835,7 +2839,7 @@
   categories: [Bulge Bracket]
   homepage: https://www.ubs.com/global/en/careers/university-students.html
   career_sites:
-    - https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad
+    - https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131
     - https://www.ubs.com/global/en/careers/university-students.html
 
 - id: uline
@@ -2908,7 +2912,7 @@
   categories: [Buy-Side]
   homepage: https://www.vistaequitypartners.com/careers/
   career_sites:
-    - https://www.vistaequitypartners.com/careers/vista-career-opportunities/job-posting/
+    - https://www.vistaequitypartners.com/careers/vista-career-opportunities/
     - https://www.vistaequitypartners.com/careers/
 
 - id: voloridge-investment-management
@@ -2954,7 +2958,7 @@
   categories: [Middle Market]
   homepage: https://www.wedbush.com/about-wedbush/career-opportunities/
   career_sites:
-    - https://wedbush.atsondemand.com/index.cfm
+    - https://wedbush.atsondemand.com/index.cfm?cid=512079
     - https://www.wedbush.com/about-wedbush/career-opportunities/
 
 - id: weiss-asset-management

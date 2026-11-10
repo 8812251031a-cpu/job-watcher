@@ -7,7 +7,7 @@ board_url(kind, key) -> the clean board address, e.g.
 clean_page(url)      -> any other page with tracking tags and filters removed
 """
 import re
-from urllib.parse import urlparse, parse_qs
+from urllib.parse import parse_qsl, urlencode, urlparse, parse_qs
 
 # Board names that mean "students only" (campus, early careers, graduates, interns).
 STUDENT = re.compile(r"campus|students?|early|graduates?|universit|interns?(hips?)?(?![a-z])|college|(?<![a-z])grads?(?![a-z])",
@@ -100,27 +100,35 @@ def classify(url):
     if "workforcenow" in h and "adp.com" in h:
         cid = (q.get("cid") or [None])[0]
         return ("adp", cid) if cid else None
-    if h.endswith("linkedin.com") or h == "bit.ly":
+    if h.endswith("linkedin.com") or h == "bit.ly" or h.endswith("the-trackr.com"):
         return None
     return ("site", clean_page(url))
 
 
+# Query parameters that pick which job board a page shows, so they stay.
+# Everything else (utm_ tracking, source=Trackr, search filters) is dropped.
+KEEP_PARAMS = {"partnerid", "siteid", "company", "microsite", "tag", "cid"}
+
+
 def clean_page(url):
-    """Drop the query string (tracking tags, search filters) and the #fragment."""
-    return url.split("#")[0].split("?")[0]
+    """Drop tracking tags, search filters and the #fragment; keep board-picking parameters."""
+    base, _, query = url.split("#")[0].partition("?")
+    keep = [(k, v) for k, v in parse_qsl(query, keep_blank_values=True) if k.lower() in KEEP_PARAMS]
+    return base + ("?" + urlencode(keep) if keep else "")
 
 
-_JOB_SEG = {"job", "job-details", "jobdetail", "jobdetails", "details", "vacancy", "vacancies", "position",
-            "positions", "posting", "postings", "opening", "openings", "requisition", "opportunity"}
-_JOB_SLUG = re.compile(r"20\d\d|intern|analyst|associate|programme?|summer|graduate|-\d{4,}$|^[0-9a-f\-]{16,}$|^\d{4,}$",
-                       re.I)
+_JOB_SEG = {"job", "job-details", "jobdetail", "jobdetails", "job.html", "details", "vacancy", "position",
+            "posting", "job-posting", "requisition", "opportunity"}
+# A trailing path piece that names one job: has a year, or ends in a job number.
+_JOB_SLUG = re.compile(r"(?<!\d)20\d\d(?!\d)|-\d{4,}$|^[0-9a-f\-]{16,}$|^\d{4,}$", re.I)
 
 
 def listing_page(url):
     """Turn a single-job page on a plain careers site into that site's job list.
     https://careers.truist.com/us/en/job/R0121314/2028-... -> https://careers.truist.com/us/en/
     https://www.deshaw.com/careers/quantitative-analyst-2636 -> https://www.deshaw.com/careers/"""
-    u = urlparse(clean_page(url))
+    cleaned = clean_page(url)
+    u = urlparse(cleaned)
     seg = orig = [s for s in u.path.split("/") if s]
     for i, s in enumerate(seg):
         low = s.lower()
@@ -133,8 +141,8 @@ def listing_page(url):
     while seg and _JOB_SLUG.search(seg[-1]) and seg[-1].lower() not in ("jobs", "careers"):
         seg = seg[:-1]
     if seg == orig:
-        return clean_page(url)
-    return f"{u.scheme}://{u.netloc}/" + "".join(f"{s}/" for s in seg)
+        return cleaned
+    return f"{u.scheme}://{u.netloc}/" + "".join(f"{s}/" for s in seg) + (f"?{u.query}" if u.query else "")
 
 
 def board_url(kind, key):
