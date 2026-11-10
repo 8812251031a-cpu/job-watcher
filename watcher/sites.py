@@ -154,7 +154,7 @@ def board_url(kind, key):
         return f"https://{host}/{site}"
     if kind == "oracle":
         host, site = key.split("|")
-        return f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}"
+        return f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/jobs"
     if kind == "greenhouse":
         return f"https://job-boards.greenhouse.io/{key}"
     if kind == "lever":
