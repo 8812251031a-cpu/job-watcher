@@ -1604,6 +1604,8 @@
   homepage: https://www.kkr.com/our-firm/careers
   career_sites:
     - https://job-boards.greenhouse.io/staged
+    - https://www.kkr.com/careers/student-careers/student-career-opportunities/post
+    - https://www.kkr.com/careers/career-opportunities/post
 
 - id: kline-hill-partners
   name: Kline Hill Partners
@@ -2840,9 +2842,8 @@
 - id: union-square-advisors
   name: Union Square Advisors
   categories: [Middle Market]
-  homepage: https://careers.truist.com/us/en
+  homepage: https://unionsquareadvisors.applytojob.com/apply
   career_sites:
-    - https://truist.wd1.myworkdayjobs.com/Careers
     - https://unionsquareadvisors.applytojob.com/apply
 
 - id: university-partners
