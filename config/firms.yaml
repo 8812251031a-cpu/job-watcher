@@ -61,7 +61,7 @@
   categories: [Buy-Side]
   homepage: https://www.adamsstreetpartners.com/careers/students/
   career_sites:
-    - https://www.adamsstreetpartners.com/careers/students/
+    - https://job-boards.greenhouse.io/adamsstreetpartnersearlycareers
 
 - id: advantage-capital
   name: Advantage Capital
@@ -69,7 +69,7 @@
   homepage: http://www.advantagecap.com/careers
   career_sites:
     - https://recruiting.paylocity.com/recruiting/jobs/All/2980c162-da93-40a4-bbd7-0d90d34e7a13
-    - https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798
+    - https://recruiting.paylocity.com/recruiting/jobs/All/15b846f1-764a-46a4-84e7-2d465d425374/Advantage-Capital-Management
 
 - id: aeris-partners
   name: Aeris Partners
@@ -125,8 +125,7 @@
   categories: [Consulting]
   homepage: https://www.alixpartners.com/careers/
   career_sites:
-    - https://www.alixpartners.com/careers/apply-now/
-    - https://www.alixpartners.com/careers/
+    - https://job-boards.greenhouse.io/alixpartners
 
 - id: all-options
   name: All Options
@@ -154,15 +153,14 @@
   categories: [Buy-Side]
   homepage: https://alpineinvestors.com/careers/
   career_sites:
-    - https://job-boards.greenhouse.io/alpineinternships
+    - https://jobs.ashbyhq.com/alpine-internships
 
 - id: altman-solon
   name: Altman Solon
   categories: [Consulting]
   homepage: https://www.altmansolon.com/careers/on-campus
   career_sites:
-    - https://www.altmansolon.com/careers/student-opportunities
-    - https://www.altmansolon.com/careers/on-campus
+    - https://job-boards.greenhouse.io/altmansoloncampus
 
 - id: alvarez-marsal
   name: Alvarez & Marsal
@@ -185,8 +183,7 @@
   categories: [Miscellaneous]
   homepage: https://www.americanexpress.com/en-us/careers/student-programs/uk/
   career_sites:
-    - https://careers.americanexpress.com/en/sites/CX_1/jobs
-    - https://www.americanexpress.com/en-us/careers/student-programs/uk/
+    - https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
 
 - id: anthelion-capital
   name: Anthelion Capital
@@ -374,7 +371,7 @@
   categories: [Consulting]
   homepage: https://www.bateswhite.com/careers/overview
   career_sites:
-    - https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecApplicantEmail.aspx?Tag=a1b1ebd9-f1eb-4c55-bec5-94494ecb188d
+    - https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb
     - https://www.bateswhite.com/careers/overview
 
 - id: battery
@@ -398,8 +395,8 @@
   categories: [Accounting and Audit, Middle Market]
   homepage: https://careers.bdo.co.uk/early-careers
   career_sites:
-    - https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001
-    - https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers
+    - https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs
+    - https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/jobs
 
 - id: bellwether
   name: Bellwether
@@ -429,6 +426,7 @@
   homepage: https://www.btcpa.net/careers
   career_sites:
     - https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2
+    - https://gusea1p01.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2
 
 - id: berkeley-research-group
   name: Berkeley Research Group
@@ -478,7 +476,7 @@
   categories: [Buy-Side]
   homepage: https://www.blueowl.com/careers
   career_sites:
-    - https://www.blueowl.com/careers
+    - https://blueowl.wd1.myworkdayjobs.com/blueowl
 
 - id: bmo-capital-markets
   name: BMO Capital Markets
@@ -503,7 +501,7 @@
   categories: [Asset Management, Miscellaneous]
   homepage: https://www.bny.com/content/bnymellon/global/en/about-us/careers/students.html
   career_sites:
-    - https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers
+    - https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs
 
 - id: boulay
   name: Boulay
@@ -532,7 +530,7 @@
   homepage: https://www.brevanhoward.com/careers/
   career_sites:
     - https://careers.brevanhoward.com/gb/en/
-    - https://www.brevanhoward.com/careers/
+    - https://careers.brevanhoward.com/gb/en/home
 
 - id: brg
   name: BRG
@@ -555,6 +553,7 @@
   career_sites:
     - https://job-boards.greenhouse.io/bridgewatercampusrecruiting
     - https://job-boards.greenhouse.io/bwaltpostings
+    - https://job-boards.greenhouse.io/bridgewater89
 
 - id: brighttower
   name: BrightTower
@@ -568,7 +567,7 @@
   categories: [Asset Management, Buy-Side]
   homepage: https://brinleypartners.com/about-brinley-parners-financial-asset-management-services/
   career_sites:
-    - https://brinleypartners.com/about-brinley-parners-financial-asset-management-services/
+    - https://brinleypartners.com/our-firm/
 
 - id: brio-real-estate
   name: Brio Real Estate
@@ -590,15 +589,14 @@
   categories: [Middle Market]
   homepage: https://www.bglco.com/careers/
   career_sites:
-    - https://www.bglco.com/careers/view-open-positions/
-    - https://www.bglco.com/careers/
+    - https://job-boards.greenhouse.io/browngibbonslangcompany
 
 - id: bst
   name: BST
   categories: [Accounting and Audit]
   homepage: https://www.bstco.com/your-bst-career
   career_sites:
-    - https://www.bstco.com/your-bst-career
+    - https://recruiting.paylocity.com/Recruiting/Jobs/All/e5afcb9d-e59b-4aae-bd9f-5eebe4447735/BST-CO-CPAS-LLP
 
 - id: btg-pactual
   name: BTG Pactual
@@ -640,7 +638,7 @@
   categories: [Middle Market]
   homepage: https://www.cantor.com/careers/
   career_sites:
-    - https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003
+    - https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs
 
 - id: capital-group
   name: Capital Group
@@ -720,7 +718,7 @@
   categories: [Accounting and Audit]
   homepage: https://www.cbiz.com/careers/students-recent-graduates
   career_sites:
-    - https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
+    - https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
 
 - id: cbre
   name: CBRE
@@ -742,13 +740,14 @@
   homepage: https://cckcpa.com/careers
   career_sites:
     - https://recruiting.paylocity.com/recruiting/jobs/All/15392739-e8a7-4858-a8bb-07f4efbce077/CCK-Internship-Opportunities
+    - https://recruiting.paylocity.com/recruiting/jobs/All/9483cff5-c4c2-4ef3-baed-f7df9e0cdbb1/CCK-Strategies-PLLC
 
 - id: centerview-partners
   name: Centerview Partners
   categories: [Elite Boutique]
   homepage: https://www.centerviewpartners.com/careers.aspx
   career_sites:
-    - https://www.centerviewpartners.com/careers.aspx
+    - https://www.centerviewpartners.com/
 
 - id: cf-private-equity
   name: CF Private Equity
@@ -827,7 +826,7 @@
   categories: [Middle Market]
   homepage: https://jobs.citizensbank.com/college-grad
   career_sites:
-    - https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
+    - https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
 
 - id: citrin-cooperman
   name: Citrin Cooperman
@@ -842,7 +841,7 @@
   categories: [Middle Market]
   homepage: https://www.classvipartners.com/careers
   career_sites:
-    - https://classvipartners.recruitee.com/o/
+    - https://classvipartners.recruitee.com/
     - https://www.classvipartners.com/careers
 
 - id: cleveland-research-company
@@ -865,7 +864,7 @@
   categories: [Middle Market]
   homepage: https://www.cmdglobal.com/
   career_sites:
-    - https://www.cmdglobal.com/
+    - https://cmdglobal.com/
 
 - id: cno-financial-group
   name: CNO Financial Group
@@ -901,7 +900,7 @@
   categories: [Miscellaneous]
   homepage: https://www.connorgp.com/career/students-and-interns
   career_sites:
-    - https://www.connorgp.com/career/students-and-interns
+    - https://connorgp.wd12.myworkdayjobs.com/CG
 
 - id: corient
   name: Corient
@@ -916,14 +915,14 @@
   homepage: https://www.cornerstone.com/careers/
   career_sites:
     - https://ug-chire.icims.com/jobs
+    - https://cornerstone.wd501.myworkdayjobs.com/CornerstoneResearch_Careers
 
 - id: crowe
   name: Crowe
   categories: [Accounting and Audit]
   homepage: https://www.crowe.com/uk/careers/early-careers
   career_sites:
-    - https://careers.crowe.com/search-results
-    - https://www.crowe.com/uk/careers/early-careers
+    - https://crowe.wd12.myworkdayjobs.com/External_Careers
 
 - id: d-a-davidson
   name: D.A. Davidson
@@ -991,9 +990,7 @@
   categories: [Buy-Side, Trading and Quant]
   homepage: https://www.drw.com/work-at-drw
   career_sites:
-    - https://grnh.se/evf0vgud1us
-    - https://grnh.se/ugyg2tee1us
-    - https://www.drw.com/work-at-drw
+    - https://job-boards.greenhouse.io/drweng
 
 - id: ducera-partners
   name: Ducera Partners
@@ -1104,7 +1101,7 @@
   categories: [Asset Management]
   homepage: https://careers.fidelityinternational.com/early-careers-overview/
   career_sites:
-    - https://careers.fidelityinternational.com/early-careers-overview/
+    - https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/
 
 - id: fidelity
   name: Fidelity Investments
@@ -1146,15 +1143,16 @@
   categories: [Miscellaneous]
   homepage: https://www.forvismazars.us/careers
   career_sites:
-    - https://www.forvismazars.us/careers
+    - https://forvis.avature.net/campuscareers/SearchJobs
+    - https://forvis.avature.net/experiencedcareers/SearchJobs
 
 - id: forvis-mazars
   name: Forvis Mazars
   categories: [Accounting and Audit]
   homepage: https://www.forvismazars.us/careers
   career_sites:
-    - https://jobs.forvismazars.us/jobs
-    - https://www.forvismazars.us/careers
+    - https://forvis.avature.net/campuscareers/SearchJobs
+    - https://forvis.avature.net/experiencedcareers/SearchJobs
 
 - id: frazier-deeter
   name: Frazier & Deeter
@@ -1291,7 +1289,7 @@
   categories: [Accounting and Audit, Miscellaneous]
   homepage: https://www.grantthornton.co.uk/careers/
   career_sites:
-    - https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
+    - https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
 
 - id: greenhill
   name: Greenhill
@@ -1343,6 +1341,8 @@
   career_sites:
     - https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers
     - https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers_Campus
+    - https://guggenheiminvestment.wd5.myworkdayjobs.com/External
+    - https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Partners
 
 - id: guidehouse
   name: Guidehouse
@@ -1426,6 +1426,8 @@
   homepage: https://hl.com/about-us/careers/
   career_sites:
     - https://hl.wd1.myworkdayjobs.com/Campus
+    - https://hl.wd1.myworkdayjobs.com/Lateral
+    - https://hl.wd1.myworkdayjobs.com/Corporate
 
 - id: howden
   name: Howden
@@ -1495,7 +1497,7 @@
   categories: [Trading and Quant]
   homepage: https://www.interactivebrokers.co.uk/en/general/about/careers-splash.php
   career_sites:
-    - https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/
+    - https://jobs.dayforcehcm.com/ibgllc/CANDIDATEPORTAL
     - https://www.interactivebrokers.co.uk/en/general/about/careers-splash.php
 
 - id: invesco
@@ -1511,14 +1513,14 @@
   homepage: https://careers.itw.com/
   career_sites:
     - https://careers.itw.com/us/en/
-    - https://careers.itw.com/
+    - https://careers.itw.com/us/en
 
 - id: j-p-morgan
   name: J.P. Morgan
   categories: [Bulge Bracket]
   homepage: https://www.jpmorganchase.com/careers/explore-opportunities/students-and-graduates
   career_sites:
-    - https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001
+    - https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs
 
 - id: jane-street
   name: Jane Street
@@ -1533,6 +1535,8 @@
   homepage: https://www.jefferies.com/Careers/Campus-Recruiting/2cr/826
   career_sites:
     - https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/
+    - https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/
+    - https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/1/adv/
 
 - id: jegi-leonis
   name: Jegi Leonis
@@ -1598,8 +1602,7 @@
   categories: [Consulting]
   homepage: https://www.keystone.com/careers
   career_sites:
-    - https://www.keystone.com/career
-    - https://www.keystone.com/careers
+    - https://job-boards.greenhouse.io/keystone
 
 - id: kkr
   name: KKR
@@ -1623,6 +1626,7 @@
   homepage: https://www.kochinc.com/early-careers
   career_sites:
     - https://koch.avature.net/en_US/careers/SearchJobs
+    - https://koch.avature.net/en_US/CollegeRecruiting/SearchJobs
 
 - id: kpmg
   name: KPMG
@@ -1637,7 +1641,7 @@
   categories: [Accounting and Audit]
   homepage: https://www.kwccpa.com/careers/recruiting
   career_sites:
-    - https://www.kwccpa.com/careers/recruiting
+    - https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=990d3929-8d89-4cc3-99ed-e1fc723d527e
 
 - id: l-e-k-consulting
   name: L.E.K. Consulting
@@ -1645,15 +1649,19 @@
   homepage: https://www.lek.com/careers
   career_sites:
     - https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/6/adv/
+    - https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-1/brand-2/candidate/jobboard/vacancy/1/adv/
+    - https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3/adv/
+    - https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-2/candidate/jobboard/vacancy/5/adv/
 
 - id: lazard
   name: Lazard
   categories: [Elite Boutique]
   homepage: https://www.lazard.com/careers/students
   career_sites:
-    - https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
-    - https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers
+    - https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
+    - https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/jobs
     - https://lazard-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/
+    - https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs
 
 - id: lead-edge-capital
   name: Lead Edge Capital
@@ -1867,13 +1875,14 @@
   career_sites:
     - https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/adv/
     - https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/
+    - https://moelis.wd1.myworkdayjobs.com/Experienced-Hires
 
 - id: moody-s
   name: Moody's
   categories: [Miscellaneous]
   homepage: https://careers.moodys.com/students-early-careers/
   career_sites:
-    - https://careers.moodys.com/students-early-careers/
+    - https://careers.moodys.com/en/search-jobs
 
 - id: moore-colson
   name: Moore Colson
@@ -1887,7 +1896,7 @@
   categories: [Buy-Side]
   homepage: https://www.morgan-properties.com/careers
   career_sites:
-    - https://jobs.dayforcehcm.com/en-US/morganprop/confidential/jobs/
+    - https://jobs.dayforcehcm.com/morganprop/confidential
     - https://www.morgan-properties.com/careers
 
 - id: morgan-stanley
@@ -1925,7 +1934,7 @@
   homepage: https://www.musketcorp.com/en/careers/interns-graduate-opportunities
   career_sites:
     - https://jobs.loves.com/
-    - https://www.musketcorp.com/en/careers/interns-graduate-opportunities
+    - https://www.musketcorp.com/careers/interns-graduate-opportunities
 
 - id: nationwide-mutual-insurance-company
   name: Nationwide Mutual Insurance Company
@@ -1971,6 +1980,7 @@
   homepage: https://www.nomura.com/europe/careers/
   career_sites:
     - https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/
+    - https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/
 
 - id: nonantum-capital-partners
   name: Nonantum Capital Partners
@@ -2041,7 +2051,7 @@
   categories: [Trading and Quant]
   homepage: https://www.oldmissioncapital.com/careers/
   career_sites:
-    - https://job-boards.greenhouse.io/oldmissioncapital
+    - https://jobs.ashbyhq.com/old-mission-capital
 
 - id: oliver-wyman
   name: Oliver Wyman
@@ -2063,7 +2073,7 @@
   categories: [Middle Market]
   homepage: https://www.oppenheimer.com/careers/students-graduates
   career_sites:
-    - https://opco.hrmdirect.com/employment/job-openings.php
+    - https://apply.clearcompany.com/opco
     - https://www.oppenheimer.com/careers/students-graduates
 
 - id: optiver
@@ -2106,7 +2116,7 @@
   categories: [Buy-Side]
   homepage: https://jobs.partnersgroup.com/
   career_sites:
-    - https://jobs.partnersgroup.com/
+    - https://fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs
 
 - id: pathstone
   name: Pathstone
@@ -2256,7 +2266,7 @@
   categories: [Asset Management]
   homepage: https://www.psrs-peers.org/About-Us/Careers
   career_sites:
-    - https://ejrd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4
+    - https://ejrd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/jobs
 
 - id: putnam
   name: Putnam
@@ -2321,9 +2331,7 @@
   categories: [Middle Market]
   homepage: https://www.rbccm.com/en/careers
   career_sites:
-    - https://jobs.rbc.com/ca/en/search-results
-    - https://jobs.rbc.com/ca/en/
-    - https://www.rbccm.com/en/careers
+    - https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1
 
 - id: rdv-corporation
   name: RDV Corporation
@@ -2344,8 +2352,7 @@
   categories: [Middle Market]
   homepage: https://careers.regions.com/us/en/interns-and-graduates
   career_sites:
-    - https://careers.regions.com/us/en/
-    - https://careers.regions.com/us/en/interns-and-graduates
+    - https://regions.wd5.myworkdayjobs.com/Regions_Careers
 
 - id: renaissance-strategic-advisors
   name: Renaissance Strategic Advisors
@@ -2353,7 +2360,7 @@
   homepage: https://rsadvisors.com/careers
   career_sites:
     - https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/
-    - https://rsadvisors.com/careers
+    - https://rsadvisors.com/en/careers
 
 - id: roark-capital-group
   name: Roark Capital Group
@@ -2367,8 +2374,7 @@
   categories: [Asset Management, Middle Market]
   homepage: https://www.rockco.com/about-rcm/working-at-rockefeller/
   career_sites:
-    - https://careers.rockco.com/careers-home/jobs/
-    - https://www.rockco.com/about-rcm/working-at-rockefeller/
+    - https://careers-rcm.icims.com/jobs
 
 - id: rothesay
   name: Rothesay
@@ -2389,8 +2395,7 @@
   categories: [Accounting and Audit, Consulting]
   homepage: https://rsmus.com/careers.html
   career_sites:
-    - https://jobs.rsmus.com/
-    - https://rsmus.com/careers.html
+    - https://rsm.wd1.myworkdayjobs.com/RSMCareers
 
 - id: rwe
   name: RWE
@@ -2412,7 +2417,7 @@
   categories: [Buy-Side]
   homepage: https://www.sandscapital.com/careers-and-staff-benefits/
   career_sites:
-    - https://www.sandscapital.com/careers-and-staff-benefits/
+    - https://job-boards.greenhouse.io/sandscapitalmanagementllc
 
 - id: santander
   name: Santander
@@ -2433,8 +2438,7 @@
   categories: [Accounting and Audit, Consulting]
   homepage: https://www.schneiderdowns.com/careers
   career_sites:
-    - https://schneiderdowns.csod.com/ux/ats/careersite/10/home
-    - https://www.schneiderdowns.com/careers
+    - https://job-boards.greenhouse.io/schneiderdowns
 
 - id: scotiabank
   name: Scotiabank
@@ -2472,14 +2476,15 @@
   homepage: https://www.shell.com/careers/about-careers-at-shell/early-careers.html
   career_sites:
     - https://shell.wd3.myworkdayjobs.com/ShellCareers
+    - https://shell.wd3.myworkdayjobs.com/shellcareers
 
 - id: silversmith-capital-partners
   name: Silversmith Capital Partners
   categories: [Buy-Side]
   homepage: https://www.silversmith.com/careers
   career_sites:
-    - https://silversmith.hirevue.com/signup/RtVvmdREe2qYi4YcQ46qd9/
-    - https://www.silversmith.com/careers
+    - https://upperline.rec.pro.ukg.net/UPP1500ULHI/JobBoard/1d4a537c-ab61-4491-8a1b-781f6bd12501
+    - https://recruiting2.ultipro.com/SOU1040SINPI/JobBoard/0ee64565-a2c3-6f63-54fd-06d1efaa5d77
 
 - id: simon-kucher
   name: Simon-Kucher
@@ -2545,8 +2550,7 @@
   categories: [Trading and Quant]
   homepage: https://www.squarepoint-capital.com/careers
   career_sites:
-    - https://www.squarepoint-capital.com/open-opportunities
-    - https://www.squarepoint-capital.com/careers
+    - https://job-boards.greenhouse.io/squarepointcapital
 
 - id: standard-chartered
   name: Standard Chartered
@@ -2554,7 +2558,7 @@
   homepage: https://www.sc.com/en/global-careers/early-careers/
   career_sites:
     - https://jobs.standardchartered.com/
-    - https://jobs.standardchartered.com/go/Early-careers-Jobs/
+    - https://jobs.standardchartered.com/errorpage/
     - https://www.sc.com/en/global-careers/early-careers/
 
 - id: starwood-capital-group
@@ -2585,7 +2589,7 @@
   categories: [Buy-Side]
   homepage: https://www.stellexcapital.com/careers/
   career_sites:
-    - https://www.stellexcapital.com/careers/
+    - https://www.stellexcapital.com/careers-culture/
 
 - id: stephens
   name: Stephens
@@ -2599,8 +2603,7 @@
   categories: [Buy-Side]
   homepage: https://www.stepstonegroup.com/who-we-are/working-at-stepstone-culture/
   career_sites:
-    - https://www.stepstonegroup.com/current-opportunities/
-    - https://www.stepstonegroup.com/who-we-are/working-at-stepstone-culture/
+    - https://job-boards.greenhouse.io/stepstone
 
 - id: stifel
   name: Stifel
@@ -2623,6 +2626,7 @@
   career_sites:
     - https://stout.wd5.myworkdayjobs.com/Stout-Careers
     - https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers
+    - https://stout.wd5.myworkdayjobs.com/Stout-Experienced-Careers
 
 - id: strategic-investment-group
   name: Strategic Investment Group
@@ -2643,7 +2647,7 @@
   categories: [Buy-Side]
   homepage: https://www.summitpartners.com/summit-careers
   career_sites:
-    - https://www.summitpartners.com/summit-careers
+    - https://job-boards.greenhouse.io/summitpartnerslp
 
 - id: susquehanna-growth-equity
   name: Susquehanna Growth Equity
@@ -2657,9 +2661,7 @@
   categories: [Trading and Quant]
   homepage: https://sig.com/careers/interns-co-ops/
   career_sites:
-    - https://careers.sig.com/recent-graduate/jobs
-    - https://careers.sig.com/search-results
-    - https://sig.com/careers/interns-co-ops/
+    - https://careers-sig.icims.com/jobs
 
 - id: susser-bank
   name: Susser Bank
@@ -2689,20 +2691,21 @@
   homepage: https://www.troweprice.com/en/us/careers
   career_sites:
     - https://troweprice.wd5.myworkdayjobs.com/TRowePrice
+    - https://troweprice.wd5.myworkdayjobs.com/TRowePriceInternational
 
 - id: talos
   name: Talos
   categories: [Trading and Quant]
   homepage: https://www.talos.com/working/open-roles
   career_sites:
-    - https://www.talos.com/working/open-roles
+    - https://jobs.ashbyhq.com/Talos-Trading
 
 - id: tcw
   name: TCW
   categories: [Asset Management]
   homepage: https://www.tcw.com/our-firm/careers/internship-recruitment
   career_sites:
-    - https://www.tcw.com/our-firm/careers/internship-recruitment
+    - https://careers-tcw.icims.com/jobs
 
 - id: td-securities
   name: TD Securities
@@ -2750,16 +2753,14 @@
   categories: [Middle Market]
   homepage: https://mcleanllc.com/jobs
   career_sites:
-    - https://mcleanllc.com/jobs
+    - https://apply.workable.com/the-mclean-group/
 
 - id: the-riverside-company
   name: The Riverside Company
   categories: [Buy-Side]
   homepage: https://www.riversidecompany.com/who-we-are/careers/
   career_sites:
-    - https://www.riversidecompany.com/jobs
-    - https://www.riversidecompany.com/jobs/
-    - https://www.riversidecompany.com/who-we-are/careers/
+    - https://job-boards.greenhouse.io/theriversidecompany
 
 - id: tiaa
   name: TIAA
@@ -2801,9 +2802,7 @@
   categories: [Middle Market]
   homepage: https://careers.truist.com/us/en
   career_sites:
-    - https://careers.truist.com/us/en/
-    - https://careers.truist.com/us/en/search-results
-    - https://careers.truist.com/us/en
+    - https://truist.wd1.myworkdayjobs.com/Careers
 
 - id: tudor-group
   name: Tudor Group
@@ -2840,7 +2839,7 @@
   homepage: https://www.ubs.com/global/en/careers/university-students.html
   career_sites:
     - https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults
-    - https://www.ubs.com/global/en/careers/university-students.html
+    - https://www.ubs.com/global/en/careers/early-careers.html
 
 - id: uline
   name: Uline
@@ -2854,8 +2853,7 @@
   categories: [Middle Market]
   homepage: https://careers.truist.com/us/en
   career_sites:
-    - https://unionsquareadvisors.applytojob.com/apply
-    - https://careers.truist.com/us/en
+    - https://truist.wd1.myworkdayjobs.com/Careers
 
 - id: university-partners
   name: University Partners
@@ -2883,7 +2881,7 @@
   categories: [Middle Market]
   homepage: http://www.vantedge.partners/
   career_sites:
-    - http://www.vantedge.partners/
+    - https://vantedge.partners/
 
 - id: varney-associates
   name: Varney & Associates
@@ -2897,8 +2895,7 @@
   categories: [Buy-Side]
   homepage: https://www.verition.com/careers
   career_sites:
-    - https://www.verition.com/open-positions
-    - https://www.verition.com/careers
+    - https://job-boards.greenhouse.io/veritiongroupllc
 
 - id: virtu-financial
   name: Virtu Financial
@@ -2912,8 +2909,9 @@
   categories: [Buy-Side]
   homepage: https://www.vistaequitypartners.com/careers/
   career_sites:
-    - https://www.vistaequitypartners.com/careers/vista-career-opportunities/
-    - https://www.vistaequitypartners.com/careers/
+    - https://careers3-vistaequitypartners.icims.com/jobs
+    - https://careers2-vistaequitypartners.icims.com/jobs
+    - https://careers-vistaequitypartners.icims.com/jobs
 
 - id: voloridge-investment-management
   name: Voloridge Investment Management
@@ -2951,7 +2949,7 @@
   categories: [Asset Management]
   homepage: https://www.wealthspire.com/contact/careers/
   career_sites:
-    - https://www.wealthspire.com/contact/careers/
+    - https://www.wealthspire.com/careers
 
 - id: wedbush-securities
   name: Wedbush Securities
@@ -2959,7 +2957,7 @@
   homepage: https://www.wedbush.com/about-wedbush/career-opportunities/
   career_sites:
     - https://wedbush.atsondemand.com/index.cfm?cid=512079
-    - https://www.wedbush.com/about-wedbush/career-opportunities/
+    - https://wedbush.com/career-opportunities/
 
 - id: weiss-asset-management
   name: Weiss Asset Management
@@ -3002,8 +3000,7 @@
   categories: [Accounting and Audit, Miscellaneous]
   homepage: https://careers.wipfli.com/
   career_sites:
-    - https://careers.wipfli.com/all-openings
-    - https://careers.wipfli.com/
+    - https://careers-wipfliindia.icims.com/jobs
 
 - id: withum
   name: Withum
