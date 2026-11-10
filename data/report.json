@@ -3380,8 +3380,8 @@
   "firm": "Graham Partners",
   "id": "graham-partners",
   "readable": true,
-  "postings_read": 163,
-  "matches": 1,
+  "postings_read": 9,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -3394,13 +3394,11 @@
     "kind": "site",
     "key": "https://www.grahampartners.net/careers/",
     "ok": true,
-    "count": 154,
+    "count": 0,
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Full Time: Business Development Analyst"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Grant Thornton",
@@ -4175,7 +4173,7 @@
   "firm": "Kearney",
   "id": "kearney",
   "readable": true,
-  "postings_read": 441,
+  "postings_read": 442,
   "matches": 0,
   "sources": [
    {
@@ -4189,7 +4187,7 @@
     "kind": "site",
     "key": "https://www.kearney.com/careers",
     "ok": true,
-    "count": 438,
+    "count": 439,
     "error": ""
    }
   ],
@@ -5458,16 +5456,16 @@
  {
   "firm": "OMERS",
   "id": "omers",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 32,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "omers.wd3.myworkdayjobs.com|omers|OMERS_External",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://omers.wd3.myworkdayjobs.com/wday/cxs/omers/OMERS_External/jobs"
+    "ok": true,
+    "count": 32,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -6869,16 +6867,16 @@
  {
   "firm": "Stellex",
   "id": "stellex",
-  "readable": true,
-  "postings_read": 72,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.stellexcapital.com/careers/",
-    "ok": true,
-    "count": 72,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.stellexcapital.com', port=443): Read timed out. (read timeout=25)"
    }
   ],
   "sample_matches": []
@@ -7537,16 +7535,16 @@
  {
   "firm": "UBS",
   "id": "ubs",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 68,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131"
+    "key": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults",
+    "ok": true,
+    "count": 68,
+    "error": ""
    },
    {
     "kind": "site",
