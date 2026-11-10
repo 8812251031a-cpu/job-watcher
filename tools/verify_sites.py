@@ -42,6 +42,16 @@ HOP_TEXT = re.compile(r"(search|view|see|browse|explore|find|current|all|open)\b
 OTHER_SYSTEMS = re.compile(r"taleo\.net|successfactors\.(com|eu)|dayforcehcm\.com|recsolu\.com|TGnewUI|eightfold\.ai|"
                            r"jobvite\.com|phenompeople|rippling\.com|hibob\.com|pinpointhq|teamtailor|recruitee|"
                            r"jazzhr|applytojob|myworkdaysite", re.I)
+GH_HOSTS = {"boards.greenhouse.io", "job-boards.greenhouse.io", "boards-api.greenhouse.io"}
+GH_STOP = {"embed", "v1", "jobs", "boards", "assets", "locales", "fonts", "docs", "users", "stage",
+           "external_greenhouse_job_boards", "uncacheable_attributes", "talent_community"}
+# Boards for regions outside the US, mainland China and Hong Kong: never used as a firm's main board.
+REGIONAL = re.compile(r"india|emea|europe|canada|australia|japan|latam|brazil|mexico|germany|france|ireland|london|"
+                      r"singapore|nordic|africa|(?:^|[-_.|])(uk|be|de|fr|au|ca|jp|in|sg)(?:$|[-_.|])", re.I)
+# Plain pages that are themselves hosted job boards: kept even when a job-system board is found.
+HOSTED = re.compile(r"applytojob|recruitee|rippling|dayforcehcm|csod\.com|hirevue|clearcompany|atsondemand|viglobalcloud|"
+                    r"jobvite|teamtailor|applicantpro|hiringthing|hrmdirect|paycom|paycor|jazzhr|pinpointhq|"
+                    r"successfactors|taleo|TGnewUI|recsolu|myworkdaysite", re.I)
 GENERIC = {"capital", "partners", "group", "management", "advisors", "advisory", "investments", "investment", "bank",
            "banking", "financial", "securities", "company", "associates", "holdings", "global", "asset", "the", "and",
            "llc", "inc", "fund", "funds", "markets", "international", "trading", "corporation", "corp", "co", "of"}
@@ -65,10 +75,12 @@ def _ats_of(url):
         return None
     h, seg = (u.hostname or "").lower(), [s for s in u.path.split("/") if s]
     q = parse_qs(u.query)
+    if h.endswith("greenhouse.io") and h not in GH_HOSTS:
+        return None  # Greenhouse's own CDN, analytics and sign-in pages
     if h == "boards-api.greenhouse.io" and len(seg) >= 3 and seg[1] == "boards":
-        return ("greenhouse", seg[2])
+        return ("greenhouse", seg[2]) if seg[2] not in GH_STOP else None
     if h.endswith("greenhouse.io") and "for" in q:
-        return ("greenhouse", q["for"][0])
+        return ("greenhouse", q["for"][0]) if q["for"][0] not in GH_STOP else None
     if h == "api.lever.co" and len(seg) >= 3:
         return ("lever", seg[2])
     if h == "api.ashbyhq.com" and len(seg) >= 3:
@@ -85,7 +97,7 @@ def _ats_of(url):
     c = classify(url)
     if not c or c[0] in ("site", "goldman", "janestreet"):
         return None
-    if c[0] == "greenhouse" and c[1] in ("embed", "v1", "jobs", "boards"):
+    if c[0] == "greenhouse" and c[1] in GH_STOP:
         return None
     if c[0] == "workday" and c[1].split("|")[2] in ("wday", "en-US", "login", "userHome"):
         return None
@@ -95,14 +107,36 @@ def _ats_of(url):
 def ident(kind, key):
     """The part of a board's key that should resemble the firm's name, or None when it can't."""
     if kind == "workday":
-        return key.split("|")[1]
+        return key.split("|")[1] + key.split("|")[2]  # tenant + board name
     if kind in ("greenhouse", "lever", "ashby", "smartrecruiters", "workable"):
         return key
     if kind in ("icims", "bamboo", "breezy"):
         return re.sub(r"^(careers|jobs|uscareers|external|internal)-", "", key.split(".")[0])
     if kind in ("avature", "oleeo"):
-        return (urlparse(key if kind == "oleeo" else "https://" + key.split("|")[0]).hostname or "").split(".")[0]
+        host = urlparse(key if kind == "oleeo" else "https://" + key.split("|")[0]).hostname or ""
+        return "".join(x for x in host.split(".") if x not in HOST_NOISE and x not in ("avature", "tal"))
     return None  # oracle, ukg, adp, paylocity: keys don't carry a name
+
+
+def tenant(kind, key):
+    """Which account on the job system a board belongs to."""
+    if kind in ("workday", "oracle", "avature"):
+        return (kind, key.split("|")[0].lower())
+    if kind == "ukg":
+        return (kind, key.split("|")[1].lower())
+    if kind in ("icims", "bamboo", "breezy"):
+        return (kind, key.lower())
+    if kind == "oleeo":
+        return (kind, (urlparse(key).hostname or "").lower())
+    return (kind, key.lower())
+
+
+def nkey(c):
+    """Comparable form of a board: case-insensitive, UKG ignoring which server it's on."""
+    kind, key = c
+    if kind == "ukg":
+        return (kind, "|".join(key.lower().split("|")[1:]))
+    return (kind, key.lower())
 
 
 def norm(s):
@@ -114,11 +148,13 @@ def owned(firm, kind, key):
     if not tag:
         return None  # can't tell from the name
     words = [w for w in re.findall(r"[a-z0-9]+", firm["name"].lower()) if w not in GENERIC and len(w) >= 3]
+    if not words and len(norm(firm["name"])) >= 2:
+        words = [norm(firm["name"])]  # short names such as bp, EY
     host = urlparse(firm.get("homepage") or "").hostname or ""
     labels = [norm(x) for x in host.split(".") if x and x not in HOST_NOISE and len(x) >= 3]
     names = [norm("".join(words))] + [norm(w) for w in words] + labels
     for n in filter(None, names):
-        if len(n) >= 3 and (n in tag or (len(tag) >= 3 and tag in n)):
+        if len(n) >= 2 and (n in tag or (len(tag) >= 3 and tag in n)):
             return True
         if difflib.SequenceMatcher(None, n, tag).ratio() >= 0.75:
             return True
@@ -160,12 +196,15 @@ async def render(ctx, url, sem):
 
 
 def boards_in(pages):
+    """Boards seen on the pages: {(kind, key): {"url", "via", "text", "page"}}."""
     found, other = {}, set()
     for p in pages:
-        for u in [p.get("final") or ""] + [x[0] for x in p["links"]] + p["frames"] + p["requests"]:
+        items = [(p.get("final") or "", "final", "")] + [(h, "link", t) for h, t in p["links"]] + \
+                [(f, "frame", "") for f in p["frames"]] + [(r, "request", "") for r in p["requests"]]
+        for u, via, text in items:
             c = ats_of(u)
             if c:
-                found.setdefault(c, u)
+                found.setdefault(c, {"url": u, "via": via, "text": text, "page": p["url"]})
             elif OTHER_SYSTEMS.search(str(u or "")):
                 try:
                     h = urlparse(str(u)).hostname or ""
@@ -210,8 +249,8 @@ async def check_firm(ctx, sem, firm):
 
     pages = list(await asyncio.gather(*(render(ctx, u, sem) for u in scan)))
     found, other = boards_in(pages)
-    have = {c for _, c in ats_now}
-    mine = [c for c in found if c not in have and owned(firm, *c) is not False]
+    have = {nkey(c) for _, c in ats_now}
+    mine = [c for c in found if nkey(c) not in have and owned(firm, *c) is not False]
     if not mine and not ats_now:
         hops = [h for p in pages for h in hop_links(p)][:2]
         if hops:
@@ -224,15 +263,29 @@ async def check_firm(ctx, sem, firm):
                     for p in pages]
     rec["other_systems"] = other
 
-    have = {c for _, c in ats_now}
+    have = {nkey(c) for _, c in ats_now}
+    my_tenants = {tenant(*c) for _, c in ats_now}
     rec["candidates"] = {}
-    for c, seen_at in found.items():
-        if c in have:
+    for c, info in found.items():
+        if nkey(c) in have:
             continue
-        own = owned(firm, *c)
-        n_kind = sum(1 for k in found if k[0] == c[0])
-        if own is False or (own is None and n_kind > 2):
+        seen_at = info["url"]
+        tenants_of_kind = {tenant(*k) for k in found if k[0] == c[0]}
+        direct = info["via"] in ("final", "link", "frame") and \
+            not re.search(r"portfolio", f"{info['text']} {info['page']}", re.I)
+        if tenant(*c) in my_tenants:
+            own = True  # another board on an account the firm already uses
+        else:
+            own = owned(firm, *c)
+            if own is None:
+                own = True if len(tenants_of_kind) == 1 else False
+            elif own is False and direct and len(tenants_of_kind) == 1 and not ats_now:
+                own = True  # the only board of its kind that the firm's own page links to
+        if not own:
             rec["candidates"][board_url(*c)] = {"skipped": "doesn't look like this firm's board", "seen_at": seen_at}
+            continue
+        if REGIONAL.search(ident(*c) or c[1]):
+            rec["candidates"][board_url(*c)] = {"skipped": "board for another region", "seen_at": seen_at}
             continue
         r = await loop.run_in_executor(None, read_board, *c)
         r["seen_at"] = seen_at
@@ -254,8 +307,9 @@ def decide(firm, rec):
     plain = [s for s in norm_before if (classify(s) or ("site",))[0] == "site"]
     if not ats:
         if good_new:
-            after = good_new[:3]
-            why.append("careers page leads to " + ", ".join(after) + "; replaced plain pages")
+            hosted = [p for p in plain if HOSTED.search(p)]
+            after = good_new[:3] + hosted
+            why.append("careers page leads to " + ", ".join(good_new[:3]) + "; replaced plain pages")
         else:
             after = list(plain)
             for p in rec["pages"]:
@@ -263,7 +317,7 @@ def decide(firm, rec):
                     fin = clean_page(p["final"])
                     if (urlparse(fin).hostname, urlparse(fin).path.rstrip("/")) != \
                             (urlparse(p["url"]).hostname, urlparse(p["url"]).path.rstrip("/")) and \
-                            not re.search(r"login|signin|sign-in|auth|sso|captcha|challenge", fin, re.I):
+                            not re.search(r"login|signin|sign-in|auth|sso|captcha|challenge|error|not-?found|404", fin, re.I):
                         after[after.index(p["url"])] = fin
                         why.append(f"{p['url']} now redirects to {fin}")
             after = list(dict.fromkeys(after))
@@ -279,7 +333,14 @@ def decide(firm, rec):
             why.append("careers page also links to " + ", ".join(extra))
         if any(s != n for s, n in zip(before, norm_before)):
             why.append("standard address form")
-    return after, why
+    deduped, keys = [], set()
+    for u in after:
+        c = classify(u)
+        k = nkey(c) if c and c[0] != "site" else ("site", u.rstrip("/").lower())
+        if k not in keys:
+            keys.add(k)
+            deduped.append(u)
+    return deduped, why
 
 
 async def main_async():

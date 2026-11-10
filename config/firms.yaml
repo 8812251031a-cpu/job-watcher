@@ -426,7 +426,6 @@
   homepage: https://www.btcpa.net/careers
   career_sites:
     - https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2
-    - https://gusea1p01.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2
 
 - id: berkeley-research-group
   name: Berkeley Research Group
@@ -624,7 +623,6 @@
   homepage: https://calibrecpa.com/careers/open-positions
   career_sites:
     - https://calibrecpa.com/careers/open-positions/
-    - https://calibrecpa.com/careers/open-positions
 
 - id: campbell-lutyens
   name: Campbell Lutyens
@@ -790,7 +788,6 @@
   homepage: https://chinookadvisors.com/careers
   career_sites:
     - https://chinookadvisors.com/careers/
-    - https://chinookadvisors.com/careers
 
 - id: cibc
   name: CIBC
@@ -937,7 +934,6 @@
   homepage: https://www.deshaw.com/careers
   career_sites:
     - https://www.deshaw.com/careers/
-    - https://www.deshaw.com/careers
 
 - id: davenport-co
   name: Davenport & Co.
@@ -945,7 +941,6 @@
   homepage: https://www.investdavenport.com/careers
   career_sites:
     - https://www.investdavenport.com/careers/
-    - https://www.investdavenport.com/careers
 
 - id: dc-advisory
   name: DC Advisory
@@ -1513,7 +1508,6 @@
   homepage: https://careers.itw.com/
   career_sites:
     - https://careers.itw.com/us/en/
-    - https://careers.itw.com/us/en
 
 - id: j-p-morgan
   name: J.P. Morgan
@@ -1566,7 +1560,6 @@
   homepage: https://www.johnsonlambert.com/open-positions
   career_sites:
     - https://www.johnsonlambert.com/open-positions/
-    - https://www.johnsonlambert.com/open-positions
 
 - id: jump-trading
   name: Jump Trading
@@ -1949,7 +1942,6 @@
   homepage: https://recrutement.natixis.com/en
   career_sites:
     - https://recrutement.natixis.com/en/
-    - https://recrutement.natixis.com/en
 
 - id: naval-nuclear-laboratory
   name: Naval Nuclear Laboratory
@@ -2476,15 +2468,14 @@
   homepage: https://www.shell.com/careers/about-careers-at-shell/early-careers.html
   career_sites:
     - https://shell.wd3.myworkdayjobs.com/ShellCareers
-    - https://shell.wd3.myworkdayjobs.com/shellcareers
 
 - id: silversmith-capital-partners
   name: Silversmith Capital Partners
   categories: [Buy-Side]
   homepage: https://www.silversmith.com/careers
   career_sites:
-    - https://upperline.rec.pro.ukg.net/UPP1500ULHI/JobBoard/1d4a537c-ab61-4491-8a1b-781f6bd12501
-    - https://recruiting2.ultipro.com/SOU1040SINPI/JobBoard/0ee64565-a2c3-6f63-54fd-06d1efaa5d77
+    - https://silversmith.hirevue.com/signup/RtVvmdREe2qYi4YcQ46qd9/
+    - https://www.silversmith.com/careers
 
 - id: simon-kucher
   name: Simon-Kucher
@@ -2558,7 +2549,6 @@
   homepage: https://www.sc.com/en/global-careers/early-careers/
   career_sites:
     - https://jobs.standardchartered.com/
-    - https://jobs.standardchartered.com/errorpage/
     - https://www.sc.com/en/global-careers/early-careers/
 
 - id: starwood-capital-group
@@ -2853,7 +2843,7 @@
   categories: [Middle Market]
   homepage: https://careers.truist.com/us/en
   career_sites:
-    - https://truist.wd1.myworkdayjobs.com/Careers
+    - https://unionsquareadvisors.applytojob.com/apply
 
 - id: university-partners
   name: University Partners
@@ -3000,7 +2990,8 @@
   categories: [Accounting and Audit, Miscellaneous]
   homepage: https://careers.wipfli.com/
   career_sites:
-    - https://careers-wipfliindia.icims.com/jobs
+    - https://careers.wipfli.com/all-openings
+    - https://careers.wipfli.com/
 
 - id: withum
   name: Withum
@@ -3029,7 +3020,6 @@
   homepage: https://zacharyscott.com/careers
   career_sites:
     - https://zacharyscott.com/careers/
-    - https://zacharyscott.com/careers
 
 - id: ziegler
   name: Ziegler
