@@ -1,4 +1,4 @@
-# Open right now: 106 postings at 40 firms
+# Open right now: 106 postings at 39 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -34,6 +34,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Private Equity Analyst | Real Assets and Sustainability](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aebad3d9-4fa5-4393-8afb-3a6af61641d2&jobId=9201316633960_1) · posted Nov 4
 
 ## Citi
+- [Functions - Chief Operating Office, Full Time Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Chief-Operating-Office--Full-Time-Analyst--Tampa---USA--2027_26981762) · posted Nov 10
 - [Services, Full-Time Analyst, Argentina– Capital Federal, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Capital-Federal--Argentina/Services--Full-Time-Analyst--Argentina--Capital-Federal--2027_261007721) · posted Nov 9
 - [Technology - Application Development, Full Time Analyst, Bahrain - Seef 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seef--Bahrain/Technology---Application-Development--Full-Time-Analyst--Bahrain---Seef-2027_261005223) · posted Nov 9
 - [Market Operations Junior Analyst Program Hybrid](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Market-Operations-Junior-Analyst-Program-Hybrid_26991391-1) · posted Nov 3
@@ -110,6 +111,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Analyst, Investment Team](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4468904009) · posted Nov 2
 
 ## M&T Bank
+- [2027 Executive Associate Program - Human Resouces](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Human-Resouces_R92086) · posted Nov 10
 - [2027 Technology Development Program - Cybersecurity (Insider Threat)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500) · posted Nov 9
 - [2027 Community Branch Management Program - Philadelphia Metro](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Philadelphia-PA/XMLNAME-2027-Community-Branch-Management-Program---Philadelphia-Metro_R91960) · posted Nov 9
 - [2027 Community Branch Management Program - Jersey City, NJ](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Jersey-City-NJ/XMLNAME-2027-Community-Branch-Management-Program---Jersey-City--NJ_R91961) · posted Nov 9
@@ -142,10 +144,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## Oliver Wyman
 - [Marsh People and Investments Executive Rewards Analyst- Louisville- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Louisville---West-Market/Marsh-People-and-Investments-Executive-Rewards-Analyst--Louisville--College-Program-2027_R_360893) · posted Oct 28
-
-## PJT Partners
-- [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
-- [2027 Full Time Analyst - PJT Camberview (Governance - San Francisco)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/San-Francisco/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Governance---San-Francisco-_R0003478) · first seen Nov 8
 
 ## Protiviti
 - [Americas Delivery Center Analyst - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Analyst---2027_JR-261879-2) · posted Nov 4
