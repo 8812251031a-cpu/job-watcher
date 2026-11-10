@@ -315,14 +315,21 @@
   "firm": "AllianceBernstein",
   "id": "alliancebernstein",
   "readable": true,
-  "postings_read": 184,
+  "postings_read": 46,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.alliancebernstein.com/corporate/en/careers/students.html",
+    "kind": "workday",
+    "key": "abglobal.wd1.myworkdayjobs.com|abglobal|alliancebernsteincareers",
     "ok": true,
-    "count": 184,
+    "count": 29,
+    "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "abglobal.wd1.myworkdayjobs.com|abglobal|abcampuscareers",
+    "ok": true,
+    "count": 17,
     "error": ""
    }
   ],
@@ -1321,8 +1328,8 @@
   "firm": "bp",
   "id": "bp",
   "readable": true,
-  "postings_read": 32,
-  "matches": 0,
+  "postings_read": 125,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
@@ -1330,9 +1337,18 @@
     "ok": true,
     "count": 32,
     "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "bpinternational.wd3.myworkdayjobs.com|bpinternational|bpCareers",
+    "ok": true,
+    "count": 93,
+    "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Azerbaijan Discovery Week 2027"
+  ]
  },
  {
   "firm": "Bracebridge Capital",
@@ -1724,21 +1740,14 @@
   "firm": "Capstone Partners",
   "id": "capstone-partners",
   "readable": true,
-  "postings_read": 133,
+  "postings_read": 71,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://flows.beamery.com/huntingtonbank/capstone-partners",
+    "kind": "workday",
+    "key": "huntington.wd12.myworkdayjobs.com|huntington|HNBcareers",
     "ok": true,
-    "count": 0,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.capstonepartners.com/about/careers",
-    "ok": true,
-    "count": 133,
+    "count": 71,
     "error": ""
    }
   ],
@@ -3753,14 +3762,14 @@
   "firm": "Howden",
   "id": "howden",
   "readable": true,
-  "postings_read": 670,
+  "postings_read": 91,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.howdengroup.com/uk-en/culture-and-careers",
+    "kind": "workday",
+    "key": "hyperiongrp.wd3.myworkdayjobs.com|hyperiongrp|hyperion_external",
     "ok": true,
-    "count": 670,
+    "count": 91,
     "error": ""
    }
   ],
@@ -4221,14 +4230,14 @@
   "firm": "KKR",
   "id": "kkr",
   "readable": true,
-  "postings_read": 294,
+  "postings_read": 302,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.kkr.com/careers/career-opportunities/post",
+    "kind": "greenhouse",
+    "key": "staged",
     "ok": true,
-    "count": 147,
+    "count": 8,
     "error": ""
    },
    {
@@ -4240,10 +4249,10 @@
    },
    {
     "kind": "site",
-    "key": "https://www.kkr.com/our-firm/careers",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.kkr.com/our-firm/careers"
+    "key": "https://www.kkr.com/careers/career-opportunities/post",
+    "ok": true,
+    "count": 147,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -5459,26 +5468,26 @@
   "firm": "Oliver Wyman",
   "id": "oliver-wyman",
   "readable": true,
-  "postings_read": 166,
+  "postings_read": 213,
   "matches": 1,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://careers.marsh.com/global/en/search-results",
+    "kind": "workday",
+    "key": "mmc.wd1.myworkdayjobs.com|mmc|MMC",
     "ok": true,
-    "count": 40,
+    "count": 116,
     "error": ""
    },
    {
-    "kind": "site",
-    "key": "https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html",
+    "kind": "workday",
+    "key": "mmc.wd1.myworkdayjobs.com|mmc|careers",
     "ok": true,
-    "count": 126,
+    "count": 97,
     "error": ""
    }
   ],
   "sample_matches": [
-   "Data And Analytics Industrial Placement 2027 (12 months) Newcastle"
+   "Marsh People and Investments Executive Rewards Analyst- Louisville- College Program 2027"
   ]
  },
  {

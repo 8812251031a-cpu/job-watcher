@@ -1,4 +1,4 @@
-# Open right now: 108 postings at 41 firms
+# Open right now: 109 postings at 42 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -19,6 +19,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## Blackstone
 - [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) · first seen Nov 9
+
+## bp
+- [Azerbaijan Discovery Week 2027](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/Azerbaijan---Baku/Azerbaijan-Discovery-Week-2027_RQ118009) · posted Nov 7
 
 ## Cantor Fitzgerald
 - [Investment Banking Analyst – Energy (Class of 2027)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250409) · posted Oct 30
@@ -141,7 +144,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Step In, Step Up: Empowering Women - Career Pathways Programmme](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22357-2027-Step-In-Step-Up-Empowering-Women-Career-Pathways-Programmme/en-GB) · first seen Nov 8
 
 ## Oliver Wyman
-- [Data And Analytics Industrial Placement 2027 (12 months) Newcastle](https://mmc.wd1.myworkdayjobs.com/careers/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970) · first seen Nov 8
+- [Marsh People and Investments Executive Rewards Analyst- Louisville- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Louisville---West-Market/Marsh-People-and-Investments-Executive-Rewards-Analyst--Louisville--College-Program-2027_R_360893) · posted Oct 29
 
 ## PJT Partners
 - [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
