@@ -141,7 +141,7 @@ def main_workday(firm, key):
     cands += ["Careers", "External", "External_Careers", "External_Career_Site", "careers", "Search"]
     best = None
     for c in dict.fromkeys(cands):
-        if c == site or STUDENT.search(c) or re.search(r"privileg|confidential|private|internal", c, re.I):
+        if c == site or STUDENT.search(c) or re.search(r"privileg|confidential|private|internal|lateral|experienced", c, re.I):
             continue
         d = wd_page(host, tenant, c, limit=1)
         total = (d or {}).get("total") or 0
