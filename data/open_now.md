@@ -1,15 +1,11 @@
-# Open right now: 91 postings at 38 firms
+# Open right now: 82 postings at 32 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
-## Abrams Bison Investments
-- [Graduate Analyst jobs](https://www.linkedin.com/jobs/graduate-analyst-jobs?trk=organization_guest_linkster_link) · first seen Nov 8
-- [Graduate Analyst jobs](https://www.linkedin.com/company/abrams-bison-investments?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers) · first seen Nov 8
-
 ## Adams Street Partners
 - [Full-Time Investment Analyst Program »](https://www.adamsstreetpartners.com/careers/investment-analyst-program/) · first seen Nov 8
-- [Full-Time Investment Analyst Program](https://www.adamsstreetpartners.com/careers/students/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers&gh_src=Trackr) · first seen Nov 8
-- [Full-Time Investment Analyst Program »](https://www.adamsstreetpartners.com/careers/students/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers&gh_src=Trackr) · first seen Nov 8
+- [Full-Time Investment Analyst Program](https://www.adamsstreetpartners.com/careers/students/) · first seen Nov 8
+- [Full-Time Investment Analyst Program »](https://www.adamsstreetpartners.com/careers/students/) · first seen Nov 8
 
 ## Bank of America
 - [2027 Global Markets Military and Athlete Programme](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/15264-2027-Global-Markets-Military-and-Athlete-Programme/en-GB) · first seen Nov 8
@@ -28,9 +24,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Cantor Fitzgerald
 - [Investment Banking Analyst – Energy (Class of 2027)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250409) · posted Oct 30
 
-## Cargill
-- [Pursuing a bachelor’s or master’s degree from an accredited program graduating between December 2027 and August 2028](https://careers.cargill.com/en/job/amarillo/commodity-trading-internship-2027/23251/98714735712?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027) · first seen Nov 8
-
 ## CBIZ
 - [Sales Development Representative | Benefits & Insurance | February 2027](https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6668) · posted Nov 2
 - [Sales Development Representative | Benefits & Insurance | February 2027](https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6669) · posted Nov 2
@@ -45,9 +38,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Full-Time-Analyst--Buffalo---USA--2027_26981024) · posted Oct 31
 
 ## Deutsche Bank
-- [Deutsche Bank Graduate Program - Investment Bank & Capital Markets: Investment Bank Coverage - New York 2027](https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027) · first seen Nov 8
-- [Complete your studies between 1st January 2026 and 31st July 2027.](https://careers.db.com/students-graduates/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers) · first seen Nov 8
-- [Be able to start full time work in July 2027, subject to local working legislation and visa requirements.](https://careers.db.com/students-graduates/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers) · first seen Nov 8
+- [Deutsche Bank Graduate Program - Investment Bank & Capital Markets: Investment Bank Coverage - New York 2027](https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng) · first seen Nov 8
 
 ## DRW
 - [Bachelor’s degree in finance, business administration, economics, accounting, or liberal arts graduating between December 2027 and June 2028](https://job-boards.greenhouse.io/drweng/jobs/7993004?gh_src=ugyg2tee1us) · first seen Nov 8
@@ -55,14 +46,8 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Eastdil Secured
 - [2027 Virtual Real Estate Finance Training Program](https://eastdilsecured.bamboohr.com/careers/169) · first seen Nov 8
 
-## ExxonMobil
-- [Be graduating in 2026/2027 or have graduated within the last three years](https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027) · first seen Nov 8
-
 ## FTI Consulting
 - [2027 IMPACT Leadership Program](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/United-States/XMLNAME-2027-IMPACT-Leadership-Program_JR260427) · posted Oct 27
-
-## Graham Partners
-- [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
 
 ## Guidehouse
 - [Consulting Analyst - State & Local Government - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Consulting-Analyst---State---Local-Government---Campus-2027_43498) · posted Nov 7
@@ -99,13 +84,10 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Investment Banking Analyst - Houston, Energy Group (February Start)](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1858-2027-Investment-Banking-Analyst-Houston-Energy-Group-February-Start/en-GB) · first seen Nov 8
 
 ## K1 Investment Management
-- [Analyst, Diligence (Fall 2027)](https://k1.com/careers/?utm_source=Trackr&utm_medium=tracker&utm_campaign=careers) · first seen Nov 8
+- [Analyst, Diligence (Fall 2027)](https://k1.com/careers/) · first seen Nov 8
 
 ## LLR Partners
 - [2027 Analyst, Investment Team](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4468904009) · posted Nov 2
-
-## Lumsden McCormick CPA
-- [Duration: June 2027 through August 2027.](https://lumsdencpa-4898476.hs-sites.com/audit-intern-summer-2027-lumsden-mccormick-cpa?__hstc=255821719.0d5487f1e624cc2b484fd360bb990a46.1767795940944.1767795940944.1767795940944.1&__hssc=255821719.1.1767795940944&__hsfp=3664202077&utm_source=Trackr&utm_medium=tracker&utm_campaign=NA_Finance_2027) · first seen Nov 8
 
 ## M&T Bank
 - [2027 Technology Development Program - Cybersecurity (Insider Threat)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500) · posted Nov 10
@@ -153,12 +135,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Raymond James
 - [2027 Spring Associate – Alternative Investments Due Diligence – St. Petersburg, FL](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Spring-Associate---Alternative-Investments-Due-Diligence---St-Petersburg--FL_R-0013783) · posted Nov 10
 
-## Standard Chartered
-- [Start Date: July 2027](https://jobs.standardchartered.com/job/Financial-Markets-Graduate-Programme-2027/61814-en_GB?feedid=363857&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027) · first seen Nov 8
-
-## StepStone Group
-- [StepStone Group Reports Second Quarter Fiscal Year 2027 Results](https://www.stepstonegroup.com/news-insights/stepstone-group-reports-second-quarter-fiscal-year-2027-results/) · first seen Nov 8
-- [Recent Firm news StepStone Group Reports Second Quarter Fiscal Year 2027 Results Learn More](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8112319&utm_source=Trackr&utm_medium=tracker&utm_campaign=US_Finance_2027&gh_src=Trackr) · first seen Nov 8
+## Scotiabank
+- [Customer Care Advisor (Client Experience Centre) Halifax NS - January 2027](https://jobs.scotiabank.com/job/Halifax-Customer-Care-Advisor-%28Client-Experience-Centre%29-Halifax-NS-January-2027-NS/607789417/) · first seen Nov 10
+- [Service Officer (January 2027)](https://jobs.scotiabank.com/job/Mississauga-Service-Officer-%28January-2027%29-ON/607736917/) · first seen Nov 10
 
 ## T. Rowe Price
 - [Associate Sales Consultant (December 2026 & Spring 2027 Graduates)](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Sales-Consultant--December-2026---Spring-2027-Graduates-_84293) · posted Nov 3
@@ -174,7 +153,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
 - **Abdiel Capital** · [careers site](https://abdielcapital.com/careers/) · job-site link is broken or moved
-- **Advantage Capital** · [careers site](http://www.advantagecap.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Abrams Bison Investments** · [careers site](https://www.linkedin.com/company/abrams-bison-investments) · no job site in the config
 - **Aldrich** · [careers site](https://aldrichadvisors.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **AlphaSights** · [careers site](https://www.alphasights.com/careers/students-and-interns/) · site blocks automated checks
 - **Alpine Investors** · [careers site](https://alpineinvestors.com/careers/) · job-site link is broken or moved
@@ -182,7 +161,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
 - **Bain & Company** · [careers site](https://www.bain.com/careers/work-with-us/students/) · site blocks automated checks
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
-- **Caldwell Bray Securities** · no link on Trackr · no job site listed on Trackr
+- **Caldwell Bray Securities** · no link in the config · no job site in the config
 - **Campbell Lutyens** · [careers site](https://www.campbell-lutyens.com/careers/graduate-programme/) · job-site link is broken or moved
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -191,15 +170,15 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
-- **Class VI Partners** · [careers site](https://www.classvipartners.com/careers) · job-site link is broken or moved
+- **Connor Group** · [careers site](https://www.connorgp.com/career/students-and-interns) · job-site link is broken or moved
 - **Cornerstone Research** · [careers site](https://www.cornerstone.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
-- **EY** · [careers site](https://www.ey.com/en_uk/careers/students/programmes) · job-site link is broken or moved
+- **Enterprise Mobility** · [careers site](https://www.enterprisemobility.com/en/careers.html) · site blocks automated checks
 - **FMI Capital Advisors** · [careers site](https://fmicorp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Geffen Mesher** · [careers site](https://gmco.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Global Atlantic** · [careers site](https://www.globalatlantic.com/careers) · job-site link is broken or moved
 - **GTCR** · [careers site](https://www.gtcr.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Halvorsen Capital Partners** · no link on Trackr · no job site listed on Trackr
+- **Halvorsen Capital Partners** · no link in the config · no job site in the config
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **L.E.K. Consulting** · [careers site](https://www.lek.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -211,7 +190,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
-- **Northgate Advisory Group** · no link on Trackr · no job site listed on Trackr
+- **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Old Mission** · [careers site](https://www.oldmissioncapital.com/careers/) · job-site link is broken or moved
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -222,12 +201,12 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Sculptor Capital Management** · [careers site](https://www.sculptor.com/careers/internships) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Sensiba** · [careers site](https://sensiba.com/careers/student-opportunities) · no postings found (the page may load jobs in a way the watcher can't read)
 - **SOLIC Capital Advisors** · [careers site](https://www.soliccapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Solomon Partners** · [careers site](https://bit.ly/4bc87Bt) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Stellex** · [careers site](https://www.stellexcapital.com/careers/) · job-site link is broken or moved
+- **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Temasek** · [careers site](https://www.temasek.com.sg/en/about-us/careers) · site blocks automated checks
-- **Tessaro Quant Research** · no link on Trackr · no job site listed on Trackr
+- **Tessaro Quant Research** · no link in the config · no job site in the config
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
 - **Tidal Partners** · [careers site](https://www.tidalpartners.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
-- **Wipfli** · [careers site](https://careers.wipfli.com/#/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **UBS** · [careers site](https://www.ubs.com/global/en/careers/university-students.html) · site blocks automated checks
+- **Wipfli** · [careers site](https://careers.wipfli.com/) · no postings found (the page may load jobs in a way the watcher can't read)
