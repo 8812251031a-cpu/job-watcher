@@ -1,0 +1,253 @@
+[
+ {
+  "firm": "Alpine Investors",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/alpineinternships",
+  "seconds": 0.4,
+  "decision": "student board only (no main board found)"
+ },
+ {
+  "firm": "Arrowstreet Capital",
+  "system": "workday",
+  "student_board": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers",
+  "seconds": 4.4,
+  "decision": "student board only (no main board found)"
+ },
+ {
+  "firm": "Blackstone",
+  "system": "workday",
+  "student_board": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
+  "seconds": 15.1,
+  "main": "blackstone.wd1.myworkdayjobs.com|blackstone|Blackstone_Careers",
+  "main_total": 131,
+  "student_total": 19,
+  "student_checked": 19,
+  "also_on_main": 0,
+  "main_board": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "BMO Capital Markets",
+  "system": "workday",
+  "student_board": "https://bmo.wd3.myworkdayjobs.com/Campus",
+  "seconds": 28.3,
+  "main": "bmo.wd3.myworkdayjobs.com|bmo|External",
+  "main_total": 1083,
+  "student_total": 27,
+  "student_checked": 27,
+  "also_on_main": 0,
+  "main_board": "https://bmo.wd3.myworkdayjobs.com/External",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Bridgewater Associates",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/bridgewatercampusrecruiting",
+  "seconds": 0.5,
+  "decision": "student board only (no main board found)"
+ },
+ {
+  "firm": "Chicago Trading Company",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/ctccampusboard",
+  "seconds": 0.7,
+  "decision": "student board only (no main board found)"
+ },
+ {
+  "firm": "Ducera Partners",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/ducerapartnerscampus",
+  "seconds": 0.4,
+  "main": "ducerapartners",
+  "main_total": 4,
+  "student_total": 4,
+  "student_checked": 4,
+  "also_on_main": 0,
+  "main_board": "https://job-boards.greenhouse.io/ducerapartners",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "General Atlantic",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/gacampus",
+  "seconds": 0.4,
+  "main": "generalatlantic",
+  "main_total": 13,
+  "student_total": 5,
+  "student_checked": 5,
+  "also_on_main": 2,
+  "main_board": "https://job-boards.greenhouse.io/generalatlantic",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Global Atlantic",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/gainternships",
+  "seconds": 0.3,
+  "decision": "student board only (no main board found)"
+ },
+ {
+  "firm": "Greystar",
+  "system": "workday",
+  "student_board": "https://greystar.wd1.myworkdayjobs.com/Campus",
+  "seconds": 26.0,
+  "main": "greystar.wd1.myworkdayjobs.com|greystar|External",
+  "main_total": 1454,
+  "student_total": 23,
+  "student_checked": 23,
+  "also_on_main": 0,
+  "main_board": "https://greystar.wd1.myworkdayjobs.com/External",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Guggenheim Partners",
+  "system": "workday",
+  "student_board": "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers_Campus",
+  "seconds": 8.6,
+  "main": "guggenheim.wd1.myworkdayjobs.com|guggenheim|Guggenheim_Careers",
+  "main_total": 37,
+  "student_total": 5,
+  "student_checked": 5,
+  "also_on_main": 0,
+  "main_board": "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Houlihan Lokey",
+  "system": "workday",
+  "student_board": "https://hl.wd1.myworkdayjobs.com/Campus",
+  "seconds": 37.5,
+  "main": "hl.wd1.myworkdayjobs.com|hl|Lateral",
+  "main_total": 100,
+  "student_total": 50,
+  "student_checked": 50,
+  "also_on_main": 0,
+  "main_board": "https://hl.wd1.myworkdayjobs.com/Lateral",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Lazard",
+  "system": "oracle",
+  "student_board": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers",
+  "seconds": 3.1,
+  "main": "icbpjb.fa.ocs.oraclecloud.com|CX_1",
+  "main_total": 44,
+  "student_total": 73,
+  "student_checked": 73,
+  "also_on_main": 0,
+  "main_board": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "M&T Bank",
+  "system": "workday",
+  "student_board": "https://mtb.wd5.myworkdayjobs.com/Campus",
+  "seconds": 69.3,
+  "main": "mtb.wd5.myworkdayjobs.com|mtb|MTB",
+  "main_total": 734,
+  "student_total": 62,
+  "student_checked": 60,
+  "also_on_main": 0,
+  "main_board": "https://mtb.wd5.myworkdayjobs.com/MTB",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Marshall Wace",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/mw-tech-grad",
+  "seconds": 1.1,
+  "main": "marshallwace",
+  "main_total": 1,
+  "student_total": 5,
+  "student_checked": 5,
+  "also_on_main": 0,
+  "main_board": "https://job-boards.greenhouse.io/marshallwace",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "MUFG",
+  "system": "workday",
+  "student_board": "https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers",
+  "seconds": 5.0,
+  "decision": "student board only (no main board found)"
+ },
+ {
+  "firm": "PJT Partners",
+  "system": "workday",
+  "student_board": "https://pjtpartners.wd1.myworkdayjobs.com/Students",
+  "seconds": 12.5,
+  "main": "pjtpartners.wd1.myworkdayjobs.com|pjtpartners|Careers",
+  "main_total": 55,
+  "student_total": 16,
+  "student_checked": 16,
+  "also_on_main": 0,
+  "main_board": "https://pjtpartners.wd1.myworkdayjobs.com/Careers",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Raymond James",
+  "system": "workday",
+  "student_board": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers",
+  "seconds": 37.6,
+  "main": "raymondjames.wd1.myworkdayjobs.com|raymondjames|RaymondJamesCareers",
+  "main_total": 296,
+  "student_total": 9,
+  "student_checked": 9,
+  "also_on_main": 0,
+  "main_board": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Rothesay",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/rothesaygraduates",
+  "seconds": 0.9,
+  "decision": "student board only (no main board found)"
+ },
+ {
+  "firm": "Solomon Partners",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/solomonpartnersstudentsgraduates",
+  "seconds": 1.5,
+  "decision": "student board only (no main board found)"
+ },
+ {
+  "firm": "Stout",
+  "system": "workday",
+  "student_board": "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers",
+  "seconds": 7.3,
+  "main": "stout.wd5.myworkdayjobs.com|stout|Stout-Careers",
+  "main_total": 46,
+  "student_total": 3,
+  "student_checked": 3,
+  "also_on_main": 0,
+  "main_board": "https://stout.wd5.myworkdayjobs.com/Stout-Careers",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Texas Capital Bank",
+  "system": "workday",
+  "student_board": "https://texascapitalbank.wd12.myworkdayjobs.com/College_Career",
+  "seconds": 4.2,
+  "main": "texascapitalbank.wd12.myworkdayjobs.com|texascapitalbank|Careers",
+  "main_total": 109,
+  "student_total": 1,
+  "student_checked": 1,
+  "also_on_main": 0,
+  "main_board": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ },
+ {
+  "firm": "Walleye Capital",
+  "system": "greenhouse",
+  "student_board": "https://job-boards.greenhouse.io/walleyecapital-external-students",
+  "seconds": 1.0,
+  "main": "walleyecapital-external-fulltime",
+  "main_total": 13,
+  "student_total": 1,
+  "student_checked": 1,
+  "also_on_main": 0,
+  "main_board": "https://job-boards.greenhouse.io/walleyecapital-external-fulltime",
+  "decision": "main board plus student board (student postings aren't all on main)"
+ }
+]
