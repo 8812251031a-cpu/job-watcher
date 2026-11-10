@@ -139,7 +139,8 @@
   categories: [Asset Management]
   homepage: https://www.alliancebernstein.com/corporate/en/careers/students.html
   career_sites:
-    - https://www.alliancebernstein.com/corporate/en/careers/students.html
+    - https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers
+    - https://abglobal.wd1.myworkdayjobs.com/abcampuscareers
 
 - id: alphasights
   name: AlphaSights
@@ -515,6 +516,7 @@
   homepage: https://careers.bp.com/early-careers
   career_sites:
     - https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite
+    - https://bpinternational.wd3.myworkdayjobs.com/bpCareers
 
 - id: bracebridge-capital
   name: Bracebridge Capital
@@ -671,8 +673,7 @@
   categories: [Middle Market]
   homepage: https://www.capstonepartners.com/about/careers
   career_sites:
-    - https://flows.beamery.com/huntingtonbank/capstone-partners
-    - https://www.capstonepartners.com/about/careers
+    - https://huntington.wd12.myworkdayjobs.com/HNBcareers
 
 - id: capula-investment-management
   name: Capula Investment Management
@@ -1429,7 +1430,7 @@
   categories: [Middle Market]
   homepage: https://www.howdengroup.com/uk-en/culture-and-careers
   career_sites:
-    - https://www.howdengroup.com/uk-en/culture-and-careers
+    - https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external
 
 - id: hsbc
   name: HSBC
@@ -1602,9 +1603,7 @@
   categories: [Buy-Side]
   homepage: https://www.kkr.com/our-firm/careers
   career_sites:
-    - https://www.kkr.com/careers/career-opportunities/post
-    - https://www.kkr.com/careers/student-careers/student-career-opportunities/post
-    - https://www.kkr.com/our-firm/careers
+    - https://job-boards.greenhouse.io/staged
 
 - id: kline-hill-partners
   name: Kline Hill Partners
@@ -2050,8 +2049,8 @@
   categories: [Consulting]
   homepage: https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html
   career_sites:
-    - https://careers.marsh.com/global/en/search-results
-    - https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html
+    - https://mmc.wd1.myworkdayjobs.com/MMC
+    - https://mmc.wd1.myworkdayjobs.com/careers
 
 - id: omers
   name: OMERS
@@ -2843,6 +2842,7 @@
   categories: [Middle Market]
   homepage: https://careers.truist.com/us/en
   career_sites:
+    - https://truist.wd1.myworkdayjobs.com/Careers
     - https://unionsquareadvisors.applytojob.com/apply
 
 - id: university-partners

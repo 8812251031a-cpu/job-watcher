@@ -185,9 +185,14 @@
   "id": "adams-street-partners",
   "name": "Adams Street Partners",
   "before": [
-   "https://www.adamsstreetpartners.com/careers/students/"
+   "https://job-boards.greenhouse.io/adamsstreetpartnersearlycareers"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/adamsstreetpartnersearlycareers": {
+    "ok": true,
+    "count": 1
+   }
+  },
   "pages": [
    {
     "url": "https://www.adamsstreetpartners.com/careers/students/",
@@ -197,48 +202,27 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/adamsstreetpartnersearlycareers": {
-    "ok": true,
-    "count": 1,
-    "seen_at": "https://boards.greenhouse.io/adamsstreetpartnersearlycareers/jobs/4143659007"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/entry-BmtFF-ac.css"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/adamsstreetpartnersearlycareers"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/adamsstreetpartnersearlycareers; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "advantage-capital",
   "name": "Advantage Capital",
   "before": [
    "https://recruiting.paylocity.com/recruiting/jobs/All/2980c162-da93-40a4-bbd7-0d90d34e7a13",
-   "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798"
+   "https://recruiting.paylocity.com/recruiting/jobs/All/15b846f1-764a-46a4-84e7-2d465d425374/Advantage-Capital-Management"
   ],
   "boards": {
    "https://recruiting.paylocity.com/recruiting/jobs/All/2980c162-da93-40a4-bbd7-0d90d34e7a13": {
     "ok": true,
     "count": 12
    },
-   "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798": {
-    "ok": false,
-    "count": 0,
-    "error": "RuntimeError: Paylocity page data not found"
+   "https://recruiting.paylocity.com/recruiting/jobs/All/15b846f1-764a-46a4-84e7-2d465d425374/Advantage-Capital-Management": {
+    "ok": true,
+    "count": 5
    }
   },
   "pages": [
@@ -250,21 +234,12 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://recruiting.paylocity.com/recruiting/jobs/All/15b846f1-764a-46a4-84e7-2d465d425374/Advantage-Capital-Management": {
-    "ok": true,
-    "count": 5,
-    "seen_at": "https://recruiting.paylocity.com/recruiting/jobs/All/15b846f1-764a-46a4-84e7-2d465d425374/Advantage-Capital-Management"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://recruiting.paylocity.com/recruiting/jobs/All/2980c162-da93-40a4-bbd7-0d90d34e7a13",
    "https://recruiting.paylocity.com/recruiting/jobs/All/15b846f1-764a-46a4-84e7-2d465d425374/Advantage-Capital-Management"
   ],
-  "why": [
-   "dropped broken https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798",
-   "careers page also links to https://recruiting.paylocity.com/recruiting/jobs/All/15b846f1-764a-46a4-84e7-2d465d425374/Advantage-Capital-Management"
-  ]
+  "why": []
  },
  {
   "id": "aeris-partners",
@@ -460,17 +435,15 @@
   "id": "alixpartners",
   "name": "AlixPartners",
   "before": [
-   "https://www.alixpartners.com/careers/apply-now/",
-   "https://www.alixpartners.com/careers/"
+   "https://job-boards.greenhouse.io/alixpartners"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/alixpartners": {
+    "ok": true,
+    "count": 129
+   }
+  },
   "pages": [
-   {
-    "url": "https://www.alixpartners.com/careers/apply-now/",
-    "status": 200,
-    "final": "https://www.alixpartners.com/careers/apply-now/",
-    "error": null
-   },
    {
     "url": "https://www.alixpartners.com/careers/",
     "status": 200,
@@ -479,27 +452,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/alixpartners": {
-    "ok": true,
-    "count": 129,
-    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=alixpartners&validityToken=bdaw-Q0Au-mJC6uEC6CB5dphpWnje0zBC6hgJMAZs-Vga_dVzohXm8NTJhAOoOboy1x_mid5-oUYSzfXCGmNuqArHpU2Nu_BoFV6_2_WTT_8JWpps7OC7gV7aTv0oRCzx46WuSCLmoj0j9Rf8rpm5zOD5hmOmHgwlK6-7Zx7t5asd2QQD8jcdn3vud5Rx1FJmxvfJbrdzz1ueHha7OcEvpxjrYMOQL6_B9EDqnUME45j9peSiZSXoZ9ene_TbOG9wnchRtgm0XLbQeALy6LdSqAPOhhsphkUKmfW0t6i4Cdiyw3jIuWfroVG04JGb_AQed-jwMQzJ8H1mt1Xbpv7tg%3D%3D"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/manifest-02ecb345.js"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/alixpartners"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/alixpartners; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "all-options",
@@ -546,18 +503,23 @@
   "other_systems": [],
   "candidates": {
    "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 29,
     "seen_at": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers"
    },
    "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 17,
     "seen_at": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers"
    }
   },
   "after": [
-   "https://www.alliancebernstein.com/corporate/en/careers/students.html"
+   "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers",
+   "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers"
   ],
-  "why": []
+  "why": [
+   "careers page leads to https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers, https://abglobal.wd1.myworkdayjobs.com/abcampuscareers; replaced plain pages"
+  ]
  },
  {
   "id": "alphasights",
@@ -585,13 +547,12 @@
   "id": "alpine-investors",
   "name": "Alpine Investors",
   "before": [
-   "https://job-boards.greenhouse.io/alpineinternships"
+   "https://jobs.ashbyhq.com/alpine-internships"
   ],
   "boards": {
-   "https://job-boards.greenhouse.io/alpineinternships": {
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/alpineinternships/jobs"
+   "https://jobs.ashbyhq.com/alpine-internships": {
+    "ok": true,
+    "count": 2
    }
   },
   "pages": [
@@ -609,11 +570,6 @@
     "count": 0,
     "seen_at": "https://jobs.ashbyhq.com/alpine-investors"
    },
-   "https://jobs.ashbyhq.com/alpine-internships": {
-    "ok": true,
-    "count": 2,
-    "seen_at": "https://jobs.ashbyhq.com/alpine-internships"
-   },
    "https://jobs.ashbyhq.com/alpine-portfolio": {
     "ok": true,
     "count": 0,
@@ -623,26 +579,21 @@
   "after": [
    "https://jobs.ashbyhq.com/alpine-internships"
   ],
-  "why": [
-   "dropped broken https://job-boards.greenhouse.io/alpineinternships",
-   "careers page also links to https://jobs.ashbyhq.com/alpine-internships"
-  ]
+  "why": []
  },
  {
   "id": "altman-solon",
   "name": "Altman Solon",
   "before": [
-   "https://www.altmansolon.com/careers/student-opportunities",
-   "https://www.altmansolon.com/careers/on-campus"
+   "https://job-boards.greenhouse.io/altmansoloncampus"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/altmansoloncampus": {
+    "ok": true,
+    "count": 11
+   }
+  },
   "pages": [
-   {
-    "url": "https://www.altmansolon.com/careers/student-opportunities",
-    "status": 200,
-    "final": "https://www.altmansolon.com/careers/student-opportunities",
-    "error": null
-   },
    {
     "url": "https://www.altmansolon.com/careers/on-campus",
     "status": 200,
@@ -651,37 +602,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/altmansoloncampus": {
-    "ok": true,
-    "count": 11,
-    "seen_at": "https://job-boards.eu.greenhouse.io/embed/job_board?for=altmansoloncampus&validityToken=R2sLR3V_Drmq1baDLlgvIFgDhs2i3fLcKd6qb5vry4v1P1LGxG7f4_8-Z1cpVPoypoP7B9cMNL68NPOgbkqHfm-AmBKHJ9C6yqWuuCXofvPlYwB-XlysHIMswhz12x9E0FvoQKfe9Md_FyMuhNs4m9h9AO3D17eTW14LfyjfYZl3KxLd9vrfvphJqudSaDu_Gg02CX1KTEcIMeUJRfwI2wPtEpDI39pVP_dia316mTC9ABwxGgwcC-kIWPlcFIfw5ryhMZoF2K1AdV_oTqklB2oUcUuF9_gBXmYFN8Saygq7c0Ehj3z4bbG25W5jTk-Y-IYsMCePhqqK9wtnzbetmw%3D%3D"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/assets/jobs",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/entry-BmtFF-ac.css"
-   },
-   "https://job-boards.greenhouse.io/fonts": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/fonts/UntitledSansWeb-Regular.woff"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/altmansoloncampus"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/altmansoloncampus; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "alvarez-marsal",
@@ -759,17 +684,15 @@
   "id": "american-express",
   "name": "American Express",
   "before": [
-   "https://careers.americanexpress.com/en/sites/CX_1/jobs",
-   "https://www.americanexpress.com/en-us/careers/student-programs/uk/"
+   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   ],
-  "boards": {},
+  "boards": {
+   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs": {
+    "ok": true,
+    "count": 110
+   }
+  },
   "pages": [
-   {
-    "url": "https://careers.americanexpress.com/en/sites/CX_1/jobs",
-    "status": 200,
-    "final": "https://careers.americanexpress.com/en/sites/CX_1/jobs",
-    "error": null
-   },
    {
     "url": "https://www.americanexpress.com/en-us/careers/student-programs/uk/",
     "status": 200,
@@ -778,19 +701,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs": {
-    "ok": true,
-    "count": 110,
-    "seen_at": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandExpStatic/css/ce-custom.css?themeNumber=3&lang=en&themeVersion=5&brandVersion=10&brandTlVersion=7&siteNumber=CX_1"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   ],
-  "why": [
-   "careers page leads to https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "anthelion-capital",
@@ -991,7 +906,7 @@
    {
     "url": "https://www.aqr.com/About-Us/Careers",
     "status": 200,
-    "final": "https://www.aqr.com/404",
+    "final": "https://www.aqr.com/Our-Firm/Careers",
     "error": null
    }
   ],
@@ -1499,13 +1414,13 @@
   "id": "bates-white",
   "name": "Bates White",
   "before": [
-   "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecApplicantEmail.aspx?Tag=a1b1ebd9-f1eb-4c55-bec5-94494ecb188d",
+   "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb",
    "https://www.bateswhite.com/careers/overview"
   ],
   "boards": {},
   "pages": [
    {
-    "url": "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecApplicantEmail.aspx?Tag=a1b1ebd9-f1eb-4c55-bec5-94494ecb188d",
+    "url": "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb",
     "status": 200,
     "final": "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb",
     "error": null
@@ -1529,9 +1444,7 @@
    "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb",
    "https://www.bateswhite.com/careers/overview"
   ],
-  "why": [
-   "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecApplicantEmail.aspx?Tag=a1b1ebd9-f1eb-4c55-bec5-94494ecb188d now redirects to https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb"
-  ]
+  "why": []
  },
  {
   "id": "battery",
@@ -1595,9 +1508,9 @@
     "error": null
    },
    {
-    "url": "https://careers.bcg.com/global/en/job/58498/Consultant-Internship-MBA-United-States",
+    "url": "https://careers.bcg.com/global/en/job/56543/BCG-Platinion-Lead-AI-Tech-Architect-Public-Sector-Industry-Leader-Defense-Security-Civil-Sector",
     "status": 200,
-    "final": "https://careers.bcg.com/global/en/job/58498/Consultant-Internship-MBA-United-States",
+    "final": "https://careers.bcg.com/global/en/job/56543/BCG-Platinion-Lead-AI-Tech-Architect-Public-Sector-Industry-Leader-Defense-Security-Civil-Sector",
     "error": null
    }
   ],
@@ -1623,8 +1536,8 @@
   "id": "bdo-global",
   "name": "BDO Global",
   "before": [
-   "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
-   "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers"
+   "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
+   "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/jobs"
   ],
   "boards": {
    "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs": {
@@ -1650,9 +1563,7 @@
    "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
    "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/jobs"
   ],
-  "why": [
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "bellwether",
@@ -1771,20 +1682,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://gusea1p01.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2": {
-    "ok": true,
-    "count": 40,
-    "seen_at": "https://gusea1p01.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/?q=&o=postedDateDesc&w=&wc=&we=&wpst="
-   }
-  },
+  "candidates": {},
   "after": [
-   "https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2",
-   "https://gusea1p01.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2"
+   "https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2"
   ],
-  "why": [
-   "careers page also links to https://gusea1p01.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2"
-  ]
+  "why": []
  },
  {
   "id": "berkeley-research-group",
@@ -1959,9 +1861,14 @@
   "id": "blue-owl-capital",
   "name": "Blue Owl Capital",
   "before": [
-   "https://www.blueowl.com/careers"
+   "https://blueowl.wd1.myworkdayjobs.com/blueowl"
   ],
-  "boards": {},
+  "boards": {
+   "https://blueowl.wd1.myworkdayjobs.com/blueowl": {
+    "ok": true,
+    "count": 22
+   }
+  },
   "pages": [
    {
     "url": "https://www.blueowl.com/careers",
@@ -1971,19 +1878,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://blueowl.wd1.myworkdayjobs.com/blueowl": {
-    "ok": true,
-    "count": 22,
-    "seen_at": "https://blueowl.wd1.myworkdayjobs.com/blueowl"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://blueowl.wd1.myworkdayjobs.com/blueowl"
   ],
-  "why": [
-   "careers page leads to https://blueowl.wd1.myworkdayjobs.com/blueowl; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "bmo-capital-markets",
@@ -2079,7 +1978,7 @@
   "id": "bny-mellon",
   "name": "BNY Mellon",
   "before": [
-   "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers"
+   "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs"
   ],
   "boards": {
    "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs": {
@@ -2100,9 +1999,7 @@
   "after": [
    "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs"
   ],
-  "why": [
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "boulay",
@@ -2154,18 +2051,24 @@
   "other_systems": [],
   "candidates": {
    "https://bpinternational.wd3.myworkdayjobs.com/bpCareers": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 93,
     "seen_at": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers"
    },
    "https://bp.avature.net/earlycareerstalentcommunity/SearchJobs": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 404 Client Error: Not Found for url: https://bp.avature.net/earlycareerstalentcommunity/SearchJobs/?jobRecordsPerPage=10",
     "seen_at": "https://bp.avature.net/earlycareerstalentcommunity"
    }
   },
   "after": [
-   "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite"
+   "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite",
+   "https://bpinternational.wd3.myworkdayjobs.com/bpCareers"
   ],
-  "why": []
+  "why": [
+   "careers page also links to https://bpinternational.wd3.myworkdayjobs.com/bpCareers"
+  ]
  },
  {
   "id": "bracebridge-capital",
@@ -2199,7 +2102,7 @@
   "name": "Brevan Howard",
   "before": [
    "https://careers.brevanhoward.com/gb/en/",
-   "https://www.brevanhoward.com/careers/"
+   "https://careers.brevanhoward.com/gb/en/home"
   ],
   "boards": {},
   "pages": [
@@ -2207,6 +2110,12 @@
     "url": "https://careers.brevanhoward.com/gb/en/",
     "status": 200,
     "final": "https://careers.brevanhoward.com/gb/en/",
+    "error": null
+   },
+   {
+    "url": "https://careers.brevanhoward.com/gb/en/home",
+    "status": 200,
+    "final": "https://careers.brevanhoward.com/gb/en/home",
     "error": null
    },
    {
@@ -2243,9 +2152,7 @@
    "https://careers.brevanhoward.com/gb/en/",
    "https://careers.brevanhoward.com/gb/en/home"
   ],
-  "why": [
-   "https://www.brevanhoward.com/careers/ now redirects to https://careers.brevanhoward.com/gb/en/home"
-  ]
+  "why": []
  },
  {
   "id": "brg",
@@ -2306,7 +2213,8 @@
   "name": "Bridgewater Associates",
   "before": [
    "https://job-boards.greenhouse.io/bridgewatercampusrecruiting",
-   "https://job-boards.greenhouse.io/bwaltpostings"
+   "https://job-boards.greenhouse.io/bwaltpostings",
+   "https://job-boards.greenhouse.io/bridgewater89"
   ],
   "boards": {
    "https://job-boards.greenhouse.io/bridgewatercampusrecruiting": {
@@ -2316,32 +2224,28 @@
    "https://job-boards.greenhouse.io/bwaltpostings": {
     "ok": true,
     "count": 9
+   },
+   "https://job-boards.greenhouse.io/bridgewater89": {
+    "ok": true,
+    "count": 20
    }
   },
   "pages": [
    {
     "url": "https://www.bridgewater.com/working-at-bridgewater/",
-    "status": 200,
-    "final": "https://www.bridgewater.com/working-at-bridgewater/",
-    "error": null
+    "status": null,
+    "final": null,
+    "error": "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.bridgewater.com/working-at-bridgewater/\nCall log:\nnavigating to \"ht"
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/bridgewater89": {
-    "ok": true,
-    "count": 20,
-    "seen_at": "https://job-boards.greenhouse.io/bridgewater89/jobs/8294673002"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/bridgewatercampusrecruiting",
    "https://job-boards.greenhouse.io/bwaltpostings",
    "https://job-boards.greenhouse.io/bridgewater89"
   ],
-  "why": [
-   "careers page also links to https://job-boards.greenhouse.io/bridgewater89"
-  ]
+  "why": []
  },
  {
   "id": "brighttower",
@@ -2369,10 +2273,16 @@
   "id": "brinley-partners",
   "name": "Brinley Partners",
   "before": [
-   "https://brinleypartners.com/about-brinley-parners-financial-asset-management-services/"
+   "https://brinleypartners.com/our-firm/"
   ],
   "boards": {},
   "pages": [
+   {
+    "url": "https://brinleypartners.com/our-firm/",
+    "status": 200,
+    "final": "https://brinleypartners.com/our-firm/",
+    "error": null
+   },
    {
     "url": "https://brinleypartners.com/about-brinley-parners-financial-asset-management-services/",
     "status": 200,
@@ -2385,9 +2295,7 @@
   "after": [
    "https://brinleypartners.com/our-firm/"
   ],
-  "why": [
-   "https://brinleypartners.com/about-brinley-parners-financial-asset-management-services/ now redirects to https://brinleypartners.com/our-firm/"
-  ]
+  "why": []
  },
  {
   "id": "brio-real-estate",
@@ -2464,17 +2372,15 @@
   "id": "brown-gibbons-lang-company",
   "name": "Brown Gibbons Lang & Company",
   "before": [
-   "https://www.bglco.com/careers/view-open-positions/",
-   "https://www.bglco.com/careers/"
+   "https://job-boards.greenhouse.io/browngibbonslangcompany"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/browngibbonslangcompany": {
+    "ok": true,
+    "count": 9
+   }
+  },
   "pages": [
-   {
-    "url": "https://www.bglco.com/careers/view-open-positions/",
-    "status": 200,
-    "final": "https://www.bglco.com/careers/view-open-positions/",
-    "error": null
-   },
    {
     "url": "https://www.bglco.com/careers/",
     "status": 200,
@@ -2483,43 +2389,24 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/browngibbonslangcompany": {
-    "ok": true,
-    "count": 9,
-    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=browngibbonslangcompany&validityToken=McPdpTboRYRAE67k4KYzaNABIwD0O1NMXvtd16R1YqRjVaryGbKP4OZYrzlQXIithnvBus5Aj92bka8_oFCt90WKCjJK1KLiLGRSaBa-UHu-j6N5W2p6RfYjuyjsnWOH_RnBe9r5Qco-puqFNrONb7OpLmtbPt0WQYgSbdSlKnbjZge-UoryGZnhDuq1cLflHS51YQuI2dels37gKJoPaJ3juJ46lhVHpWeVlC8xVhesukLBvMwxFGjSVSQRrqLXW42YvBwfpMVQKh1R4N65vMI4haiaO9pOHKsmzB762vL2nL6ed2XNeANAjfDywJGOxrGZQGiuloAHLQWd5pdcXw%3D%3D"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/entry-BmtFF-ac.css"
-   },
-   "https://job-boards.greenhouse.io/fonts": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/fonts/UntitledSansWeb-Regular.woff"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/browngibbonslangcompany"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/browngibbonslangcompany; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "bst",
   "name": "BST",
   "before": [
-   "https://www.bstco.com/your-bst-career"
+   "https://recruiting.paylocity.com/Recruiting/Jobs/All/e5afcb9d-e59b-4aae-bd9f-5eebe4447735/BST-CO-CPAS-LLP"
   ],
-  "boards": {},
+  "boards": {
+   "https://recruiting.paylocity.com/Recruiting/Jobs/All/e5afcb9d-e59b-4aae-bd9f-5eebe4447735/BST-CO-CPAS-LLP": {
+    "ok": true,
+    "count": 6
+   }
+  },
   "pages": [
    {
     "url": "https://www.bstco.com/your-bst-career",
@@ -2529,19 +2416,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://recruiting.paylocity.com/Recruiting/Jobs/All/e5afcb9d-e59b-4aae-bd9f-5eebe4447735/BST-CO-CPAS-LLP": {
-    "ok": true,
-    "count": 6,
-    "seen_at": "https://recruiting.paylocity.com/Recruiting/Jobs/All/e5afcb9d-e59b-4aae-bd9f-5eebe4447735/BST-CO-CPAS-LLP?location=All%20Locations&department=All%20Departments"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://recruiting.paylocity.com/Recruiting/Jobs/All/e5afcb9d-e59b-4aae-bd9f-5eebe4447735/BST-CO-CPAS-LLP"
   ],
-  "why": [
-   "careers page leads to https://recruiting.paylocity.com/Recruiting/Jobs/All/e5afcb9d-e59b-4aae-bd9f-5eebe4447735/BST-CO-CPAS-LLP; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "btg-pactual",
@@ -2616,8 +2495,7 @@
   "id": "calibre-cpa-group",
   "name": "Calibre CPA Group",
   "before": [
-   "https://calibrecpa.com/careers/open-positions/",
-   "https://calibrecpa.com/careers/open-positions"
+   "https://calibrecpa.com/careers/open-positions/"
   ],
   "boards": {},
   "pages": [
@@ -2649,8 +2527,7 @@
   "other_systems": [],
   "candidates": {},
   "after": [
-   "https://calibrecpa.com/careers/open-positions/",
-   "https://calibrecpa.com/careers/open-positions"
+   "https://calibrecpa.com/careers/open-positions/"
   ],
   "why": []
  },
@@ -2680,7 +2557,7 @@
   "id": "cantor-fitzgerald",
   "name": "Cantor Fitzgerald",
   "before": [
-   "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003"
+   "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs"
   ],
   "boards": {
    "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs": {
@@ -2701,9 +2578,7 @@
   "after": [
    "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs"
   ],
-  "why": [
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "capital-group",
@@ -2809,24 +2684,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/manifest-02ecb345.js"
-   },
-   "https://job-boards.greenhouse.io/fonts": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/fonts/UntitledSansWeb-Regular.woff"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/capstoneinvestmentadvisors"
   ],
@@ -2857,15 +2715,17 @@
   "other_systems": [],
   "candidates": {
    "https://huntington.wd12.myworkdayjobs.com/HNBcareers": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 71,
     "seen_at": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/One-Logan-Square/Associate-or-Vice-President---Capstone-Investment-Banking_R0075990"
    }
   },
   "after": [
-   "https://flows.beamery.com/huntingtonbank/capstone-partners",
-   "https://www.capstonepartners.com/about/careers"
+   "https://huntington.wd12.myworkdayjobs.com/HNBcareers"
   ],
-  "why": []
+  "why": [
+   "careers page leads to https://huntington.wd12.myworkdayjobs.com/HNBcareers; replaced plain pages"
+  ]
  },
  {
   "id": "capula-investment-management",
@@ -3028,7 +2888,7 @@
   "id": "cbiz",
   "name": "CBIZ",
   "before": [
-   "https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+   "https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   ],
   "boards": {
    "https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs": {
@@ -3049,9 +2909,7 @@
   "after": [
    "https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   ],
-  "why": [
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "cbre",
@@ -3071,7 +2929,8 @@
   "other_systems": [],
   "candidates": {
    "https://careers.cbre.com/en_US/careers/SearchJobs": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 0,
     "seen_at": "https://careers.cbre.com/en_US/careers/SearchJobs/?9577=%5B17117%5D&9577_format=10224&listFilterMode=1&jobRecordsPerPage=6&"
    }
   },
@@ -3111,12 +2970,17 @@
   "id": "cck-strategies",
   "name": "CCK Strategies",
   "before": [
-   "https://recruiting.paylocity.com/recruiting/jobs/All/15392739-e8a7-4858-a8bb-07f4efbce077/CCK-Internship-Opportunities"
+   "https://recruiting.paylocity.com/recruiting/jobs/All/15392739-e8a7-4858-a8bb-07f4efbce077/CCK-Internship-Opportunities",
+   "https://recruiting.paylocity.com/recruiting/jobs/All/9483cff5-c4c2-4ef3-baed-f7df9e0cdbb1/CCK-Strategies-PLLC"
   ],
   "boards": {
    "https://recruiting.paylocity.com/recruiting/jobs/All/15392739-e8a7-4858-a8bb-07f4efbce077/CCK-Internship-Opportunities": {
     "ok": true,
     "count": 9
+   },
+   "https://recruiting.paylocity.com/recruiting/jobs/All/9483cff5-c4c2-4ef3-baed-f7df9e0cdbb1/CCK-Strategies-PLLC": {
+    "ok": true,
+    "count": 17
    }
   },
   "pages": [
@@ -3128,29 +2992,27 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://recruiting.paylocity.com/recruiting/jobs/All/9483cff5-c4c2-4ef3-baed-f7df9e0cdbb1/CCK-Strategies-PLLC": {
-    "ok": true,
-    "count": 17,
-    "seen_at": "https://recruiting.paylocity.com/recruiting/jobs/All/9483cff5-c4c2-4ef3-baed-f7df9e0cdbb1/CCK-Strategies-PLLC"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://recruiting.paylocity.com/recruiting/jobs/All/15392739-e8a7-4858-a8bb-07f4efbce077/CCK-Internship-Opportunities",
    "https://recruiting.paylocity.com/recruiting/jobs/All/9483cff5-c4c2-4ef3-baed-f7df9e0cdbb1/CCK-Strategies-PLLC"
   ],
-  "why": [
-   "careers page also links to https://recruiting.paylocity.com/recruiting/jobs/All/9483cff5-c4c2-4ef3-baed-f7df9e0cdbb1/CCK-Strategies-PLLC"
-  ]
+  "why": []
  },
  {
   "id": "centerview-partners",
   "name": "Centerview Partners",
   "before": [
-   "https://www.centerviewpartners.com/careers.aspx"
+   "https://www.centerviewpartners.com/"
   ],
   "boards": {},
   "pages": [
+   {
+    "url": "https://www.centerviewpartners.com/",
+    "status": 200,
+    "final": "https://www.centerviewpartners.com/",
+    "error": null
+   },
    {
     "url": "https://www.centerviewpartners.com/careers.aspx",
     "status": 200,
@@ -3163,9 +3025,7 @@
   "after": [
    "https://www.centerviewpartners.com/"
   ],
-  "why": [
-   "https://www.centerviewpartners.com/careers.aspx now redirects to https://www.centerviewpartners.com/"
-  ]
+  "why": []
  },
  {
   "id": "cf-private-equity",
@@ -3307,8 +3167,7 @@
   "id": "chinook-capital-advisors",
   "name": "Chinook Capital Advisors",
   "before": [
-   "https://chinookadvisors.com/careers/",
-   "https://chinookadvisors.com/careers"
+   "https://chinookadvisors.com/careers/"
   ],
   "boards": {},
   "pages": [
@@ -3328,8 +3187,7 @@
   "other_systems": [],
   "candidates": {},
   "after": [
-   "https://chinookadvisors.com/careers/",
-   "https://chinookadvisors.com/careers"
+   "https://chinookadvisors.com/careers/"
   ],
   "why": []
  },
@@ -3445,7 +3303,7 @@
   "id": "citizens-financial-group",
   "name": "Citizens Financial Group",
   "before": [
-   "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+   "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   ],
   "boards": {
    "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs": {
@@ -3466,9 +3324,7 @@
   "after": [
    "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   ],
-  "why": [
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "citrin-cooperman",
@@ -3504,13 +3360,13 @@
   "id": "class-vi-partners",
   "name": "Class VI Partners",
   "before": [
-   "https://classvipartners.recruitee.com/o/",
+   "https://classvipartners.recruitee.com/",
    "https://www.classvipartners.com/careers"
   ],
   "boards": {},
   "pages": [
    {
-    "url": "https://classvipartners.recruitee.com/o/",
+    "url": "https://classvipartners.recruitee.com/",
     "status": 200,
     "final": "https://classvipartners.recruitee.com/",
     "error": null
@@ -3533,9 +3389,7 @@
    "https://classvipartners.recruitee.com/",
    "https://www.classvipartners.com/careers"
   ],
-  "why": [
-   "https://classvipartners.recruitee.com/o/ now redirects to https://classvipartners.recruitee.com/"
-  ]
+  "why": []
  },
  {
   "id": "cleveland-research-company",
@@ -3615,10 +3469,16 @@
   "id": "cmd-global-partners",
   "name": "CMD Global Partners",
   "before": [
-   "https://www.cmdglobal.com/"
+   "https://cmdglobal.com/"
   ],
   "boards": {},
   "pages": [
+   {
+    "url": "https://cmdglobal.com/",
+    "status": 200,
+    "final": "https://cmdglobal.com/",
+    "error": null
+   },
    {
     "url": "https://www.cmdglobal.com/",
     "status": 200,
@@ -3631,9 +3491,7 @@
   "after": [
    "https://cmdglobal.com/"
   ],
-  "why": [
-   "https://www.cmdglobal.com/ now redirects to https://cmdglobal.com/"
-  ]
+  "why": []
  },
  {
   "id": "cno-financial-group",
@@ -3753,9 +3611,14 @@
   "id": "connor-group",
   "name": "Connor Group",
   "before": [
-   "https://www.connorgp.com/career/students-and-interns"
+   "https://connorgp.wd12.myworkdayjobs.com/CG"
   ],
-  "boards": {},
+  "boards": {
+   "https://connorgp.wd12.myworkdayjobs.com/CG": {
+    "ok": true,
+    "count": 22
+   }
+  },
   "pages": [
    {
     "url": "https://www.connorgp.com/career/students-and-interns",
@@ -3765,19 +3628,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://connorgp.wd12.myworkdayjobs.com/CG": {
-    "ok": true,
-    "count": 22,
-    "seen_at": "https://connorgp.wd12.myworkdayjobs.com/CG"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://connorgp.wd12.myworkdayjobs.com/CG"
   ],
-  "why": [
-   "careers page leads to https://connorgp.wd12.myworkdayjobs.com/CG; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "corient",
@@ -3810,12 +3665,17 @@
   "id": "cornerstone-research",
   "name": "Cornerstone Research",
   "before": [
-   "https://ug-chire.icims.com/jobs"
+   "https://ug-chire.icims.com/jobs",
+   "https://cornerstone.wd501.myworkdayjobs.com/CornerstoneResearch_Careers"
   ],
   "boards": {
    "https://ug-chire.icims.com/jobs": {
     "ok": true,
     "count": 0
+   },
+   "https://cornerstone.wd501.myworkdayjobs.com/CornerstoneResearch_Careers": {
+    "ok": true,
+    "count": 8
    }
   },
   "pages": [
@@ -3828,11 +3688,6 @@
   ],
   "other_systems": [],
   "candidates": {
-   "https://cornerstone.wd501.myworkdayjobs.com/CornerstoneResearch_Careers": {
-    "ok": true,
-    "count": 8,
-    "seen_at": "https://cornerstone.wd501.myworkdayjobs.com/CornerstoneResearch_Careers"
-   },
    "https://uguk-chire.icims.com/jobs": {
     "skipped": "doesn't look like this firm's board",
     "seen_at": "https://uguk-chire.icims.com/jobs/search?ss=1"
@@ -3878,25 +3733,21 @@
    "https://ug-chire.icims.com/jobs",
    "https://cornerstone.wd501.myworkdayjobs.com/CornerstoneResearch_Careers"
   ],
-  "why": [
-   "careers page also links to https://cornerstone.wd501.myworkdayjobs.com/CornerstoneResearch_Careers"
-  ]
+  "why": []
  },
  {
   "id": "crowe",
   "name": "Crowe",
   "before": [
-   "https://careers.crowe.com/search-results",
-   "https://www.crowe.com/uk/careers/early-careers"
+   "https://crowe.wd12.myworkdayjobs.com/External_Careers"
   ],
-  "boards": {},
+  "boards": {
+   "https://crowe.wd12.myworkdayjobs.com/External_Careers": {
+    "ok": true,
+    "count": 38
+   }
+  },
   "pages": [
-   {
-    "url": "https://careers.crowe.com/search-results",
-    "status": 200,
-    "final": "https://careers.crowe.com/search-results",
-    "error": null
-   },
    {
     "url": "https://www.crowe.com/uk/careers/early-careers",
     "status": 403,
@@ -3904,27 +3755,12 @@
     "error": null
    }
   ],
-  "other_systems": [
-   "assets.phenompeople.com",
-   "cdn-bot.phenompeople.com",
-   "cdn.phenompeople.com",
-   "content-us.phenompeople.com",
-   "phenomtrackapi.phenompeople.com",
-   "pp-cdn.phenompeople.com"
-  ],
-  "candidates": {
-   "https://crowe.wd12.myworkdayjobs.com/External_Careers": {
-    "ok": true,
-    "count": 38,
-    "seen_at": "https://crowe.wd12.myworkdayjobs.com/en-US/External_Careers/userHome"
-   }
-  },
+  "other_systems": [],
+  "candidates": {},
   "after": [
    "https://crowe.wd12.myworkdayjobs.com/External_Careers"
   ],
-  "why": [
-   "careers page leads to https://crowe.wd12.myworkdayjobs.com/External_Careers; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "d-a-davidson",
@@ -3957,8 +3793,7 @@
   "id": "d-e-shaw",
   "name": "D.E. Shaw",
   "before": [
-   "https://www.deshaw.com/careers/",
-   "https://www.deshaw.com/careers"
+   "https://www.deshaw.com/careers/"
   ],
   "boards": {},
   "pages": [
@@ -3990,8 +3825,7 @@
   "other_systems": [],
   "candidates": {},
   "after": [
-   "https://www.deshaw.com/careers/",
-   "https://www.deshaw.com/careers"
+   "https://www.deshaw.com/careers/"
   ],
   "why": []
  },
@@ -3999,8 +3833,7 @@
   "id": "davenport-co",
   "name": "Davenport & Co.",
   "before": [
-   "https://www.investdavenport.com/careers/",
-   "https://www.investdavenport.com/careers"
+   "https://www.investdavenport.com/careers/"
   ],
   "boards": {},
   "pages": [
@@ -4032,8 +3865,7 @@
   "other_systems": [],
   "candidates": {},
   "after": [
-   "https://www.investdavenport.com/careers/",
-   "https://www.investdavenport.com/careers"
+   "https://www.investdavenport.com/careers/"
   ],
   "why": []
  },
@@ -4215,24 +4047,15 @@
   "id": "drw",
   "name": "DRW",
   "before": [
-   "https://grnh.se/evf0vgud1us",
-   "https://grnh.se/ugyg2tee1us",
-   "https://www.drw.com/work-at-drw"
+   "https://job-boards.greenhouse.io/drweng"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/drweng": {
+    "ok": true,
+    "count": 164
+   }
+  },
   "pages": [
-   {
-    "url": "https://grnh.se/evf0vgud1us",
-    "status": 200,
-    "final": "https://job-boards.greenhouse.io/drweng/jobs/8030406?gh_src=evf0vgud1us",
-    "error": null
-   },
-   {
-    "url": "https://grnh.se/ugyg2tee1us",
-    "status": 200,
-    "final": "https://job-boards.greenhouse.io/drweng/jobs/7993004?gh_src=ugyg2tee1us",
-    "error": null
-   },
    {
     "url": "https://www.drw.com/work-at-drw",
     "status": 200,
@@ -4241,43 +4064,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/drweng": {
-    "ok": true,
-    "count": 164,
-    "seen_at": "https://job-boards.greenhouse.io/drweng/jobs/8030406?gh_src=evf0vgud1us"
-   },
-   "https://job-boards.greenhouse.io/docs": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/manifest-02ecb345.js"
-   },
-   "https://job-boards.greenhouse.io/fonts": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/fonts/UntitledSansWeb-Regular.woff"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/job_post.xARVcwpAozf1DR3o13mc-j7C04Jk3mAj0ab7ua2Lkwg.json"
-   },
-   "https://job-boards.greenhouse.io/users": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://my.greenhouse.io/users/self?job_post_id=8030406"
-   },
-   "https://job-boards.greenhouse.io/uncacheable_attributes": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://boards.greenhouse.io/uncacheable_attributes/presigned_fields?fields%5B%5D=resume&fields%5B%5D=cover_letter&fields%5B%5D=question_67828309"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/drweng"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/drweng; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "ducera-partners",
@@ -4333,24 +4124,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/entry-BmtFF-ac.css"
-   },
-   "https://job-boards.greenhouse.io/external_greenhouse_job_boards": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://s5-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/140/100/original/26254412.jpeg?1740174068"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/dvtrading"
   ],
@@ -4521,7 +4295,7 @@
    {
     "url": "https://equiteq.careers.hibob.com/jobs/",
     "status": 200,
-    "final": "https://equiteq.careers.hibob.com/jobs/",
+    "final": "https://equiteq.careers.hibob.com/jobs",
     "error": null
    },
    {
@@ -4535,7 +4309,8 @@
    "equiteq.careers.hibob.com",
    "fonts.hibob.com",
    "front.hibob.com",
-   "i18n.hibob.com"
+   "i18n.hibob.com",
+   "media-process.hibob.com"
   ],
   "candidates": {},
   "after": [
@@ -4724,9 +4499,14 @@
   "id": "fidelity-international",
   "name": "Fidelity International",
   "before": [
-   "https://careers.fidelityinternational.com/early-careers-overview/"
+   "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/"
   ],
-  "boards": {},
+  "boards": {
+   "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/": {
+    "ok": true,
+    "count": 56
+   }
+  },
   "pages": [
    {
     "url": "https://careers.fidelityinternational.com/early-careers-overview/",
@@ -4736,19 +4516,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/": {
-    "ok": true,
-    "count": 56,
-    "seen_at": "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/"
   ],
-  "why": [
-   "careers page leads to https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "fidelity",
@@ -4891,9 +4663,19 @@
   "id": "forvis",
   "name": "Forvis",
   "before": [
-   "https://www.forvismazars.us/careers"
+   "https://forvis.avature.net/campuscareers/SearchJobs",
+   "https://forvis.avature.net/experiencedcareers/SearchJobs"
   ],
-  "boards": {},
+  "boards": {
+   "https://forvis.avature.net/campuscareers/SearchJobs": {
+    "ok": true,
+    "count": 6
+   },
+   "https://forvis.avature.net/experiencedcareers/SearchJobs": {
+    "ok": true,
+    "count": 6
+   }
+  },
   "pages": [
    {
     "url": "https://www.forvismazars.us/careers",
@@ -4909,41 +4691,32 @@
     "count": 0,
     "error": "HTTPError: 404 Client Error: Not Found for url: https://forvis.avature.net/events/SearchJobs/?jobRecordsPerPage=100",
     "seen_at": "https://forvis.avature.net/events"
-   },
-   "https://forvis.avature.net/campuscareers/SearchJobs": {
-    "ok": true,
-    "count": 6,
-    "seen_at": "https://forvis.avature.net/campuscareers/"
-   },
-   "https://forvis.avature.net/experiencedcareers/SearchJobs": {
-    "ok": true,
-    "count": 6,
-    "seen_at": "https://forvis.avature.net/experiencedcareers"
    }
   },
   "after": [
    "https://forvis.avature.net/campuscareers/SearchJobs",
    "https://forvis.avature.net/experiencedcareers/SearchJobs"
   ],
-  "why": [
-   "careers page leads to https://forvis.avature.net/campuscareers/SearchJobs, https://forvis.avature.net/experiencedcareers/SearchJobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "forvis-mazars",
   "name": "Forvis Mazars",
   "before": [
-   "https://jobs.forvismazars.us/jobs",
-   "https://www.forvismazars.us/careers"
+   "https://forvis.avature.net/campuscareers/SearchJobs",
+   "https://forvis.avature.net/experiencedcareers/SearchJobs"
   ],
-  "boards": {},
-  "pages": [
-   {
-    "url": "https://jobs.forvismazars.us/jobs",
-    "status": 404,
-    "final": "https://jobs.forvismazars.us/jobs",
-    "error": null
+  "boards": {
+   "https://forvis.avature.net/campuscareers/SearchJobs": {
+    "ok": true,
+    "count": 6
    },
+   "https://forvis.avature.net/experiencedcareers/SearchJobs": {
+    "ok": true,
+    "count": 6
+   }
+  },
+  "pages": [
    {
     "url": "https://www.forvismazars.us/careers",
     "status": 200,
@@ -4958,25 +4731,13 @@
     "count": 0,
     "error": "HTTPError: 404 Client Error: Not Found for url: https://forvis.avature.net/events/SearchJobs/?jobRecordsPerPage=100",
     "seen_at": "https://forvis.avature.net/events"
-   },
-   "https://forvis.avature.net/campuscareers/SearchJobs": {
-    "ok": true,
-    "count": 6,
-    "seen_at": "https://forvis.avature.net/campuscareers/"
-   },
-   "https://forvis.avature.net/experiencedcareers/SearchJobs": {
-    "ok": true,
-    "count": 6,
-    "seen_at": "https://forvis.avature.net/experiencedcareers"
    }
   },
   "after": [
    "https://forvis.avature.net/campuscareers/SearchJobs",
    "https://forvis.avature.net/experiencedcareers/SearchJobs"
   ],
-  "why": [
-   "careers page leads to https://forvis.avature.net/campuscareers/SearchJobs, https://forvis.avature.net/experiencedcareers/SearchJobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "frazier-deeter",
@@ -5026,20 +4787,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/entry-BmtFF-ac.css"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/freestonecapitalmanagement"
   ],
@@ -5488,7 +5236,7 @@
   "pages": [
    {
     "url": "https://www.grahamcapital.com/careers/",
-    "status": 503,
+    "status": 200,
     "final": "https://www.grahamcapital.com/careers/",
     "error": null
    }
@@ -5546,7 +5294,7 @@
   "id": "grant-thornton",
   "name": "Grant Thornton",
   "before": [
-   "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+   "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   ],
   "boards": {
    "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs": {
@@ -5567,9 +5315,7 @@
   "after": [
    "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   ],
-  "why": [
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "greenhill",
@@ -5739,7 +5485,9 @@
   "name": "Guggenheim Partners",
   "before": [
    "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers",
-   "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers_Campus"
+   "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers_Campus",
+   "https://guggenheiminvestment.wd5.myworkdayjobs.com/External",
+   "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Partners"
   ],
   "boards": {
    "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers": {
@@ -5749,6 +5497,14 @@
    "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers_Campus": {
     "ok": true,
     "count": 5
+   },
+   "https://guggenheiminvestment.wd5.myworkdayjobs.com/External": {
+    "ok": true,
+    "count": 20
+   },
+   "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Partners": {
+    "ok": true,
+    "count": 6
    }
   },
   "pages": [
@@ -5760,27 +5516,14 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://guggenheiminvestment.wd5.myworkdayjobs.com/External": {
-    "ok": true,
-    "count": 20,
-    "seen_at": "https://guggenheiminvestment.wd5.myworkdayjobs.com/External"
-   },
-   "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Partners": {
-    "ok": true,
-    "count": 6,
-    "seen_at": "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Partners"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers",
    "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers_Campus",
    "https://guggenheiminvestment.wd5.myworkdayjobs.com/External",
    "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Partners"
   ],
-  "why": [
-   "careers page also links to https://guggenheiminvestment.wd5.myworkdayjobs.com/External, https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Partners"
-  ]
+  "why": []
  },
  {
   "id": "guidehouse",
@@ -5917,24 +5660,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/manifest-02ecb345.js"
-   },
-   "https://job-boards.greenhouse.io/external_greenhouse_job_boards": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://s6-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/054/600/original/Stacked_Logo.JPG?1719973847"
-   },
-   "https://job-boards.greenhouse.io/fonts": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/fonts/UntitledSansWeb-Regular.woff"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/harrisassociates"
   ],
@@ -6082,12 +5808,22 @@
   "id": "houlihan-lokey",
   "name": "Houlihan Lokey",
   "before": [
-   "https://hl.wd1.myworkdayjobs.com/Campus"
+   "https://hl.wd1.myworkdayjobs.com/Campus",
+   "https://hl.wd1.myworkdayjobs.com/Lateral",
+   "https://hl.wd1.myworkdayjobs.com/Corporate"
   ],
   "boards": {
    "https://hl.wd1.myworkdayjobs.com/Campus": {
     "ok": true,
     "count": 37
+   },
+   "https://hl.wd1.myworkdayjobs.com/Lateral": {
+    "ok": true,
+    "count": 34
+   },
+   "https://hl.wd1.myworkdayjobs.com/Corporate": {
+    "ok": true,
+    "count": 24
    }
   },
   "pages": [
@@ -6099,26 +5835,13 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://hl.wd1.myworkdayjobs.com/Lateral": {
-    "ok": true,
-    "count": 34,
-    "seen_at": "https://hl.wd1.myworkdayjobs.com/Lateral"
-   },
-   "https://hl.wd1.myworkdayjobs.com/Corporate": {
-    "ok": true,
-    "count": 24,
-    "seen_at": "https://hl.wd1.myworkdayjobs.com/Corporate"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://hl.wd1.myworkdayjobs.com/Campus",
    "https://hl.wd1.myworkdayjobs.com/Lateral",
    "https://hl.wd1.myworkdayjobs.com/Corporate"
   ],
-  "why": [
-   "careers page also links to https://hl.wd1.myworkdayjobs.com/Lateral, https://hl.wd1.myworkdayjobs.com/Corporate"
-  ]
+  "why": []
  },
  {
   "id": "howden",
@@ -6138,14 +5861,17 @@
   "other_systems": [],
   "candidates": {
    "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 91,
     "seen_at": "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external"
    }
   },
   "after": [
-   "https://www.howdengroup.com/uk-en/culture-and-careers"
+   "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external"
   ],
-  "why": []
+  "why": [
+   "careers page leads to https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external; replaced plain pages"
+  ]
  },
  {
   "id": "hsbc",
@@ -6378,13 +6104,13 @@
   "id": "interactive-brokers",
   "name": "Interactive Brokers",
   "before": [
-   "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/",
+   "https://jobs.dayforcehcm.com/ibgllc/CANDIDATEPORTAL",
    "https://www.interactivebrokers.co.uk/en/general/about/careers-splash.php"
   ],
   "boards": {},
   "pages": [
    {
-    "url": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/",
+    "url": "https://jobs.dayforcehcm.com/ibgllc/CANDIDATEPORTAL",
     "status": 200,
     "final": "https://jobs.dayforcehcm.com/ibgllc/CANDIDATEPORTAL",
     "error": null
@@ -6416,9 +6142,7 @@
    "https://jobs.dayforcehcm.com/ibgllc/CANDIDATEPORTAL",
    "https://www.interactivebrokers.co.uk/en/general/about/careers-splash.php"
   ],
-  "why": [
-   "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/ now redirects to https://jobs.dayforcehcm.com/ibgllc/CANDIDATEPORTAL"
-  ]
+  "why": []
  },
  {
   "id": "invesco",
@@ -6451,8 +6175,7 @@
   "id": "itw",
   "name": "ITW",
   "before": [
-   "https://careers.itw.com/us/en/",
-   "https://careers.itw.com/"
+   "https://careers.itw.com/us/en/"
   ],
   "boards": {},
   "pages": [
@@ -6491,18 +6214,15 @@
   ],
   "candidates": {},
   "after": [
-   "https://careers.itw.com/us/en/",
-   "https://careers.itw.com/us/en"
+   "https://careers.itw.com/us/en/"
   ],
-  "why": [
-   "https://careers.itw.com/ now redirects to https://careers.itw.com/us/en"
-  ]
+  "why": []
  },
  {
   "id": "j-p-morgan",
   "name": "J.P. Morgan",
   "before": [
-   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001"
+   "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
   ],
   "boards": {
    "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs": {
@@ -6525,9 +6245,7 @@
   "after": [
    "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
   ],
-  "why": [
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "jane-street",
@@ -6560,10 +6278,20 @@
   "id": "jefferies",
   "name": "Jefferies",
   "before": [
-   "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/"
+   "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
+   "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/",
+   "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/1/adv/"
   ],
   "boards": {
    "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/": {
+    "ok": true,
+    "count": 50
+   },
+   "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/": {
+    "ok": true,
+    "count": 50
+   },
+   "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/1/adv/": {
     "ok": true,
     "count": 50
    }
@@ -6583,16 +6311,6 @@
     "count": 0,
     "error": "RuntimeError: no Oleeo vacancies found",
     "seen_at": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-4b6c6a03c1c7/candidate"
-   },
-   "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/": {
-    "ok": true,
-    "count": 50,
-    "seen_at": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-016c915b0a67/candidate/jobboard/vacancy/1/adv/"
-   },
-   "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/1/adv/": {
-    "ok": true,
-    "count": 50,
-    "seen_at": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-8d298828c773/candidate/register"
    }
   },
   "after": [
@@ -6600,9 +6318,7 @@
    "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/",
    "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/1/adv/"
   ],
-  "why": [
-   "careers page also links to https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/, https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/1/adv/"
-  ]
+  "why": []
  },
  {
   "id": "jegi-leonis",
@@ -6692,8 +6408,7 @@
   "id": "johnson-lambert",
   "name": "Johnson Lambert",
   "before": [
-   "https://www.johnsonlambert.com/open-positions/",
-   "https://www.johnsonlambert.com/open-positions"
+   "https://www.johnsonlambert.com/open-positions/"
   ],
   "boards": {},
   "pages": [
@@ -6727,8 +6442,7 @@
   ],
   "candidates": {},
   "after": [
-   "https://www.johnsonlambert.com/open-positions/",
-   "https://www.johnsonlambert.com/open-positions"
+   "https://www.johnsonlambert.com/open-positions/"
   ],
   "why": []
  },
@@ -6753,12 +6467,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/talent_community": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.greenhouse.io/talent_community/jobs/7138319"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/jumptrading"
   ],
@@ -6870,17 +6579,15 @@
   "id": "keystone",
   "name": "Keystone",
   "before": [
-   "https://www.keystone.com/career",
-   "https://www.keystone.com/careers"
+   "https://job-boards.greenhouse.io/keystone"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/keystone": {
+    "ok": true,
+    "count": 22
+   }
+  },
   "pages": [
-   {
-    "url": "https://www.keystone.com/career",
-    "status": 200,
-    "final": "https://www.keystone.com/career",
-    "error": null
-   },
    {
     "url": "https://www.keystone.com/careers",
     "status": 200,
@@ -6889,19 +6596,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/keystone": {
-    "ok": true,
-    "count": 22,
-    "seen_at": "https://boards-api.greenhouse.io/v1/boards/keystone/departments/"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/keystone"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/keystone; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "kkr",
@@ -6946,33 +6645,18 @@
   ],
   "other_systems": [],
   "candidates": {
-   "https://job-boards.greenhouse.io/stage": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=stage&validityToken=kaNltKmDI-hfWHEmOVF3FlZacDUv4MRP9trsSgXUC8Vndq8YwRUUrhoUvjwUkuJcHI_o23rUv0ba45UJoOXLtsr2feMf-uq0MSNBzf4r70NXRbDYC0EYJKZdNxVZeXNPeHf299IqSPf0tPTsXxHQEPUmXFSjHTMTZUsy2y9v1hGJy3XY7_f8zbqWoTuy3l46CVhVbPlXfCapt3nPmq7NAubEqpei8CTVuOlltfRg8bRwwZb12UivR0EY_PYT7P9c1D1QqDBdCWh6Q4Qka9qxaM-i7SlgvbWBHMXDJsI-0KcIfwvxdQmXR9Ot2cB5TJB2mV8ypqkCT7XRYnM1hJ4tgw%3D%3D"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/entry-BmtFF-ac.css"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   },
    "https://job-boards.greenhouse.io/staged": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=staged&validityToken=S5hTM6BjBnlRsc4cgv9EXk2AvGOUKN3p0Cp6k0NB7Jm-JPCDWY3g7lb-aCLo17Mxs-XknrvbJp6MGUOQRnnUVk-Pyg7MZVSibpgpkGVZCJeQgOhPmBvFys6tY8KxuWa-AUlnUsPxY1HfVEZfu36RAinnP8tne0ZS2Dt_xHhbp-1_DAn-wmVBsafneLodeIE7oYRFWODOO_-Yn_1e3CBqsgrRluNbVXMfeST0ih0YbpdldzLnidAGGAaJ0vu6avcRZPhLBV5dOuN1akj6QtOKGmL9hcGIKTsyf5jyZH5lMuHVXj29_uXIa0dmhRFNq5g_Yj2rBAE1dek-eZyesYdQEA%3D%3D"
+    "ok": true,
+    "count": 8,
+    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=staged&validityToken=Y4FLETE2F50-43q8vFJRr9Wh8VOwX8EX2G2B6X6COrNr79BA8pisVDX1Cd5lxxEbbYcPoeXxvUtsfB4wqDxUmUxDksfesEDmAq7IxgET9irkDlzXkFzkd6uWweJDhfauj8pkEovKUTFceTLj_h8JgArTm_ZCXRbGQJBDKGLk3JioQVAYxT17G04UYt0zu9vYro_jfA8KSHmqgUqWoq0phRPMHUOEYqIXZn7XjBhFseOsGYlpD0FBGNzvwcCrGhJwNOHQ0jfHXhAo2ARJuzMU-JNCzSBhq4T34kesvy4FfvtIWit0kOkxTPghuSn3NIR9-Z7xCVICHQDqcBC_b-ByHA%3D%3D"
    }
   },
   "after": [
-   "https://www.kkr.com/careers/career-opportunities/post",
-   "https://www.kkr.com/careers/student-careers/student-career-opportunities/post",
-   "https://www.kkr.com/our-firm/careers"
+   "https://job-boards.greenhouse.io/staged"
   ],
-  "why": []
+  "why": [
+   "careers page leads to https://job-boards.greenhouse.io/staged; replaced plain pages"
+  ]
  },
  {
   "id": "kline-hill-partners",
@@ -7005,10 +6689,15 @@
   "id": "koch",
   "name": "Koch",
   "before": [
-   "https://koch.avature.net/en_US/careers/SearchJobs"
+   "https://koch.avature.net/en_US/careers/SearchJobs",
+   "https://koch.avature.net/en_US/CollegeRecruiting/SearchJobs"
   ],
   "boards": {
    "https://koch.avature.net/en_US/careers/SearchJobs": {
+    "ok": true,
+    "count": 6
+   },
+   "https://koch.avature.net/en_US/CollegeRecruiting/SearchJobs": {
     "ok": true,
     "count": 6
    }
@@ -7029,11 +6718,6 @@
     "error": "HTTPError: 404 Client Error: Not Found for url: https://koch.avature.net/en_US/eventslisting/SearchJobs/?jobRecordsPerPage=100",
     "seen_at": "https://koch.avature.net/en_US/eventslisting"
    },
-   "https://koch.avature.net/en_US/CollegeRecruiting/SearchJobs": {
-    "ok": true,
-    "count": 6,
-    "seen_at": "https://koch.avature.net/en_US/CollegeRecruiting/SearchJobs?tags=rm.kcm.web.kcm-004"
-   },
    "https://koch.avature.net/en_US/earlycareers/SearchJobs": {
     "ok": false,
     "count": 0,
@@ -7045,9 +6729,7 @@
    "https://koch.avature.net/en_US/careers/SearchJobs",
    "https://koch.avature.net/en_US/CollegeRecruiting/SearchJobs"
   ],
-  "why": [
-   "careers page also links to https://koch.avature.net/en_US/CollegeRecruiting/SearchJobs"
-  ]
+  "why": []
  },
  {
   "id": "kpmg",
@@ -7095,9 +6777,14 @@
   "id": "kwc-cpas",
   "name": "KWC CPAs",
   "before": [
-   "https://www.kwccpa.com/careers/recruiting"
+   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=990d3929-8d89-4cc3-99ed-e1fc723d527e"
   ],
-  "boards": {},
+  "boards": {
+   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=990d3929-8d89-4cc3-99ed-e1fc723d527e": {
+    "ok": true,
+    "count": 11
+   }
+  },
   "pages": [
    {
     "url": "https://www.kwccpa.com/careers/recruiting",
@@ -7107,31 +6794,38 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=990d3929-8d89-4cc3-99ed-e1fc723d527e": {
-    "ok": true,
-    "count": 11,
-    "seen_at": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=990d3929-8d89-4cc3-99ed-e1fc723d527e&ccId=19000101_000001&jobId=593390&lang=en_US"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=990d3929-8d89-4cc3-99ed-e1fc723d527e"
   ],
-  "why": [
-   "careers page leads to https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=990d3929-8d89-4cc3-99ed-e1fc723d527e; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "l-e-k-consulting",
   "name": "L.E.K. Consulting",
   "before": [
-   "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/6/adv/"
+   "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/6/adv/",
+   "https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-1/brand-2/candidate/jobboard/vacancy/1/adv/",
+   "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3/adv/",
+   "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-2/candidate/jobboard/vacancy/5/adv/"
   ],
   "boards": {
    "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/6/adv/": {
     "ok": false,
     "count": 0,
     "error": "RuntimeError: no Oleeo vacancies found"
+   },
+   "https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-1/brand-2/candidate/jobboard/vacancy/1/adv/": {
+    "ok": true,
+    "count": 17
+   },
+   "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3/adv/": {
+    "ok": true,
+    "count": 12
+   },
+   "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-2/candidate/jobboard/vacancy/5/adv/": {
+    "ok": true,
+    "count": 12
    }
   },
   "pages": [
@@ -7144,21 +6838,6 @@
   ],
   "other_systems": [],
   "candidates": {
-   "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3/adv/": {
-    "ok": true,
-    "count": 12,
-    "seen_at": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/xf-f9ee24524658/candidate/jobboard/vacancy/3/adv/"
-   },
-   "https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-1/brand-2/candidate/jobboard/vacancy/1/adv/": {
-    "ok": true,
-    "count": 17,
-    "seen_at": "https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-1/brand-2/candidate/jobboard/vacancy/1/adv/"
-   },
-   "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-2/candidate/jobboard/vacancy/5/adv/": {
-    "ok": true,
-    "count": 12,
-    "seen_at": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-2/candidate/jobboard/vacancy/5/adv/"
-   },
    "https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-4/brand-2/candidate/jobboard/vacancy/7/adv/": {
     "ok": true,
     "count": 5,
@@ -7177,17 +6856,16 @@
    "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3/adv/",
    "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-2/candidate/jobboard/vacancy/5/adv/"
   ],
-  "why": [
-   "careers page also links to https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-1/brand-2/candidate/jobboard/vacancy/1/adv/, https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3/adv/, https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-2/candidate/jobboard/vacancy/5/adv/"
-  ]
+  "why": []
  },
  {
   "id": "lazard",
   "name": "Lazard",
   "before": [
-   "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
-   "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers",
-   "https://lazard-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/"
+   "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+   "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/jobs",
+   "https://lazard-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
+   "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs"
   ],
   "boards": {
    "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs": {
@@ -7202,6 +6880,11 @@
     "ok": false,
     "count": 0,
     "error": "RuntimeError: no Oleeo vacancies found"
+   },
+   "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs": {
+    "ok": false,
+    "count": 0,
+    "error": "ReadTimeout: HTTPSConnectionPool(host='icbpjb.fa.ocs.oraclecloud.com', port=443): Read timed out. (read timeout=25)"
    }
   },
   "pages": [
@@ -7213,23 +6896,14 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs": {
-    "ok": true,
-    "count": 44,
-    "seen_at": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
    "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/jobs",
    "https://lazard-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
    "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs"
   ],
-  "why": [
-   "careers page also links to https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/jobs",
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "lead-edge-capital",
@@ -7414,24 +7088,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/job_board_renderer": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://s9-recruiting.cdn.greenhouse.io/job_board_renderer/custom_fonts/fonts/400/016/800/original/NHaasGroteskDSPro-65Md.otf?1761672334"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/entry-BmtFF-ac.css"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/llrpartnersjobs"
   ],
@@ -8075,7 +7732,8 @@
   "name": "Moelis & Co",
   "before": [
    "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/adv/",
-   "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/"
+   "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
+   "https://moelis.wd1.myworkdayjobs.com/Experienced-Hires"
   ],
   "boards": {
    "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/adv/": {
@@ -8085,6 +7743,10 @@
    "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/": {
     "ok": true,
     "count": 28
+   },
+   "https://moelis.wd1.myworkdayjobs.com/Experienced-Hires": {
+    "ok": true,
+    "count": 22
    }
   },
   "pages": [
@@ -8102,11 +7764,6 @@
     "count": 0,
     "error": "RuntimeError: no Oleeo vacancies found",
     "seen_at": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-7/xf-69860b0d6b25/wid-2/candidate"
-   },
-   "https://moelis.wd1.myworkdayjobs.com/Experienced-Hires": {
-    "ok": true,
-    "count": 22,
-    "seen_at": "https://moelis.wd1.myworkdayjobs.com/Experienced-Hires"
    }
   },
   "after": [
@@ -8114,18 +7771,22 @@
    "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
    "https://moelis.wd1.myworkdayjobs.com/Experienced-Hires"
   ],
-  "why": [
-   "careers page also links to https://moelis.wd1.myworkdayjobs.com/Experienced-Hires"
-  ]
+  "why": []
  },
  {
   "id": "moody-s",
   "name": "Moody's",
   "before": [
-   "https://careers.moodys.com/students-early-careers/"
+   "https://careers.moodys.com/en/search-jobs"
   ],
   "boards": {},
   "pages": [
+   {
+    "url": "https://careers.moodys.com/en/search-jobs",
+    "status": 200,
+    "final": "https://careers.moodys.com/en/search-jobs",
+    "error": null
+   },
    {
     "url": "https://careers.moodys.com/students-early-careers/",
     "status": 200,
@@ -8133,15 +7794,15 @@
     "error": null
    },
    {
-    "url": "https://careers.moodys.com/en/search-jobs?acm=9382672&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D]",
+    "url": "https://careers.moodys.com/en/search-jobs",
     "status": 200,
-    "final": "https://careers.moodys.com/en/search-jobs?acm=9382672&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D]",
+    "final": "https://careers.moodys.com/en/search-jobs",
     "error": null
    },
    {
-    "url": "https://careers.moodys.com/en/search-jobs?acm=9382672&alrpm=ALL&ascf=[{%22key%22:%22ALL%22,%22value%22:%22%22}]",
+    "url": "https://careers.moodys.com/search-jobs&p=2",
     "status": 200,
-    "final": "https://careers.moodys.com/en/search-jobs?acm=9382672&alrpm=ALL&ascf=[{%22key%22:%22ALL%22,%22value%22:%22%22}]",
+    "final": "https://careers.moodys.com/en",
     "error": null
    }
   ],
@@ -8152,9 +7813,7 @@
   "after": [
    "https://careers.moodys.com/en/search-jobs"
   ],
-  "why": [
-   "https://careers.moodys.com/students-early-careers/ now redirects to https://careers.moodys.com/en/search-jobs"
-  ]
+  "why": []
  },
  {
   "id": "moore-colson",
@@ -8187,13 +7846,13 @@
   "id": "morgan-properties",
   "name": "Morgan Properties",
   "before": [
-   "https://jobs.dayforcehcm.com/en-US/morganprop/confidential/jobs/",
+   "https://jobs.dayforcehcm.com/morganprop/confidential",
    "https://www.morgan-properties.com/careers"
   ],
   "boards": {},
   "pages": [
    {
-    "url": "https://jobs.dayforcehcm.com/en-US/morganprop/confidential/jobs/",
+    "url": "https://jobs.dayforcehcm.com/morganprop/confidential",
     "status": 200,
     "final": "https://jobs.dayforcehcm.com/morganprop/confidential",
     "error": null
@@ -8225,9 +7884,7 @@
    "https://jobs.dayforcehcm.com/morganprop/confidential",
    "https://www.morgan-properties.com/careers"
   ],
-  "why": [
-   "https://jobs.dayforcehcm.com/en-US/morganprop/confidential/jobs/ now redirects to https://jobs.dayforcehcm.com/morganprop/confidential"
-  ]
+  "why": []
  },
  {
   "id": "morgan-stanley",
@@ -8348,7 +8005,7 @@
   "name": "Musket",
   "before": [
    "https://jobs.loves.com/",
-   "https://www.musketcorp.com/en/careers/interns-graduate-opportunities"
+   "https://www.musketcorp.com/careers/interns-graduate-opportunities"
   ],
   "boards": {},
   "pages": [
@@ -8356,6 +8013,12 @@
     "url": "https://jobs.loves.com/",
     "status": 200,
     "final": "https://jobs.loves.com/",
+    "error": null
+   },
+   {
+    "url": "https://www.musketcorp.com/careers/interns-graduate-opportunities",
+    "status": 200,
+    "final": "https://www.musketcorp.com/careers/interns-graduate-opportunities",
     "error": null
    },
    {
@@ -8379,9 +8042,7 @@
    "https://jobs.loves.com/",
    "https://www.musketcorp.com/careers/interns-graduate-opportunities"
   ],
-  "why": [
-   "https://www.musketcorp.com/en/careers/interns-graduate-opportunities now redirects to https://www.musketcorp.com/careers/interns-graduate-opportunities"
-  ]
+  "why": []
  },
  {
   "id": "nationwide-mutual-insurance-company",
@@ -8414,8 +8075,7 @@
   "id": "natixis",
   "name": "Natixis",
   "before": [
-   "https://recrutement.natixis.com/en/",
-   "https://recrutement.natixis.com/en"
+   "https://recrutement.natixis.com/en/"
   ],
   "boards": {},
   "pages": [
@@ -8447,8 +8107,7 @@
   "other_systems": [],
   "candidates": {},
   "after": [
-   "https://recrutement.natixis.com/en/",
-   "https://recrutement.natixis.com/en"
+   "https://recrutement.natixis.com/en/"
   ],
   "why": []
  },
@@ -8570,10 +8229,15 @@
   "id": "nomura",
   "name": "Nomura",
   "before": [
-   "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/"
+   "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/",
+   "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/"
   ],
   "boards": {
    "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/": {
+    "ok": true,
+    "count": 46
+   },
+   "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/": {
     "ok": true,
     "count": 46
    }
@@ -8587,20 +8251,12 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/": {
-    "ok": true,
-    "count": 46,
-    "seen_at": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-3348347fc789/candidate/jobboard/vacancy/2/adv/"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/",
    "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/"
   ],
-  "why": [
-   "careers page also links to https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/"
-  ]
+  "why": []
  },
  {
   "id": "nonantum-capital-partners",
@@ -8882,13 +8538,12 @@
   "id": "old-mission",
   "name": "Old Mission",
   "before": [
-   "https://job-boards.greenhouse.io/oldmissioncapital"
+   "https://jobs.ashbyhq.com/old-mission-capital"
   ],
   "boards": {
-   "https://job-boards.greenhouse.io/oldmissioncapital": {
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs"
+   "https://jobs.ashbyhq.com/old-mission-capital": {
+    "ok": true,
+    "count": 38
    }
   },
   "pages": [
@@ -8901,11 +8556,6 @@
   ],
   "other_systems": [],
   "candidates": {
-   "https://jobs.ashbyhq.com/old-mission-capital": {
-    "ok": true,
-    "count": 38,
-    "seen_at": "https://jobs.ashbyhq.com/old-mission-capital?embed=js"
-   },
    "https://jobs.ashbyhq.com/api": {
     "ok": false,
     "count": 0,
@@ -8916,10 +8566,7 @@
   "after": [
    "https://jobs.ashbyhq.com/old-mission-capital"
   ],
-  "why": [
-   "dropped broken https://job-boards.greenhouse.io/oldmissioncapital",
-   "careers page also links to https://jobs.ashbyhq.com/old-mission-capital"
-  ]
+  "why": []
  },
  {
   "id": "oliver-wyman",
@@ -8959,19 +8606,23 @@
   ],
   "candidates": {
    "https://mmc.wd1.myworkdayjobs.com/MMC": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 116,
     "seen_at": "https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Baker/Oliver-Wyman---Summer-Internship-2027---London_R_363389-1"
    },
    "https://mmc.wd1.myworkdayjobs.com/careers": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 97,
     "seen_at": "https://mmc.wd1.myworkdayjobs.com/careers/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984"
    }
   },
   "after": [
-   "https://careers.marsh.com/global/en/search-results",
-   "https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html"
+   "https://mmc.wd1.myworkdayjobs.com/MMC",
+   "https://mmc.wd1.myworkdayjobs.com/careers"
   ],
-  "why": []
+  "why": [
+   "careers page leads to https://mmc.wd1.myworkdayjobs.com/MMC, https://mmc.wd1.myworkdayjobs.com/careers; replaced plain pages"
+  ]
  },
  {
   "id": "omers",
@@ -9004,15 +8655,15 @@
   "id": "oppenheimer-co",
   "name": "Oppenheimer & Co",
   "before": [
-   "https://opco.hrmdirect.com/employment/job-openings.php",
+   "https://apply.clearcompany.com/opco",
    "https://www.oppenheimer.com/careers/students-graduates"
   ],
   "boards": {},
   "pages": [
    {
-    "url": "https://opco.hrmdirect.com/employment/job-openings.php",
+    "url": "https://apply.clearcompany.com/opco",
     "status": 200,
-    "final": "https://apply.clearcompany.com/opco?noheader=False",
+    "final": "https://apply.clearcompany.com/opco",
     "error": null
    },
    {
@@ -9028,9 +8679,7 @@
    "https://apply.clearcompany.com/opco",
    "https://www.oppenheimer.com/careers/students-graduates"
   ],
-  "why": [
-   "https://opco.hrmdirect.com/employment/job-openings.php now redirects to https://apply.clearcompany.com/opco"
-  ]
+  "why": []
  },
  {
   "id": "optiver",
@@ -9166,71 +8815,31 @@
   "id": "partners-group",
   "name": "Partners Group",
   "before": [
-   "https://jobs.partnersgroup.com/"
+   "https://fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
   ],
-  "boards": {},
+  "boards": {
+   "https://fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs": {
+    "ok": true,
+    "count": 94
+   }
+  },
   "pages": [
    {
     "url": "https://jobs.partnersgroup.com/",
     "status": 200,
     "final": "https://www.partnersgroup.com/en/careers/welcome",
     "error": null
-   },
-   {
-    "url": "https://portfolio-jobs.partnersgroup.com/jobs",
-    "status": 200,
-    "final": "https://portfolio-jobs.partnersgroup.com/jobs",
-    "error": null
-   },
-   {
-    "url": "https://www.partnersgroup.com/en/careers/career-opportunities/investment",
-    "status": 200,
-    "final": "https://www.partnersgroup.com/en/careers/career-opportunities/investment",
-    "error": null
    }
   ],
   "other_systems": [
-   "ats.rippling.com",
    "performancemanager5.successfactors.eu",
    "rmkcdn.successfactors.com"
   ],
-  "candidates": {
-   "https://kindercare.wd5.myworkdayjobs.com/ExternalCareerSite": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://kindercare.wd5.myworkdayjobs.com/ExternalCareerSite/job/000318-Germantown-KinderCare/Assistant-Director-Germantown-KinderCare_JR58912"
-   },
-   "https://fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs": {
-    "ok": true,
-    "count": 94,
-    "seen_at": "https://fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5119/"
-   },
-   "https://premistar.rec.pro.ukg.net/PRE1044PREMI/JobBoard/82e36ec9-904d-4ee3-b3d3-c57ceef390d1": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://premistar.rec.pro.ukg.net/PRE1044PREMI/JobBoard/82e36ec9-904d-4ee3-b3d3-c57ceef390d1/OpportunityDetail?opportunityId=aa7074d0-b6f9-4e8e-ba25-ca85cec57d20"
-   },
-   "https://internationalschools.wd3.myworkdayjobs.com/ISPCareers": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://internationalschools.wd3.myworkdayjobs.com/ISPCareers/job/El-Altillo-International-School-Spain-Jerez-de-la-Frontera/History-Teacher_JR215630"
-   },
-   "https://recruiting.ultipro.com/MSD1000MSDS/JobBoard/1f9339ba-2d37-44eb-813d-06683cb57987": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://recruiting.ultipro.com/MSD1000MSDS/JobBoard/1f9339ba-2d37-44eb-813d-06683cb57987/OpportunityDetail?opportunityId=38a410b1-a2e4-49a3-8763-324029b49c66"
-   },
-   "https://recruiting.ultipro.com/REG1001RWHM/JobBoard/3f9058a6-91f2-4cf1-bf33-bc76cb9f0522": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://recruiting.ultipro.com/REG1001RWHM/JobBoard/3f9058a6-91f2-4cf1-bf33-bc76cb9f0522/OpportunityDetail?opportunityId=a7a2458a-2aeb-4eda-8acb-7a04ce5928b7"
-   },
-   "https://job-boards.greenhouse.io/foundationriskpartners": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.greenhouse.io/foundationriskpartners/jobs/5281749007"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
   ],
-  "why": [
-   "careers page leads to https://fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "pathstone",
@@ -9697,7 +9306,7 @@
   "other_systems": [],
   "candidates": {
    "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiEMEACareers": {
-    "skipped": "doesn't look like this firm's board",
+    "skipped": "board for another region",
     "seen_at": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiEMEACareers?Location_Country=29247e57dbaf46fb855b224e03170bc7"
    }
   },
@@ -9834,7 +9443,7 @@
   "id": "psrs-peers",
   "name": "PSRS/PEERS",
   "before": [
-   "https://ejrd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4"
+   "https://ejrd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/jobs"
   ],
   "boards": {
    "https://ejrd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/jobs": {
@@ -9855,9 +9464,7 @@
   "after": [
    "https://ejrd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/jobs"
   ],
-  "why": [
-   "standard address form"
-  ]
+  "why": []
  },
  {
   "id": "putnam",
@@ -9983,20 +9590,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/entry-BmtFF-ac.css"
-   },
-   "https://job-boards.greenhouse.io/fonts": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/fonts/UntitledSansWeb-Regular.woff"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/quantbot-technologies"
   ],
@@ -10064,7 +9658,7 @@
    },
    "https://jobs.lever.co/cdn-cgi": {
     "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://jobs.lever.co/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a58200ac0bb2f7bf"
+    "seen_at": "https://jobs.lever.co/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a582195c1fabf8be"
    }
   },
   "after": [
@@ -10109,59 +9703,28 @@
   "id": "rbc-capital-markets",
   "name": "RBC Capital Markets",
   "before": [
-   "https://jobs.rbc.com/ca/en/search-results",
-   "https://jobs.rbc.com/ca/en/",
-   "https://www.rbccm.com/en/careers"
+   "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1"
   ],
-  "boards": {},
+  "boards": {
+   "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1": {
+    "ok": true,
+    "count": 29
+   }
+  },
   "pages": [
-   {
-    "url": "https://jobs.rbc.com/ca/en/search-results",
-    "status": 200,
-    "final": "https://jobs.rbc.com/ca/en/search-results",
-    "error": null
-   },
-   {
-    "url": "https://jobs.rbc.com/ca/en/",
-    "status": 200,
-    "final": "https://jobs.rbc.com/ca/en/",
-    "error": null
-   },
    {
     "url": "https://www.rbccm.com/en/careers",
     "status": 200,
     "final": "https://www.rbccm.com/en/careers",
     "error": null
-   },
-   {
-    "url": "https://www.rbccm.com/en/careers/programs",
-    "status": 200,
-    "final": "https://www.rbccm.com/en/careers/programs",
-    "error": null
    }
   ],
-  "other_systems": [
-   "assets.phenompeople.com",
-   "career8.successfactors.com",
-   "cdn.phenompeople.com",
-   "content-us.phenompeople.com",
-   "csp.phenompeople.com",
-   "phenomtrackapi.phenompeople.com",
-   "pp-cdn.phenompeople.com"
-  ],
-  "candidates": {
-   "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1": {
-    "ok": true,
-    "count": 29,
-    "seen_at": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Sydney-New-South-Wales-Australia/XMLNAME-2024-5-Summer-Intern---Global-Markets-Australia_R-0000092536"
-   }
-  },
+  "other_systems": [],
+  "candidates": {},
   "after": [
    "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1"
   ],
-  "why": [
-   "careers page leads to https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "rdv-corporation",
@@ -10221,17 +9784,15 @@
   "id": "regions-bank",
   "name": "Regions Bank",
   "before": [
-   "https://careers.regions.com/us/en/",
-   "https://careers.regions.com/us/en/interns-and-graduates"
+   "https://regions.wd5.myworkdayjobs.com/Regions_Careers"
   ],
-  "boards": {},
+  "boards": {
+   "https://regions.wd5.myworkdayjobs.com/Regions_Careers": {
+    "ok": true,
+    "count": 62
+   }
+  },
   "pages": [
-   {
-    "url": "https://careers.regions.com/us/en/",
-    "status": 200,
-    "final": "https://careers.regions.com/us/en/",
-    "error": null
-   },
    {
     "url": "https://careers.regions.com/us/en/interns-and-graduates",
     "status": 200,
@@ -10247,26 +9808,18 @@
    "phenomtrackapi.phenompeople.com",
    "pp-cdn.phenompeople.com"
   ],
-  "candidates": {
-   "https://regions.wd5.myworkdayjobs.com/Regions_Careers": {
-    "ok": true,
-    "count": 62,
-    "seen_at": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/login"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://regions.wd5.myworkdayjobs.com/Regions_Careers"
   ],
-  "why": [
-   "careers page leads to https://regions.wd5.myworkdayjobs.com/Regions_Careers; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "renaissance-strategic-advisors",
   "name": "Renaissance Strategic Advisors",
   "before": [
    "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/",
-   "https://rsadvisors.com/careers"
+   "https://rsadvisors.com/en/careers"
   ],
   "boards": {},
   "pages": [
@@ -10274,6 +9827,12 @@
     "url": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/",
     "status": 200,
     "final": "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs",
+    "error": null
+   },
+   {
+    "url": "https://rsadvisors.com/en/careers",
+    "status": 200,
+    "final": "https://rsadvisors.com/en/careers",
     "error": null
    },
    {
@@ -10306,9 +9865,7 @@
    "https://ats.rippling.com/en-GB/renaissance-strategic-advisors/jobs/",
    "https://rsadvisors.com/en/careers"
   ],
-  "why": [
-   "https://rsadvisors.com/careers now redirects to https://rsadvisors.com/en/careers"
-  ]
+  "why": []
  },
  {
   "id": "roark-capital-group",
@@ -10341,17 +9898,15 @@
   "id": "rockefeller-capital-management",
   "name": "Rockefeller Capital Management",
   "before": [
-   "https://careers.rockco.com/careers-home/jobs/",
-   "https://www.rockco.com/about-rcm/working-at-rockefeller/"
+   "https://careers-rcm.icims.com/jobs"
   ],
-  "boards": {},
+  "boards": {
+   "https://careers-rcm.icims.com/jobs": {
+    "ok": true,
+    "count": 27
+   }
+  },
   "pages": [
-   {
-    "url": "https://careers.rockco.com/careers-home/jobs/",
-    "status": 200,
-    "final": "https://careers.rockco.com/careers-home/jobs",
-    "error": null
-   },
    {
     "url": "https://www.rockco.com/about-rcm/working-at-rockefeller/",
     "status": 200,
@@ -10360,23 +9915,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://careers-rcm.icims.com/jobs": {
-    "ok": true,
-    "count": 27,
-    "seen_at": "https://careers-rcm.icims.com/jobs/5721/login"
-   },
-   "https://cookie-policy-scripts.icims.com/jobs": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://cookie-policy-scripts.icims.com/rcm/careers.rockco.com/script.js"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://careers-rcm.icims.com/jobs"
   ],
-  "why": [
-   "careers page leads to https://careers-rcm.icims.com/jobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "rothesay",
@@ -10436,17 +9979,15 @@
   "id": "rsm-us",
   "name": "RSM US",
   "before": [
-   "https://jobs.rsmus.com/",
-   "https://rsmus.com/careers.html"
+   "https://rsm.wd1.myworkdayjobs.com/RSMCareers"
   ],
-  "boards": {},
+  "boards": {
+   "https://rsm.wd1.myworkdayjobs.com/RSMCareers": {
+    "ok": true,
+    "count": 60
+   }
+  },
   "pages": [
-   {
-    "url": "https://jobs.rsmus.com/",
-    "status": 200,
-    "final": "https://jobs.rsmus.com/",
-    "error": null
-   },
    {
     "url": "https://rsmus.com/careers.html",
     "status": 200,
@@ -10455,19 +9996,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://rsm.wd1.myworkdayjobs.com/RSMCareers": {
-    "ok": true,
-    "count": 60,
-    "seen_at": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/login"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://rsm.wd1.myworkdayjobs.com/RSMCareers"
   ],
-  "why": [
-   "careers page leads to https://rsm.wd1.myworkdayjobs.com/RSMCareers; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "rwe",
@@ -10546,9 +10079,14 @@
   "id": "sands-capital",
   "name": "Sands Capital",
   "before": [
-   "https://www.sandscapital.com/careers-and-staff-benefits/"
+   "https://job-boards.greenhouse.io/sandscapitalmanagementllc"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/sandscapitalmanagementllc": {
+    "ok": true,
+    "count": 1
+   }
+  },
   "pages": [
    {
     "url": "https://www.sandscapital.com/careers-and-staff-benefits/",
@@ -10558,19 +10096,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/sandscapitalmanagementllc": {
-    "ok": true,
-    "count": 1,
-    "seen_at": "https://boards.greenhouse.io/sandscapitalmanagementllc"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/sandscapitalmanagementllc"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/sandscapitalmanagementllc; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "santander",
@@ -10625,17 +10155,15 @@
   "id": "schneider-downs",
   "name": "Schneider Downs",
   "before": [
-   "https://schneiderdowns.csod.com/ux/ats/careersite/10/home",
-   "https://www.schneiderdowns.com/careers"
+   "https://job-boards.greenhouse.io/schneiderdowns"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/schneiderdowns": {
+    "ok": true,
+    "count": 16
+   }
+  },
   "pages": [
-   {
-    "url": "https://schneiderdowns.csod.com/ux/ats/careersite/10/home",
-    "status": 200,
-    "final": "https://schneiderdowns.csod.com/ux/ats/careersite/10/home?c=schneiderdowns",
-    "error": null
-   },
    {
     "url": "https://www.schneiderdowns.com/careers",
     "status": 200,
@@ -10644,19 +10172,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/schneiderdowns": {
-    "ok": true,
-    "count": 16,
-    "seen_at": "https://job-boards.greenhouse.io/schneiderdowns"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/schneiderdowns"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/schneiderdowns; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "scotiabank",
@@ -10784,19 +10304,7 @@
    "https://job-boards.greenhouse.io/sheacompany": {
     "ok": true,
     "count": 0,
-    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=sheacompany&validityToken=U4KXUOYPHWY56e1gVd2lK8N4x7lvbYcgNzRDVhilkC7Mf4-yvVLPLTU-7RL_VQowyXVb2asLqx0iycV9RNO58Li2Qdc2U-ryUEHHTToVDfGVSFW0738f2E2dU4l4ufgktFxY9eYM0UFBekNrl4go1wiABh--ki0HdQt3Lkj1c2NDwwJvQPuYO4yII5RfDyU9gwQCgF7Y1OL5-ZWIfK52npb0TILk2p3KM9AlVhFPv1Vsyt2x21nkT0qYx9v63Qn1ED1n9A-894A5pmH1HaJ3uK20m0LU0A_uksudiGuX43KmEQQJmPm9XAnTfVurVGSP1Jh25xBQ5xZH-gsakOAT-A%3D%3D"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/manifest-02ecb345.js"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
+    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=sheacompany&validityToken=fX5tI_zK_hRozaNxa4ZFTfZ-GYbhmLEkOi5KWgo8HZq_56AMpwGyUBKTASNQZnja24UN3_S9QwZrtFJXa4JgBPySs2O39-WriHaYeYDXX3JVguWxcwzhOj91RI4GCO-CsNdQnvsGEsFWtt6QEOJiQw-uNH_DIsELPU9daoky7DNxetY4UgAh2VBTFQQCHK0Pv7AR2n_7Y8CBloeIgZ3FMY58AaS0rmmEcQETELVRvJKHuoK62k4Hx0PW0GA53kWGv6JPQd7VB0LuE8UAlF2cZLi3v2Kxm04Vz52VkvA9qMvUAk-7OZIl_nD9e8-vo9cFW8fQtmt2XkU0Tsxy8NS6jg%3D%3D"
    }
   },
   "after": [
@@ -10825,20 +10333,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://shell.wd3.myworkdayjobs.com/shellcareers": {
-    "ok": true,
-    "count": 68,
-    "seen_at": "https://shell.wd3.myworkdayjobs.com/en-US/shellcareers/jobAlerts"
-   }
-  },
+  "candidates": {},
   "after": [
-   "https://shell.wd3.myworkdayjobs.com/ShellCareers",
-   "https://shell.wd3.myworkdayjobs.com/shellcareers"
+   "https://shell.wd3.myworkdayjobs.com/ShellCareers"
   ],
-  "why": [
-   "careers page also links to https://shell.wd3.myworkdayjobs.com/shellcareers"
-  ]
+  "why": []
  },
  {
   "id": "silversmith-capital-partners",
@@ -10871,23 +10370,19 @@
   "other_systems": [],
   "candidates": {
    "https://upperline.rec.pro.ukg.net/UPP1500ULHI/JobBoard/1d4a537c-ab61-4491-8a1b-781f6bd12501": {
-    "ok": true,
-    "count": 100,
+    "skipped": "doesn't look like this firm's board",
     "seen_at": "https://upperline.rec.pro.ukg.net/UPP1500ULHI/JobBoard/1d4a537c-ab61-4491-8a1b-781f6bd12501/OpportunityDetail?opportunityId=0494e73f-8070-4efa-a50b-37fe0680caed&utm_source=Silversmith+Capital+Partners+job+board&utm_medium=getro.com&gh_src=Silversmith+Capital+Partners+job+board"
    },
    "https://recruiting2.ultipro.com/SOU1040SINPI/JobBoard/0ee64565-a2c3-6f63-54fd-06d1efaa5d77": {
-    "ok": true,
-    "count": 18,
+    "skipped": "doesn't look like this firm's board",
     "seen_at": "https://recruiting2.ultipro.com/SOU1040SINPI/JobBoard/0ee64565-a2c3-6f63-54fd-06d1efaa5d77/OpportunityDetail?opportunityId=e6f3db40-de90-4aff-b50d-5e672aac0684&utm_source=Silversmith+Capital+Partners+job+board&utm_medium=getro.com&gh_src=Silversmith+Capital+Partners+job+board"
    }
   },
   "after": [
-   "https://upperline.rec.pro.ukg.net/UPP1500ULHI/JobBoard/1d4a537c-ab61-4491-8a1b-781f6bd12501",
-   "https://recruiting2.ultipro.com/SOU1040SINPI/JobBoard/0ee64565-a2c3-6f63-54fd-06d1efaa5d77"
+   "https://silversmith.hirevue.com/signup/RtVvmdREe2qYi4YcQ46qd9/",
+   "https://www.silversmith.com/careers"
   ],
-  "why": [
-   "careers page leads to https://upperline.rec.pro.ukg.net/UPP1500ULHI/JobBoard/1d4a537c-ab61-4491-8a1b-781f6bd12501, https://recruiting2.ultipro.com/SOU1040SINPI/JobBoard/0ee64565-a2c3-6f63-54fd-06d1efaa5d77; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "simon-kucher",
@@ -11055,7 +10550,8 @@
   "other_systems": [],
   "candidates": {
    "https://wd1.myworkdaysite.com/recruiting/gordonbrothers/Solic_career_pathway": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 0,
     "seen_at": "https://wd1.myworkdaysite.com/recruiting/gordonbrothers/Solic_career_pathway"
    }
   },
@@ -11116,8 +10612,7 @@
    "cdn.phenompeople.com",
    "content-us.phenompeople.com",
    "phenomtrackapi.phenompeople.com",
-   "pp-cdn.phenompeople.com",
-   "www.phenompeople.com"
+   "pp-cdn.phenompeople.com"
   ],
   "candidates": {},
   "after": [
@@ -11151,17 +10646,15 @@
   "id": "squarepoint-capital",
   "name": "Squarepoint Capital",
   "before": [
-   "https://www.squarepoint-capital.com/open-opportunities",
-   "https://www.squarepoint-capital.com/careers"
+   "https://job-boards.greenhouse.io/squarepointcapital"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/squarepointcapital": {
+    "ok": true,
+    "count": 90
+   }
+  },
   "pages": [
-   {
-    "url": "https://www.squarepoint-capital.com/open-opportunities",
-    "status": 200,
-    "final": "https://www.squarepoint-capital.com/open-opportunities",
-    "error": null
-   },
    {
     "url": "https://www.squarepoint-capital.com/careers",
     "status": 404,
@@ -11170,26 +10663,17 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/squarepointcapital": {
-    "ok": true,
-    "count": 90,
-    "seen_at": "https://boards-api.greenhouse.io/v1/boards/squarepointcapital/departments"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/squarepointcapital"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/squarepointcapital; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "standard-chartered",
   "name": "Standard Chartered",
   "before": [
    "https://jobs.standardchartered.com/",
-   "https://jobs.standardchartered.com/go/Early-careers-Jobs/",
    "https://www.sc.com/en/global-careers/early-careers/"
   ],
   "boards": {},
@@ -11198,12 +10682,6 @@
     "url": "https://jobs.standardchartered.com/",
     "status": 200,
     "final": "https://jobs.standardchartered.com/",
-    "error": null
-   },
-   {
-    "url": "https://jobs.standardchartered.com/go/Early-careers-Jobs/",
-    "status": 200,
-    "final": "https://jobs.standardchartered.com/errorpage/?errortype=Exception",
     "error": null
    },
    {
@@ -11220,12 +10698,9 @@
   "candidates": {},
   "after": [
    "https://jobs.standardchartered.com/",
-   "https://jobs.standardchartered.com/errorpage/",
    "https://www.sc.com/en/global-careers/early-careers/"
   ],
-  "why": [
-   "https://jobs.standardchartered.com/go/Early-careers-Jobs/ now redirects to https://jobs.standardchartered.com/errorpage/"
-  ]
+  "why": []
  },
  {
   "id": "starwood-capital-group",
@@ -11358,10 +10833,16 @@
   "id": "stellex",
   "name": "Stellex",
   "before": [
-   "https://www.stellexcapital.com/careers/"
+   "https://www.stellexcapital.com/careers-culture/"
   ],
   "boards": {},
   "pages": [
+   {
+    "url": "https://www.stellexcapital.com/careers-culture/",
+    "status": 200,
+    "final": "https://www.stellexcapital.com/careers-culture/",
+    "error": null
+   },
    {
     "url": "https://www.stellexcapital.com/careers/",
     "status": 200,
@@ -11376,9 +10857,7 @@
   "after": [
    "https://www.stellexcapital.com/careers-culture/"
   ],
-  "why": [
-   "https://www.stellexcapital.com/careers/ now redirects to https://www.stellexcapital.com/careers-culture/"
-  ]
+  "why": []
  },
  {
   "id": "stephens",
@@ -11411,54 +10890,28 @@
   "id": "stepstone-group",
   "name": "StepStone Group",
   "before": [
-   "https://www.stepstonegroup.com/current-opportunities/",
-   "https://www.stepstonegroup.com/who-we-are/working-at-stepstone-culture/"
+   "https://job-boards.greenhouse.io/stepstone"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/stepstone": {
+    "ok": true,
+    "count": 62
+   }
+  },
   "pages": [
    {
-    "url": "https://www.stepstonegroup.com/current-opportunities/",
-    "status": 200,
-    "final": "https://www.stepstonegroup.com/current-opportunities/",
-    "error": null
-   },
-   {
     "url": "https://www.stepstonegroup.com/who-we-are/working-at-stepstone-culture/",
-    "status": null,
-    "final": null,
-    "error": "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://www.stepstonegroup.com/who-we-are/working-at-steps"
+    "status": 200,
+    "final": "https://www.stepstonegroup.com/who-we-are/working-at-stepstone-culture/",
+    "error": null
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/stepstone": {
-    "ok": true,
-    "count": 62,
-    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=stepstone&validityToken=OdBia7q3vVX8woqB2Irduklss9lcZxRF263MjFU7sgPivSa3hMmwbNI3KFF8Omp7mRAgSWuClPMt4DOg1AVCfoNhDXGjqJV2clvYogLJqtGJVtbOfw2TunolStiwHCxXmm-ZODAPuCxi_iQCvd4KQpvWoNiyj-LCLImCuDcaUkkmobS1UnePMX4x6lBiHnZSU1L7k3HNLCHQSxK6_HGAI_NONI3PIkXkKa9WejC2MXOpo5XpDQx6aFZy-U_T7UVFbG9vJ5DDflFV7ShzpA7Uzkg0QFx31gQZqhVsk3ENKfG1blgcL-6mMNfQZ3FmO-jeK1LgKmIYpsBPwiV9OBTOnQ%3D%3D"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/manifest-02ecb345.js"
-   },
-   "https://job-boards.greenhouse.io/external_greenhouse_job_boards": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/006/903/original/STP_logo_1col_rgb.png?1687383629"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/stepstone"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/stepstone; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "stifel",
@@ -11514,7 +10967,8 @@
   "name": "Stout",
   "before": [
    "https://stout.wd5.myworkdayjobs.com/Stout-Careers",
-   "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers"
+   "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers",
+   "https://stout.wd5.myworkdayjobs.com/Stout-Experienced-Careers"
   ],
   "boards": {
    "https://stout.wd5.myworkdayjobs.com/Stout-Careers": {
@@ -11524,6 +10978,10 @@
    "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers": {
     "ok": true,
     "count": 3
+   },
+   "https://stout.wd5.myworkdayjobs.com/Stout-Experienced-Careers": {
+    "ok": true,
+    "count": 35
    }
   },
   "pages": [
@@ -11535,21 +10993,13 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://stout.wd5.myworkdayjobs.com/Stout-Experienced-Careers": {
-    "ok": true,
-    "count": 35,
-    "seen_at": "https://stout.wd5.myworkdayjobs.com/Stout-Experienced-Careers"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://stout.wd5.myworkdayjobs.com/Stout-Careers",
    "https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers",
    "https://stout.wd5.myworkdayjobs.com/Stout-Experienced-Careers"
   ],
-  "why": [
-   "careers page also links to https://stout.wd5.myworkdayjobs.com/Stout-Experienced-Careers"
-  ]
+  "why": []
  },
  {
   "id": "strategic-investment-group",
@@ -11606,12 +11056,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/users": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://my.greenhouse.io/users/sign_in"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://stxgroup.com/careers/"
   ],
@@ -11621,9 +11066,14 @@
   "id": "summit-partners",
   "name": "Summit Partners",
   "before": [
-   "https://www.summitpartners.com/summit-careers"
+   "https://job-boards.greenhouse.io/summitpartnerslp"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/summitpartnerslp": {
+    "ok": true,
+    "count": 2
+   }
+  },
   "pages": [
    {
     "url": "https://www.summitpartners.com/summit-careers",
@@ -11633,19 +11083,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/summitpartnerslp": {
-    "ok": true,
-    "count": 2,
-    "seen_at": "https://job-boards.greenhouse.io/summitpartnerslp/jobs/8533639002"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/summitpartnerslp"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/summitpartnerslp; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "susquehanna-growth-equity",
@@ -11673,24 +11115,15 @@
   "id": "susquehanna-international-group",
   "name": "Susquehanna International Group",
   "before": [
-   "https://careers.sig.com/recent-graduate/jobs",
-   "https://careers.sig.com/search-results",
-   "https://sig.com/careers/interns-co-ops/"
+   "https://careers-sig.icims.com/jobs"
   ],
-  "boards": {},
+  "boards": {
+   "https://careers-sig.icims.com/jobs": {
+    "ok": true,
+    "count": 60
+   }
+  },
   "pages": [
-   {
-    "url": "https://careers.sig.com/recent-graduate/jobs",
-    "status": 200,
-    "final": "https://careers.sig.com/recent-graduate/jobs",
-    "error": null
-   },
-   {
-    "url": "https://careers.sig.com/search-results",
-    "status": 200,
-    "final": "https://careers.sig.com/jobs",
-    "error": null
-   },
    {
     "url": "https://sig.com/careers/interns-co-ops/",
     "status": 200,
@@ -11699,23 +11132,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://careers-sig.icims.com/jobs": {
-    "ok": true,
-    "count": 60,
-    "seen_at": "https://careers-sig.icims.com/jobs/11693/login"
-   },
-   "https://cookie-policy-scripts.icims.com/jobs": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://cookie-policy-scripts.icims.com/sig/careers.sig.com/script.js"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://careers-sig.icims.com/jobs"
   ],
-  "why": [
-   "careers page leads to https://careers-sig.icims.com/jobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "susser-bank",
@@ -11805,12 +11226,17 @@
   "id": "t-rowe-price",
   "name": "T. Rowe Price",
   "before": [
-   "https://troweprice.wd5.myworkdayjobs.com/TRowePrice"
+   "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
+   "https://troweprice.wd5.myworkdayjobs.com/TRowePriceInternational"
   ],
   "boards": {
    "https://troweprice.wd5.myworkdayjobs.com/TRowePrice": {
     "ok": true,
     "count": 56
+   },
+   "https://troweprice.wd5.myworkdayjobs.com/TRowePriceInternational": {
+    "ok": true,
+    "count": 21
    }
   },
   "pages": [
@@ -11822,58 +11248,52 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://troweprice.wd5.myworkdayjobs.com/TRowePriceInternational": {
-    "ok": true,
-    "count": 21,
-    "seen_at": "https://troweprice.wd5.myworkdayjobs.com/TRowePriceInternational/jobs"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
    "https://troweprice.wd5.myworkdayjobs.com/TRowePriceInternational"
   ],
-  "why": [
-   "careers page also links to https://troweprice.wd5.myworkdayjobs.com/TRowePriceInternational"
-  ]
+  "why": []
  },
  {
   "id": "talos",
   "name": "Talos",
   "before": [
-   "https://www.talos.com/working/open-roles"
+   "https://jobs.ashbyhq.com/Talos-Trading"
   ],
-  "boards": {},
+  "boards": {
+   "https://jobs.ashbyhq.com/Talos-Trading": {
+    "ok": true,
+    "count": 19
+   }
+  },
   "pages": [
    {
     "url": "https://www.talos.com/working/open-roles",
-    "status": 200,
-    "final": "https://www.talos.com/working/open-roles",
-    "error": null
+    "status": null,
+    "final": null,
+    "error": "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.talos.com/working/open-roles\nCall log:\nnavigating to \"https://www.t"
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://jobs.ashbyhq.com/Talos-Trading": {
-    "ok": true,
-    "count": 19,
-    "seen_at": "https://jobs.ashbyhq.com/Talos-Trading/020ee9f6-fd78-4a48-9651-e389a8cc0ed8"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://jobs.ashbyhq.com/Talos-Trading"
   ],
-  "why": [
-   "careers page leads to https://jobs.ashbyhq.com/Talos-Trading; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "tcw",
   "name": "TCW",
   "before": [
-   "https://www.tcw.com/our-firm/careers/internship-recruitment"
+   "https://careers-tcw.icims.com/jobs"
   ],
-  "boards": {},
+  "boards": {
+   "https://careers-tcw.icims.com/jobs": {
+    "ok": true,
+    "count": 11
+   }
+  },
   "pages": [
    {
     "url": "https://www.tcw.com/our-firm/careers/internship-recruitment",
@@ -11883,19 +11303,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://careers-tcw.icims.com/jobs": {
-    "ok": true,
-    "count": 11,
-    "seen_at": "https://careers-tcw.icims.com/jobs/search"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://careers-tcw.icims.com/jobs"
   ],
-  "why": [
-   "careers page leads to https://careers-tcw.icims.com/jobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "td-securities",
@@ -12043,9 +11455,14 @@
   "id": "the-mclean-group",
   "name": "The McLean Group",
   "before": [
-   "https://mcleanllc.com/jobs"
+   "https://apply.workable.com/the-mclean-group/"
   ],
-  "boards": {},
+  "boards": {
+   "https://apply.workable.com/the-mclean-group/": {
+    "ok": true,
+    "count": 3
+   }
+  },
   "pages": [
    {
     "url": "https://mcleanllc.com/jobs",
@@ -12055,42 +11472,25 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://apply.workable.com/the-mclean-group/": {
-    "ok": true,
-    "count": 3,
-    "seen_at": "https://apply.workable.com/the-mclean-group/j/5B709DF075"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://apply.workable.com/the-mclean-group/"
   ],
-  "why": [
-   "careers page leads to https://apply.workable.com/the-mclean-group/; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "the-riverside-company",
   "name": "The Riverside Company",
   "before": [
-   "https://www.riversidecompany.com/jobs",
-   "https://www.riversidecompany.com/jobs/",
-   "https://www.riversidecompany.com/who-we-are/careers/"
+   "https://job-boards.greenhouse.io/theriversidecompany"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/theriversidecompany": {
+    "ok": true,
+    "count": 6
+   }
+  },
   "pages": [
-   {
-    "url": "https://www.riversidecompany.com/jobs",
-    "status": 200,
-    "final": "https://www.riversidecompany.com/jobs",
-    "error": null
-   },
-   {
-    "url": "https://www.riversidecompany.com/jobs/",
-    "status": 200,
-    "final": "https://www.riversidecompany.com/jobs",
-    "error": null
-   },
    {
     "url": "https://www.riversidecompany.com/who-we-are/careers/",
     "status": 200,
@@ -12099,19 +11499,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/theriversidecompany": {
-    "ok": true,
-    "count": 6,
-    "seen_at": "https://boards-api.greenhouse.io/v1/boards/theriversidecompany/jobs?content=true"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/theriversidecompany"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/theriversidecompany; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "tiaa",
@@ -12242,28 +11634,7 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/users": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://my.greenhouse.io/users/sign_in?job_board=trillium&source=job_alert_board"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/manifest-02ecb345.js"
-   },
-   "https://job-boards.greenhouse.io/external_greenhouse_job_boards": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://s7-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/181/900/original/trlm.png?1742323215"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/trillium"
   ],
@@ -12273,24 +11644,15 @@
   "id": "truist",
   "name": "Truist",
   "before": [
-   "https://careers.truist.com/us/en/",
-   "https://careers.truist.com/us/en/search-results",
-   "https://careers.truist.com/us/en"
+   "https://truist.wd1.myworkdayjobs.com/Careers"
   ],
-  "boards": {},
+  "boards": {
+   "https://truist.wd1.myworkdayjobs.com/Careers": {
+    "ok": true,
+    "count": 64
+   }
+  },
   "pages": [
-   {
-    "url": "https://careers.truist.com/us/en/",
-    "status": 200,
-    "final": "https://careers.truist.com/us/en/",
-    "error": null
-   },
-   {
-    "url": "https://careers.truist.com/us/en/search-results",
-    "status": 200,
-    "final": "https://careers.truist.com/us/en/search-results",
-    "error": null
-   },
    {
     "url": "https://careers.truist.com/us/en",
     "status": 200,
@@ -12304,19 +11666,11 @@
    "content-us.phenompeople.com",
    "pp-cdn.phenompeople.com"
   ],
-  "candidates": {
-   "https://truist.wd1.myworkdayjobs.com/Careers": {
-    "ok": true,
-    "count": 64,
-    "seen_at": "https://truist.wd1.myworkdayjobs.com/Careers/login?redirect=/en-US/Careers/userHome"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://truist.wd1.myworkdayjobs.com/Careers"
   ],
-  "why": [
-   "careers page leads to https://truist.wd1.myworkdayjobs.com/Careers; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "tudor-group",
@@ -12441,7 +11795,7 @@
   "name": "UBS",
   "before": [
    "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults",
-   "https://www.ubs.com/global/en/careers/university-students.html"
+   "https://www.ubs.com/global/en/careers/early-careers.html"
   ],
   "boards": {},
   "pages": [
@@ -12449,6 +11803,12 @@
     "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults",
     "status": 200,
     "final": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults#keyWordSearch=&locationSearch=",
+    "error": null
+   },
+   {
+    "url": "https://www.ubs.com/global/en/careers/early-careers.html",
+    "status": 200,
+    "final": "https://www.ubs.com/global/en/careers/early-careers.html",
     "error": null
    },
    {
@@ -12479,9 +11839,7 @@
    "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults",
    "https://www.ubs.com/global/en/careers/early-careers.html"
   ],
-  "why": [
-   "https://www.ubs.com/global/en/careers/university-students.html now redirects to https://www.ubs.com/global/en/careers/early-careers.html"
-  ]
+  "why": []
  },
  {
   "id": "uline",
@@ -12514,8 +11872,7 @@
   "id": "union-square-advisors",
   "name": "Union Square Advisors",
   "before": [
-   "https://unionsquareadvisors.applytojob.com/apply",
-   "https://careers.truist.com/us/en"
+   "https://unionsquareadvisors.applytojob.com/apply"
   ],
   "boards": {},
   "pages": [
@@ -12549,7 +11906,8 @@
    }
   },
   "after": [
-   "https://truist.wd1.myworkdayjobs.com/Careers"
+   "https://truist.wd1.myworkdayjobs.com/Careers",
+   "https://unionsquareadvisors.applytojob.com/apply"
   ],
   "why": [
    "careers page leads to https://truist.wd1.myworkdayjobs.com/Careers; replaced plain pages"
@@ -12623,8 +11981,8 @@
   "pages": [
    {
     "url": "https://www.vanguardjobs.com/students-and-recent-graduates/",
-    "status": 200,
-    "final": "https://www.vanguardjobs.com/students/?source=Corporate_Website",
+    "status": 404,
+    "final": "https://www.vanguardjobs.com/students-and-recent-graduates/?source=Corporate_Website",
     "error": null
    }
   ],
@@ -12639,10 +11997,16 @@
   "id": "vantedge-partners",
   "name": "VantEdge Partners",
   "before": [
-   "http://www.vantedge.partners/"
+   "https://vantedge.partners/"
   ],
   "boards": {},
   "pages": [
+   {
+    "url": "https://vantedge.partners/",
+    "status": 200,
+    "final": "https://vantedge.partners/",
+    "error": null
+   },
    {
     "url": "http://www.vantedge.partners/",
     "status": 200,
@@ -12655,9 +12019,7 @@
   "after": [
    "https://vantedge.partners/"
   ],
-  "why": [
-   "http://www.vantedge.partners/ now redirects to https://vantedge.partners/"
-  ]
+  "why": []
  },
  {
   "id": "varney-associates",
@@ -12699,17 +12061,15 @@
   "id": "verition-fund-management",
   "name": "Verition Fund Management",
   "before": [
-   "https://www.verition.com/open-positions",
-   "https://www.verition.com/careers"
+   "https://job-boards.greenhouse.io/veritiongroupllc"
   ],
-  "boards": {},
+  "boards": {
+   "https://job-boards.greenhouse.io/veritiongroupllc": {
+    "ok": true,
+    "count": 13
+   }
+  },
   "pages": [
-   {
-    "url": "https://www.verition.com/open-positions",
-    "status": 200,
-    "final": "https://www.verition.com/open-positions",
-    "error": null
-   },
    {
     "url": "https://www.verition.com/careers",
     "status": 200,
@@ -12718,35 +12078,11 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://job-boards.greenhouse.io/veritiongroupllc": {
-    "ok": true,
-    "count": 13,
-    "seen_at": "https://job-boards.greenhouse.io/embed/job_board?for=veritiongroupllc&validityToken=S9mvs8mADKQHAKcHT0Tl1qUTXn1SdnVQwjP59XIzrkGWtkX37LkDO2zdLkffGg0407DTumlANHF-9OX6Dl1ywxbmBI24gsR_by1UeDysE3-A4l3a31wN902XzBdNhMPC4vz554KPJnEGC7wVptgFW4Ids_hRagCy5xtCP5kOn6S7ZsgbXpD3JJzwJ-3LbMcJT29Biaa_5XY-iuo9Qkitxt1ahg27Nsz37DVK1EPnf88fo_JCamABhDmi1tZVVUfSbXuDuL4bqUuIvT2hwnK4jDfRb1S5gv8gaqwKRhHCxryEWEms6duDFf0okF7_BN2S6KP2OeqoQKdcpJOyCXzrfA%3D%3D"
-   },
-   "https://job-boards.greenhouse.io/assets": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/assets/manifest-02ecb345.js"
-   },
-   "https://job-boards.greenhouse.io/fonts": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/fonts/UntitledSansWeb-Regular.woff"
-   },
-   "https://job-boards.greenhouse.io/locales": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://job-boards.cdn.greenhouse.io/locales/en/board.EQO05ZisDgYicUYtxKdpBR223TBY8oPWLgDi4VZ3dQU.json"
-   },
-   "https://job-boards.greenhouse.io/com.snowplowanalytics.snowplow": {
-    "skipped": "doesn't look like this firm's board",
-    "seen_at": "https://c.spl.greenhouse.io/com.snowplowanalytics.snowplow/tp2"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://job-boards.greenhouse.io/veritiongroupllc"
   ],
-  "why": [
-   "careers page leads to https://job-boards.greenhouse.io/veritiongroupllc; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "virtu-financial",
@@ -12779,17 +12115,25 @@
   "id": "vista-equity-partners",
   "name": "Vista Equity Partners",
   "before": [
-   "https://www.vistaequitypartners.com/careers/vista-career-opportunities/",
-   "https://www.vistaequitypartners.com/careers/"
+   "https://careers3-vistaequitypartners.icims.com/jobs",
+   "https://careers2-vistaequitypartners.icims.com/jobs",
+   "https://careers-vistaequitypartners.icims.com/jobs"
   ],
-  "boards": {},
-  "pages": [
-   {
-    "url": "https://www.vistaequitypartners.com/careers/vista-career-opportunities/",
-    "status": 200,
-    "final": "https://www.vistaequitypartners.com/careers/vista-career-opportunities/",
-    "error": null
+  "boards": {
+   "https://careers3-vistaequitypartners.icims.com/jobs": {
+    "ok": true,
+    "count": 8
    },
+   "https://careers2-vistaequitypartners.icims.com/jobs": {
+    "ok": true,
+    "count": 5
+   },
+   "https://careers-vistaequitypartners.icims.com/jobs": {
+    "ok": true,
+    "count": 4
+   }
+  },
+  "pages": [
    {
     "url": "https://www.vistaequitypartners.com/careers/",
     "status": 200,
@@ -12798,31 +12142,13 @@
    }
   ],
   "other_systems": [],
-  "candidates": {
-   "https://careers3-vistaequitypartners.icims.com/jobs": {
-    "ok": true,
-    "count": 8,
-    "seen_at": "https://careers3-vistaequitypartners.icims.com/jobs/3049/2027-private-equity-summer-associate/job"
-   },
-   "https://careers2-vistaequitypartners.icims.com/jobs": {
-    "ok": true,
-    "count": 5,
-    "seen_at": "https://careers2-vistaequitypartners.icims.com/jobs/3038/associate-director%2c-value-creation/job"
-   },
-   "https://careers-vistaequitypartners.icims.com/jobs": {
-    "ok": true,
-    "count": 4,
-    "seen_at": "https://careers-vistaequitypartners.icims.com/jobs/3047/associate%2c-caps-strategy-%26-operations-%28generalist%29/job"
-   }
-  },
+  "candidates": {},
   "after": [
    "https://careers3-vistaequitypartners.icims.com/jobs",
    "https://careers2-vistaequitypartners.icims.com/jobs",
    "https://careers-vistaequitypartners.icims.com/jobs"
   ],
-  "why": [
-   "careers page leads to https://careers3-vistaequitypartners.icims.com/jobs, https://careers2-vistaequitypartners.icims.com/jobs, https://careers-vistaequitypartners.icims.com/jobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "voloridge-investment-management",
@@ -12970,10 +12296,16 @@
   "id": "wealthspire-advisors",
   "name": "Wealthspire Advisors",
   "before": [
-   "https://www.wealthspire.com/contact/careers/"
+   "https://www.wealthspire.com/careers"
   ],
   "boards": {},
   "pages": [
+   {
+    "url": "https://www.wealthspire.com/careers",
+    "status": 200,
+    "final": "https://www.wealthspire.com/careers",
+    "error": null
+   },
    {
     "url": "https://www.wealthspire.com/contact/careers/",
     "status": 200,
@@ -12986,16 +12318,14 @@
   "after": [
    "https://www.wealthspire.com/careers"
   ],
-  "why": [
-   "https://www.wealthspire.com/contact/careers/ now redirects to https://www.wealthspire.com/careers"
-  ]
+  "why": []
  },
  {
   "id": "wedbush-securities",
   "name": "Wedbush Securities",
   "before": [
    "https://wedbush.atsondemand.com/index.cfm?cid=512079",
-   "https://www.wedbush.com/about-wedbush/career-opportunities/"
+   "https://wedbush.com/career-opportunities/"
   ],
   "boards": {},
   "pages": [
@@ -13006,7 +12336,19 @@
     "error": null
    },
    {
+    "url": "https://wedbush.com/career-opportunities/",
+    "status": 200,
+    "final": "https://wedbush.com/career-opportunities/",
+    "error": null
+   },
+   {
     "url": "https://www.wedbush.com/about-wedbush/career-opportunities/",
+    "status": 200,
+    "final": "https://wedbush.com/career-opportunities/",
+    "error": null
+   },
+   {
+    "url": "https://wedbush.com/career-opportunities/",
     "status": 200,
     "final": "https://wedbush.com/career-opportunities/",
     "error": null
@@ -13024,9 +12366,7 @@
    "https://wedbush.atsondemand.com/index.cfm?cid=512079",
    "https://wedbush.com/career-opportunities/"
   ],
-  "why": [
-   "https://www.wedbush.com/about-wedbush/career-opportunities/ now redirects to https://wedbush.com/career-opportunities/"
-  ]
+  "why": []
  },
  {
   "id": "weiss-asset-management",
@@ -13194,17 +12534,15 @@
   "other_systems": [],
   "candidates": {
    "https://careers-wipfliindia.icims.com/jobs": {
-    "ok": true,
-    "count": 27,
+    "skipped": "board for another region",
     "seen_at": "https://careers-wipfliindia.icims.com/jobs/intro?hashed=-435708796&mobile=false&width=982&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360"
    }
   },
   "after": [
-   "https://careers-wipfliindia.icims.com/jobs"
+   "https://careers.wipfli.com/all-openings",
+   "https://careers.wipfli.com/"
   ],
-  "why": [
-   "careers page leads to https://careers-wipfliindia.icims.com/jobs; replaced plain pages"
-  ]
+  "why": []
  },
  {
   "id": "withum",
@@ -13291,8 +12629,7 @@
   "id": "zachary-scott",
   "name": "Zachary Scott",
   "before": [
-   "https://zacharyscott.com/careers/",
-   "https://zacharyscott.com/careers"
+   "https://zacharyscott.com/careers/"
   ],
   "boards": {},
   "pages": [
@@ -13312,8 +12649,7 @@
   "other_systems": [],
   "candidates": {},
   "after": [
-   "https://zacharyscott.com/careers/",
-   "https://zacharyscott.com/careers"
+   "https://zacharyscott.com/careers/"
   ],
   "why": []
  },
@@ -13374,11 +12710,13 @@
   "other_systems": [],
   "candidates": {
    "https://careers-zs.icims.com/jobs": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 0,
     "seen_at": "https://careers-zs.icims.com/jobs/65000/login"
    },
    "https://decareers-zs.icims.com/jobs": {
-    "skipped": "doesn't look like this firm's board",
+    "ok": true,
+    "count": 0,
     "seen_at": "https://decareers-zs.icims.com/jobs/63609/login"
    },
    "https://cdn13.icims.com/jobs": {
