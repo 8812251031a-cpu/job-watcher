@@ -1,4 +1,4 @@
-# Open right now: 90 postings at 37 firms
+# Open right now: 91 postings at 38 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -163,10 +163,13 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## T. Rowe Price
 - [Associate Sales Consultant (December 2026 & Spring 2027 Graduates)](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Sales-Consultant--December-2026---Spring-2027-Graduates-_84293) · posted Nov 3
 
+## The Brattle Group
+- [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) · posted Nov 6
+
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 65 firms the watcher can't read
+## Check these yourself: 58 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -199,13 +202,10 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Halvorsen Capital Partners** · no link on Trackr · no job site listed on Trackr
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Jump Trading** · [careers site](https://www-webflow.jumptrading.com/careers) · site timed out
 - **L.E.K. Consulting** · [careers site](https://www.lek.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Level Equity** · [careers site](https://www.levelequity.com/) · site timed out
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Marshall Wace** · [careers site](https://www.mwam.com/join-us/) · site timed out
 - **Maven Securities** · [careers site](https://www.mavensecurities.com/work-at-maven/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
@@ -214,7 +214,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Northgate Advisory Group** · no link on Trackr · no job site listed on Trackr
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Old Mission** · [careers site](https://www.oldmissioncapital.com/careers/) · job-site link is broken or moved
-- **Pathstone** · [careers site](https://pathstone.com/about-us/careers) · site timed out
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -227,11 +226,8 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Stellex** · [careers site](https://www.stellexcapital.com/careers/) · job-site link is broken or moved
 - **Temasek** · [careers site](https://www.temasek.com.sg/en/about-us/careers) · site blocks automated checks
 - **Tessaro Quant Research** · no link on Trackr · no job site listed on Trackr
-- **The Brattle Group** · [careers site](https://www.brattle.com/careers/) · site timed out
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
 - **Tidal Partners** · [careers site](https://www.tidalpartners.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Tower Research Capital** · [careers site](https://tower-research.com/careers/) · site timed out
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
-- **Virtu Financial** · [careers site](https://www.virtu.com/careers/) · site timed out
 - **Wipfli** · [careers site](https://careers.wipfli.com/#/) · no postings found (the page may load jobs in a way the watcher can't read)
