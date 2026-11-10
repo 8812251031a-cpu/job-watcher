@@ -107,7 +107,7 @@ def classify(url):
 
 # Query parameters that pick which job board a page shows, so they stay.
 # Everything else (utm_ tracking, source=Trackr, search filters) is dropped.
-KEEP_PARAMS = {"partnerid", "siteid", "company", "microsite", "tag", "cid"}
+KEEP_PARAMS = {"partnerid", "siteid", "pagetype", "company", "microsite", "tag", "cid"}
 
 
 def clean_page(url):
