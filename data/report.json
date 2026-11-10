@@ -121,28 +121,24 @@
   "firm": "Adams Street Partners",
   "id": "adams-street-partners",
   "readable": true,
-  "postings_read": 262,
-  "matches": 3,
+  "postings_read": 1,
+  "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.adamsstreetpartners.com/careers/students/",
+    "kind": "greenhouse",
+    "key": "adamsstreetpartnersearlycareers",
     "ok": true,
-    "count": 262,
+    "count": 1,
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Full-Time Investment Analyst Program \u00bb",
-   "Full-Time Investment Analyst Program",
-   "Full-Time Investment Analyst Program \u00bb"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Advantage Capital",
   "id": "advantage-capital",
   "readable": true,
-  "postings_read": 12,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
@@ -154,10 +150,10 @@
    },
    {
     "kind": "paylocity",
-    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4452798",
-    "ok": false,
-    "count": 0,
-    "error": "RuntimeError: Paylocity page data not found"
+    "key": "https://recruiting.paylocity.com/recruiting/jobs/All/15b846f1-764a-46a4-84e7-2d465d425374/Advantage-Capital-Management",
+    "ok": true,
+    "count": 5,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -285,21 +281,14 @@
   "firm": "AlixPartners",
   "id": "alixpartners",
   "readable": true,
-  "postings_read": 70,
+  "postings_read": 129,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.alixpartners.com/careers/apply-now/",
+    "kind": "greenhouse",
+    "key": "alixpartners",
     "ok": true,
-    "count": 29,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.alixpartners.com/careers/",
-    "ok": true,
-    "count": 41,
+    "count": 129,
     "error": ""
    }
   ],
@@ -359,16 +348,16 @@
  {
   "firm": "Alpine Investors",
   "id": "alpine-investors",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 2,
   "matches": 0,
   "sources": [
    {
-    "kind": "greenhouse",
-    "key": "alpineinternships",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/alpineinternships/jobs"
+    "kind": "ashby",
+    "key": "alpine-internships",
+    "ok": true,
+    "count": 2,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -377,21 +366,14 @@
   "firm": "Altman Solon",
   "id": "altman-solon",
   "readable": true,
-  "postings_read": 295,
+  "postings_read": 11,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.altmansolon.com/careers/student-opportunities",
+    "kind": "greenhouse",
+    "key": "altmansoloncampus",
     "ok": true,
-    "count": 154,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.altmansolon.com/careers/on-campus",
-    "ok": true,
-    "count": 141,
+    "count": 11,
     "error": ""
    }
   ],
@@ -449,25 +431,21 @@
   "firm": "American Express",
   "id": "american-express",
   "readable": true,
-  "postings_read": 130,
-  "matches": 0,
+  "postings_read": 110,
+  "matches": 2,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://careers.americanexpress.com/en/sites/CX_1/jobs",
+    "kind": "oracle",
+    "key": "egug.fa.us2.oraclecloud.com|CX_1",
     "ok": true,
-    "count": 0,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.americanexpress.com/en-us/careers/student-programs/uk/",
-    "ok": true,
-    "count": 130,
+    "count": 110,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ",
+   "Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ"
+  ]
  },
  {
   "firm": "Anthelion Capital",
@@ -950,7 +928,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecApplicantEmail.aspx?Tag=a1b1ebd9-f1eb-4c55-bec5-94494ecb188d",
+    "key": "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb",
     "ok": true,
     "count": 21,
     "error": ""
@@ -1230,14 +1208,14 @@
   "firm": "Blue Owl Capital",
   "id": "blue-owl-capital",
   "readable": true,
-  "postings_read": 250,
+  "postings_read": 22,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.blueowl.com/careers",
+    "kind": "workday",
+    "key": "blueowl.wd1.myworkdayjobs.com|blueowl|blueowl",
     "ok": true,
-    "count": 250,
+    "count": 22,
     "error": ""
    }
   ],
@@ -1247,14 +1225,14 @@
   "firm": "BMO Capital Markets",
   "id": "bmo-capital-markets",
   "readable": true,
-  "postings_read": 142,
+  "postings_read": 143,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "bmo.wd3.myworkdayjobs.com|bmo|External",
     "ok": true,
-    "count": 92,
+    "count": 93,
     "error": ""
    },
    {
@@ -1389,7 +1367,7 @@
    },
    {
     "kind": "site",
-    "key": "https://www.brevanhoward.com/careers/",
+    "key": "https://careers.brevanhoward.com/gb/en/home",
     "ok": true,
     "count": 30,
     "error": ""
@@ -1435,7 +1413,7 @@
   "firm": "Bridgewater Associates",
   "id": "bridgewater-associates",
   "readable": true,
-  "postings_read": 14,
+  "postings_read": 34,
   "matches": 0,
   "sources": [
    {
@@ -1450,6 +1428,13 @@
     "key": "bwaltpostings",
     "ok": true,
     "count": 9,
+    "error": ""
+   },
+   {
+    "kind": "greenhouse",
+    "key": "bridgewater89",
+    "ok": true,
+    "count": 20,
     "error": ""
    }
   ],
@@ -1481,7 +1466,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://brinleypartners.com/about-brinley-parners-financial-asset-management-services/",
+    "key": "https://brinleypartners.com/our-firm/",
     "ok": true,
     "count": 95,
     "error": ""
@@ -1534,21 +1519,14 @@
   "firm": "Brown Gibbons Lang & Company",
   "id": "brown-gibbons-lang-company",
   "readable": true,
-  "postings_read": 313,
+  "postings_read": 9,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.bglco.com/careers/view-open-positions/",
+    "kind": "greenhouse",
+    "key": "browngibbonslangcompany",
     "ok": true,
-    "count": 154,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.bglco.com/careers/",
-    "ok": true,
-    "count": 159,
+    "count": 9,
     "error": ""
    }
   ],
@@ -1558,14 +1536,14 @@
   "firm": "BST",
   "id": "bst",
   "readable": true,
-  "postings_read": 162,
+  "postings_read": 6,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.bstco.com/your-bst-career",
+    "kind": "paylocity",
+    "key": "https://recruiting.paylocity.com/Recruiting/Jobs/All/e5afcb9d-e59b-4aae-bd9f-5eebe4447735/BST-CO-CPAS-LLP",
     "ok": true,
-    "count": 162,
+    "count": 6,
     "error": ""
    }
   ],
@@ -1625,19 +1603,12 @@
   "firm": "Calibre CPA Group",
   "id": "calibre-cpa-group",
   "readable": true,
-  "postings_read": 334,
+  "postings_read": 167,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://calibrecpa.com/careers/open-positions/",
-    "ok": true,
-    "count": 167,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://calibrecpa.com/careers/open-positions",
     "ok": true,
     "count": 167,
     "error": ""
@@ -1930,7 +1901,7 @@
   "firm": "CCK Strategies",
   "id": "cck-strategies",
   "readable": true,
-  "postings_read": 9,
+  "postings_read": 26,
   "matches": 0,
   "sources": [
    {
@@ -1938,6 +1909,13 @@
     "key": "https://recruiting.paylocity.com/recruiting/jobs/All/15392739-e8a7-4858-a8bb-07f4efbce077/CCK-Internship-Opportunities",
     "ok": true,
     "count": 9,
+    "error": ""
+   },
+   {
+    "kind": "paylocity",
+    "key": "https://recruiting.paylocity.com/recruiting/jobs/All/9483cff5-c4c2-4ef3-baed-f7df9e0cdbb1/CCK-Strategies-PLLC",
+    "ok": true,
+    "count": 17,
     "error": ""
    }
   ],
@@ -1952,7 +1930,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.centerviewpartners.com/careers.aspx",
+    "key": "https://www.centerviewpartners.com/",
     "ok": true,
     "count": 44,
     "error": ""
@@ -2051,19 +2029,12 @@
   "firm": "Chinook Capital Advisors",
   "id": "chinook-capital-advisors",
   "readable": true,
-  "postings_read": 392,
+  "postings_read": 196,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://chinookadvisors.com/careers/",
-    "ok": true,
-    "count": 196,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://chinookadvisors.com/careers",
     "ok": true,
     "count": 196,
     "error": ""
@@ -2201,7 +2172,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://classvipartners.recruitee.com/o/",
+    "key": "https://classvipartners.recruitee.com/",
     "ok": true,
     "count": 5,
     "error": ""
@@ -2260,16 +2231,16 @@
  {
   "firm": "CMD Global Partners",
   "id": "cmd-global-partners",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 117,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.cmdglobal.com/",
-    "ok": false,
-    "count": 0,
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.cmdglobal.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cmdglobal.co"
+    "key": "https://cmdglobal.com/",
+    "ok": true,
+    "count": 117,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -2353,14 +2324,14 @@
   "firm": "Connor Group",
   "id": "connor-group",
   "readable": true,
-  "postings_read": 99,
+  "postings_read": 22,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.connorgp.com/career/students-and-interns",
+    "kind": "workday",
+    "key": "connorgp.wd12.myworkdayjobs.com|connorgp|CG",
     "ok": true,
-    "count": 99,
+    "count": 22,
     "error": ""
    }
   ],
@@ -2386,8 +2357,8 @@
  {
   "firm": "Cornerstone Research",
   "id": "cornerstone-research",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 8,
   "matches": 0,
   "sources": [
    {
@@ -2395,6 +2366,13 @@
     "key": "ug-chire.icims.com",
     "ok": true,
     "count": 0,
+    "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "cornerstone.wd501.myworkdayjobs.com|cornerstone|CornerstoneResearch_Careers",
+    "ok": true,
+    "count": 8,
     "error": ""
    }
   ],
@@ -2404,22 +2382,15 @@
   "firm": "Crowe",
   "id": "crowe",
   "readable": true,
-  "postings_read": 35,
+  "postings_read": 38,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://careers.crowe.com/search-results",
+    "kind": "workday",
+    "key": "crowe.wd12.myworkdayjobs.com|crowe|External_Careers",
     "ok": true,
-    "count": 35,
+    "count": 38,
     "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.crowe.com/uk/careers/early-careers",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.crowe.com/uk/careers/early-careers"
    }
   ],
   "sample_matches": []
@@ -2445,19 +2416,12 @@
   "firm": "D.E. Shaw",
   "id": "d-e-shaw",
   "readable": true,
-  "postings_read": 390,
+  "postings_read": 195,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.deshaw.com/careers/",
-    "ok": true,
-    "count": 195,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.deshaw.com/careers",
     "ok": true,
     "count": 195,
     "error": ""
@@ -2469,19 +2433,12 @@
   "firm": "Davenport & Co.",
   "id": "davenport-co",
   "readable": true,
-  "postings_read": 256,
+  "postings_read": 128,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.investdavenport.com/careers/",
-    "ok": true,
-    "count": 128,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.investdavenport.com/careers",
     "ok": true,
     "count": 128,
     "error": ""
@@ -2603,34 +2560,18 @@
   "firm": "DRW",
   "id": "drw",
   "readable": true,
-  "postings_read": 92,
-  "matches": 1,
+  "postings_read": 164,
+  "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://grnh.se/evf0vgud1us",
+    "kind": "greenhouse",
+    "key": "drweng",
     "ok": true,
-    "count": 19,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://grnh.se/ugyg2tee1us",
-    "ok": true,
-    "count": 22,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.drw.com/work-at-drw",
-    "ok": true,
-    "count": 51,
+    "count": 164,
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Bachelor\u2019s degree in finance, business administration, economics, accounting, or liberal arts graduating between December 2027 and June 2028"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Ducera Partners",
@@ -2918,18 +2859,22 @@
   "firm": "Fidelity International",
   "id": "fidelity-international",
   "readable": true,
-  "postings_read": 104,
-  "matches": 0,
+  "postings_read": 56,
+  "matches": 3,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://careers.fidelityinternational.com/early-careers-overview/",
+    "kind": "oleeo",
+    "key": "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/",
     "ok": true,
-    "count": 104,
+    "count": 56,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Technology Graduate 2027 - Dalian (\u5927\u8fde)",
+   "Technology Graduate Programme 2027 - Cyber Security - Kingswood, Surrey",
+   "General Counsel Graduate Programme 2027 - Hong Kong"
+  ]
  },
  {
   "firm": "Fidelity Investments",
@@ -3020,42 +2965,57 @@
   "firm": "Forvis",
   "id": "forvis",
   "readable": true,
-  "postings_read": 502,
-  "matches": 0,
+  "postings_read": 12,
+  "matches": 3,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.forvismazars.us/careers",
+    "kind": "avature",
+    "key": "forvis.avature.net|/campuscareers",
     "ok": true,
-    "count": 502,
+    "count": 6,
+    "error": ""
+   },
+   {
+    "kind": "avature",
+    "key": "forvis.avature.net|/experiencedcareers",
+    "ok": true,
+    "count": 6,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Associate Audit Fall 2027 | Charleston, WV",
+   "Associate Audit Fall 2027 | Chicago",
+   "Associate Audit Fall 2027 | Fort Wayne"
+  ]
  },
  {
   "firm": "Forvis Mazars",
   "id": "forvis-mazars",
   "readable": true,
-  "postings_read": 502,
-  "matches": 0,
+  "postings_read": 12,
+  "matches": 3,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://jobs.forvismazars.us/jobs",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://jobs.forvismazars.us/jobs"
+    "kind": "avature",
+    "key": "forvis.avature.net|/campuscareers",
+    "ok": true,
+    "count": 6,
+    "error": ""
    },
    {
-    "kind": "site",
-    "key": "https://www.forvismazars.us/careers",
+    "kind": "avature",
+    "key": "forvis.avature.net|/experiencedcareers",
     "ok": true,
-    "count": 502,
+    "count": 6,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Associate Audit Fall 2027 | Charleston, WV",
+   "Associate Audit Fall 2027 | Chicago",
+   "Associate Audit Fall 2027 | Fort Wayne"
+  ]
  },
  {
   "firm": "Frazier & Deeter",
@@ -3380,8 +3340,8 @@
   "firm": "Graham Partners",
   "id": "graham-partners",
   "readable": true,
-  "postings_read": 9,
-  "matches": 0,
+  "postings_read": 163,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
@@ -3393,12 +3353,14 @@
    {
     "kind": "site",
     "key": "https://www.grahampartners.net/careers/",
-    "ok": false,
-    "count": 0,
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.grahampartners.net', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
+    "ok": true,
+    "count": 154,
+    "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Full Time: Business Development Analyst"
+  ]
  },
  {
   "firm": "Grant Thornton",
@@ -3502,9 +3464,9 @@
    {
     "kind": "site",
     "key": "https://www.gtcr.com/",
-    "ok": false,
+    "ok": true,
     "count": 0,
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.gtcr.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gtcr.com', port=4"
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -3530,7 +3492,7 @@
   "firm": "Guggenheim Partners",
   "id": "guggenheim-partners",
   "readable": true,
-  "postings_read": 29,
+  "postings_read": 55,
   "matches": 0,
   "sources": [
    {
@@ -3545,6 +3507,20 @@
     "key": "guggenheim.wd1.myworkdayjobs.com|guggenheim|Guggenheim_Careers_Campus",
     "ok": true,
     "count": 5,
+    "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "guggenheiminvestment.wd5.myworkdayjobs.com|guggenheiminvestment|External",
+    "ok": true,
+    "count": 20,
+    "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "guggenheim.wd1.myworkdayjobs.com|guggenheim|Guggenheim_Partners",
+    "ok": true,
+    "count": 6,
     "error": ""
    }
   ],
@@ -3746,7 +3722,7 @@
   "firm": "Houlihan Lokey",
   "id": "houlihan-lokey",
   "readable": true,
-  "postings_read": 37,
+  "postings_read": 95,
   "matches": 0,
   "sources": [
    {
@@ -3754,6 +3730,20 @@
     "key": "hl.wd1.myworkdayjobs.com|hl|Campus",
     "ok": true,
     "count": 37,
+    "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "hl.wd1.myworkdayjobs.com|hl|Lateral",
+    "ok": true,
+    "count": 34,
+    "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "hl.wd1.myworkdayjobs.com|hl|Corporate",
+    "ok": true,
+    "count": 24,
     "error": ""
    }
   ],
@@ -3930,7 +3920,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/",
+    "key": "https://jobs.dayforcehcm.com/ibgllc/CANDIDATEPORTAL",
     "ok": true,
     "count": 5,
     "error": ""
@@ -3966,19 +3956,12 @@
   "firm": "ITW",
   "id": "itw",
   "readable": true,
-  "postings_read": 60,
+  "postings_read": 30,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://careers.itw.com/us/en/",
-    "ok": true,
-    "count": 30,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://careers.itw.com/",
     "ok": true,
     "count": 30,
     "error": ""
@@ -4036,12 +4019,26 @@
   "firm": "Jefferies",
   "id": "jefferies",
   "readable": true,
-  "postings_read": 50,
+  "postings_read": 150,
   "matches": 1,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
+    "ok": true,
+    "count": 50,
+    "error": ""
+   },
+   {
+    "kind": "oleeo",
+    "key": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/",
+    "ok": true,
+    "count": 50,
+    "error": ""
+   },
+   {
+    "kind": "oleeo",
+    "key": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/1/adv/",
     "ok": true,
     "count": 50,
     "error": ""
@@ -4113,19 +4110,12 @@
   "firm": "Johnson Lambert",
   "id": "johnson-lambert",
   "readable": true,
-  "postings_read": 590,
+  "postings_read": 295,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.johnsonlambert.com/open-positions/",
-    "ok": true,
-    "count": 295,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.johnsonlambert.com/open-positions",
     "ok": true,
     "count": 295,
     "error": ""
@@ -4173,7 +4163,7 @@
   "firm": "Kearney",
   "id": "kearney",
   "readable": true,
-  "postings_read": 441,
+  "postings_read": 442,
   "matches": 0,
   "sources": [
    {
@@ -4187,7 +4177,7 @@
     "kind": "site",
     "key": "https://www.kearney.com/careers",
     "ok": true,
-    "count": 438,
+    "count": 439,
     "error": ""
    }
   ],
@@ -4214,21 +4204,14 @@
   "firm": "Keystone",
   "id": "keystone",
   "readable": true,
-  "postings_read": 104,
+  "postings_read": 22,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.keystone.com/career",
+    "kind": "greenhouse",
+    "key": "keystone",
     "ok": true,
-    "count": 50,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.keystone.com/careers",
-    "ok": true,
-    "count": 54,
+    "count": 22,
     "error": ""
    }
   ],
@@ -4286,12 +4269,19 @@
   "firm": "Koch",
   "id": "koch",
   "readable": true,
-  "postings_read": 6,
+  "postings_read": 12,
   "matches": 0,
   "sources": [
    {
     "kind": "avature",
     "key": "koch.avature.net|/en_US/careers",
+    "ok": true,
+    "count": 6,
+    "error": ""
+   },
+   {
+    "kind": "avature",
+    "key": "koch.avature.net|/en_US/CollegeRecruiting",
     "ok": true,
     "count": 6,
     "error": ""
@@ -4327,14 +4317,14 @@
   "firm": "KWC CPAs",
   "id": "kwc-cpas",
   "readable": true,
-  "postings_read": 193,
+  "postings_read": 11,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.kwccpa.com/careers/recruiting",
+    "kind": "adp",
+    "key": "990d3929-8d89-4cc3-99ed-e1fc723d527e",
     "ok": true,
-    "count": 193,
+    "count": 11,
     "error": ""
    }
   ],
@@ -4343,9 +4333,9 @@
  {
   "firm": "L.E.K. Consulting",
   "id": "l-e-k-consulting",
-  "readable": false,
-  "postings_read": 0,
-  "matches": 0,
+  "readable": true,
+  "postings_read": 41,
+  "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
@@ -4353,15 +4343,39 @@
     "ok": false,
     "count": 0,
     "error": "RuntimeError: no Oleeo vacancies found"
+   },
+   {
+    "kind": "oleeo",
+    "key": "https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-1/brand-2/candidate/jobboard/vacancy/1/adv/",
+    "ok": true,
+    "count": 17,
+    "error": ""
+   },
+   {
+    "kind": "oleeo",
+    "key": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3/adv/",
+    "ok": true,
+    "count": 12,
+    "error": ""
+   },
+   {
+    "kind": "oleeo",
+    "key": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-2/candidate/jobboard/vacancy/5/adv/",
+    "ok": true,
+    "count": 12,
+    "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Paris Office - Life Sciences Specialist (m/f/d) (for PhD and MD applicants only) - March 2027",
+   "Munich Office - Life Sciences Specialist (m/f/d) for PhD and MD applicants only - Start October 2027"
+  ]
  },
  {
   "firm": "Lazard",
   "id": "lazard",
   "readable": true,
-  "postings_read": 175,
+  "postings_read": 219,
   "matches": 0,
   "sources": [
    {
@@ -4384,6 +4398,13 @@
     "ok": false,
     "count": 0,
     "error": "RuntimeError: no Oleeo vacancies found"
+   },
+   {
+    "kind": "oracle",
+    "key": "icbpjb.fa.ocs.oraclecloud.com|LazardProfessionalCareers",
+    "ok": true,
+    "count": 44,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -4939,7 +4960,7 @@
   "firm": "Moelis & Co",
   "id": "moelis-co",
   "readable": true,
-  "postings_read": 56,
+  "postings_read": 78,
   "matches": 2,
   "sources": [
    {
@@ -4955,6 +4976,13 @@
     "ok": true,
     "count": 28,
     "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "moelis.wd1.myworkdayjobs.com|moelis|Experienced-Hires",
+    "ok": true,
+    "count": 22,
+    "error": ""
    }
   ],
   "sample_matches": [
@@ -4966,14 +4994,14 @@
   "firm": "Moody's",
   "id": "moody-s",
   "readable": true,
-  "postings_read": 116,
+  "postings_read": 1340,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
-    "key": "https://careers.moodys.com/students-early-careers/",
+    "key": "https://careers.moodys.com/en/search-jobs",
     "ok": true,
-    "count": 116,
+    "count": 1340,
     "error": ""
    }
   ],
@@ -5005,7 +5033,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://jobs.dayforcehcm.com/en-US/morganprop/confidential/jobs/",
+    "key": "https://jobs.dayforcehcm.com/morganprop/confidential",
     "ok": true,
     "count": 6,
     "error": ""
@@ -5113,7 +5141,7 @@
    },
    {
     "kind": "site",
-    "key": "https://www.musketcorp.com/en/careers/interns-graduate-opportunities",
+    "key": "https://www.musketcorp.com/careers/interns-graduate-opportunities",
     "ok": true,
     "count": 68,
     "error": ""
@@ -5148,13 +5176,6 @@
    {
     "kind": "site",
     "key": "https://recrutement.natixis.com/en/",
-    "ok": true,
-    "count": 0,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://recrutement.natixis.com/en",
     "ok": true,
     "count": 0,
     "error": ""
@@ -5231,12 +5252,19 @@
   "firm": "Nomura",
   "id": "nomura",
   "readable": true,
-  "postings_read": 46,
+  "postings_read": 92,
   "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/",
+    "ok": true,
+    "count": 46,
+    "error": ""
+   },
+   {
+    "kind": "oleeo",
+    "key": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
     "ok": true,
     "count": 46,
     "error": ""
@@ -5413,16 +5441,16 @@
  {
   "firm": "Old Mission",
   "id": "old-mission",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 38,
   "matches": 0,
   "sources": [
    {
-    "kind": "greenhouse",
-    "key": "oldmissioncapital",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs"
+    "kind": "ashby",
+    "key": "old-mission-capital",
+    "ok": true,
+    "count": 38,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -5479,7 +5507,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://opco.hrmdirect.com/employment/job-openings.php",
+    "key": "https://apply.clearcompany.com/opco",
     "ok": true,
     "count": 2,
     "error": ""
@@ -5498,14 +5526,14 @@
   "firm": "Optiver",
   "id": "optiver",
   "readable": true,
-  "postings_read": 153,
+  "postings_read": 152,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "optiverus",
     "ok": true,
-    "count": 153,
+    "count": 152,
     "error": ""
    }
   ],
@@ -5583,14 +5611,14 @@
   "firm": "Partners Group",
   "id": "partners-group",
   "readable": true,
-  "postings_read": 17,
+  "postings_read": 94,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://jobs.partnersgroup.com/",
+    "kind": "oracle",
+    "key": "fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1001",
     "ok": true,
-    "count": 17,
+    "count": 94,
     "error": ""
    }
   ],
@@ -6137,32 +6165,21 @@
   "firm": "RBC Capital Markets",
   "id": "rbc-capital-markets",
   "readable": true,
-  "postings_read": 278,
-  "matches": 0,
+  "postings_read": 29,
+  "matches": 2,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://jobs.rbc.com/ca/en/search-results",
+    "kind": "workday",
+    "key": "rbc.wd3.myworkdayjobs.com|rbc|RBCEARLYTALENT1",
     "ok": true,
-    "count": 40,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://jobs.rbc.com/ca/en/",
-    "ok": true,
-    "count": 30,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.rbccm.com/en/careers",
-    "ok": true,
-    "count": 208,
+    "count": 29,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Business Analyst, RBC Amplify 2027, Vancouver",
+   "Data Engineer, RBC Amplify 2027, Vancouver"
+  ]
  },
  {
   "firm": "RDV Corporation",
@@ -6202,21 +6219,14 @@
   "firm": "Regions Bank",
   "id": "regions-bank",
   "readable": true,
-  "postings_read": 42,
+  "postings_read": 62,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://careers.regions.com/us/en/",
+    "kind": "workday",
+    "key": "regions.wd5.myworkdayjobs.com|regions|Regions_Careers",
     "ok": true,
-    "count": 21,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://careers.regions.com/us/en/interns-and-graduates",
-    "ok": true,
-    "count": 21,
+    "count": 62,
     "error": ""
    }
   ],
@@ -6238,7 +6248,7 @@
    },
    {
     "kind": "site",
-    "key": "https://rsadvisors.com/careers",
+    "key": "https://rsadvisors.com/en/careers",
     "ok": true,
     "count": 105,
     "error": ""
@@ -6267,21 +6277,14 @@
   "firm": "Rockefeller Capital Management",
   "id": "rockefeller-capital-management",
   "readable": true,
-  "postings_read": 450,
+  "postings_read": 27,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://careers.rockco.com/careers-home/jobs/",
+    "kind": "icims",
+    "key": "careers-rcm.icims.com",
     "ok": true,
-    "count": 167,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.rockco.com/about-rcm/working-at-rockefeller/",
-    "ok": true,
-    "count": 283,
+    "count": 27,
     "error": ""
    }
   ],
@@ -6325,25 +6328,20 @@
   "firm": "RSM US",
   "id": "rsm-us",
   "readable": true,
-  "postings_read": 56,
-  "matches": 0,
+  "postings_read": 60,
+  "matches": 1,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://jobs.rsmus.com/",
+    "kind": "workday",
+    "key": "rsm.wd1.myworkdayjobs.com|rsm|RSMCareers",
     "ok": true,
-    "count": 27,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://rsmus.com/careers.html",
-    "ok": true,
-    "count": 29,
+    "count": 60,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Complex Financial Instruments Consulting Associate - Fall 2027"
+  ]
  },
  {
   "firm": "RWE",
@@ -6390,14 +6388,14 @@
   "firm": "Sands Capital",
   "id": "sands-capital",
   "readable": true,
-  "postings_read": 153,
+  "postings_read": 1,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.sandscapital.com/careers-and-staff-benefits/",
+    "kind": "greenhouse",
+    "key": "sandscapitalmanagementllc",
     "ok": true,
-    "count": 153,
+    "count": 1,
     "error": ""
    }
   ],
@@ -6441,21 +6439,14 @@
   "firm": "Schneider Downs",
   "id": "schneider-downs",
   "readable": true,
-  "postings_read": 917,
+  "postings_read": 16,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://schneiderdowns.csod.com/ux/ats/careersite/10/home",
+    "kind": "greenhouse",
+    "key": "schneiderdowns",
     "ok": true,
-    "count": 0,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.schneiderdowns.com/careers",
-    "ok": true,
-    "count": 917,
+    "count": 16,
     "error": ""
    }
   ],
@@ -6748,22 +6739,15 @@
   "firm": "Squarepoint Capital",
   "id": "squarepoint-capital",
   "readable": true,
-  "postings_read": 51,
+  "postings_read": 90,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.squarepoint-capital.com/open-opportunities",
+    "kind": "greenhouse",
+    "key": "squarepointcapital",
     "ok": true,
-    "count": 51,
+    "count": 90,
     "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.squarepoint-capital.com/careers",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.squarepoint-capital.com/careers"
    }
   ],
   "sample_matches": []
@@ -6772,7 +6756,7 @@
   "firm": "Standard Chartered",
   "id": "standard-chartered",
   "readable": true,
-  "postings_read": 836,
+  "postings_read": 755,
   "matches": 0,
   "sources": [
    {
@@ -6780,13 +6764,6 @@
     "key": "https://jobs.standardchartered.com/",
     "ok": true,
     "count": 95,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://jobs.standardchartered.com/go/Early-careers-Jobs/",
-    "ok": true,
-    "count": 81,
     "error": ""
    },
    {
@@ -6873,7 +6850,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.stellexcapital.com/careers/",
+    "key": "https://www.stellexcapital.com/careers-culture/",
     "ok": true,
     "count": 72,
     "error": ""
@@ -6902,25 +6879,20 @@
   "firm": "StepStone Group",
   "id": "stepstone-group",
   "readable": true,
-  "postings_read": 874,
-  "matches": 0,
+  "postings_read": 62,
+  "matches": 1,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.stepstonegroup.com/current-opportunities/",
+    "kind": "greenhouse",
+    "key": "stepstone",
     "ok": true,
-    "count": 433,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.stepstonegroup.com/who-we-are/working-at-stepstone-culture/",
-    "ok": true,
-    "count": 441,
+    "count": 62,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "2026-2027 Data Monitoring Junior Analyst"
+  ]
  },
  {
   "firm": "Stifel",
@@ -6960,7 +6932,7 @@
   "firm": "Stout",
   "id": "stout",
   "readable": true,
-  "postings_read": 42,
+  "postings_read": 77,
   "matches": 0,
   "sources": [
    {
@@ -6975,6 +6947,13 @@
     "key": "stout.wd5.myworkdayjobs.com|stout|Stout-Student-Careers",
     "ok": true,
     "count": 3,
+    "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "stout.wd5.myworkdayjobs.com|stout|Stout-Experienced-Careers",
+    "ok": true,
+    "count": 35,
     "error": ""
    }
   ],
@@ -7018,14 +6997,14 @@
   "firm": "Summit Partners",
   "id": "summit-partners",
   "readable": true,
-  "postings_read": 62,
+  "postings_read": 2,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.summitpartners.com/summit-careers",
+    "kind": "greenhouse",
+    "key": "summitpartnerslp",
     "ok": true,
-    "count": 62,
+    "count": 2,
     "error": ""
    }
   ],
@@ -7052,32 +7031,24 @@
   "firm": "Susquehanna International Group",
   "id": "susquehanna-international-group",
   "readable": true,
-  "postings_read": 127,
-  "matches": 0,
+  "postings_read": 60,
+  "matches": 8,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://careers.sig.com/recent-graduate/jobs",
+    "kind": "icims",
+    "key": "careers-sig.icims.com",
     "ok": true,
-    "count": 30,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://careers.sig.com/search-results",
-    "ok": true,
-    "count": 30,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://sig.com/careers/interns-co-ops/",
-    "ok": true,
-    "count": 67,
+    "count": 60,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Associate Linux/Windows Engineer - New Grad",
+   "Associate Network Engineer - New Grad",
+   "Compliance Analyst - Operations Analyst Program: August 2027 Start",
+   "End User Services University Co - Op Placement 2027",
+   "Hong Kong PhD Discovery Program: April 2027"
+  ]
  },
  {
   "firm": "Susser Bank",
@@ -7141,7 +7112,7 @@
   "firm": "T. Rowe Price",
   "id": "t-rowe-price",
   "readable": true,
-  "postings_read": 56,
+  "postings_read": 77,
   "matches": 1,
   "sources": [
    {
@@ -7149,6 +7120,13 @@
     "key": "troweprice.wd5.myworkdayjobs.com|troweprice|TRowePrice",
     "ok": true,
     "count": 56,
+    "error": ""
+   },
+   {
+    "kind": "workday",
+    "key": "troweprice.wd5.myworkdayjobs.com|troweprice|TRowePriceInternational",
+    "ok": true,
+    "count": 21,
     "error": ""
    }
   ],
@@ -7160,14 +7138,14 @@
   "firm": "Talos",
   "id": "talos",
   "readable": true,
-  "postings_read": 135,
+  "postings_read": 19,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.talos.com/working/open-roles",
+    "kind": "ashby",
+    "key": "Talos-Trading",
     "ok": true,
-    "count": 135,
+    "count": 19,
     "error": ""
    }
   ],
@@ -7177,14 +7155,14 @@
   "firm": "TCW",
   "id": "tcw",
   "readable": true,
-  "postings_read": 139,
+  "postings_read": 11,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.tcw.com/our-firm/careers/internship-recruitment",
+    "kind": "icims",
+    "key": "careers-tcw.icims.com",
     "ok": true,
-    "count": 139,
+    "count": 11,
     "error": ""
    }
   ],
@@ -7297,14 +7275,14 @@
   "firm": "The McLean Group",
   "id": "the-mclean-group",
   "readable": true,
-  "postings_read": 45,
+  "postings_read": 3,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://mcleanllc.com/jobs",
+    "kind": "workable",
+    "key": "the-mclean-group",
     "ok": true,
-    "count": 45,
+    "count": 3,
     "error": ""
    }
   ],
@@ -7314,28 +7292,14 @@
   "firm": "The Riverside Company",
   "id": "the-riverside-company",
   "readable": true,
-  "postings_read": 370,
+  "postings_read": 6,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.riversidecompany.com/jobs",
+    "kind": "greenhouse",
+    "key": "theriversidecompany",
     "ok": true,
-    "count": 120,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.riversidecompany.com/jobs/",
-    "ok": true,
-    "count": 120,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.riversidecompany.com/who-we-are/careers/",
-    "ok": true,
-    "count": 130,
+    "count": 6,
     "error": ""
    }
   ],
@@ -7430,28 +7394,14 @@
   "firm": "Truist",
   "id": "truist",
   "readable": true,
-  "postings_read": 79,
+  "postings_read": 64,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://careers.truist.com/us/en/",
+    "kind": "workday",
+    "key": "truist.wd1.myworkdayjobs.com|truist|Careers",
     "ok": true,
-    "count": 23,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://careers.truist.com/us/en/search-results",
-    "ok": true,
-    "count": 33,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://careers.truist.com/us/en",
-    "ok": true,
-    "count": 23,
+    "count": 64,
     "error": ""
    }
   ],
@@ -7548,10 +7498,10 @@
    },
    {
     "kind": "site",
-    "key": "https://www.ubs.com/global/en/careers/university-students.html",
+    "key": "https://www.ubs.com/global/en/careers/early-careers.html",
     "ok": false,
     "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.ubs.com/global/en/careers/university-students.html"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.ubs.com/global/en/careers/early-careers.html"
    }
   ],
   "sample_matches": []
@@ -7577,7 +7527,7 @@
   "firm": "Union Square Advisors",
   "id": "union-square-advisors",
   "readable": true,
-  "postings_read": 39,
+  "postings_read": 16,
   "matches": 0,
   "sources": [
    {
@@ -7585,13 +7535,6 @@
     "key": "https://unionsquareadvisors.applytojob.com/apply",
     "ok": true,
     "count": 16,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://careers.truist.com/us/en",
-    "ok": true,
-    "count": 23,
     "error": ""
    }
   ],
@@ -7657,7 +7600,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "http://www.vantedge.partners/",
+    "key": "https://vantedge.partners/",
     "ok": true,
     "count": 44,
     "error": ""
@@ -7686,21 +7629,14 @@
   "firm": "Verition Fund Management",
   "id": "verition-fund-management",
   "readable": true,
-  "postings_read": 66,
+  "postings_read": 13,
   "matches": 0,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.verition.com/open-positions",
+    "kind": "greenhouse",
+    "key": "veritiongroupllc",
     "ok": true,
-    "count": 25,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://www.verition.com/careers",
-    "ok": true,
-    "count": 41,
+    "count": 13,
     "error": ""
    }
   ],
@@ -7727,25 +7663,35 @@
   "firm": "Vista Equity Partners",
   "id": "vista-equity-partners",
   "readable": true,
-  "postings_read": 229,
-  "matches": 0,
+  "postings_read": 17,
+  "matches": 2,
   "sources": [
    {
-    "kind": "site",
-    "key": "https://www.vistaequitypartners.com/careers/vista-career-opportunities/",
+    "kind": "icims",
+    "key": "careers3-vistaequitypartners.icims.com",
     "ok": true,
-    "count": 112,
+    "count": 8,
     "error": ""
    },
    {
-    "kind": "site",
-    "key": "https://www.vistaequitypartners.com/careers/",
+    "kind": "icims",
+    "key": "careers2-vistaequitypartners.icims.com",
     "ok": true,
-    "count": 117,
+    "count": 5,
+    "error": ""
+   },
+   {
+    "kind": "icims",
+    "key": "careers-vistaequitypartners.icims.com",
+    "ok": true,
+    "count": 4,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "2027 Private Equity Associate, Austin",
+   "2027 Private Equity Associate, Chicago"
+  ]
  },
  {
   "firm": "Voloridge Investment Management",
@@ -7847,7 +7793,7 @@
   "sources": [
    {
     "kind": "site",
-    "key": "https://www.wealthspire.com/contact/careers/",
+    "key": "https://www.wealthspire.com/careers",
     "ok": true,
     "count": 148,
     "error": ""
@@ -7871,7 +7817,7 @@
    },
    {
     "kind": "site",
-    "key": "https://www.wedbush.com/about-wedbush/career-opportunities/",
+    "key": "https://wedbush.com/career-opportunities/",
     "ok": true,
     "count": 193,
     "error": ""
@@ -8050,19 +7996,12 @@
   "firm": "Zachary Scott",
   "id": "zachary-scott",
   "readable": true,
-  "postings_read": 118,
+  "postings_read": 59,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://zacharyscott.com/careers/",
-    "ok": true,
-    "count": 59,
-    "error": ""
-   },
-   {
-    "kind": "site",
-    "key": "https://zacharyscott.com/careers",
     "ok": true,
     "count": 59,
     "error": ""
