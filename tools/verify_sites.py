@@ -53,6 +53,13 @@ HOST_NOISE = {"www", "careers", "career", "jobs", "job", "search", "apply", "com
 def ats_of(url):
     """(kind, key) when a URL belongs to a job system the watcher can read, else None."""
     try:
+        return _ats_of(str(url or ""))
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def _ats_of(url):
+    try:
         u = urlparse(url)
     except ValueError:
         return None
@@ -141,7 +148,9 @@ async def render(ctx, url, sem):
             except Exception:  # noqa: BLE001
                 pass
             links = await page.eval_on_selector_all(
-                "a[href]", "els => els.map(e => [e.href, (e.innerText || e.getAttribute('aria-label') || '').trim().slice(0, 120)])")
+                "a[href]", "els => els.map(e => [String((e.href && e.href.baseVal !== undefined) ? e.href.baseVal : e.href), "
+                "String(e.innerText || e.getAttribute('aria-label') || '').trim().slice(0, 120)])")
+            links = [[str(h), str(t)] for h, t in links if h]
             return {"url": url, "status": resp.status if resp else None, "final": page.url, "links": links,
                     "frames": [f.url for f in page.frames], "requests": reqs}
         except Exception as e:  # noqa: BLE001
@@ -157,18 +166,24 @@ def boards_in(pages):
             c = ats_of(u)
             if c:
                 found.setdefault(c, u)
-            elif OTHER_SYSTEMS.search(u or ""):
-                h = urlparse(u).hostname or ""
+            elif OTHER_SYSTEMS.search(str(u or "")):
+                try:
+                    h = urlparse(str(u)).hostname or ""
+                except ValueError:
+                    h = ""
                 if h and "linkedin" not in h:
                     other.add(h)
     return found, sorted(other)
 
 
 def hop_links(page):
-    base = urlparse(page.get("final") or page["url"]).hostname or ""
+    base = urlparse(str(page.get("final") or page["url"])).hostname or ""
     out = []
     for href, text in page["links"]:
-        h = urlparse(href).hostname or ""
+        try:
+            h = urlparse(href).hostname or ""
+        except ValueError:
+            continue
         if not href.startswith("http") or "linkedin" in h:
             continue
         if HOP_TEXT.search(text or "") or re.search(r"/(jobs|openings|positions|search-jobs|job-search|opportunities|vacancies)\b",
@@ -284,9 +299,16 @@ async def main_async():
         sem = asyncio.Semaphore(PARALLEL_PAGES)
         firms = [e for e in entries if e.get("watch") is not False]
         recs, done = [], 0
+
+        async def safe(f):
+            try:
+                return await check_firm(ctx, sem, f)
+            except Exception as e:  # noqa: BLE001
+                print(f"{f['name']}: check failed ({type(e).__name__}: {e})", flush=True)
+                return None
         for i in range(0, len(firms), 16):
             batch = firms[i:i + 16]
-            recs += await asyncio.gather(*(check_firm(ctx, sem, f) for f in batch))
+            recs += [r for r in await asyncio.gather(*(safe(f) for f in batch)) if r]
             done += len(batch)
             print(f"{done}/{len(firms)} firms checked", flush=True)
         await browser.close()
