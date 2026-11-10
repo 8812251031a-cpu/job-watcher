@@ -1,4 +1,4 @@
-# Open right now: 97 postings at 38 firms
+# Open right now: 106 postings at 40 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -61,6 +61,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Associate Audit Fall 2027 | Charleston, WV](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Audit-Fall-2027-Charleston-WV/14516) · first seen Nov 10
 - [Associate Audit Fall 2027 | Chicago](https://forvis.avature.net/campuscareers/JobDetail/Chicago-Illinois-United-States-Associate-Audit-Fall-2027-Chicago/11251) · first seen Nov 10
 - [Associate Audit Fall 2027 | Fort Wayne](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Audit-Fall-2027-Fort-Wayne/14518) · first seen Nov 10
+
+## Graham Partners
+- [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
 
 ## Guidehouse
 - [Consulting Analyst - State & Local Government - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Consulting-Analyst---State---Local-Government---Campus-2027_43498) · posted Nov 6
@@ -162,6 +165,16 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## StepStone Group
 - [2026-2027 Data Monitoring Junior Analyst](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8346536) · posted Nov 2
 
+## Susquehanna International Group
+- [Associate Linux/Windows Engineer - New Grad](https://careers-sig.icims.com/jobs/9408/associate-linux-windows-engineer----new-grad/job?in_iframe=1) · first seen Nov 10
+- [Associate Network Engineer - New Grad](https://careers-sig.icims.com/jobs/8137/associate-network-engineer---new-grad/job?in_iframe=1) · first seen Nov 10
+- [Compliance Analyst - Operations Analyst Program: August 2027 Start](https://careers-sig.icims.com/jobs/11693/compliance-analyst---operations-analyst-program%3a-august-2027-start/job?in_iframe=1) · first seen Nov 10
+- [End User Services University Co - Op Placement 2027](https://careers-sig.icims.com/jobs/11707/end-user-services-university-co---op-placement-2027/job?in_iframe=1) · first seen Nov 10
+- [Hong Kong PhD Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11495/hong-kong-phd-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 10
+- [Hong Kong + Singapore Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11453/hong-kong-%2b-singapore-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 10
+- [Machine Learning Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/10787/machine-learning-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 10
+- [Machine Learning Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/10788/machine-learning-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 10
+
 ## T. Rowe Price
 - [Associate Sales Consultant (December 2026 & Spring 2027 Graduates)](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Sales-Consultant--December-2026---Spring-2027-Graduates-_84293) · posted Nov 2
 
@@ -175,7 +188,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 54 firms the watcher can't read
+## Check these yourself: 53 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -225,7 +238,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Sensiba** · [careers site](https://sensiba.com/careers/student-opportunities) · no postings found (the page may load jobs in a way the watcher can't read)
 - **SOLIC Capital Advisors** · [careers site](https://www.soliccapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Susquehanna International Group** · [careers site](https://sig.com/careers/interns-co-ops/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Temasek** · [careers site](https://www.temasek.com.sg/en/about-us/careers) · site blocks automated checks
 - **Tessaro Quant Research** · no link in the config · no job site in the config
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
