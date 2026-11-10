@@ -1,8 +1,12 @@
 """Check every firm's job site and alert on new postings that look like
 2027 or full-time analyst roles.
 
+Reads the firm list from config/firms.yaml (no Trackr).
+
 Run:  python watcher/watch.py            (normal run: alert on new matches)
       python watcher/watch.py --report   (also write a per-firm health report)
+      python watcher/watch.py --quiet    (record new matches without alerting)
+A file named data/quiet_next_run makes the next run quiet once, then is removed.
 """
 import concurrent.futures as cf
 import datetime as dt
@@ -15,10 +19,14 @@ import time
 from urllib.parse import urljoin, urlparse, quote
 
 import requests
+import yaml
 from bs4 import BeautifulSoup
+
+from sites import board_url, classify
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
+CONFIG = os.path.join(ROOT, "config", "firms.yaml")
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 TIMEOUT = 25
@@ -475,40 +483,17 @@ def github_issue(title, body):
 
 
 def site_link(firm):
-    """Best page for checking a firm by hand: its careers site, else its job board."""
+    """Best page for checking a firm by hand: its careers homepage, else its first job board."""
     if firm.get("careers_site"):
-        return re.sub(r"[?&]utm_[^#]*", "", firm["careers_site"])
+        return firm["careers_site"]
     for src in firm.get("sources", []):
-        k, key = src["kind"], src["key"]
-        if key.startswith("http"):
-            return key
-        if k == "workday":
-            host, _, site = key.split("|")
-            return f"https://{host}/{site}"
-        if k == "greenhouse":
-            return f"https://job-boards.greenhouse.io/{key}"
-        if k == "lever":
-            return f"https://jobs.lever.co/{key}"
-        if k == "ashby":
-            return f"https://jobs.ashbyhq.com/{key}"
-        if k == "workable":
-            return f"https://apply.workable.com/{key}"
-        if k == "smartrecruiters":
-            return f"https://jobs.smartrecruiters.com/{key}"
-        if k in ("bamboo", "breezy", "icims"):
-            return f"https://{key}/"
-        if k == "avature":
-            host, base = key.split("|")
-            return f"https://{host}{base}/SearchJobs"
-        if k == "ukg":
-            host, tenant, board = key.split("|")
-            return f"https://{host}/{tenant}/JobBoard/{board}"
+        return board_url(src["kind"], src["key"])
     return ""
 
 
 def why_unreadable(sources):
     if not sources:
-        return "no job site listed on Trackr"
+        return "no job site in the config"
     errs = " ".join(x["error"] for x in sources)
     if "403" in errs or "429" in errs:
         return "site blocks automated checks"
@@ -523,13 +508,33 @@ def why_unreadable(sources):
     return "no postings found (the page may load jobs in a way the watcher can't read)"
 
 
+# ---------------------------------------------------------------- config
+def load_firms():
+    """config/firms.yaml -> firms with (kind, key) sources worked out from each address."""
+    firms = []
+    for e in yaml.safe_load(open(CONFIG)) or []:
+        if e.get("watch") is False:
+            continue
+        homepage = (e.get("homepage") or "").strip()
+        sources = []
+        for url in e.get("career_sites") or []:
+            c = classify(str(url).strip())
+            if c and {"kind": c[0], "key": c[1]} not in sources:
+                sources.append({"kind": c[0], "key": c[1]})
+        if not sources and homepage and classify(homepage):
+            c = classify(homepage)
+            sources.append({"kind": c[0], "key": c[1]})
+        firms.append({"id": str(e["id"]), "name": str(e.get("name") or e["id"]), "careers_site": homepage,
+                      "categories": e.get("categories") or [], "sources": sources})
+    return firms
+
+
 # ---------------------------------------------------------------- main
 def main():
     report_mode = "--report" in sys.argv
-    if not os.path.exists(os.path.join(DATA, "firms.json")):
-        print("No firm list yet. Run the 'Refresh firm list' workflow first.")
-        return
-    firms = json.load(open(os.path.join(DATA, "firms.json")))
+    flag = os.path.join(DATA, "quiet_next_run")
+    quiet = "--quiet" in sys.argv or os.path.exists(flag)
+    firms = load_firms()
     seen_path = os.path.join(DATA, "seen.json")
     first_run = not os.path.exists(seen_path)
     seen = {} if first_run else json.load(open(seen_path))
@@ -572,7 +577,11 @@ def main():
             fh.write(f"## {f}\n" + "".join(f"- [{m['title']}]({m['url']}) · {age_label(m)}\n" for m in current[f]) + "\n")
 
     topic = os.environ.get("NTFY_TOPIC", "")
-    if first_run:
+    if quiet:
+        print(f"Quiet run: recorded {len(new)} new matches without alerting.")
+        if os.path.exists(flag):
+            os.remove(flag)
+    elif first_run:
         repo = os.environ.get("GITHUB_REPOSITORY", "")
         groups = {}
         for f, m in new:
@@ -612,7 +621,7 @@ def main():
                  "Visit them directly.\n\n")
         for h in manual:
             link = site_link(by_id.get(h["id"], {}))
-            shown = f"[careers site]({link})" if link else "no link on Trackr"
+            shown = f"[careers site]({link})" if link else "no link in the config"
             fh.write(f"- **{h['firm']}** · {shown} · {why_unreadable(h['sources'])}\n")
     good = sum(1 for h in health if h["readable"])
     with open(os.path.join(DATA, "status.md"), "w") as fh:

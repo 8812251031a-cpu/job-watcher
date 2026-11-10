@@ -1,12 +1,14 @@
-name: Refresh firm list
+name: Weekly health report
 
+# Re-checks every firm in config/firms.yaml and writes data/report.json.
+# Also runs whenever the config or the watcher code changes. Trackr is not used.
 on:
   schedule:
     - cron: "17 11 * * 1"
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["data/overrides.json", "watcher/**"]
+    paths: ["config/**", "watcher/**"]
 
 permissions:
   contents: write
@@ -17,7 +19,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  refresh:
+  report:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -28,18 +30,15 @@ jobs:
           cache: pip
           cache-dependency-path: requirements.txt
       - run: pip install -r requirements.txt
-      - name: Rebuild firm database
-        run: python watcher/build_firms.py
-      - name: Health report
+      - name: Check every firm and write the health report
         run: python watcher/watch.py --report
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit
         run: |
-          date -u +"%Y-%m-%dT%H:%MZ" > data/last_refresh.txt
           git config user.name "job-watcher"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git commit -m "Weekly firm list refresh" || exit 0
+          git add -A data
+          git commit -m "Weekly health report" || exit 0
           git pull --rebase && git push
