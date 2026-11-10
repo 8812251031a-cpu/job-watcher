@@ -39,7 +39,4 @@ jobs:
         run: |
           git config user.name "job-watcher"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data
-          if ! git diff --cached --quiet; then
-            git commit -m "Update seen postings" && git pull --rebase && git push
-          fi
+          python watcher/save_state.py "Update seen postings"
