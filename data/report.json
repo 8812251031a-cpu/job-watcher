@@ -2260,16 +2260,16 @@
  {
   "firm": "CMD Global Partners",
   "id": "cmd-global-partners",
-  "readable": true,
-  "postings_read": 117,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.cmdglobal.com/",
-    "ok": true,
-    "count": 117,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.cmdglobal.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cmdglobal.co"
    }
   ],
   "sample_matches": []
@@ -3393,9 +3393,9 @@
    {
     "kind": "site",
     "key": "https://www.grahampartners.net/careers/",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.grahampartners.net', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
    }
   ],
   "sample_matches": []
@@ -3502,9 +3502,9 @@
    {
     "kind": "site",
     "key": "https://www.gtcr.com/",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.gtcr.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gtcr.com', port=4"
    }
   ],
   "sample_matches": []
@@ -4173,7 +4173,7 @@
   "firm": "Kearney",
   "id": "kearney",
   "readable": true,
-  "postings_read": 442,
+  "postings_read": 441,
   "matches": 0,
   "sources": [
    {
@@ -4187,7 +4187,7 @@
     "kind": "site",
     "key": "https://www.kearney.com/careers",
     "ok": true,
-    "count": 439,
+    "count": 438,
     "error": ""
    }
   ],
@@ -5838,14 +5838,14 @@
   "firm": "Point72",
   "id": "point72",
   "readable": true,
-  "postings_read": 200,
+  "postings_read": 199,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "point72",
     "ok": true,
-    "count": 200,
+    "count": 199,
     "error": ""
    }
   ],
@@ -6867,16 +6867,16 @@
  {
   "firm": "Stellex",
   "id": "stellex",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 72,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.stellexcapital.com/careers/",
-    "ok": false,
-    "count": 0,
-    "error": "ReadTimeout: HTTPSConnectionPool(host='www.stellexcapital.com', port=443): Read timed out. (read timeout=25)"
+    "ok": true,
+    "count": 72,
+    "error": ""
    }
   ],
   "sample_matches": []
