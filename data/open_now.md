@@ -1,4 +1,4 @@
-# Open right now: 116 postings at 44 firms
+# Open right now: 118 postings at 46 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -116,6 +116,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Munich Office - Life Sciences Specialist (m/f/d) for PhD and MD applicants only - Start October 2027](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4154-Munich-Office-Life-Sciences-Specialist-m-f-d-for-PhD-and-MD-applicants-only-Start-October-2027/en-GB) · first seen Nov 10
 - [Kaleidoscope: Undergraduate Program - Virtual 2027](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/so/pm/1/pl/6/opp/4155-Kaleidoscope-Undergraduate-Program-Virtual-2027/en-GB) · first seen Nov 10
 
+## Lazard
+- [Lazard Veterans Analyst Program (LVAP)](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/job/6824) · posted Nov 11
+
 ## LLR Partners
 - [2027 Analyst, Investment Team](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4468904009) · posted Nov 2
 
@@ -205,6 +208,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Vista Equity Partners
 - [2027 Private Equity Associate, Austin](https://careers3-vistaequitypartners.icims.com/jobs/3042/2027-private-equity-associate%2c-austin/job?in_iframe=1) · first seen Nov 10
 - [2027 Private Equity Associate, Chicago](https://careers3-vistaequitypartners.icims.com/jobs/3041/2027-private-equity-associate%2c-chicago/job?in_iframe=1) · first seen Nov 10
+
+## Voloridge Investment Management
+- [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
 ## Check these yourself: 52 firms the watcher can't read
 
