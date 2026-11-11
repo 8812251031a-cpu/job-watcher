@@ -1,4 +1,4 @@
-# Open right now: 112 postings at 41 firms
+# Open right now: 113 postings at 42 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -137,6 +137,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Technology Development Program - Software Engineering (Data Engineering)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882) · posted Nov 3
 - [2027 Executive Associate Program - Audit](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Audit_R90844) · posted Oct 28
 
+## Maven Securities
+- [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
+
 ## Moelis & Co
 - [2027 Analyst, Investment Banking - Private Capital Advisory, Primary Fundraising - New York City](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/467-2027-Analyst-Investment-Banking-Private-Capital-Advisory-Primary-Fundraising-New-York-City/en-GB) · first seen Nov 8
 - [2027 Analyst, Investment Banking – Hong Kong](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/493-2027-Analyst-Investment-Banking-Hong-Kong/en-GB) · first seen Nov 8
@@ -196,7 +199,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 53 firms the watcher can't read
+## Check these yourself: 52 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -230,7 +233,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Maven Securities** · [careers site](https://www.mavensecurities.com/work-at-maven/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
