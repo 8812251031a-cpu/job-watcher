@@ -1,4 +1,4 @@
-# Open right now: 120 postings at 46 firms
+# Open right now: 121 postings at 46 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -162,6 +162,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## Oliver Wyman
 - [Mechanical Engineering Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Cape-Town---Towers/Mechanical-Engineering-Graduate---2027-Marsh-Graduate-Programme_R_371812) · posted Nov 11
+- [Gqeberha/Port Elizabeth Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Port-Elizabeth---Cape/Gqeberha-Port-Elizabeth-Graduate---2027-Marsh-Graduate-Programme_R_372564) · posted Nov 11
 - [Marsh People and Investments Workforce and Rewards Consulting Analyst- Philadelphia/ Washington DC- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Workforce-and-Rewards-Consulting-Analyst--Philadelphia--Washington-DC--College-Program-2027_R_365161) · posted Nov 11
 - [Marsh People and Investments Health and Benefits Analyst- Philadelphia- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Marsh-People-and-Investments-Health-and-Benefits-Analyst--Philadelphia--College-Program-2027_R_344603-1) · posted Nov 10
 - [Risk Analyst - College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/New-York---1166/Risk-Analyst---College-Program-2027_R_368562-2) · posted Nov 10
