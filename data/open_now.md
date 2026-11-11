@@ -1,4 +1,4 @@
-# Open right now: 113 postings at 42 firms
+# Open right now: 114 postings at 43 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -60,6 +60,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Associate Audit Fall 2027 | Charleston, WV](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Audit-Fall-2027-Charleston-WV/14516) · first seen Nov 10
 - [Associate Audit Fall 2027 | Chicago](https://forvis.avature.net/campuscareers/JobDetail/Chicago-Illinois-United-States-Associate-Audit-Fall-2027-Chicago/11251) · first seen Nov 10
 - [Associate Audit Fall 2027 | Fort Wayne](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Audit-Fall-2027-Fort-Wayne/14518) · first seen Nov 10
+
+## Frazier & Deeter
+- [2027 Fall Assurance Associate](https://job-boards.greenhouse.io/frazierdeeter/jobs/8201480003) · posted Nov 11
 
 ## Graham Partners
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
