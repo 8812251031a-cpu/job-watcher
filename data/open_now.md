@@ -1,4 +1,4 @@
-# Open right now: 123 postings at 49 firms
+# Open right now: 124 postings at 49 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -42,6 +42,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Private Equity Analyst | Real Assets and Sustainability](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aebad3d9-4fa5-4393-8afb-3a6af61641d2&jobId=9201316633960_1) · posted Nov 4
 
 ## Citi
+- [Banking - Investment Banking, LATAM Full-Time Analyst - NEW YORK, US 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Investment-Banking--LATAM-Full-Time-Analyst---NEW-YORK--US-2027_261001253) · posted Nov 12
 - [Services, Full-Time Analyst, Argentina– Capital Federal, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Capital-Federal--Argentina/Services--Full-Time-Analyst--Argentina--Capital-Federal--2027_261007721) · posted Nov 9
 - [Technology - Application Development, Full Time Analyst, Bahrain - Seef 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seef--Bahrain/Technology---Application-Development--Full-Time-Analyst--Bahrain---Seef-2027_261005223) · posted Nov 9
 - [Market Operations Junior Analyst Program Hybrid](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Market-Operations-Junior-Analyst-Program-Hybrid_26991391-1) · posted Nov 3
@@ -107,8 +108,8 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Machine Learning Researcher (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8576934002/) · first seen Nov 8
 - [Quantitative Researcher (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8573726002/) · first seen Nov 8
 - [Quantitative Researcher (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8754684002/) · first seen Nov 8
-- [Quantitative Trader (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8415898002/) · first seen Nov 8
 - [Quantitative Trader (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8573523002/) · first seen Nov 8
+- [Quantitative Trader (Full-Time: New Grad)](https://www.janestreet.com/join-jane-street/position/8415898002/) · first seen Nov 8
 
 ## Jefferies
 - [2027 Investment Banking Analyst - Houston, Energy Group (February Start)](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1858-2027-Investment-Banking-Analyst-Houston-Energy-Group-February-Start/en-GB) · first seen Nov 8
