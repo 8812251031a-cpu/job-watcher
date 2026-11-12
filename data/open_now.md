@@ -1,4 +1,4 @@
-# Open right now: 126 postings at 49 firms
+# Open right now: 123 postings at 49 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -48,6 +48,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Full-Time-Analyst--Buffalo---USA--2027_26981024) · posted Oct 30
 
 ## CohnReznick
+- [Tax Associate - San Diego, CA - Class of 2027](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10226-Tax-Associate-San-Diego-CA-Class-of-2027/en-GB) · first seen Nov 12
 - [Tax Associate - Dallas, TX - Class of 2027](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/8428-Tax-Associate-Dallas-TX-Class-of-2027/en-GB) · first seen Nov 11
 
 ## Deutsche Bank
@@ -64,14 +65,10 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [General Counsel Graduate Programme 2027 - Hong Kong](https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/so/pm/1/pl/1/opp/1417-General-Counsel-Graduate-Programme-2027-Hong-Kong/en-GB) · first seen Nov 10
 
 ## Forvis
-- [Associate Audit Fall 2027 | Charleston, WV](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Audit-Fall-2027-Charleston-WV/14516) · first seen Nov 10
 - [Associate Audit Fall 2027 | Chicago](https://forvis.avature.net/campuscareers/JobDetail/Chicago-Illinois-United-States-Associate-Audit-Fall-2027-Chicago/11251) · first seen Nov 10
-- [Associate Audit Fall 2027 | Fort Wayne](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Audit-Fall-2027-Fort-Wayne/14518) · first seen Nov 10
 
 ## Forvis Mazars
-- [Associate Audit Fall 2027 | Charleston, WV](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Audit-Fall-2027-Charleston-WV/14516) · first seen Nov 10
 - [Associate Audit Fall 2027 | Chicago](https://forvis.avature.net/campuscareers/JobDetail/Chicago-Illinois-United-States-Associate-Audit-Fall-2027-Chicago/11251) · first seen Nov 10
-- [Associate Audit Fall 2027 | Fort Wayne](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Audit-Fall-2027-Fort-Wayne/14518) · first seen Nov 10
 
 ## Frazier & Deeter
 - [2027 Fall Assurance Associate](https://job-boards.greenhouse.io/frazierdeeter/jobs/8201480003) · posted Nov 11
@@ -226,7 +223,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 53 firms the watcher can't read
+## Check these yourself: 52 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -235,7 +232,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Aldrich** · [careers site](https://aldrichadvisors.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **AlphaSights** · [careers site](https://www.alphasights.com/careers/students-and-interns/) · site blocks automated checks
 - **Alvarez & Marsal** · [careers site](https://careers.alvarezandmarsal.com/) · site blocks automated checks
-- **Ares Management** · [careers site](https://www.ares.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
 - **Bain & Company** · [careers site](https://www.bain.com/careers/work-with-us/students/) · site blocks automated checks
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
