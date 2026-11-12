@@ -1,4 +1,4 @@
-# Open right now: 124 postings at 48 firms
+# Open right now: 126 postings at 48 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -42,9 +42,11 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Private Equity Analyst | Real Assets and Sustainability](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aebad3d9-4fa5-4393-8afb-3a6af61641d2&jobId=9201316633960_1) · posted Nov 4
 
 ## Citi
+- [U.S. Consumer Cards - Full-Time Analyst, Wilmington, DE - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Wilmington-Delaware-United-States/US-Consumer-Cards---Full-Time-Analyst--Wilmington--DE---USA--2027_261005759) · posted Nov 12
 - [U.S. Consumer Cards - Full-Time Analyst, Jacksonville, FL - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/US-Consumer-Cards---Full-Time-Analyst--Jacksonville--FL---USA--2027_261005766) · posted Nov 12
+- [U.S. Consumer Cards - Full-Time Leadership Associate, Atlanta, GA - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Atlanta-Georgia-United-States/US-Consumer-Cards---Full-Time-Leadership-Associate--Atlanta--GA---USA--2027_261005779) · posted Nov 12
+- [U.S. Consumer Cards - Full-Time Leadership Associate, Wilmington, DE - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Wilmington-Delaware-United-States/US-Consumer-Cards---Full-Time-Leadership-Associate--Wilmington--DE---USA--2027_261005776) · posted Nov 12
 - [U.S. Consumer Cards - Full-Time Leadership Associate, Jacksonville, FL - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/US-Consumer-Cards---Full-Time-Leadership-Associate--Jacksonville--FL---USA--2027_261005791) · posted Nov 12
-- [Banking - Investment Banking, LATAM Full-Time Analyst - NEW YORK, US 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Investment-Banking--LATAM-Full-Time-Analyst---NEW-YORK--US-2027_261001253) · posted Nov 12
 - [Services, Full-Time Analyst, Argentina– Capital Federal, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Capital-Federal--Argentina/Services--Full-Time-Analyst--Argentina--Capital-Federal--2027_261007721) · posted Nov 9
 - [Technology - Application Development, Full Time Analyst, Bahrain - Seef 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seef--Bahrain/Technology---Application-Development--Full-Time-Analyst--Bahrain---Seef-2027_261005223) · posted Nov 9
 - [Market Operations Junior Analyst Program Hybrid](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Market-Operations-Junior-Analyst-Program-Hybrid_26991391-1) · posted Nov 3
@@ -222,7 +224,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 51 firms the watcher can't read
+## Check these yourself: 52 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -262,6 +264,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
+- **OMERS** · [careers site](https://www.omers.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
