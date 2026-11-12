@@ -1,4 +1,4 @@
-# Open right now: 126 postings at 48 firms
+# Open right now: 127 postings at 48 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -15,6 +15,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## Barclays
 - [Workday Specialist (HCM Consultant) AVP - FTC until the end of December 2027](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Workday-Specialist--HCM-Consultant--AVP---FTC-until-the-end-of-December-2027_JR-0000132979) · posted Nov 12
+- [S&T- Delta One Trading Analyst Graduate Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428) · posted Nov 12
 - [2027 Technology Developer Graduate Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319) · posted Nov 2
 
 ## BDO Global
