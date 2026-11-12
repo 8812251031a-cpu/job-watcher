@@ -1,4 +1,4 @@
-# Open right now: 121 postings at 46 firms
+# Open right now: 119 postings at 46 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -10,7 +10,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Global Markets Military and Athlete Programme](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/15264-2027-Global-Markets-Military-and-Athlete-Programme/en-GB) · first seen Nov 8
 
 ## Barclays
-- [2027 Technology Developer Graduate Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319) · posted Nov 3
+- [2027 Technology Developer Graduate Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319) · posted Nov 2
 
 ## BDO Global
 - [Assurance Associate - Fall 2027 (Baltimore)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14733) · posted Nov 11
@@ -24,7 +24,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) · first seen Nov 9
 
 ## bp
-- [Azerbaijan Discovery Week 2027](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/Azerbaijan---Baku/Azerbaijan-Discovery-Week-2027_RQ118009) · posted Nov 7
+- [Azerbaijan Discovery Week 2027](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/Azerbaijan---Baku/Azerbaijan-Discovery-Week-2027_RQ118009) · posted Nov 6
 
 ## Cantor Fitzgerald
 - [Investment Banking Analyst – Energy (Class of 2027)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250409) · posted Oct 30
@@ -37,10 +37,10 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Private Equity Analyst | Real Assets and Sustainability](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aebad3d9-4fa5-4393-8afb-3a6af61641d2&jobId=9201316633960_1) · posted Nov 4
 
 ## Citi
-- [Services, Full-Time Analyst, Argentina– Capital Federal, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Capital-Federal--Argentina/Services--Full-Time-Analyst--Argentina--Capital-Federal--2027_261007721) · posted Nov 10
-- [Technology - Application Development, Full Time Analyst, Bahrain - Seef 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seef--Bahrain/Technology---Application-Development--Full-Time-Analyst--Bahrain---Seef-2027_261005223) · posted Nov 10
-- [Market Operations Junior Analyst Program Hybrid](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Market-Operations-Junior-Analyst-Program-Hybrid_26991391-1) · posted Nov 4
-- [Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Full-Time-Analyst--Buffalo---USA--2027_26981024) · posted Oct 31
+- [Services, Full-Time Analyst, Argentina– Capital Federal, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Capital-Federal--Argentina/Services--Full-Time-Analyst--Argentina--Capital-Federal--2027_261007721) · posted Nov 9
+- [Technology - Application Development, Full Time Analyst, Bahrain - Seef 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seef--Bahrain/Technology---Application-Development--Full-Time-Analyst--Bahrain---Seef-2027_261005223) · posted Nov 9
+- [Market Operations Junior Analyst Program Hybrid](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Market-Operations-Junior-Analyst-Program-Hybrid_26991391-1) · posted Nov 3
+- [Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Full-Time-Analyst--Buffalo---USA--2027_26981024) · posted Oct 30
 
 ## CohnReznick
 - [Tax Associate - Dallas, TX - Class of 2027](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/8428-Tax-Associate-Dallas-TX-Class-of-2027/en-GB) · first seen Nov 11
@@ -75,15 +75,15 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
 
 ## Guidehouse
-- [Consulting Analyst - State & Local Government - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Consulting-Analyst---State---Local-Government---Campus-2027_43498) · posted Nov 7
-- [Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423) · posted Nov 7
+- [Consulting Analyst - State & Local Government - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Consulting-Analyst---State---Local-Government---Campus-2027_43498) · posted Nov 6
+- [Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423) · posted Nov 6
 
 ## Harris Williams
-- [2027 M&A Associate, Richmond](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/VA---Richmond-23219/XMLNAME-2027-M-A-Associate--Richmond_R230675) · posted Nov 5
-- [2027 M&A Associate - Consumer, Minneapolis](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/MN---Minneapolis/XMLNAME-2027-M-A-Associate---Consumer_R230306) · posted Nov 5
+- [2027 M&A Associate, Richmond](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/VA---Richmond-23219/XMLNAME-2027-M-A-Associate--Richmond_R230675) · posted Nov 4
+- [2027 M&A Associate - Consumer, Minneapolis](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/MN---Minneapolis/XMLNAME-2027-M-A-Associate---Consumer_R230306) · posted Nov 4
 
 ## Huron
-- [Education and Research, Consulting Analyst - Q1 2027 Start Date (December 2026 Graduates)](https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/Education-and-Research--Consulting-Analyst---Q1-2027-Start-Date--December-2026-Graduates-_JR-0017174) · posted Nov 10
+- [Education and Research, Consulting Analyst - Q1 2027 Start Date (December 2026 Graduates)](https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Chicago---550-Van-Buren/Education-and-Research--Consulting-Analyst---Q1-2027-Start-Date--December-2026-Graduates-_JR-0017174) · posted Nov 9
 
 ## J.P. Morgan
 - [2027 Human Resources Analyst Development Program - Full-Time Analyst (New York Metro)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807293) · posted Nov 9
@@ -123,32 +123,31 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Analyst, Investment Team](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4468904009) · posted Nov 2
 
 ## M&T Bank
-- [2027 Executive Associate Program - Human Resouces](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Human-Resouces_R92086) · posted Nov 11
-- [2027 Executive Associate Program - Enterprise Operations](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Enterprise-Operations_R92094) · posted Nov 11
-- [2027 Executive Associate Program - Office of the Customer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Wilmington-DE/XMLNAME-2027-Executive-Associate-Program---Office-of-the-Customer_R92092) · posted Nov 11
-- [2027 Community Branch Management Program - Western New York, East Rochester](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Fairport-NY/XMLNAME-2027-Community-Branch-Management-Program---Western-New-York--East-Rochester_R91850) · posted Nov 11
-- [2027 Community Branch Management Program - Buffalo West (Delaware Sheridan)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Kenmore-NY/XMLNAME-2027-Community-Branch-Management-Program---Buffalo-West--Delaware-Sheridan-_R91959) · posted Nov 11
-- [2027 Community Branch Management Program - Western New York, Buffalo North](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Williamsville-NY/XMLNAME-2027-Community-Branch-Management-Program---Western-New-York--Buffalo-North_R91853) · posted Nov 11
-- [2027 Technology Development Program - Cybersecurity (Insider Threat)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500) · posted Nov 10
-- [2027 Community Branch Management Program - Philadelphia Metro](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Philadelphia-PA/XMLNAME-2027-Community-Branch-Management-Program---Philadelphia-Metro_R91960) · posted Nov 10
-- [2027 Community Branch Management Program - Jersey City, NJ](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Jersey-City-NJ/XMLNAME-2027-Community-Branch-Management-Program---Jersey-City--NJ_R91961) · posted Nov 10
-- [2027 Community Branch Management Program - New Jersey South](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Marlboro-NJ/XMLNAME-2027-Community-Branch-Management-Program---New-Jersey-South_R91962) · posted Nov 10
-- [2027 Management Development Program - Wealth Management, US Markets (Falls Church, VA)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Falls-Church-VA/XMLNAME-2027-Management-Development-Program---Wealth-Management--US-Markets--Falls-Church--VA-_R89071) · posted Nov 10
-- [2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) · posted Nov 9
-- [2027 Technology Development Program - Software Engineering (Data & API Engineering)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036) · posted Nov 9
-- [2027 Technology Development Program - Cybersecurity (Encryption Services)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554) · posted Nov 5
-- [2027 Technology Development Program - Operating Systems Engineer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Operating-Systems-Engineer_R91770) · posted Nov 5
-- [2027 Technology Development Program - Cybersecurity (Vulnerability Risk Management)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480) · posted Nov 5
-- [2027 Technology Development Program - Cybersecurity (Cloud Security Operations)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Cloud-Security-Operations-_R91594) · posted Nov 5
-- [2027 Enterprise Operations Development Program- Enterprise Fraud Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Fraud-Track_R91918) · posted Nov 5
-- [2027 Community Branch Management Program - Central Pennsylvania, York East](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/York-PA/XMLNAME-2027-Community-Branch-Management-Program---Central-Pennsylvania--York-East_R91851) · posted Nov 5
-- [2027 Technology Development Program - Cloud Storage & Data Protection Engineer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cloud-Storage---Data-Protection-Engineer_R91745) · posted Nov 5
-- [2027 Enterprise Operations Development Program- Enterprise Operations Enablement Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Operations-Enablement-Track_R91911) · posted Nov 5
-- [2027 Enterprise Operations Development Program- The Contact Center Analysis Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--The-Contact-Center-Analysis-Track_R91914) · posted Nov 5
-- [2027 Community Branch Management Program - Central Pennsylvania, North Central](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Selinsgrove-PA/XMLNAME-2027-Community-Branch-Management-Program---Central-Pennsylvania--North-Central_R91852) · posted Nov 5
-- [2027 Technology Development Program - Cybersecurity (Workforce Identity & Access Management)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Workforce-Identity---Access-Management-_R91458) · posted Nov 5
-- [2027 Technology Development Program - Software Engineering (Data Engineering)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882) · posted Nov 4
-- [2027 Executive Associate Program - Audit](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Audit_R90844) · posted Oct 29
+- [2027 Executive Associate Program - Human Resouces](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Human-Resouces_R92086) · posted Nov 10
+- [2027 Executive Associate Program - Enterprise Operations](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Enterprise-Operations_R92094) · posted Nov 10
+- [2027 Executive Associate Program - Office of the Customer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Wilmington-DE/XMLNAME-2027-Executive-Associate-Program---Office-of-the-Customer_R92092) · posted Nov 10
+- [2027 Community Branch Management Program - Western New York, East Rochester](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Fairport-NY/XMLNAME-2027-Community-Branch-Management-Program---Western-New-York--East-Rochester_R91850) · posted Nov 10
+- [2027 Community Branch Management Program - Buffalo West (Delaware Sheridan)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Kenmore-NY/XMLNAME-2027-Community-Branch-Management-Program---Buffalo-West--Delaware-Sheridan-_R91959) · posted Nov 10
+- [2027 Community Branch Management Program - Western New York, Buffalo North](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Williamsville-NY/XMLNAME-2027-Community-Branch-Management-Program---Western-New-York--Buffalo-North_R91853) · posted Nov 10
+- [2027 Technology Development Program - Cybersecurity (Insider Threat)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500) · posted Nov 9
+- [2027 Community Branch Management Program - Philadelphia Metro](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Philadelphia-PA/XMLNAME-2027-Community-Branch-Management-Program---Philadelphia-Metro_R91960) · posted Nov 9
+- [2027 Community Branch Management Program - Jersey City, NJ](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Jersey-City-NJ/XMLNAME-2027-Community-Branch-Management-Program---Jersey-City--NJ_R91961) · posted Nov 9
+- [2027 Community Branch Management Program - New Jersey South](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Marlboro-NJ/XMLNAME-2027-Community-Branch-Management-Program---New-Jersey-South_R91962) · posted Nov 9
+- [2027 Management Development Program - Wealth Management, US Markets (Falls Church, VA)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Falls-Church-VA/XMLNAME-2027-Management-Development-Program---Wealth-Management--US-Markets--Falls-Church--VA-_R89071) · posted Nov 9
+- [2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) · posted Nov 8
+- [2027 Technology Development Program - Software Engineering (Data & API Engineering)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036) · posted Nov 8
+- [2027 Technology Development Program - Cybersecurity (Encryption Services)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554) · posted Nov 4
+- [2027 Technology Development Program - Operating Systems Engineer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Operating-Systems-Engineer_R91770) · posted Nov 4
+- [2027 Technology Development Program - Cybersecurity (Vulnerability Risk Management)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480) · posted Nov 4
+- [2027 Technology Development Program - Cybersecurity (Cloud Security Operations)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Cloud-Security-Operations-_R91594) · posted Nov 4
+- [2027 Enterprise Operations Development Program- Enterprise Fraud Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Fraud-Track_R91918) · posted Nov 4
+- [2027 Community Branch Management Program - Central Pennsylvania, York East](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/York-PA/XMLNAME-2027-Community-Branch-Management-Program---Central-Pennsylvania--York-East_R91851) · posted Nov 4
+- [2027 Technology Development Program - Cloud Storage & Data Protection Engineer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cloud-Storage---Data-Protection-Engineer_R91745) · posted Nov 4
+- [2027 Enterprise Operations Development Program- Enterprise Operations Enablement Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Operations-Enablement-Track_R91911) · posted Nov 4
+- [2027 Enterprise Operations Development Program- The Contact Center Analysis Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--The-Contact-Center-Analysis-Track_R91914) · posted Nov 4
+- [2027 Community Branch Management Program - Central Pennsylvania, North Central](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Selinsgrove-PA/XMLNAME-2027-Community-Branch-Management-Program---Central-Pennsylvania--North-Central_R91852) · posted Nov 4
+- [2027 Technology Development Program - Cybersecurity (Workforce Identity & Access Management)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Workforce-Identity---Access-Management-_R91458) · posted Nov 4
+- [2027 Technology Development Program - Software Engineering (Data Engineering)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882) · posted Nov 3
 
 ## Maven Securities
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
@@ -161,29 +160,28 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Step In, Step Up: Empowering Women - Career Pathways Programmme](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22357-2027-Step-In-Step-Up-Empowering-Women-Career-Pathways-Programmme/en-GB) · first seen Nov 8
 
 ## Oliver Wyman
-- [Mechanical Engineering Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Cape-Town---Towers/Mechanical-Engineering-Graduate---2027-Marsh-Graduate-Programme_R_371812) · posted Nov 12
 - [Gqeberha/Port Elizabeth Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Port-Elizabeth---Cape/Gqeberha-Port-Elizabeth-Graduate---2027-Marsh-Graduate-Programme_R_372564) · posted Nov 12
-- [Marsh People and Investments Workforce and Rewards Consulting Analyst- Philadelphia/ Washington DC- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Workforce-and-Rewards-Consulting-Analyst--Philadelphia--Washington-DC--College-Program-2027_R_365161) · posted Nov 12
-- [Marsh People and Investments Health and Benefits Analyst- Philadelphia- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Marsh-People-and-Investments-Health-and-Benefits-Analyst--Philadelphia--College-Program-2027_R_344603-1) · posted Nov 11
-- [Risk Analyst - College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/New-York---1166/Risk-Analyst---College-Program-2027_R_368562-2) · posted Nov 11
-- [Marsh People and Investments Executive Rewards Analyst- Louisville- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Louisville---West-Market/Marsh-People-and-Investments-Executive-Rewards-Analyst--Louisville--College-Program-2027_R_360893) · posted Oct 29
+- [Mechanical Engineering Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Cape-Town---Towers/Mechanical-Engineering-Graduate---2027-Marsh-Graduate-Programme_R_371812) · posted Nov 11
+- [Marsh People and Investments Workforce and Rewards Consulting Analyst- Philadelphia/ Washington DC- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Workforce-and-Rewards-Consulting-Analyst--Philadelphia--Washington-DC--College-Program-2027_R_365161) · posted Nov 11
+- [Marsh People and Investments Health and Benefits Analyst- Philadelphia- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Marsh-People-and-Investments-Health-and-Benefits-Analyst--Philadelphia--College-Program-2027_R_344603-1) · posted Nov 10
+- [Risk Analyst - College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/New-York---1166/Risk-Analyst---College-Program-2027_R_368562-2) · posted Nov 10
 
 ## PJT Partners
 - [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
 - [2027 Full Time Analyst - PJT Camberview (Governance - San Francisco)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/San-Francisco/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Governance---San-Francisco-_R0003478) · first seen Nov 8
 
 ## Protiviti
-- [Americas Delivery Center Analyst - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Analyst---2027_JR-261879-2) · posted Nov 5
-- [Phoenix Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-257986) · posted Oct 30
+- [Americas Delivery Center Analyst - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Analyst---2027_JR-261879-2) · posted Nov 4
+- [Phoenix Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-257986) · posted Oct 29
 
 ## Raymond James
-- [2027 Spring Associate – Alternative Investments Due Diligence – St. Petersburg, FL](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Spring-Associate---Alternative-Investments-Due-Diligence---St-Petersburg--FL_R-0013783) · posted Nov 10
+- [2027 Spring Associate – Alternative Investments Due Diligence – St. Petersburg, FL](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Spring-Associate---Alternative-Investments-Due-Diligence---St-Petersburg--FL_R-0013783) · posted Nov 9
 
 ## Regions Bank
-- [2027 CBG ETP Analyst - Commercial Banking Development Program Analyst, Mobile, AL](https://regions.wd5.myworkdayjobs.com/en-US/Regions_Careers/job/Mobile-AL---RSA-Tower/XMLNAME-2027-CBG-ETP-Analyst---Commercial-Banking-Development-Program-Analyst--Mobile--AL_R104671) · posted Nov 11
+- [2027 CBG ETP Analyst - Commercial Banking Development Program Analyst, Mobile, AL](https://regions.wd5.myworkdayjobs.com/en-US/Regions_Careers/job/Mobile-AL---RSA-Tower/XMLNAME-2027-CBG-ETP-Analyst---Commercial-Banking-Development-Program-Analyst--Mobile--AL_R104671) · posted Nov 10
 
 ## RSM US
-- [Complex Financial Instruments Consulting Associate - Fall 2027](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/McLean/Complex-Financial-Instruments-Consulting-Associate---Fall-2027_JR117202) · posted Nov 6
+- [Complex Financial Instruments Consulting Associate - Fall 2027](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/McLean/Complex-Financial-Instruments-Consulting-Associate---Fall-2027_JR117202) · posted Nov 5
 
 ## Scotiabank
 - [Customer Care Advisor (Client Experience Centre) Halifax NS - January 2027](https://jobs.scotiabank.com/job/Halifax-Customer-Care-Advisor-%28Client-Experience-Centre%29-Halifax-NS-January-2027-NS/607789417/) · first seen Nov 10
@@ -203,7 +201,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Machine Learning Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/10788/machine-learning-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 10
 
 ## T. Rowe Price
-- [Associate Sales Consultant (December 2026 & Spring 2027 Graduates)](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Sales-Consultant--December-2026---Spring-2027-Graduates-_84293) · posted Nov 3
+- [Associate Sales Consultant (December 2026 & Spring 2027 Graduates)](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Sales-Consultant--December-2026---Spring-2027-Graduates-_84293) · posted Nov 2
 
 ## The Brattle Group
 - [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) · posted Nov 6
@@ -215,7 +213,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 52 firms the watcher can't read
+## Check these yourself: 53 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -255,6 +253,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
+- **Oxford Properties Group** · [careers site](https://www.oxfordproperties.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
