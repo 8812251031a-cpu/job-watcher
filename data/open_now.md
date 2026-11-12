@@ -1,4 +1,4 @@
-# Open right now: 122 postings at 47 firms
+# Open right now: 123 postings at 48 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -39,6 +39,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Private Equity Analyst | Real Assets and Sustainability](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aebad3d9-4fa5-4393-8afb-3a6af61641d2&jobId=9201316633960_1) · posted Nov 4
 
 ## Citi
+- [Client Institutional Credit Management/Credit Underwriting, Full-Time Analyst, New York, NY - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client-Institutional-Credit-Management-Credit-Underwriting--Full-Time-Analyst--New-York--NY---USA-2027_261007269) · posted Nov 12
 - [Services, Full-Time Analyst, Argentina– Capital Federal, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Capital-Federal--Argentina/Services--Full-Time-Analyst--Argentina--Capital-Federal--2027_261007721) · posted Nov 9
 - [Technology - Application Development, Full Time Analyst, Bahrain - Seef 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seef--Bahrain/Technology---Application-Development--Full-Time-Analyst--Bahrain---Seef-2027_261005223) · posted Nov 9
 - [Market Operations Junior Analyst Program Hybrid](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Market-Operations-Junior-Analyst-Program-Hybrid_26991391-1) · posted Nov 3
@@ -75,6 +76,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## Graham Partners
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
+
+## Greenhill
+- [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
 
 ## Guidehouse
 - [Consulting Analyst - State & Local Government - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Consulting-Analyst---State---Local-Government---Campus-2027_43498) · posted Nov 6
@@ -154,6 +158,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Maven Securities
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
 
+## Mizuho
+- [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
+
 ## Moelis & Co
 - [2027 Analyst, Investment Banking - Private Capital Advisory, Primary Fundraising - New York City](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/467-2027-Analyst-Investment-Banking-Private-Capital-Advisory-Primary-Fundraising-New-York-City/en-GB) · first seen Nov 8
 - [2027 Analyst, Investment Banking – Hong Kong](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/493-2027-Analyst-Investment-Banking-Hong-Kong/en-GB) · first seen Nov 8
@@ -166,7 +173,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Mechanical Engineering Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Cape-Town---Towers/Mechanical-Engineering-Graduate---2027-Marsh-Graduate-Programme_R_371812) · posted Nov 11
 - [Marsh People and Investments Workforce and Rewards Consulting Analyst- Philadelphia/ Washington DC- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Workforce-and-Rewards-Consulting-Analyst--Philadelphia--Washington-DC--College-Program-2027_R_365161) · posted Nov 11
 - [Marsh People and Investments Health and Benefits Analyst- Philadelphia- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Marsh-People-and-Investments-Health-and-Benefits-Analyst--Philadelphia--College-Program-2027_R_344603-1) · posted Nov 10
-- [Risk Analyst - College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/New-York---1166/Risk-Analyst---College-Program-2027_R_368562-2) · posted Nov 10
 
 ## PJT Partners
 - [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
@@ -175,9 +181,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Protiviti
 - [Americas Delivery Center Analyst - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Analyst---2027_JR-261879-2) · posted Nov 4
 - [Phoenix Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-257986) · posted Oct 29
-
-## Raymond James
-- [2027 Spring Associate – Alternative Investments Due Diligence – St. Petersburg, FL](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Spring-Associate---Alternative-Investments-Due-Diligence---St-Petersburg--FL_R-0013783) · posted Nov 9
 
 ## Regions Bank
 - [2027 CBG ETP Analyst - Commercial Banking Development Program Analyst, Mobile, AL](https://regions.wd5.myworkdayjobs.com/en-US/Regions_Careers/job/Mobile-AL---RSA-Tower/XMLNAME-2027-CBG-ETP-Analyst---Commercial-Banking-Development-Program-Analyst--Mobile--AL_R104671) · posted Nov 10
@@ -218,7 +221,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 52 firms the watcher can't read
+## Check these yourself: 53 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -258,6 +261,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
+- **Oxford Properties Group** · [careers site](https://www.oxfordproperties.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
