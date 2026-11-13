@@ -1,4 +1,4 @@
-# Open right now: 122 postings at 48 firms
+# Open right now: 120 postings at 48 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -78,7 +78,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
 
 ## Greenhill
-- [2027 Portfolio Management](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Portfolio-Management_R7551) · posted Nov 13
 - [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
 
 ## Guidehouse
@@ -163,7 +162,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
 
 ## Mizuho
-- [2027 Portfolio Management](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Portfolio-Management_R7551) · posted Nov 13
 - [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
 
 ## Moelis & Co
@@ -220,7 +218,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 53 firms the watcher can't read
+## Check these yourself: 52 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -237,7 +235,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · job system refused the request
-- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
