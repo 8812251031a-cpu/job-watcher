@@ -1,4 +1,4 @@
-# Open right now: 120 postings at 48 firms
+# Open right now: 121 postings at 49 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -9,6 +9,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Customer Service Professional – US Market | Hybrid Mexico City | February 2027](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016490) · posted Nov 12
 - [Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254) · posted Nov 3
 - [Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255) · posted Nov 3
+
+## Baker Tilly
+- [Fall 2027 Audit Associate - New England](https://bakertilly.wd5.myworkdayjobs.com/en-US/BTCareers/job/USA-MA-Tewksbury/Fall-2027-Audit-Associate---New-England_JR108967) · posted Nov 13
 
 ## Bank of America
 - [2027 Global Markets Military and Athlete Programme](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/15264-2027-Global-Markets-Military-and-Athlete-Programme/en-GB) · first seen Nov 8
@@ -218,7 +221,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 52 firms the watcher can't read
+## Check these yourself: 51 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -260,7 +263,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Provident Healthcare Partners** · [careers site](https://www.providenthp.com/careers) · job-site link is broken or moved
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Rabobank** · [careers site](https://www.rabobank.co.uk/about-us/careers) · site blocks automated checks
 - **SBF Advisors** · [careers site](https://sbfadvisors.com/careers/) · site couldn't be reached securely
