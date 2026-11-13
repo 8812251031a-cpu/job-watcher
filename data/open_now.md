@@ -1,4 +1,4 @@
-# Open right now: 126 postings at 51 firms
+# Open right now: 127 postings at 51 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -200,6 +200,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Complex Financial Instruments Consulting Associate - Fall 2027](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/McLean/Complex-Financial-Instruments-Consulting-Associate---Fall-2027_JR117202) · posted Nov 5
 
 ## SouthState Bank
+- [Commercial Banking Associate: July 2027 Cohort (Miami)](https://southstatebank.wd5.myworkdayjobs.com/en-US/External/job/Coral-Gables/Commercial-Banking-Associate--July-2027-Cohort--Miami-_R-06648) · posted Nov 13
 - [Commercial Banking Associate: January 2027 (Miami)](https://southstatebank.wd5.myworkdayjobs.com/en-US/External/job/Coral-Gables/Commercial-Banking-Associate--January-2027--Miami-_R-06647) · posted Nov 13
 
 ## StepStone Group
@@ -230,7 +231,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 51 firms the watcher can't read
+## Check these yourself: 54 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -239,6 +240,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Aldrich** · [careers site](https://aldrichadvisors.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **AlphaSights** · [careers site](https://www.alphasights.com/careers/students-and-interns/) · site blocks automated checks
 - **Alvarez & Marsal** · [careers site](https://careers.alvarezandmarsal.com/) · site blocks automated checks
+- **Apollo Global Management** · [careers site](https://www.apollo.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
 - **Bain & Company** · [careers site](https://www.bain.com/careers/work-with-us/students/) · site blocks automated checks
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
@@ -247,6 +249,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · job system refused the request
+- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
@@ -266,6 +269,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
+- **Morningstar** · [careers site](https://www.morningstar.com/company/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Northgate Advisory Group** · no link in the config · no job site in the config
