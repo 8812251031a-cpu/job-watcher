@@ -1,4 +1,4 @@
-# Open right now: 121 postings at 49 firms
+# Open right now: 122 postings at 49 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -175,6 +175,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Step In, Step Up: Empowering Women - Career Pathways Programmme](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22357-2027-Step-In-Step-Up-Empowering-Women-Career-Pathways-Programmme/en-GB) · first seen Nov 8
 
 ## Oliver Wyman
+- [Marsh People and Investments- Investment Analyst- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Boston---High-St/Marsh-People-and-Investments--Investment-Analyst--College-Program-2027_R_372875) · posted Nov 13
 - [Gqeberha/Port Elizabeth Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Port-Elizabeth---Cape/Gqeberha-Port-Elizabeth-Graduate---2027-Marsh-Graduate-Programme_R_372564) · posted Nov 12
 - [Mechanical Engineering Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Cape-Town---Towers/Mechanical-Engineering-Graduate---2027-Marsh-Graduate-Programme_R_371812) · posted Nov 11
 - [Marsh People and Investments Workforce and Rewards Consulting Analyst- Philadelphia/ Washington DC- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Workforce-and-Rewards-Consulting-Analyst--Philadelphia--Washington-DC--College-Program-2027_R_365161) · posted Nov 11
