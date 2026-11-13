@@ -249,6 +249,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Halvorsen Capital Partners** · no link in the config · no job site in the config
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Invesco** · [careers site](https://careers.invesco.com/emea/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -258,7 +259,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
-- **OMERS** · [careers site](https://www.omers.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Provident Healthcare Partners** · [careers site](https://www.providenthp.com/careers) · job-site link is broken or moved
