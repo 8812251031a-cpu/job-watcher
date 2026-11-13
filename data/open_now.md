@@ -1,4 +1,4 @@
-# Open right now: 122 postings at 49 firms
+# Open right now: 126 postings at 51 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -124,6 +124,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## KeyBank
 - [2027 Analytics and Quantitative Modeling Rotational Analyst Program- Cleveland](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1) · posted Nov 12
 
+## KPMG
+- [Fall 2027](https://www.kpmguscareers.com/job-search/) · first seen Nov 13
+
 ## L.E.K. Consulting
 - [Paris Office - Life Sciences Specialist (m/f/d) (for PhD and MD applicants only) - March 2027](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4151-Paris-Office-Life-Sciences-Specialist-m-f-d-for-PhD-and-MD-applicants-only-March-2027/en-GB) · first seen Nov 10
 - [Munich Office - Life Sciences Specialist (m/f/d) for PhD and MD applicants only - Start October 2027](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4154-Munich-Office-Life-Sciences-Specialist-m-f-d-for-PhD-and-MD-applicants-only-Start-October-2027/en-GB) · first seen Nov 10
@@ -136,6 +139,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Analyst, Investment Team](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4468904009) · posted Nov 2
 
 ## M&T Bank
+- [2027 Executive Associate Program - Chief Technology & Operations Officer Strategy Team](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Technology_R91406) · posted Nov 13
 - [2027 Technology Development Program - Cybersecurity (Encryption Services)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554) · posted Nov 12
 - [2027 Management Development Program - Internal Audit (Buffalo, NY)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Internal-Audit--Buffalo--NY-_R89201) · posted Nov 12
 - [2027 Technology Development Program - Cybersecurity (Vulnerability Risk Management)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480) · posted Nov 12
@@ -156,6 +160,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Technology Development Program - Cybersecurity (Cloud Security Operations)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Cloud-Security-Operations-_R91594) · posted Nov 4
 - [2027 Enterprise Operations Development Program- Enterprise Fraud Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Fraud-Track_R91918) · posted Nov 4
 - [2027 Community Branch Management Program - Central Pennsylvania, York East](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/York-PA/XMLNAME-2027-Community-Branch-Management-Program---Central-Pennsylvania--York-East_R91851) · posted Nov 4
+- [2027 Technology Development Program - Cloud Storage & Data Protection Engineer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cloud-Storage---Data-Protection-Engineer_R91745) · posted Nov 4
 - [2027 Enterprise Operations Development Program- Enterprise Operations Enablement Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Operations-Enablement-Track_R91911) · posted Nov 4
 - [2027 Enterprise Operations Development Program- The Contact Center Analysis Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--The-Contact-Center-Analysis-Track_R91914) · posted Nov 4
 - [2027 Community Branch Management Program - Central Pennsylvania, North Central](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Selinsgrove-PA/XMLNAME-2027-Community-Branch-Management-Program---Central-Pennsylvania--North-Central_R91852) · posted Nov 4
@@ -193,6 +198,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## RSM US
 - [Complex Financial Instruments Consulting Associate - Fall 2027](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/McLean/Complex-Financial-Instruments-Consulting-Associate---Fall-2027_JR117202) · posted Nov 5
+
+## SouthState Bank
+- [Commercial Banking Associate: January 2027 (Miami)](https://southstatebank.wd5.myworkdayjobs.com/en-US/External/job/Coral-Gables/Commercial-Banking-Associate--January-2027--Miami-_R-06647) · posted Nov 13
 
 ## StepStone Group
 - [2026-2027 Data Monitoring Junior Analyst](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8346536) · posted Nov 2
