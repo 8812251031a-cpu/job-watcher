@@ -42,9 +42,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## CF Private Equity
 - [2027 Private Equity Analyst | Real Assets and Sustainability](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=aebad3d9-4fa5-4393-8afb-3a6af61641d2&jobId=9201316633960_1) · posted Nov 4
 
-## CohnReznick
-- [Tax Associate - San Diego, CA - Class of 2027](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10226-Tax-Associate-San-Diego-CA-Class-of-2027/en-GB) · first seen Nov 12
-
 ## Deutsche Bank
 - [Deutsche Bank Graduate Program - Investment Bank & Capital Markets: Investment Bank Coverage - New York 2027](https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng) · first seen Nov 8
 - [Complete your studies between 1st January 2026 and 31st July 2027.](https://careers.db.com/students-graduates/) · first seen Nov 8
@@ -131,6 +128,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Morgan Stanley
 - [2027 Step In, Step Up: Empowering Women - Career Pathways Programmme](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22357-2027-Step-In-Step-Up-Empowering-Women-Career-Pathways-Programmme/en-GB) · first seen Nov 8
 
+## NERA
+- [Government Health Consulting Financial Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_362064) · posted Nov 13
+
 ## Oliver Wyman
 - [Government Health Consulting Financial Analyst - College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Financial-Analyst---College-Program-2027_R_362064) · posted Nov 13
 - [Marsh People and Investments- Investment Analyst- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Boston---High-St/Marsh-People-and-Investments--Investment-Analyst--College-Program-2027_R_372875) · posted Nov 13
@@ -177,7 +177,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 73 firms the watcher can't read
+## Check these yourself: 76 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -199,14 +199,15 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · job system refused the request
-- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
 - **Citi** · [careers site](https://careers.citigroup.com/students-and-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
+- **CNO Financial Group** · [careers site](https://careers.cnoinc.com/career-areas) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Columbia Threadneedle Investments** · [careers site](https://www.columbiathreadneedle.co.uk/en/intm/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
+- **Ensis Partners** · [careers site](https://ensispartners.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Enterprise Mobility** · [careers site](https://www.enterprisemobility.com/en/careers.html) · site blocks automated checks
 - **EY** · [careers site](https://www.ey.com/en_uk/careers/students/programmes) · job-site link is broken or moved
 - **Fifth Third Bank** · [careers site](https://www.53.com/content/fifth-third/en/careers/early-careers.html) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -222,6 +223,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **KeyBank** · [careers site](https://www.key.com/about/careers/students-graduates.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Leerink Partners** · [careers site](https://www.leerink.com/firm/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **M&T Bank** · [careers site](https://www.mtb.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
@@ -230,6 +232,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Northgate Advisory Group** · no link in the config · no job site in the config
+- **Northwestern Mutual** · [careers site](https://careers.northwesternmutual.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
