@@ -1,4 +1,4 @@
-# Open right now: 120 postings at 48 firms
+# Open right now: 122 postings at 48 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -78,9 +78,11 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
 
 ## Greenhill
+- [2027 Portfolio Management](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Portfolio-Management_R7551) · posted Nov 13
 - [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
 
 ## Guidehouse
+- [Consultant - Revenue Cycle, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---IL-Chicago/Consultant---Revenue-Cycle--Provider-Advisory---Campus-2027_46645) · posted Nov 13
 - [Consulting Analyst - State & Local Government - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Consulting-Analyst---State---Local-Government---Campus-2027_43498) · posted Nov 6
 - [Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423) · posted Nov 6
 
@@ -161,6 +163,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
 
 ## Mizuho
+- [2027 Portfolio Management](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Portfolio-Management_R7551) · posted Nov 13
 - [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
 
 ## Moelis & Co
@@ -196,7 +199,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Associate Linux/Windows Engineer - New Grad](https://careers-sig.icims.com/jobs/9408/associate-linux-windows-engineer----new-grad/job?in_iframe=1) · first seen Nov 10
 - [Associate Network Engineer - New Grad](https://careers-sig.icims.com/jobs/8137/associate-network-engineer---new-grad/job?in_iframe=1) · first seen Nov 10
 - [Compliance Analyst - Operations Analyst Program: August 2027 Start](https://careers-sig.icims.com/jobs/11693/compliance-analyst---operations-analyst-program%3a-august-2027-start/job?in_iframe=1) · first seen Nov 10
-- [End User Services University Co - Op Placement 2027](https://careers-sig.icims.com/jobs/11707/end-user-services-university-co---op-placement-2027/job?in_iframe=1) · first seen Nov 10
 - [Hong Kong PhD Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11495/hong-kong-phd-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 10
 - [Hong Kong + Singapore Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11453/hong-kong-%2b-singapore-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 10
 - [Machine Learning Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/10787/machine-learning-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 10
@@ -218,7 +220,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 52 firms the watcher can't read
+## Check these yourself: 53 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -235,6 +237,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · job system refused the request
+- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
