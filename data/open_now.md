@@ -218,7 +218,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 53 firms the watcher can't read
+## Check these yourself: 52 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -249,7 +249,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Halvorsen Capital Partners** · no link in the config · no job site in the config
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Invesco** · [careers site](https://careers.invesco.com/emea/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
