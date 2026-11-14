@@ -136,7 +136,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 112 firms the watcher can't read
+## Check these yourself: 111 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -166,7 +166,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
