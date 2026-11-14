@@ -213,6 +213,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Oaktree Capital Management** · [careers site](https://www.oaktreecapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Oliver Wyman** · [careers site](https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Oxford Properties Group** · [careers site](https://www.oxfordproperties.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PEAK6** · [careers site](https://www.peak6.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -246,7 +247,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
 - **U.S. Bank** · [careers site](https://careers.usbank.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **UBS** · [careers site](https://www.ubs.com/global/en/careers/university-students.html) · site blocks automated checks
 - **Uline** · [careers site](https://www.uline.jobs/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Wesleyan University** · [careers site](https://www.wesleyan.edu/about/careers.html) · no postings found (the page may load jobs in a way the watcher can't read)
