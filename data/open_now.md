@@ -136,7 +136,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 114 firms the watcher can't read
+## Check these yourself: 113 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -174,7 +174,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
 - **CNO Financial Group** · [careers site](https://careers.cnoinc.com/career-areas) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Columbia Threadneedle Investments** · [careers site](https://www.columbiathreadneedle.co.uk/en/intm/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **D.A. Davidson** · [careers site](https://www.dadavidson.com/Careers) · site timed out
 - **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
 - **Enterprise Mobility** · [careers site](https://www.enterprisemobility.com/en/careers.html) · site blocks automated checks
