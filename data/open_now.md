@@ -1,4 +1,4 @@
-# Open right now: 125 postings at 50 firms
+# Open right now: 124 postings at 49 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -172,9 +172,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Morgan Stanley
 - [2027 Step In, Step Up: Empowering Women - Career Pathways Programmme](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22357-2027-Step-In-Step-Up-Empowering-Women-Career-Pathways-Programmme/en-GB) · first seen Nov 8
 
-## NERA
-- [Government Health Consulting Financial Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_362064) · posted Nov 13
-
 ## Oliver Wyman
 - [Marsh People and Investments- Investment Analyst- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Boston---High-St/Marsh-People-and-Investments--Investment-Analyst--College-Program-2027_R_372875) · posted Nov 13
 - [Gqeberha/Port Elizabeth Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Port-Elizabeth---Cape/Gqeberha-Port-Elizabeth-Graduate---2027-Marsh-Graduate-Programme_R_372564) · posted Nov 12
@@ -227,7 +224,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 54 firms the watcher can't read
+## Check these yourself: 53 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -248,7 +245,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
-- **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
+- **Ensis Partners** · [careers site](https://ensispartners.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Enterprise Mobility** · [careers site](https://www.enterprisemobility.com/en/careers.html) · site blocks automated checks
 - **EY** · [careers site](https://www.ey.com/en_uk/careers/students/programmes) · job-site link is broken or moved
 - **FMI Capital Advisors** · [careers site](https://fmicorp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -281,7 +278,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Tessaro Quant Research** · no link in the config · no job site in the config
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
 - **Tidal Partners** · [careers site](https://www.tidalpartners.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Truist** · [careers site](https://careers.truist.com/us/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
 - **Wipfli** · [careers site](https://careers.wipfli.com/) · no postings found (the page may load jobs in a way the watcher can't read)
