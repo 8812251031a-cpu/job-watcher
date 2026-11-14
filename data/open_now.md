@@ -1,4 +1,4 @@
-# Open right now: 70 postings at 32 firms
+# Open right now: 71 postings at 33 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -126,6 +126,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Machine Learning Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/10787/machine-learning-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 10
 - [Machine Learning Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/10788/machine-learning-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 10
 
+## T. Rowe Price
+- [Associate Sales Consultant (December 2026 & Spring 2027 Graduates)](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Sales-Consultant--December-2026---Spring-2027-Graduates-_84293) · posted Nov 2
+
 ## The Brattle Group
 - [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) · posted Nov 6
 
@@ -136,7 +139,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 113 firms the watcher can't read
+## Check these yourself: 104 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -149,7 +152,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Apollo Global Management** · [careers site](https://www.apollo.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Ares Management** · [careers site](https://www.ares.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
-- **Arrowstreet Capital** · [careers site](https://www.arrowstreetcapital.com/student-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Bain & Company** · [careers site](https://www.bain.com/careers/work-with-us/students/) · site blocks automated checks
 - **Bain Capital** · [careers site](https://www.baincapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Baird** · [careers site](https://bairdcareers.com/campus/) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -172,9 +174,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
 - **Citi** · [careers site](https://careers.citigroup.com/students-and-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
-- **CNO Financial Group** · [careers site](https://careers.cnoinc.com/career-areas) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Columbia Threadneedle Investments** · [careers site](https://www.columbiathreadneedle.co.uk/en/intm/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
 - **Enterprise Mobility** · [careers site](https://www.enterprisemobility.com/en/careers.html) · site blocks automated checks
 - **EY** · [careers site](https://www.ey.com/en_uk/careers/students/programmes) · job-site link is broken or moved
@@ -186,11 +186,9 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Greenhill** · [careers site](https://greenhill.freshminds.co.uk/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Greystar** · [careers site](https://jobs.greystar.com/early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **GTCR** · [careers site](https://www.gtcr.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Guggenheim Partners** · [careers site](https://www.guggenheimpartners.com/firm/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Guidehouse** · [careers site](https://guidehouse.com/careers/students) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Halvorsen Capital Partners** · no link in the config · no job site in the config
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
-- **HarbourVest** · [careers site](https://www.harbourvest.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Harris Williams** · [careers site](https://www.harriswilliams.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Houlihan Lokey** · [careers site](https://hl.com/about-us/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Huron** · [careers site](https://www.huronconsultinggroup.com/en/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -198,7 +196,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Invesco** · [careers site](https://careers.invesco.com/emea/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **JLL** · [careers site](https://www.jll.com/en-uk/careers/early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **KeyBank** · [careers site](https://www.key.com/about/careers/students-graduates.html) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Leerink Partners** · [careers site](https://www.leerink.com/firm/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M&T Bank** · [careers site](https://www.mtb.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
@@ -206,7 +203,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
 - **Mizuho** · [careers site](https://www.mizuhogroup.com/emea/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Morningstar** · [careers site](https://www.morningstar.com/company/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Nationwide Mutual Insurance Company** · [careers site](https://www.nationwide.com/personal/about-us/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
@@ -215,6 +211,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Oaktree Capital Management** · [careers site](https://www.oaktreecapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Oliver Wyman** · [careers site](https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Oxford Properties Group** · [careers site](https://www.oxfordproperties.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PEAK6** · [careers site](https://www.peak6.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -237,8 +234,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **SouthState Bank** · [careers site](https://careers.southstatebank.com/us/en/home) · no postings found (the page may load jobs in a way the watcher can't read)
 - **State Street** · [careers site](https://careers.statestreet.com/global/en/state-street-early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Stout** · [careers site](https://www.stout.com/en/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **T. Rowe Price** · [careers site](https://www.troweprice.com/en/us/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Temasek** · [careers site](https://www.temasek.com.sg/en/about-us/careers) · site blocks automated checks
 - **Tessaro Quant Research** · no link in the config · no job site in the config
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
@@ -251,5 +246,4 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Uline** · [careers site](https://www.uline.jobs/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Wells Fargo** · [careers site](https://www.wellsfargojobs.com/en/university-programs/undergraduate-programs/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Wesleyan University** · [careers site](https://www.wesleyan.edu/about/careers.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Wipfli** · [careers site](https://careers.wipfli.com/) · no postings found (the page may load jobs in a way the watcher can't read)
