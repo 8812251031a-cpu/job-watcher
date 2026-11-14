@@ -1,4 +1,4 @@
-# Open right now: 68 postings at 30 firms
+# Open right now: 70 postings at 32 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -87,6 +87,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## K1 Investment Management
 - [Analyst, Diligence (Fall 2027)](https://k1.com/careers/) · first seen Nov 8
 
+## KPMG
+- [Fall 2027](https://www.kpmguscareers.com/job-search/) · first seen Nov 13
+
 ## L.E.K. Consulting
 - [Paris Office - Life Sciences Specialist (m/f/d) (for PhD and MD applicants only) - March 2027](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4151-Paris-Office-Life-Sciences-Specialist-m-f-d-for-PhD-and-MD-applicants-only-March-2027/en-GB) · first seen Nov 10
 - [Munich Office - Life Sciences Specialist (m/f/d) for PhD and MD applicants only - Start October 2027](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/candidate/so/pm/1/pl/1/opp/4154-Munich-Office-Life-Sciences-Specialist-m-f-d-for-PhD-and-MD-applicants-only-Start-October-2027/en-GB) · first seen Nov 10
@@ -130,7 +133,10 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 Private Equity Associate, Austin](https://careers3-vistaequitypartners.icims.com/jobs/3042/2027-private-equity-associate%2c-austin/job?in_iframe=1) · first seen Nov 10
 - [2027 Private Equity Associate, Chicago](https://careers3-vistaequitypartners.icims.com/jobs/3041/2027-private-equity-associate%2c-chicago/job?in_iframe=1) · first seen Nov 10
 
-## Check these yourself: 116 firms the watcher can't read
+## Voloridge Investment Management
+- [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
+
+## Check these yourself: 113 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -161,7 +167,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · job system refused the request
-- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
@@ -170,7 +175,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **CNO Financial Group** · [careers site](https://careers.cnoinc.com/career-areas) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Columbia Threadneedle Investments** · [careers site](https://www.columbiathreadneedle.co.uk/en/intm/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Ensis Partners** · [careers site](https://ensispartners.com/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
 - **Enterprise Mobility** · [careers site](https://www.enterprisemobility.com/en/careers.html) · site blocks automated checks
 - **EY** · [careers site](https://www.ey.com/en_uk/careers/students/programmes) · job-site link is broken or moved
 - **Fidelity Investments** · [careers site](https://jobs.fidelity.com/en/) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -205,7 +210,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Nationwide Mutual Insurance Company** · [careers site](https://www.nationwide.com/personal/about-us/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
-- **Northborne Partners** · [careers site](https://northborne.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Northwestern Mutual** · [careers site](https://careers.northwesternmutual.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
@@ -245,7 +249,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
 - **U.S. Bank** · [careers site](https://careers.usbank.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Uline** · [careers site](https://www.uline.jobs/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **University Partners** · [careers site](https://www.universitypartners.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Wells Fargo** · [careers site](https://www.wellsfargojobs.com/en/university-programs/undergraduate-programs/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Wesleyan University** · [careers site](https://www.wesleyan.edu/about/careers.html) · no postings found (the page may load jobs in a way the watcher can't read)
