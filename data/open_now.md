@@ -1,4 +1,4 @@
-# Open right now: 71 postings at 33 firms
+# Open right now: 108 postings at 42 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -9,6 +9,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Customer Service Professional – US Market | Hybrid Mexico City | February 2027](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016490) · posted Nov 12
 - [Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254) · posted Nov 3
 - [Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255) · posted Nov 3
+
+## Baker Tilly
+- [Fall 2027 Audit Associate - New England](https://bakertilly.wd5.myworkdayjobs.com/en-US/BTCareers/job/USA-MA-Tewksbury/Fall-2027-Audit-Associate---New-England_JR108967) · posted Nov 13
 
 ## Bank of America
 - [2027 Global Markets Military and Athlete Programme](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/15264-2027-Global-Markets-Military-and-Athlete-Programme/en-GB) · first seen Nov 8
@@ -25,6 +28,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## BlackRock
 - [Analyst Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11983-2027-Full-Time-Analyst-Program-APAC/en-GB) · first seen Nov 8
 - [Analyst Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11985-2028-Full-Time-Analyst-Program-APAC/en-GB) · first seen Nov 8
+
+## Blackstone
+- [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) · first seen Nov 9
 
 ## bp
 - [Azerbaijan Discovery Week 2027](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/Azerbaijan---Baku/Azerbaijan-Discovery-Week-2027_RQ118009) · posted Nov 6
@@ -61,6 +67,14 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Graham Partners
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
 
+## Greenhill
+- [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
+
+## Guidehouse
+- [Consultant - Revenue Cycle, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---IL-Chicago/Consultant---Revenue-Cycle--Provider-Advisory---Campus-2027_46645) · posted Nov 13
+- [Consulting Analyst - State & Local Government - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Consulting-Analyst---State---Local-Government---Campus-2027_43498) · posted Nov 6
+- [Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423) · posted Nov 6
+
 ## J.P. Morgan
 - [2027 Human Resources Analyst Development Program - Full-Time Analyst (New York Metro)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807293) · posted Nov 9
 - [2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Delaware](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805977) · posted Nov 9
@@ -87,6 +101,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## K1 Investment Management
 - [Analyst, Diligence (Fall 2027)](https://k1.com/careers/) · first seen Nov 8
 
+## KeyBank
+- [2027 Analytics and Quantitative Modeling Rotational Analyst Program- Cleveland](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1) · posted Nov 12
+
 ## KPMG
 - [Fall 2027](https://www.kpmguscareers.com/job-search/) · first seen Nov 13
 
@@ -101,8 +118,38 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## LLR Partners
 - [2027 Analyst, Investment Team](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4468904009) · posted Nov 2
 
+## M&T Bank
+- [2027 Executive Associate Program - Chief Technology & Operations Officer Strategy Team](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Technology_R91406) · posted Nov 13
+- [2027 Technology Development Program - Cybersecurity (Encryption Services)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554) · posted Nov 12
+- [2027 Management Development Program - Internal Audit (Buffalo, NY)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Internal-Audit--Buffalo--NY-_R89201) · posted Nov 12
+- [2027 Technology Development Program - Cybersecurity (Vulnerability Risk Management)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480) · posted Nov 12
+- [2027 Executive Associate Program - Human Resouces](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Human-Resouces_R92086) · posted Nov 10
+- [2027 Executive Associate Program - Enterprise Operations](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Enterprise-Operations_R92094) · posted Nov 10
+- [2027 Executive Associate Program - Office of the Customer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Wilmington-DE/XMLNAME-2027-Executive-Associate-Program---Office-of-the-Customer_R92092) · posted Nov 10
+- [2027 Community Branch Management Program - Buffalo West (Delaware Sheridan)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Kenmore-NY/XMLNAME-2027-Community-Branch-Management-Program---Buffalo-West--Delaware-Sheridan-_R91959) · posted Nov 10
+- [2027 Community Branch Management Program - Western New York, Buffalo North](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Williamsville-NY/XMLNAME-2027-Community-Branch-Management-Program---Western-New-York--Buffalo-North_R91853) · posted Nov 10
+- [2027 Community Branch Management Program - Western New York, East Rochester](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Fairport-NY/XMLNAME-2027-Community-Branch-Management-Program---Western-New-York--East-Rochester_R91850) · posted Nov 10
+- [2027 Technology Development Program - Cybersecurity (Insider Threat)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500) · posted Nov 9
+- [2027 Community Branch Management Program - Philadelphia Metro](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Philadelphia-PA/XMLNAME-2027-Community-Branch-Management-Program---Philadelphia-Metro_R91960) · posted Nov 9
+- [2027 Community Branch Management Program - Jersey City, NJ](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Jersey-City-NJ/XMLNAME-2027-Community-Branch-Management-Program---Jersey-City--NJ_R91961) · posted Nov 9
+- [2027 Community Branch Management Program - New Jersey South](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Marlboro-NJ/XMLNAME-2027-Community-Branch-Management-Program---New-Jersey-South_R91962) · posted Nov 9
+- [2027 Management Development Program - Wealth Management, US Markets (Falls Church, VA)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Falls-Church-VA/XMLNAME-2027-Management-Development-Program---Wealth-Management--US-Markets--Falls-Church--VA-_R89071) · posted Nov 9
+- [2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) · posted Nov 8
+- [2027 Technology Development Program - Software Engineering (Data & API Engineering)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036) · posted Nov 8
+- [2027 Technology Development Program - Operating Systems Engineer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Operating-Systems-Engineer_R91770) · posted Nov 4
+- [2027 Technology Development Program - Cybersecurity (Cloud Security Operations)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Cloud-Security-Operations-_R91594) · posted Nov 4
+- [2027 Enterprise Operations Development Program- Enterprise Fraud Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Fraud-Track_R91918) · posted Nov 4
+- [2027 Community Branch Management Program - Central Pennsylvania, York East](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/York-PA/XMLNAME-2027-Community-Branch-Management-Program---Central-Pennsylvania--York-East_R91851) · posted Nov 4
+- [2027 Enterprise Operations Development Program- Enterprise Operations Enablement Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Enterprise-Operations-Enablement-Track_R91911) · posted Nov 4
+- [2027 Enterprise Operations Development Program- The Contact Center Analysis Track](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--The-Contact-Center-Analysis-Track_R91914) · posted Nov 4
+- [2027 Community Branch Management Program - Central Pennsylvania, North Central](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Selinsgrove-PA/XMLNAME-2027-Community-Branch-Management-Program---Central-Pennsylvania--North-Central_R91852) · posted Nov 4
+- [2027 Technology Development Program - Software Engineering (Data Engineering)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data-Engineering-_R91882) · posted Nov 3
+
 ## Maven Securities
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
+
+## Mizuho
+- [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
 
 ## Moelis & Co
 - [2027 Analyst, Investment Banking - Private Capital Advisory, Primary Fundraising - New York City](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/467-2027-Analyst-Investment-Banking-Private-Capital-Advisory-Primary-Fundraising-New-York-City/en-GB) · first seen Nov 8
@@ -113,6 +160,14 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## NERA
 - [Government Health Consulting Financial Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_362064) · posted Nov 13
+
+## PJT Partners
+- [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
+- [2027 Full Time Analyst - PJT Camberview (Governance - San Francisco)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/San-Francisco/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Governance---San-Francisco-_R0003478) · first seen Nov 8
+
+## SouthState Bank
+- [Commercial Banking Associate: July 2027 Cohort (Miami)](https://southstatebank.wd5.myworkdayjobs.com/en-US/External/job/Coral-Gables/Commercial-Banking-Associate--July-2027-Cohort--Miami-_R-06648) · posted Nov 13
+- [Commercial Banking Associate: January 2027 (Miami)](https://southstatebank.wd5.myworkdayjobs.com/en-US/External/job/Coral-Gables/Commercial-Banking-Associate--January-2027--Miami-_R-06647) · posted Nov 13
 
 ## StepStone Group
 - [2026-2027 Data Monitoring Junior Analyst](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8346536) · posted Nov 2
@@ -139,7 +194,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 104 firms the watcher can't read
+## Check these yourself: 86 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -149,18 +204,10 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **AllianceBernstein** · [careers site](https://www.alliancebernstein.com/corporate/en/careers/students.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **AlphaSights** · [careers site](https://www.alphasights.com/careers/students-and-interns/) · site blocks automated checks
 - **Alvarez & Marsal** · [careers site](https://careers.alvarezandmarsal.com/) · site blocks automated checks
-- **Apollo Global Management** · [careers site](https://www.apollo.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Ares Management** · [careers site](https://www.ares.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
 - **Bain & Company** · [careers site](https://www.bain.com/careers/work-with-us/students/) · site blocks automated checks
-- **Bain Capital** · [careers site](https://www.baincapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Baird** · [careers site](https://bairdcareers.com/campus/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Baker Tilly** · [careers site](https://bakertilly.wd5.myworkdayjobs.com/BTCareers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Barings** · [careers site](https://www.barings.com/en-gb/guest/about/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Berkeley Research Group** · [careers site](https://www.thinkbrg.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Blackstone** · [careers site](https://www.blackstone.com/careers/students/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Blue Owl Capital** · [careers site](https://www.blueowl.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **BRG** · [careers site](https://www.thinkbrg.com/careers/global-careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Brio Real Estate** · [careers site](https://www.briore.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
 - **Caldwell Bray Securities** · no link in the config · no job site in the config
@@ -183,10 +230,8 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **FMI Capital Advisors** · [careers site](https://fmicorp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Geffen Mesher** · [careers site](https://gmco.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Global Atlantic** · [careers site](https://www.globalatlantic.com/careers) · job-site link is broken or moved
-- **Greenhill** · [careers site](https://greenhill.freshminds.co.uk/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Greystar** · [careers site](https://jobs.greystar.com/early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **GTCR** · [careers site](https://www.gtcr.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Guidehouse** · [careers site](https://guidehouse.com/careers/students) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Halvorsen Capital Partners** · no link in the config · no job site in the config
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
 - **Harris Williams** · [careers site](https://www.harriswilliams.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -195,29 +240,23 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Invesco** · [careers site](https://careers.invesco.com/emea/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **JLL** · [careers site](https://www.jll.com/en-uk/careers/early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **KeyBank** · [careers site](https://www.key.com/about/careers/students-graduates.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **M&T Bank** · [careers site](https://www.mtb.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
-- **Mizuho** · [careers site](https://www.mizuhogroup.com/emea/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Nationwide Mutual Insurance Company** · [careers site](https://www.nationwide.com/personal/about-us/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Northgate Advisory Group** · no link in the config · no job site in the config
-- **Northwestern Mutual** · [careers site](https://careers.northwesternmutual.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Oaktree Capital Management** · [careers site](https://www.oaktreecapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Oliver Wyman** · [careers site](https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Oxford Properties Group** · [careers site](https://www.oxfordproperties.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PEAK6** · [careers site](https://www.peak6.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PGIM** · [careers site](https://www.pgim.com/gb/en/institutional/about/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PIMCO** · [careers site](https://www.pimco.co.uk/en-gb/our-firm/careers/students) · no postings found (the page may load jobs in a way the watcher can't read)
-- **PJT Partners** · [careers site](https://pjtpartners.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PMCF Investment Banking** · [careers site](https://pmcf.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PNC** · [careers site](https://careers.pnc.com/global/en/students) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Protiviti** · [careers site](https://www.protiviti.com/uk-en/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -230,9 +269,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Sculptor Capital Management** · [careers site](https://www.sculptor.com/careers/internships) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Sensiba** · [careers site](https://sensiba.com/careers/student-opportunities) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Sixth Street** · [careers site](https://sixthstreet.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **SOLIC Capital Advisors** · [careers site](https://www.soliccapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **SouthState Bank** · [careers site](https://careers.southstatebank.com/us/en/home) · no postings found (the page may load jobs in a way the watcher can't read)
 - **State Street** · [careers site](https://careers.statestreet.com/global/en/state-street-early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Temasek** · [careers site](https://www.temasek.com.sg/en/about-us/careers) · site blocks automated checks
 - **Tessaro Quant Research** · no link in the config · no job site in the config
