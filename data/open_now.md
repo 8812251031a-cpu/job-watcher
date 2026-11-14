@@ -1,4 +1,4 @@
-# Open right now: 88 postings at 42 firms
+# Open right now: 70 postings at 32 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -25,9 +25,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## BlackRock
 - [Analyst Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11983-2027-Full-Time-Analyst-Program-APAC/en-GB) · first seen Nov 8
 - [Analyst Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11985-2028-Full-Time-Analyst-Program-APAC/en-GB) · first seen Nov 8
-
-## Blackstone
-- [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) · first seen Nov 9
 
 ## bp
 - [Azerbaijan Discovery Week 2027](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/Azerbaijan---Baku/Azerbaijan-Discovery-Week-2027_RQ118009) · posted Nov 7
@@ -63,14 +60,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## Graham Partners
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
-
-## Greenhill
-- [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 13
-
-## Guidehouse
-- [Consultant - Revenue Cycle, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---IL-Chicago/Consultant---Revenue-Cycle--Provider-Advisory---Campus-2027_46645) · posted Nov 14
-- [Consulting Analyst - State & Local Government - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Consulting-Analyst---State---Local-Government---Campus-2027_43498) · posted Nov 7
-- [Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423) · posted Nov 7
 
 ## J.P. Morgan
 - [2027 Human Resources Analyst Development Program - Full-Time Analyst (New York Metro)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807293) · posted Nov 9
@@ -115,9 +104,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Maven Securities
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
 
-## Mizuho
-- [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 13
-
 ## Moelis & Co
 - [2027 Analyst, Investment Banking - Private Capital Advisory, Primary Fundraising - New York City](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/467-2027-Analyst-Investment-Banking-Private-Capital-Advisory-Primary-Fundraising-New-York-City/en-GB) · first seen Nov 8
 - [2027 Analyst, Investment Banking – Hong Kong](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/493-2027-Analyst-Investment-Banking-Hong-Kong/en-GB) · first seen Nov 8
@@ -127,27 +113,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## NERA
 - [Government Health Consulting Financial Analyst - College Program 2027](https://careers.marsh.com/global/en/job/R_362064) · posted Nov 13
-
-## Oliver Wyman
-- [Government Health Consulting Financial Analyst - College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Financial-Analyst---College-Program-2027_R_362064) · posted Nov 14
-- [Marsh People and Investments- Investment Analyst- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Boston---High-St/Marsh-People-and-Investments--Investment-Analyst--College-Program-2027_R_372875) · posted Nov 14
-- [Gqeberha/Port Elizabeth Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Port-Elizabeth---Cape/Gqeberha-Port-Elizabeth-Graduate---2027-Marsh-Graduate-Programme_R_372564) · posted Nov 13
-- [Mechanical Engineering Graduate - 2027 Marsh Graduate Programme](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Cape-Town---Towers/Mechanical-Engineering-Graduate---2027-Marsh-Graduate-Programme_R_371812) · posted Nov 12
-- [Marsh People and Investments Workforce and Rewards Consulting Analyst- Philadelphia/ Washington DC- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Workforce-and-Rewards-Consulting-Analyst--Philadelphia--Washington-DC--College-Program-2027_R_365161) · posted Nov 12
-- [Marsh People and Investments Health and Benefits Analyst- Philadelphia- College Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Marsh-People-and-Investments-Health-and-Benefits-Analyst--Philadelphia--College-Program-2027_R_344603-1) · posted Nov 11
-
-## PJT Partners
-- [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
-- [2027 Full Time Analyst - PJT Camberview (Governance - San Francisco)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/San-Francisco/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Governance---San-Francisco-_R0003478) · first seen Nov 8
-
-## Protiviti
-- [Americas Delivery Center Analyst - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/CINCINNATI/Americas-Delivery-Center-Analyst---2027_JR-261879-2) · posted Nov 5
-
-## Raymond James
-- [2027 Investment Banking Analyst I Private Capital Advisory New York, NY](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/XMLNAME-2027-Investment-Banking-Analyst-I-Private-Capital-Advisory-New-York--NY_R-0012145) · posted Nov 14
-
-## RSM US
-- [Complex Financial Instruments Consulting Associate - Fall 2027](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/McLean/Complex-Financial-Instruments-Consulting-Associate---Fall-2027_JR117202) · posted Nov 6
 
 ## StepStone Group
 - [2026-2027 Data Monitoring Junior Analyst](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8346536) · posted Nov 2
@@ -164,9 +129,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## The Brattle Group
 - [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) · posted Nov 6
 
-## Uline
-- [Corporate Analyst Rotational Program](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Corporate-Analyst-Rotational-Program_R269126-1) · posted Nov 13
-
 ## Vista Equity Partners
 - [2027 Private Equity Associate, Austin](https://careers3-vistaequitypartners.icims.com/jobs/3042/2027-private-equity-associate%2c-austin/job?in_iframe=1) · first seen Nov 10
 - [2027 Private Equity Associate, Chicago](https://careers3-vistaequitypartners.icims.com/jobs/3041/2027-private-equity-associate%2c-chicago/job?in_iframe=1) · first seen Nov 10
@@ -174,28 +136,37 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 76 firms the watcher can't read
+## Check these yourself: 112 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
 - **Abdiel Capital** · [careers site](https://abdielcapital.com/careers/) · job-site link is broken or moved
 - **Abrams Bison Investments** · [careers site](https://www.linkedin.com/company/abrams-bison-investments) · no job site in the config
 - **Aldrich** · [careers site](https://aldrichadvisors.com/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **AllianceBernstein** · [careers site](https://www.alliancebernstein.com/corporate/en/careers/students.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **AlphaSights** · [careers site](https://www.alphasights.com/careers/students-and-interns/) · site blocks automated checks
 - **Alvarez & Marsal** · [careers site](https://careers.alvarezandmarsal.com/) · site blocks automated checks
 - **Apollo Global Management** · [careers site](https://www.apollo.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Ares Management** · [careers site](https://www.ares.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
 - **Arrowstreet Capital** · [careers site](https://www.arrowstreetcapital.com/student-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Bain & Company** · [careers site](https://www.bain.com/careers/work-with-us/students/) · site blocks automated checks
+- **Bain Capital** · [careers site](https://www.baincapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Baker Tilly** · [careers site](https://bakertilly.wd5.myworkdayjobs.com/BTCareers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Barings** · [careers site](https://www.barings.com/en-gb/guest/about/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Berkeley Research Group** · [careers site](https://www.thinkbrg.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Blackstone** · [careers site](https://www.blackstone.com/careers/students/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Blue Owl Capital** · [careers site](https://www.blueowl.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **BRG** · [careers site](https://www.thinkbrg.com/careers/global-careers/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Brio Real Estate** · [careers site](https://www.briore.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
 - **Caldwell Bray Securities** · no link in the config · no job site in the config
 - **Campbell Lutyens** · [careers site](https://www.campbell-lutyens.com/careers/graduate-programme/) · job-site link is broken or moved
+- **Capital Group** · [careers site](https://www.capitalgroup.com/corporate/careers.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · job system refused the request
+- **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
@@ -211,12 +182,20 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **FMI Capital Advisors** · [careers site](https://fmicorp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Geffen Mesher** · [careers site](https://gmco.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Global Atlantic** · [careers site](https://www.globalatlantic.com/careers) · job-site link is broken or moved
+- **Greenhill** · [careers site](https://greenhill.freshminds.co.uk/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Greystar** · [careers site](https://jobs.greystar.com/early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **GTCR** · [careers site](https://www.gtcr.com/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Guggenheim Partners** · [careers site](https://www.guggenheimpartners.com/firm/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Guidehouse** · [careers site](https://guidehouse.com/careers/students) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Halvorsen Capital Partners** · no link in the config · no job site in the config
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
 - **HarbourVest** · [careers site](https://www.harbourvest.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Harris Williams** · [careers site](https://www.harriswilliams.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Houlihan Lokey** · [careers site](https://hl.com/about-us/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Huron** · [careers site](https://www.huronconsultinggroup.com/en/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Invesco** · [careers site](https://careers.invesco.com/emea/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **JLL** · [careers site](https://www.jll.com/en-uk/careers/early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **KeyBank** · [careers site](https://www.key.com/about/careers/students-graduates.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Leerink Partners** · [careers site](https://www.leerink.com/firm/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -225,32 +204,51 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
+- **Mizuho** · [careers site](https://www.mizuhogroup.com/emea/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Morningstar** · [careers site](https://www.morningstar.com/company/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Nationwide Mutual Insurance Company** · [careers site](https://www.nationwide.com/personal/about-us/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Northwestern Mutual** · [careers site](https://careers.northwesternmutual.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
+- **Oaktree Capital Management** · [careers site](https://www.oaktreecapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Oliver Wyman** · [careers site](https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html) · no postings found (the page may load jobs in a way the watcher can't read)
+- **PEAK6** · [careers site](https://www.peak6.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PGIM** · [careers site](https://www.pgim.com/gb/en/institutional/about/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **PIMCO** · [careers site](https://www.pimco.co.uk/en-gb/our-firm/careers/students) · no postings found (the page may load jobs in a way the watcher can't read)
+- **PJT Partners** · [careers site](https://pjtpartners.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **PMCF Investment Banking** · [careers site](https://pmcf.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PNC** · [careers site](https://careers.pnc.com/global/en/students) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Protiviti** · [careers site](https://www.protiviti.com/uk-en/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Rabobank** · [careers site](https://www.rabobank.co.uk/about-us/careers) · site blocks automated checks
+- **Raymond James** · [careers site](https://www.raymondjames.com/careers/students-and-recent-grads) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Regions Bank** · [careers site](https://careers.regions.com/us/en/interns-and-graduates) · no postings found (the page may load jobs in a way the watcher can't read)
+- **RSM US** · [careers site](https://rsmus.com/careers.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **SBF Advisors** · [careers site](https://sbfadvisors.com/careers/) · site couldn't be reached securely
 - **Sculptor Capital Management** · [careers site](https://www.sculptor.com/careers/internships) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Sensiba** · [careers site](https://sensiba.com/careers/student-opportunities) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Sixth Street** · [careers site](https://sixthstreet.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
+- **SOLIC Capital Advisors** · [careers site](https://www.soliccapital.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **SouthState Bank** · [careers site](https://careers.southstatebank.com/us/en/home) · no postings found (the page may load jobs in a way the watcher can't read)
+- **State Street** · [careers site](https://careers.statestreet.com/global/en/state-street-early-careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Stout** · [careers site](https://www.stout.com/en/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **T. Rowe Price** · [careers site](https://www.troweprice.com/en/us/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Temasek** · [careers site](https://www.temasek.com.sg/en/about-us/careers) · site blocks automated checks
 - **Tessaro Quant Research** · no link in the config · no job site in the config
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
+- **TIAA** · [careers site](https://careers.tiaa.org/earlytalent) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Tidal Partners** · [careers site](https://www.tidalpartners.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Truist** · [careers site](https://careers.truist.com/us/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
+- **U.S. Bank** · [careers site](https://careers.usbank.com/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **UBS** · [careers site](https://www.ubs.com/global/en/careers/university-students.html) · site blocks automated checks
+- **Uline** · [careers site](https://www.uline.jobs/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Wesleyan University** · [careers site](https://www.wesleyan.edu/about/careers.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Wipfli** · [careers site](https://careers.wipfli.com/) · no postings found (the page may load jobs in a way the watcher can't read)
