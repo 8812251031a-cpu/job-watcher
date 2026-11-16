@@ -1,4 +1,4 @@
-# Open right now: 122 postings at 47 firms
+# Open right now: 121 postings at 47 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -7,8 +7,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940) · posted Nov 12
 - [Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354) · posted Nov 12
 - [Customer Service Professional – US Market | Hybrid Mexico City | February 2027](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016490) · posted Nov 12
-- [Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254) · posted Nov 3
-- [Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255) · posted Nov 3
 
 ## Baker Tilly
 - [Fall 2027 Audit Associate - New England](https://bakertilly.wd5.myworkdayjobs.com/en-US/BTCareers/job/USA-MA-Tewksbury/Fall-2027-Audit-Associate---New-England_JR108967) · posted Nov 14
@@ -87,6 +85,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [2027 M&A Associate - Consumer, Minneapolis](https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/MN---Minneapolis/XMLNAME-2027-M-A-Associate---Consumer_R230306) · posted Nov 5
 
 ## J.P. Morgan
+- [Human Resources - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809250) · posted Nov 16
 - [2027 Human Resources Analyst Development Program - Full-Time Analyst (New York Metro)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807293) · posted Nov 9
 - [2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Delaware](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805977) · posted Nov 9
 - [2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Columbus, OH](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805978) · posted Nov 9
@@ -193,14 +192,14 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## Susquehanna International Group
 - [Hong Kong Equity Research Discovery Program: April 2027](https://careers-sig.icims.com/jobs/13202/hong-kong-equity-research-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
+- [Hong Kong Quantitative Trading and Quantitative Strategy Development Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11193/hong-kong-quantitative-trading-and-quantitative-strategy-development-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
+- [Hong Kong Trading Operations Discovery Program: April 2027](https://careers-sig.icims.com/jobs/13235/hong-kong-trading-operations-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
 - [Hong Kong Trading Systems Engineer Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11554/hong-kong-trading-systems-engineer-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
 - [Associate Linux/Windows Engineer - New Grad](https://careers-sig.icims.com/jobs/9408/associate-linux-windows-engineer----new-grad/job?in_iframe=1) · first seen Nov 10
 - [Associate Network Engineer - New Grad](https://careers-sig.icims.com/jobs/8137/associate-network-engineer---new-grad/job?in_iframe=1) · first seen Nov 10
 - [Compliance Analyst - Operations Analyst Program: August 2027 Start](https://careers-sig.icims.com/jobs/11693/compliance-analyst---operations-analyst-program%3a-august-2027-start/job?in_iframe=1) · first seen Nov 10
 - [Hong Kong PhD Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11495/hong-kong-phd-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 10
-- [Hong Kong + Singapore Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11453/hong-kong-%2b-singapore-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 10
 - [Machine Learning Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/10787/machine-learning-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 10
-- [Machine Learning Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/10788/machine-learning-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 10
 
 ## T. Rowe Price
 - [Associate Sales Consultant (December 2026 & Spring 2027 Graduates)](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Sales-Consultant--December-2026---Spring-2027-Graduates-_84293) · posted Nov 3
