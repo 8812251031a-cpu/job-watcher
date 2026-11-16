@@ -37,14 +37,14 @@
   "firm": "AArete",
   "id": "aarete",
   "readable": true,
-  "postings_read": 175,
+  "postings_read": 173,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://jobs.jobvite.com/aarete/jobs",
     "ok": true,
-    "count": 38,
+    "count": 36,
     "error": ""
    },
    {
@@ -77,16 +77,16 @@
  {
   "firm": "Aberdeen Group",
   "id": "aberdeen-group",
-  "readable": true,
-  "postings_read": 14,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "abrdn.wd3.myworkdayjobs.com|abrdn|abrdn",
-    "ok": true,
-    "count": 14,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abrdn.wd3.myworkdayjobs.com/wday/cxs/abrdn/abrdn/jobs"
    }
   ],
   "sample_matches": []
@@ -121,14 +121,14 @@
   "firm": "Adams Street Partners",
   "id": "adams-street-partners",
   "readable": true,
-  "postings_read": 1,
+  "postings_read": 2,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "adamsstreetpartnersearlycareers",
     "ok": true,
-    "count": 1,
+    "count": 2,
     "error": ""
    }
   ],
@@ -196,14 +196,14 @@
   "firm": "Affinius Capital",
   "id": "affinius-capital",
   "readable": true,
-  "postings_read": 10,
+  "postings_read": 11,
   "matches": 0,
   "sources": [
    {
     "kind": "icims",
     "key": "careers-affiniuscapital.icims.com",
     "ok": true,
-    "count": 10,
+    "count": 11,
     "error": ""
    }
   ],
@@ -213,14 +213,14 @@
   "firm": "Agentis Capital",
   "id": "agentis-capital",
   "readable": true,
-  "postings_read": 27,
+  "postings_read": 28,
   "matches": 0,
   "sources": [
    {
     "kind": "ashby",
     "key": "Agentis-Capital-Advisors",
     "ok": true,
-    "count": 27,
+    "count": 28,
     "error": ""
    }
   ],
@@ -230,14 +230,14 @@
   "firm": "AgWest Farm Credit",
   "id": "agwest-farm-credit",
   "readable": true,
-  "postings_read": 18,
+  "postings_read": 16,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "agwestfarmcredit",
     "ok": true,
-    "count": 18,
+    "count": 16,
     "error": ""
    }
   ],
@@ -247,14 +247,14 @@
   "firm": "Akuna Capital",
   "id": "akuna-capital",
   "readable": true,
-  "postings_read": 30,
+  "postings_read": 31,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "akunacapital",
     "ok": true,
-    "count": 30,
+    "count": 31,
     "error": ""
    }
   ],
@@ -281,14 +281,14 @@
   "firm": "AlixPartners",
   "id": "alixpartners",
   "readable": true,
-  "postings_read": 129,
+  "postings_read": 131,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "alixpartners",
     "ok": true,
-    "count": 129,
+    "count": 131,
     "error": ""
    }
   ],
@@ -314,23 +314,23 @@
  {
   "firm": "AllianceBernstein",
   "id": "alliancebernstein",
-  "readable": true,
-  "postings_read": 46,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "abglobal.wd1.myworkdayjobs.com|abglobal|alliancebernsteincareers",
-    "ok": true,
-    "count": 29,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs"
    },
    {
     "kind": "workday",
     "key": "abglobal.wd1.myworkdayjobs.com|abglobal|abcampuscareers",
-    "ok": true,
-    "count": 17,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/abcampuscareers/jobs"
    }
   ],
   "sample_matches": []
@@ -373,14 +373,14 @@
   "firm": "Altman Solon",
   "id": "altman-solon",
   "readable": true,
-  "postings_read": 11,
+  "postings_read": 10,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "altmansoloncampus",
     "ok": true,
-    "count": 11,
+    "count": 10,
     "error": ""
    }
   ],
@@ -414,7 +414,7 @@
   "firm": "Amazon",
   "id": "amazon",
   "readable": true,
-  "postings_read": 92,
+  "postings_read": 89,
   "matches": 0,
   "sources": [
    {
@@ -428,7 +428,7 @@
     "kind": "site",
     "key": "https://www.amazon.jobs/content/en-gb/career-programs/university",
     "ok": true,
-    "count": 92,
+    "count": 89,
     "error": ""
    }
   ],
@@ -438,20 +438,22 @@
   "firm": "American Express",
   "id": "american-express",
   "readable": true,
-  "postings_read": 110,
-  "matches": 2,
+  "postings_read": 111,
+  "matches": 4,
   "sources": [
    {
     "kind": "oracle",
     "key": "egug.fa.us2.oraclecloud.com|CX_1",
     "ok": true,
-    "count": 110,
+    "count": 111,
     "error": ""
    }
   ],
   "sample_matches": [
-   "Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ",
-   "Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ"
+   "Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- New York, NY",
+   "Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- New York, NY",
+   "Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY",
+   "Customer Service Professional \u2013 US Market | Hybrid Mexico City | February 2027"
   ]
  },
  {
@@ -498,16 +500,16 @@
  {
   "firm": "Apollo Global Management",
   "id": "apollo-global-management",
-  "readable": true,
-  "postings_read": 40,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "athene.wd5.myworkdayjobs.com|athene|Apollo_Careers",
-    "ok": true,
-    "count": 40,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -516,14 +518,14 @@
   "firm": "Appian",
   "id": "appian",
   "readable": true,
-  "postings_read": 158,
+  "postings_read": 156,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "appian",
     "ok": true,
-    "count": 158,
+    "count": 156,
     "error": ""
    }
   ],
@@ -533,14 +535,14 @@
   "firm": "Apple",
   "id": "apple",
   "readable": true,
-  "postings_read": 608,
+  "postings_read": 607,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://jobs.apple.com/en-gb/search",
     "ok": true,
-    "count": 366,
+    "count": 365,
     "error": ""
    },
    {
@@ -574,14 +576,14 @@
   "firm": "AQR Capital Management",
   "id": "aqr-capital-management",
   "readable": true,
-  "postings_read": 52,
+  "postings_read": 44,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "aqr",
     "ok": true,
-    "count": 52,
+    "count": 44,
     "error": ""
    }
   ],
@@ -624,16 +626,16 @@
  {
   "firm": "Ardian",
   "id": "ardian",
-  "readable": true,
-  "postings_read": 51,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "ardian.wd103.myworkdayjobs.com|ardian|ArdianCareers",
-    "ok": true,
-    "count": 51,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/jobs"
    }
   ],
   "sample_matches": []
@@ -641,16 +643,16 @@
  {
   "firm": "Ares Management",
   "id": "ares-management",
-  "readable": true,
-  "postings_read": 37,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "aresmgmt.wd1.myworkdayjobs.com|aresmgmt|External",
-    "ok": true,
-    "count": 37,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://aresmgmt.wd1.myworkdayjobs.com/wday/cxs/aresmgmt/External/jobs"
    }
   ],
   "sample_matches": []
@@ -692,16 +694,16 @@
  {
   "firm": "Arrowstreet Capital",
   "id": "arrowstreet-capital",
-  "readable": true,
-  "postings_read": 6,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "arrowstreetcapital.wd5.myworkdayjobs.com|arrowstreetcapital|Campus_Careers",
-    "ok": true,
-    "count": 6,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://arrowstreetcapital.wd5.myworkdayjobs.com/wday/cxs/arrowstreetcapital/Campus_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -734,14 +736,14 @@
   "firm": "ATLAS SP Partners",
   "id": "atlas-sp-partners",
   "readable": true,
-  "postings_read": 2,
+  "postings_read": 1,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "atlassp",
     "ok": true,
-    "count": 2,
+    "count": 1,
     "error": ""
    }
   ],
@@ -751,14 +753,14 @@
   "firm": "Audax Group",
   "id": "audax-group",
   "readable": true,
-  "postings_read": 9,
+  "postings_read": 7,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "audaxgroup",
     "ok": true,
-    "count": 9,
+    "count": 7,
     "error": ""
    }
   ],
@@ -798,16 +800,16 @@
  {
   "firm": "Bain Capital",
   "id": "bain-capital",
-  "readable": true,
-  "postings_read": 23,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "baincapital.wd1.myworkdayjobs.com|baincapital|External_Public",
-    "ok": true,
-    "count": 23,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://baincapital.wd1.myworkdayjobs.com/wday/cxs/baincapital/External_Public/jobs"
    }
   ],
   "sample_matches": []
@@ -816,14 +818,14 @@
   "firm": "Baird",
   "id": "baird",
   "readable": true,
-  "postings_read": 87,
+  "postings_read": 92,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "wd1.myworkdaysite.com|baird|Careers",
     "ok": true,
-    "count": 87,
+    "count": 92,
     "error": ""
    }
   ],
@@ -832,16 +834,16 @@
  {
   "firm": "Baker Tilly",
   "id": "baker-tilly",
-  "readable": true,
-  "postings_read": 44,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "bakertilly.wd5.myworkdayjobs.com|bakertilly|BTCareers",
-    "ok": true,
-    "count": 44,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bakertilly.wd5.myworkdayjobs.com/wday/cxs/bakertilly/BTCareers/jobs"
    }
   ],
   "sample_matches": []
@@ -874,14 +876,14 @@
   "firm": "Bank of America",
   "id": "bank-of-america",
   "readable": true,
-  "postings_read": 40,
+  "postings_read": 26,
   "matches": 1,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/jobboard/vacancy/1/adv/",
     "ok": true,
-    "count": 40,
+    "count": 26,
     "error": ""
    }
   ],
@@ -892,36 +894,33 @@
  {
   "firm": "Barclays",
   "id": "barclays",
-  "readable": true,
-  "postings_read": 120,
-  "matches": 2,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "barclays.wd3.myworkdayjobs.com|barclays|External_Career_Site_Barclays",
-    "ok": true,
-    "count": 120,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs"
    }
   ],
-  "sample_matches": [
-   "Workday Specialist (HCM Consultant) AVP - FTC until the end of December 2027",
-   "2027 Technology Developer Graduate Programme Knutsford"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Barings",
   "id": "barings",
-  "readable": true,
-  "postings_read": 31,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "barings.wd1.myworkdayjobs.com|barings|Barings",
-    "ok": true,
-    "count": 31,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://barings.wd1.myworkdayjobs.com/wday/cxs/barings/Barings/jobs"
    }
   ],
   "sample_matches": []
@@ -930,14 +929,14 @@
   "firm": "Bates White",
   "id": "bates-white",
   "readable": true,
-  "postings_read": 184,
+  "postings_read": 326,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb",
     "ok": true,
-    "count": 21,
+    "count": 163,
     "error": ""
    },
    {
@@ -954,14 +953,14 @@
   "firm": "Battery",
   "id": "battery",
   "readable": true,
-  "postings_read": 2,
+  "postings_read": 1,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "batteryventures",
     "ok": true,
-    "count": 2,
+    "count": 1,
     "error": ""
    }
   ],
@@ -1002,38 +1001,41 @@
   "firm": "BDO Global",
   "id": "bdo-global",
   "readable": true,
-  "postings_read": 204,
-  "matches": 0,
+  "postings_read": 188,
+  "matches": 2,
   "sources": [
    {
     "kind": "oracle",
     "key": "ebqb.fa.us2.oraclecloud.com|CX_1001",
     "ok": true,
-    "count": 102,
+    "count": 94,
     "error": ""
    },
    {
     "kind": "oracle",
     "key": "ebqb.fa.us2.oraclecloud.com|BDOEntryLevelCareers",
     "ok": true,
-    "count": 102,
+    "count": 94,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Assurance Associate - Fall 2027 (Baltimore)",
+   "Assurance Associate - Fall 2027 (Norfolk)"
+  ]
  },
  {
   "firm": "Bellwether",
   "id": "bellwether",
   "readable": true,
-  "postings_read": 8,
+  "postings_read": 9,
   "matches": 0,
   "sources": [
    {
     "kind": "lever",
     "key": "bellwetheram-2",
     "ok": true,
-    "count": 8,
+    "count": 9,
     "error": ""
    }
   ],
@@ -1043,14 +1045,14 @@
   "firm": "Belvedere Trading",
   "id": "belvedere-trading",
   "readable": true,
-  "postings_read": 17,
+  "postings_read": 13,
   "matches": 0,
   "sources": [
    {
     "kind": "lever",
     "key": "belvederetrading",
     "ok": true,
-    "count": 17,
+    "count": 13,
     "error": ""
    }
   ],
@@ -1084,14 +1086,14 @@
   "firm": "Bennett Thrasher",
   "id": "bennett-thrasher",
   "readable": true,
-  "postings_read": 40,
+  "postings_read": 38,
   "matches": 0,
   "sources": [
    {
     "kind": "ukg",
     "key": "btcpa.rec.pro.ukg.net|BEN1022BTLL|702a70c1-c1f7-4971-8626-bb99571a35a2",
     "ok": true,
-    "count": 40,
+    "count": 38,
     "error": ""
    }
   ],
@@ -1100,16 +1102,16 @@
  {
   "firm": "Berkeley Research Group",
   "id": "berkeley-research-group",
-  "readable": true,
-  "postings_read": 32,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "thinkbrg.wd5.myworkdayjobs.com|thinkbrg|BRG_External_Career_Site",
-    "ok": true,
-    "count": 32,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://thinkbrg.wd5.myworkdayjobs.com/wday/cxs/thinkbrg/BRG_External_Career_Site/jobs"
    }
   ],
   "sample_matches": []
@@ -1152,14 +1154,14 @@
   "firm": "BlackEdge Capital",
   "id": "blackedge-capital",
   "readable": true,
-  "postings_read": 3,
+  "postings_read": 2,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "blackedgecapital",
     "ok": true,
-    "count": 3,
+    "count": 2,
     "error": ""
    }
   ],
@@ -1169,14 +1171,14 @@
   "firm": "BlackRock",
   "id": "blackrock",
   "readable": true,
-  "postings_read": 11,
+  "postings_read": 12,
   "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/jobboard/vacancy/1/adv/",
     "ok": true,
-    "count": 11,
+    "count": 12,
     "error": ""
    }
   ],
@@ -1188,42 +1190,40 @@
  {
   "firm": "Blackstone",
   "id": "blackstone",
-  "readable": true,
-  "postings_read": 41,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "blackstone.wd1.myworkdayjobs.com|blackstone|Blackstone_Careers",
-    "ok": true,
-    "count": 22,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs"
    },
    {
     "kind": "workday",
     "key": "blackstone.wd1.myworkdayjobs.com|blackstone|Blackstone_Campus_Careers",
-    "ok": true,
-    "count": 19,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 Blackstone APAC Future Leaders Program (Online)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Blue Owl Capital",
   "id": "blue-owl-capital",
-  "readable": true,
-  "postings_read": 22,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "blueowl.wd1.myworkdayjobs.com|blueowl|blueowl",
-    "ok": true,
-    "count": 22,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueowl.wd1.myworkdayjobs.com/wday/cxs/blueowl/blueowl/jobs"
    }
   ],
   "sample_matches": []
@@ -1231,30 +1231,30 @@
  {
   "firm": "BMO Capital Markets",
   "id": "bmo-capital-markets",
-  "readable": true,
-  "postings_read": 143,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "bmo.wd3.myworkdayjobs.com|bmo|External",
-    "ok": true,
-    "count": 93,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/External/jobs"
    },
    {
     "kind": "workday",
     "key": "bmo.wd3.myworkdayjobs.com|bmo|Campus",
-    "ok": true,
-    "count": 26,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/Campus/jobs"
    },
    {
     "kind": "workday",
     "key": "bmo.wd3.myworkdayjobs.com|bmo|Privileged",
-    "ok": true,
-    "count": 24,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/Privileged/jobs"
    }
   ],
   "sample_matches": []
@@ -1311,14 +1311,14 @@
   "firm": "Boulay",
   "id": "boulay",
   "readable": true,
-  "postings_read": 9,
+  "postings_read": 10,
   "matches": 0,
   "sources": [
    {
     "kind": "workable",
     "key": "boulay-group",
     "ok": true,
-    "count": 9,
+    "count": 10,
     "error": ""
    }
   ],
@@ -1327,28 +1327,26 @@
  {
   "firm": "bp",
   "id": "bp",
-  "readable": true,
-  "postings_read": 125,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "bpinternational.wd3.myworkdayjobs.com|bpinternational|bpPrivateExternalCareersSite",
-    "ok": true,
-    "count": 32,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/bpinternational/bpPrivateExternalCareersSite/jobs"
    },
    {
     "kind": "workday",
     "key": "bpinternational.wd3.myworkdayjobs.com|bpinternational|bpCareers",
-    "ok": true,
-    "count": 93,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/bpinternational/bpCareers/jobs"
    }
   ],
-  "sample_matches": [
-   "Azerbaijan Discovery Week 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Bracebridge Capital",
@@ -1394,16 +1392,16 @@
  {
   "firm": "BRG",
   "id": "brg",
-  "readable": true,
-  "postings_read": 32,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "thinkbrg.wd5.myworkdayjobs.com|thinkbrg|BRG_External_Career_Site",
-    "ok": true,
-    "count": 32,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://thinkbrg.wd5.myworkdayjobs.com/wday/cxs/thinkbrg/BRG_External_Career_Site/jobs"
    }
   ],
   "sample_matches": []
@@ -1429,14 +1427,14 @@
   "firm": "Bridgewater Associates",
   "id": "bridgewater-associates",
   "readable": true,
-  "postings_read": 34,
+  "postings_read": 31,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "bridgewatercampusrecruiting",
     "ok": true,
-    "count": 5,
+    "count": 4,
     "error": ""
    },
    {
@@ -1450,7 +1448,7 @@
     "kind": "greenhouse",
     "key": "bridgewater89",
     "ok": true,
-    "count": 20,
+    "count": 18,
     "error": ""
    }
   ],
@@ -1493,16 +1491,16 @@
  {
   "firm": "Brio Real Estate",
   "id": "brio-real-estate",
-  "readable": true,
-  "postings_read": 8,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "revantage.wd1.myworkdayjobs.com|revantage|Brio_Real_Estate",
-    "ok": true,
-    "count": 8,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://revantage.wd1.myworkdayjobs.com/wday/cxs/revantage/Brio_Real_Estate/jobs"
    }
   ],
   "sample_matches": []
@@ -1593,14 +1591,14 @@
   "firm": "BTIG",
   "id": "btig",
   "readable": true,
-  "postings_read": 132,
+  "postings_read": 130,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.btig.com/careers/career-opportunities/",
     "ok": true,
-    "count": 132,
+    "count": 130,
     "error": ""
    }
   ],
@@ -1653,34 +1651,32 @@
   "firm": "Cantor Fitzgerald",
   "id": "cantor-fitzgerald",
   "readable": true,
-  "postings_read": 98,
-  "matches": 1,
+  "postings_read": 103,
+  "matches": 0,
   "sources": [
    {
     "kind": "oracle",
     "key": "hdow.fa.us6.oraclecloud.com|CX_1003",
     "ok": true,
-    "count": 98,
+    "count": 103,
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Investment Banking Analyst \u2013 Energy (Class of 2027)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Capital Group",
   "id": "capital-group",
-  "readable": true,
-  "postings_read": 63,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "capgroup.wd1.myworkdayjobs.com|capgroup|capitalgroupcareers",
-    "ok": true,
-    "count": 63,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs"
    }
   ],
   "sample_matches": []
@@ -1688,16 +1684,16 @@
  {
   "firm": "Capital One",
   "id": "capital-one",
-  "readable": true,
-  "postings_read": 60,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "capitalone.wd12.myworkdayjobs.com|capitalone|Capital_One",
-    "ok": true,
-    "count": 60,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs"
    }
   ],
   "sample_matches": []
@@ -1723,14 +1719,14 @@
   "firm": "Capstone",
   "id": "capstone",
   "readable": true,
-  "postings_read": 15,
+  "postings_read": 13,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "capstoneinvestmentadvisors",
     "ok": true,
-    "count": 15,
+    "count": 13,
     "error": ""
    }
   ],
@@ -1739,16 +1735,16 @@
  {
   "firm": "Capstone Partners",
   "id": "capstone-partners",
-  "readable": true,
-  "postings_read": 71,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "huntington.wd12.myworkdayjobs.com|huntington|HNBcareers",
-    "ok": true,
-    "count": 71,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://huntington.wd12.myworkdayjobs.com/wday/cxs/huntington/HNBcareers/jobs"
    }
   ],
   "sample_matches": []
@@ -1774,21 +1770,21 @@
   "firm": "Cargill",
   "id": "cargill",
   "readable": true,
-  "postings_read": 334,
+  "postings_read": 330,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://careers.cargill.com/en/",
     "ok": true,
-    "count": 157,
+    "count": 155,
     "error": ""
    },
    {
     "kind": "site",
     "key": "https://careers.cargill.com/en/university",
     "ok": true,
-    "count": 177,
+    "count": 175,
     "error": ""
    }
   ],
@@ -1847,7 +1843,7 @@
     "key": "osv-cci.wd1.myworkdayjobs.com|osv-cci|CCICareers",
     "ok": false,
     "count": 0,
-    "error": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv-cci/CCICareers/jobs"
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv-cci/CCICareers/jobs"
    }
   ],
   "sample_matches": []
@@ -1856,14 +1852,14 @@
   "firm": "CBIZ",
   "id": "cbiz",
   "readable": true,
-  "postings_read": 108,
+  "postings_read": 105,
   "matches": 2,
   "sources": [
    {
     "kind": "oracle",
     "key": "ebez.fa.us2.oraclecloud.com|CX_1",
     "ok": true,
-    "count": 108,
+    "count": 105,
     "error": ""
    }
   ],
@@ -1970,14 +1966,14 @@
   "firm": "Charles River Associates",
   "id": "charles-river-associates",
   "readable": true,
-  "postings_read": 93,
+  "postings_read": 86,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "charlesriverassociates",
     "ok": true,
-    "count": 93,
+    "count": 86,
     "error": ""
    }
   ],
@@ -2054,16 +2050,16 @@
  {
   "firm": "CIBC",
   "id": "cibc",
-  "readable": true,
-  "postings_read": 87,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "cibc.wd3.myworkdayjobs.com|cibc|search",
-    "ok": true,
-    "count": 87,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs"
    }
   ],
   "sample_matches": []
@@ -2112,37 +2108,32 @@
  {
   "firm": "Citi",
   "id": "citi",
-  "readable": true,
-  "postings_read": 110,
-  "matches": 4,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "citi.wd5.myworkdayjobs.com|citi|2",
-    "ok": true,
-    "count": 110,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs"
    }
   ],
-  "sample_matches": [
-   "Services, Full-Time Analyst, Argentina\u2013 Capital Federal, 2027",
-   "Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027",
-   "Technology - Application Development, Full Time Analyst, Bahrain - Seef 2027",
-   "Market Operations Junior Analyst Program Hybrid"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Citizens Financial Group",
   "id": "citizens-financial-group",
   "readable": true,
-  "postings_read": 100,
+  "postings_read": 101,
   "matches": 0,
   "sources": [
    {
     "kind": "oracle",
     "key": "hcgn.fa.us2.oraclecloud.com|CX_1",
     "ok": true,
-    "count": 100,
+    "count": 101,
     "error": ""
    }
   ],
@@ -2200,14 +2191,14 @@
   "firm": "Cleveland Research Company",
   "id": "cleveland-research-company",
   "readable": true,
-  "postings_read": 144,
+  "postings_read": 152,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://clevelandresearch.applytojob.com/apply",
     "ok": true,
-    "count": 19,
+    "count": 27,
     "error": ""
    },
    {
@@ -2224,14 +2215,14 @@
   "firm": "CliftonLarsonAllen",
   "id": "cliftonlarsonallen",
   "readable": true,
-  "postings_read": 60,
+  "postings_read": 54,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "cliftonlarsonallen.wd115.myworkdayjobs.com|cliftonlarsonallen|CLA",
     "ok": true,
-    "count": 60,
+    "count": 54,
     "error": ""
    }
   ],
@@ -2240,16 +2231,16 @@
  {
   "firm": "CMD Global Partners",
   "id": "cmd-global-partners",
-  "readable": true,
-  "postings_read": 117,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://cmdglobal.com/",
-    "ok": true,
-    "count": 117,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='cmdglobal.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='cmdglobal.com', port"
    }
   ],
   "sample_matches": []
@@ -2257,16 +2248,16 @@
  {
   "firm": "CNO Financial Group",
   "id": "cno-financial-group",
-  "readable": true,
-  "postings_read": 5,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "cnoinc.wd5.myworkdayjobs.com|cnoinc|Careers",
-    "ok": true,
-    "count": 5,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cnoinc.wd5.myworkdayjobs.com/wday/cxs/cnoinc/Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -2275,14 +2266,14 @@
   "firm": "Cohen & Company",
   "id": "cohen-company",
   "readable": true,
-  "postings_read": 23,
-  "matches": 0,
+  "postings_read": 21,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
     "key": "cohenco.wd108.myworkdayjobs.com|cohenco|CC",
     "ok": true,
-    "count": 23,
+    "count": 21,
     "error": ""
    },
    {
@@ -2293,7 +2284,9 @@
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Assurance Staff Accountant, January 2027"
+  ]
  },
  {
   "firm": "CohnReznick",
@@ -2315,16 +2308,16 @@
  {
   "firm": "Columbia Threadneedle Investments",
   "id": "columbia-threadneedle-investments",
-  "readable": true,
-  "postings_read": 57,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "ameriprise.wd5.myworkdayjobs.com|ameriprise|Ameriprise",
-    "ok": true,
-    "count": 57,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs"
    }
   ],
   "sample_matches": []
@@ -2332,16 +2325,16 @@
  {
   "firm": "Connor Group",
   "id": "connor-group",
-  "readable": true,
-  "postings_read": 22,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "connorgp.wd12.myworkdayjobs.com|connorgp|CG",
-    "ok": true,
-    "count": 22,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://connorgp.wd12.myworkdayjobs.com/wday/cxs/connorgp/CG/jobs"
    }
   ],
   "sample_matches": []
@@ -2349,16 +2342,16 @@
  {
   "firm": "Corient",
   "id": "corient",
-  "readable": true,
-  "postings_read": 75,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "ci.wd3.myworkdayjobs.com|ci|CORIENT_EXTERNAL_CAREER-SITE",
-    "ok": true,
-    "count": 75,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ci.wd3.myworkdayjobs.com/wday/cxs/ci/CORIENT_EXTERNAL_CAREER-SITE/jobs"
    }
   ],
   "sample_matches": []
@@ -2367,7 +2360,7 @@
   "firm": "Cornerstone Research",
   "id": "cornerstone-research",
   "readable": true,
-  "postings_read": 8,
+  "postings_read": 7,
   "matches": 0,
   "sources": [
    {
@@ -2381,7 +2374,7 @@
     "kind": "workday",
     "key": "cornerstone.wd501.myworkdayjobs.com|cornerstone|CornerstoneResearch_Careers",
     "ok": true,
-    "count": 8,
+    "count": 7,
     "error": ""
    }
   ],
@@ -2390,16 +2383,16 @@
  {
   "firm": "Crowe",
   "id": "crowe",
-  "readable": true,
-  "postings_read": 38,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "crowe.wd12.myworkdayjobs.com|crowe|External_Careers",
-    "ok": true,
-    "count": 38,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://crowe.wd12.myworkdayjobs.com/wday/cxs/crowe/External_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -2407,16 +2400,16 @@
  {
   "firm": "D.A. Davidson",
   "id": "d-a-davidson",
-  "readable": true,
-  "postings_read": 46,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "lever",
     "key": "dadavidson",
-    "ok": true,
-    "count": 46,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=25)"
    }
   ],
   "sample_matches": []
@@ -2551,16 +2544,16 @@
  {
   "firm": "Dodge & Cox",
   "id": "dodge-cox",
-  "readable": true,
-  "postings_read": 13,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "dodgeandcox.wd5.myworkdayjobs.com|dodgeandcox|Dodgecox",
-    "ok": true,
-    "count": 13,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://dodgeandcox.wd5.myworkdayjobs.com/wday/cxs/dodgeandcox/Dodgecox/jobs"
    }
   ],
   "sample_matches": []
@@ -2569,14 +2562,14 @@
   "firm": "DRW",
   "id": "drw",
   "readable": true,
-  "postings_read": 164,
+  "postings_read": 159,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "drweng",
     "ok": true,
-    "count": 164,
+    "count": 159,
     "error": ""
    }
   ],
@@ -2610,14 +2603,14 @@
   "firm": "DV Trading",
   "id": "dv-trading",
   "readable": true,
-  "postings_read": 72,
+  "postings_read": 71,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "dvtrading",
     "ok": true,
-    "count": 72,
+    "count": 71,
     "error": ""
    }
   ],
@@ -2646,14 +2639,14 @@
   "firm": "Elixirr",
   "id": "elixirr",
   "readable": true,
-  "postings_read": 16,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "elixirr",
     "ok": true,
-    "count": 16,
+    "count": 17,
     "error": ""
    }
   ],
@@ -2710,16 +2703,16 @@
  {
   "firm": "Equinor",
   "id": "equinor",
-  "readable": true,
-  "postings_read": 18,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "equinor.wd3.myworkdayjobs.com|equinor|EQNR",
-    "ok": true,
-    "count": 18,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://equinor.wd3.myworkdayjobs.com/wday/cxs/equinor/EQNR/jobs"
    }
   ],
   "sample_matches": []
@@ -2769,21 +2762,21 @@
   "firm": "Evercore",
   "id": "evercore",
   "readable": true,
-  "postings_read": 128,
+  "postings_read": 36,
   "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-6/candidate/jobboard/vacancy/2/adv/",
     "ok": true,
-    "count": 64,
+    "count": 18,
     "error": ""
    },
    {
     "kind": "oleeo",
     "key": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-6/candidate/jobboard/vacancy/2/adv/",
     "ok": true,
-    "count": 64,
+    "count": 18,
     "error": ""
    }
   ],
@@ -2793,14 +2786,14 @@
   "firm": "Evergreen Services Group",
   "id": "evergreen-services-group",
   "readable": true,
-  "postings_read": 9,
+  "postings_read": 10,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "evergreenservicesgroup",
     "ok": true,
-    "count": 9,
+    "count": 10,
     "error": ""
    }
   ],
@@ -2851,14 +2844,14 @@
   "firm": "Federated Insurance",
   "id": "federated-insurance",
   "readable": true,
-  "postings_read": 39,
+  "postings_read": 38,
   "matches": 0,
   "sources": [
    {
     "kind": "icims",
     "key": "careers-federatedinsurance.icims.com",
     "ok": true,
-    "count": 39,
+    "count": 38,
     "error": ""
    }
   ],
@@ -2868,14 +2861,14 @@
   "firm": "Fidelity International",
   "id": "fidelity-international",
   "readable": true,
-  "postings_read": 56,
+  "postings_read": 48,
   "matches": 3,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/jobboard/vacancy/1/adv/",
     "ok": true,
-    "count": 56,
+    "count": 48,
     "error": ""
    }
   ],
@@ -2889,14 +2882,14 @@
   "firm": "Fidelity Investments",
   "id": "fidelity",
   "readable": true,
-  "postings_read": 63,
+  "postings_read": 65,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "wd1.myworkdaysite.com|fmr|FidelityCareers",
     "ok": true,
-    "count": 63,
+    "count": 65,
     "error": ""
    }
   ],
@@ -2905,16 +2898,16 @@
  {
   "firm": "Fifth Third Bank",
   "id": "fifth-third-bank",
-  "readable": true,
-  "postings_read": 79,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "fifththird.wd5.myworkdayjobs.com|fifththird|53careers",
-    "ok": true,
-    "count": 79,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fifththird.wd5.myworkdayjobs.com/wday/cxs/fifththird/53careers/jobs"
    }
   ],
   "sample_matches": []
@@ -2923,14 +2916,14 @@
   "firm": "Five Rings",
   "id": "five-rings",
   "readable": true,
-  "postings_read": 17,
+  "postings_read": 19,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "fiveringsllc",
     "ok": true,
-    "count": 17,
+    "count": 19,
     "error": ""
    }
   ],
@@ -2940,14 +2933,14 @@
   "firm": "Flow Traders",
   "id": "flow-traders",
   "readable": true,
-  "postings_read": 41,
+  "postings_read": 44,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "flowtraders",
     "ok": true,
-    "count": 41,
+    "count": 44,
     "error": ""
    }
   ],
@@ -2975,7 +2968,7 @@
   "id": "forvis",
   "readable": true,
   "postings_read": 12,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "avature",
@@ -2993,9 +2986,7 @@
    }
   ],
   "sample_matches": [
-   "Associate Audit Fall 2027 | Charleston, WV",
-   "Associate Audit Fall 2027 | Chicago",
-   "Associate Audit Fall 2027 | Fort Wayne"
+   "Associate Audit Fall 2027 | Chicago"
   ]
  },
  {
@@ -3003,7 +2994,7 @@
   "id": "forvis-mazars",
   "readable": true,
   "postings_read": 12,
-  "matches": 3,
+  "matches": 1,
   "sources": [
    {
     "kind": "avature",
@@ -3021,40 +3012,40 @@
    }
   ],
   "sample_matches": [
-   "Associate Audit Fall 2027 | Charleston, WV",
-   "Associate Audit Fall 2027 | Chicago",
-   "Associate Audit Fall 2027 | Fort Wayne"
+   "Associate Audit Fall 2027 | Chicago"
   ]
  },
  {
   "firm": "Frazier & Deeter",
   "id": "frazier-deeter",
   "readable": true,
-  "postings_read": 49,
-  "matches": 0,
+  "postings_read": 47,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "frazierdeeter",
     "ok": true,
-    "count": 49,
+    "count": 47,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "2027 Fall Assurance Associate"
+  ]
  },
  {
   "firm": "Freestone Capital Management",
   "id": "freestone-capital-management",
   "readable": true,
-  "postings_read": 6,
+  "postings_read": 7,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "freestonecapitalmanagement",
     "ok": true,
-    "count": 6,
+    "count": 7,
     "error": ""
    }
   ],
@@ -3064,14 +3055,14 @@
   "firm": "FT Partners",
   "id": "ft-partners",
   "readable": true,
-  "postings_read": 20,
+  "postings_read": 24,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "financialtechnologypartners",
     "ok": true,
-    "count": 20,
+    "count": 24,
     "error": ""
    }
   ],
@@ -3080,34 +3071,32 @@
  {
   "firm": "FTI Consulting",
   "id": "fti-consulting",
-  "readable": true,
-  "postings_read": 75,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "fticonsulting.wd108.myworkdayjobs.com|fticonsulting|FTIConsultingCareers",
-    "ok": true,
-    "count": 75,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkdayjobs.com/wday/cxs/fticonsulting/FTIConsultingCareers/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 IMPACT Leadership Program"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "G2 Capital Advisors",
   "id": "g2-capital-advisors",
   "readable": true,
-  "postings_read": 12,
+  "postings_read": 13,
   "matches": 0,
   "sources": [
    {
     "kind": "bamboo",
     "key": "g2cap.bamboohr.com",
     "ok": true,
-    "count": 12,
+    "count": 13,
     "error": ""
    }
   ],
@@ -3117,14 +3106,14 @@
   "firm": "Galaxy",
   "id": "galaxy",
   "readable": true,
-  "postings_read": 57,
+  "postings_read": 58,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "galaxydigitalservices",
     "ok": true,
-    "count": 57,
+    "count": 58,
     "error": ""
    }
   ],
@@ -3134,14 +3123,14 @@
   "firm": "Garda Capital Partners",
   "id": "garda-capital-partners",
   "readable": true,
-  "postings_read": 10,
+  "postings_read": 9,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "gardacp",
     "ok": true,
-    "count": 10,
+    "count": 9,
     "error": ""
    }
   ],
@@ -3151,14 +3140,14 @@
   "firm": "GCM Grosvenor",
   "id": "gcm-grosvenor",
   "readable": true,
-  "postings_read": 18,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "gcmgrosvenor",
     "ok": true,
-    "count": 18,
+    "count": 17,
     "error": ""
    }
   ],
@@ -3185,14 +3174,14 @@
   "firm": "General Atlantic",
   "id": "general-atlantic",
   "readable": true,
-  "postings_read": 18,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "generalatlantic",
     "ok": true,
-    "count": 13,
+    "count": 12,
     "error": ""
    },
    {
@@ -3209,14 +3198,14 @@
   "firm": "Geneva Trading",
   "id": "geneva-trading",
   "readable": true,
-  "postings_read": 13,
+  "postings_read": 12,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "genevatrading",
     "ok": true,
-    "count": 13,
+    "count": 12,
     "error": ""
    }
   ],
@@ -3257,14 +3246,14 @@
   "firm": "GID",
   "id": "gid",
   "readable": true,
-  "postings_read": 90,
+  "postings_read": 92,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://jobs.jobvite.com/gid/jobs",
     "ok": true,
-    "count": 4,
+    "count": 6,
     "error": ""
    },
    {
@@ -3375,14 +3364,14 @@
   "firm": "Grant Thornton",
   "id": "grant-thornton",
   "readable": true,
-  "postings_read": 104,
+  "postings_read": 106,
   "matches": 0,
   "sources": [
    {
     "kind": "oracle",
     "key": "ehzq.fa.us2.oraclecloud.com|CX_1",
     "ok": true,
-    "count": 104,
+    "count": 106,
     "error": ""
    }
   ],
@@ -3391,16 +3380,16 @@
  {
   "firm": "Greenhill",
   "id": "greenhill",
-  "readable": true,
-  "postings_read": 38,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "mizuho.wd1.myworkdayjobs.com|mizuho|mizuho_confidential",
-    "ok": true,
-    "count": 38,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuho_confidential/jobs"
    }
   ],
   "sample_matches": []
@@ -3408,23 +3397,23 @@
  {
   "firm": "Greystar",
   "id": "greystar",
-  "readable": true,
-  "postings_read": 79,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "greystar.wd1.myworkdayjobs.com|greystar|External",
-    "ok": true,
-    "count": 57,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://greystar.wd1.myworkdayjobs.com/wday/cxs/greystar/External/jobs"
    },
    {
     "kind": "workday",
     "key": "greystar.wd1.myworkdayjobs.com|greystar|Campus",
-    "ok": true,
-    "count": 22,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://greystar.wd1.myworkdayjobs.com/wday/cxs/greystar/Campus/jobs"
    }
   ],
   "sample_matches": []
@@ -3432,16 +3421,16 @@
  {
   "firm": "Greystone",
   "id": "greystone",
-  "readable": true,
-  "postings_read": 18,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "greyco.wd108.myworkdayjobs.com|greyco|GTI",
-    "ok": true,
-    "count": 18,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://greyco.wd108.myworkdayjobs.com/wday/cxs/greyco/GTI/jobs"
    }
   ],
   "sample_matches": []
@@ -3450,14 +3439,14 @@
   "firm": "GSA Capital",
   "id": "gsa-capital",
   "readable": true,
-  "postings_read": 13,
+  "postings_read": 12,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "gsacapital",
     "ok": true,
-    "count": 13,
+    "count": 12,
     "error": ""
    }
   ],
@@ -3484,14 +3473,14 @@
   "firm": "GTS",
   "id": "gts",
   "readable": true,
-  "postings_read": 18,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "icims",
     "key": "careers-gtsx.icims.com",
     "ok": true,
-    "count": 18,
+    "count": 17,
     "error": ""
    }
   ],
@@ -3500,37 +3489,37 @@
  {
   "firm": "Guggenheim Partners",
   "id": "guggenheim-partners",
-  "readable": true,
-  "postings_read": 55,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "guggenheim.wd1.myworkdayjobs.com|guggenheim|Guggenheim_Careers",
-    "ok": true,
-    "count": 24,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://guggenheim.wd1.myworkdayjobs.com/wday/cxs/guggenheim/Guggenheim_Careers/jobs"
    },
    {
     "kind": "workday",
     "key": "guggenheim.wd1.myworkdayjobs.com|guggenheim|Guggenheim_Careers_Campus",
-    "ok": true,
-    "count": 5,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://guggenheim.wd1.myworkdayjobs.com/wday/cxs/guggenheim/Guggenheim_Careers_Campus/jobs"
    },
    {
     "kind": "workday",
     "key": "guggenheiminvestment.wd5.myworkdayjobs.com|guggenheiminvestment|External",
-    "ok": true,
-    "count": 20,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://guggenheiminvestment.wd5.myworkdayjobs.com/wday/cxs/guggenheiminvestment/External/jobs"
    },
    {
     "kind": "workday",
     "key": "guggenheim.wd1.myworkdayjobs.com|guggenheim|Guggenheim_Partners",
-    "ok": true,
-    "count": 6,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://guggenheim.wd1.myworkdayjobs.com/wday/cxs/guggenheim/Guggenheim_Partners/jobs"
    }
   ],
   "sample_matches": []
@@ -3538,36 +3527,33 @@
  {
   "firm": "Guidehouse",
   "id": "guidehouse",
-  "readable": true,
-  "postings_read": 78,
-  "matches": 2,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "guidehouse.wd1.myworkdayjobs.com|guidehouse|External",
-    "ok": true,
-    "count": 78,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/External/jobs"
    }
   ],
-  "sample_matches": [
-   "Consulting Analyst - State & Local Government - Campus 2027",
-   "Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Gunvor",
   "id": "gunvor",
-  "readable": true,
-  "postings_read": 21,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "gunvor.wd3.myworkdayjobs.com|gunvor|Gunvor_Careers",
-    "ok": true,
-    "count": 21,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://gunvor.wd3.myworkdayjobs.com/wday/cxs/gunvor/Gunvor_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -3601,16 +3587,16 @@
  {
   "firm": "HarbourVest",
   "id": "harbourvest",
-  "readable": true,
-  "postings_read": 37,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "harbourvest.wd5.myworkdayjobs.com|harbourvest|HVP",
-    "ok": true,
-    "count": 37,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://harbourvest.wd5.myworkdayjobs.com/wday/cxs/harbourvest/HVP/jobs"
    }
   ],
   "sample_matches": []
@@ -3619,14 +3605,14 @@
   "firm": "Harris Associates",
   "id": "harris-associates",
   "readable": true,
-  "postings_read": 8,
+  "postings_read": 9,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "harrisassociates",
     "ok": true,
-    "count": 8,
+    "count": 9,
     "error": ""
    }
   ],
@@ -3635,35 +3621,32 @@
  {
   "firm": "Harris Williams",
   "id": "harris-williams",
-  "readable": true,
-  "postings_read": 14,
-  "matches": 2,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pnc.wd5.myworkdayjobs.com|pnc|HarrisWilliams",
-    "ok": true,
-    "count": 14,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/HarrisWilliams/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 M&A Associate, Richmond",
-   "2027 M&A Associate - Consumer, Minneapolis"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Harrison Street",
   "id": "harrison-street",
   "readable": true,
-  "postings_read": 6,
+  "postings_read": 7,
   "matches": 0,
   "sources": [
    {
     "kind": "lever",
     "key": "harrisonst",
     "ok": true,
-    "count": 6,
+    "count": 7,
     "error": ""
    }
   ],
@@ -3730,30 +3713,30 @@
  {
   "firm": "Houlihan Lokey",
   "id": "houlihan-lokey",
-  "readable": true,
-  "postings_read": 95,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "hl.wd1.myworkdayjobs.com|hl|Campus",
-    "ok": true,
-    "count": 37,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wday/cxs/hl/Campus/jobs"
    },
    {
     "kind": "workday",
     "key": "hl.wd1.myworkdayjobs.com|hl|Lateral",
-    "ok": true,
-    "count": 34,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wday/cxs/hl/Lateral/jobs"
    },
    {
     "kind": "workday",
     "key": "hl.wd1.myworkdayjobs.com|hl|Corporate",
-    "ok": true,
-    "count": 24,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://hl.wd1.myworkdayjobs.com/wday/cxs/hl/Corporate/jobs"
    }
   ],
   "sample_matches": []
@@ -3761,16 +3744,16 @@
  {
   "firm": "Howden",
   "id": "howden",
-  "readable": true,
-  "postings_read": 91,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "hyperiongrp.wd3.myworkdayjobs.com|hyperiongrp|hyperion_external",
-    "ok": true,
-    "count": 91,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://hyperiongrp.wd3.myworkdayjobs.com/wday/cxs/hyperiongrp/hyperion_external/jobs"
    }
   ],
   "sample_matches": []
@@ -3779,7 +3762,7 @@
   "firm": "HSBC",
   "id": "hsbc",
   "readable": true,
-  "postings_read": 506,
+  "postings_read": 507,
   "matches": 0,
   "sources": [
    {
@@ -3793,7 +3776,7 @@
     "kind": "site",
     "key": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
     "ok": true,
-    "count": 506,
+    "count": 507,
     "error": ""
    }
   ],
@@ -3819,16 +3802,16 @@
  {
   "firm": "Huntington National Bank",
   "id": "huntington-national-bank",
-  "readable": true,
-  "postings_read": 71,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "huntington.wd12.myworkdayjobs.com|huntington|HNBcareers",
-    "ok": true,
-    "count": 71,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://huntington.wd12.myworkdayjobs.com/wday/cxs/huntington/HNBcareers/jobs"
    }
   ],
   "sample_matches": []
@@ -3836,34 +3819,32 @@
  {
   "firm": "Huron",
   "id": "huron",
-  "readable": true,
-  "postings_read": 61,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "huron.wd1.myworkdayjobs.com|huron|huroncareers",
-    "ok": true,
-    "count": 61,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs"
    }
   ],
-  "sample_matches": [
-   "Education and Research, Consulting Analyst - Q1 2027 Start Date (December 2026 Graduates)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "IMC Trading",
   "id": "imc-trading",
   "readable": true,
-  "postings_read": 160,
+  "postings_read": 157,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "imc",
     "ok": true,
-    "count": 160,
+    "count": 157,
     "error": ""
    }
   ],
@@ -3889,16 +3870,16 @@
  {
   "firm": "ING",
   "id": "ing",
-  "readable": true,
-  "postings_read": 84,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "ing.wd3.myworkdayjobs.com|ing|ICSGBLCOR",
-    "ok": true,
-    "count": 84,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs"
    }
   ],
   "sample_matches": []
@@ -3947,16 +3928,16 @@
  {
   "firm": "Invesco",
   "id": "invesco",
-  "readable": true,
-  "postings_read": 61,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "invesco.wd1.myworkdayjobs.com|invesco|IVZ",
-    "ok": true,
-    "count": 61,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs"
    }
   ],
   "sample_matches": []
@@ -3982,37 +3963,37 @@
   "firm": "J.P. Morgan",
   "id": "j-p-morgan",
   "readable": true,
-  "postings_read": 177,
-  "matches": 10,
+  "postings_read": 190,
+  "matches": 11,
   "sources": [
    {
     "kind": "oracle",
     "key": "jpmc.fa.oraclecloud.com|CX_1001",
     "ok": true,
-    "count": 177,
+    "count": 190,
     "error": ""
    }
   ],
   "sample_matches": [
+   "Human Resources - United States - 2027 ReEntry Program",
    "2027 Human Resources Analyst Development Program - Full-Time Analyst (New York Metro)",
    "2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Delaware",
    "2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Columbus, OH",
-   "2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Chicago, IL",
-   "2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Plano, TX"
+   "2027 Global Finance & Business Management Analyst Program - Full-time Analyst - Chicago, IL"
   ]
  },
  {
   "firm": "Jane Street",
   "id": "jane-street",
   "readable": true,
-  "postings_read": 220,
+  "postings_read": 217,
   "matches": 6,
   "sources": [
    {
     "kind": "janestreet",
     "key": "main.json",
     "ok": true,
-    "count": 220,
+    "count": 217,
     "error": ""
    }
   ],
@@ -4084,16 +4065,16 @@
  {
   "firm": "JLL",
   "id": "jll",
-  "readable": true,
-  "postings_read": 98,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "jll.wd1.myworkdayjobs.com|jll|jllcareers",
-    "ok": true,
-    "count": 98,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs"
    }
   ],
   "sample_matches": []
@@ -4119,14 +4100,14 @@
   "firm": "Johnson Lambert",
   "id": "johnson-lambert",
   "readable": true,
-  "postings_read": 295,
+  "postings_read": 299,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.johnsonlambert.com/open-positions/",
     "ok": true,
-    "count": 295,
+    "count": 299,
     "error": ""
    }
   ],
@@ -4136,14 +4117,14 @@
   "firm": "Jump Trading",
   "id": "jump-trading",
   "readable": true,
-  "postings_read": 91,
+  "postings_read": 92,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "jumptrading",
     "ok": true,
-    "count": 91,
+    "count": 92,
     "error": ""
    }
   ],
@@ -4153,14 +4134,14 @@
   "firm": "K1 Investment Management",
   "id": "k1-investment-management",
   "readable": true,
-  "postings_read": 75,
+  "postings_read": 73,
   "matches": 1,
   "sources": [
    {
     "kind": "site",
     "key": "https://k1.com/careers/",
     "ok": true,
-    "count": 75,
+    "count": 73,
     "error": ""
    }
   ],
@@ -4172,7 +4153,7 @@
   "firm": "Kearney",
   "id": "kearney",
   "readable": true,
-  "postings_read": 442,
+  "postings_read": 441,
   "matches": 0,
   "sources": [
    {
@@ -4186,7 +4167,7 @@
     "kind": "site",
     "key": "https://www.kearney.com/careers",
     "ok": true,
-    "count": 439,
+    "count": 438,
     "error": ""
    }
   ],
@@ -4195,16 +4176,16 @@
  {
   "firm": "KeyBank",
   "id": "key-bank",
-  "readable": true,
-  "postings_read": 77,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "keybank.wd5.myworkdayjobs.com|keybank|External_Career_Site",
-    "ok": true,
-    "count": 77,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://keybank.wd5.myworkdayjobs.com/wday/cxs/keybank/External_Career_Site/jobs"
    }
   ],
   "sample_matches": []
@@ -4213,14 +4194,14 @@
   "firm": "Keystone",
   "id": "keystone",
   "readable": true,
-  "postings_read": 22,
+  "postings_read": 23,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "keystone",
     "ok": true,
-    "count": 22,
+    "count": 23,
     "error": ""
    }
   ],
@@ -4302,14 +4283,14 @@
   "firm": "KPMG",
   "id": "kpmg",
   "readable": true,
-  "postings_read": 414,
-  "matches": 0,
+  "postings_read": 416,
+  "matches": 1,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.kpmguscareers.com/job-search/",
     "ok": true,
-    "count": 241,
+    "count": 243,
     "error": ""
    },
    {
@@ -4320,7 +4301,9 @@
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Fall 2027"
+  ]
  },
  {
   "firm": "KWC CPAs",
@@ -4343,8 +4326,8 @@
   "firm": "L.E.K. Consulting",
   "id": "l-e-k-consulting",
   "readable": true,
-  "postings_read": 41,
-  "matches": 2,
+  "postings_read": 40,
+  "matches": 3,
   "sources": [
    {
     "kind": "oleeo",
@@ -4357,14 +4340,14 @@
     "kind": "oleeo",
     "key": "https://lek.tal.net/vx/lang-en-GB/mobile-0/system-42/appcentre-1/brand-2/candidate/jobboard/vacancy/1/adv/",
     "ok": true,
-    "count": 17,
+    "count": 13,
     "error": ""
    },
    {
     "kind": "oleeo",
     "key": "https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/3/adv/",
     "ok": true,
-    "count": 12,
+    "count": 15,
     "error": ""
    },
    {
@@ -4377,28 +4360,29 @@
   ],
   "sample_matches": [
    "Paris Office - Life Sciences Specialist (m/f/d) (for PhD and MD applicants only) - March 2027",
-   "Munich Office - Life Sciences Specialist (m/f/d) for PhD and MD applicants only - Start October 2027"
+   "Munich Office - Life Sciences Specialist (m/f/d) for PhD and MD applicants only - Start October 2027",
+   "Kaleidoscope: Undergraduate Program - Virtual 2027"
   ]
  },
  {
   "firm": "Lazard",
   "id": "lazard",
   "readable": true,
-  "postings_read": 219,
-  "matches": 0,
+  "postings_read": 215,
+  "matches": 1,
   "sources": [
    {
     "kind": "oracle",
     "key": "icbpjb.fa.ocs.oraclecloud.com|CX_1",
     "ok": true,
-    "count": 44,
+    "count": 43,
     "error": ""
    },
    {
     "kind": "oracle",
     "key": "icbpjb.fa.ocs.oraclecloud.com|LazardStudentCareers",
     "ok": true,
-    "count": 131,
+    "count": 129,
     "error": ""
    },
    {
@@ -4412,11 +4396,13 @@
     "kind": "oracle",
     "key": "icbpjb.fa.ocs.oraclecloud.com|LazardProfessionalCareers",
     "ok": true,
-    "count": 44,
+    "count": 43,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Lazard Veterans Analyst Program (LVAP)"
+  ]
  },
  {
   "firm": "Lead Edge Capital",
@@ -4438,16 +4424,16 @@
  {
   "firm": "Leerink Partners",
   "id": "leerink-partners",
-  "readable": true,
-  "postings_read": 16,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "leerink.wd5.myworkdayjobs.com|leerink|leerinkpartners",
-    "ok": true,
-    "count": 16,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leerink.wd5.myworkdayjobs.com/wday/cxs/leerink/leerinkpartners/jobs"
    }
   ],
   "sample_matches": []
@@ -4473,14 +4459,14 @@
   "firm": "Lincoln International",
   "id": "lincoln-international",
   "readable": true,
-  "postings_read": 37,
+  "postings_read": 35,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "lincolninternational",
     "ok": true,
-    "count": 37,
+    "count": 35,
     "error": ""
    }
   ],
@@ -4507,14 +4493,14 @@
   "firm": "Lloyds Banking Group",
   "id": "lloyds-banking-group",
   "readable": true,
-  "postings_read": 8,
+  "postings_read": 10,
   "matches": 0,
   "sources": [
    {
     "kind": "icims",
     "key": "careers-lbusa.icims.com",
     "ok": true,
-    "count": 8,
+    "count": 10,
     "error": ""
    }
   ],
@@ -4524,14 +4510,14 @@
   "firm": "LLR Partners",
   "id": "llr-partners",
   "readable": true,
-  "postings_read": 9,
+  "postings_read": 8,
   "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "llrpartnersjobs",
     "ok": true,
-    "count": 9,
+    "count": 8,
     "error": ""
    }
   ],
@@ -4601,7 +4587,7 @@
   "firm": "Lumsden McCormick CPA",
   "id": "lumsden-mccormick-cpa",
   "readable": true,
-  "postings_read": 305,
+  "postings_read": 303,
   "matches": 0,
   "sources": [
    {
@@ -4615,7 +4601,7 @@
     "kind": "site",
     "key": "https://lumsdencpa.com/careers",
     "ok": true,
-    "count": 305,
+    "count": 303,
     "error": ""
    }
   ],
@@ -4665,32 +4651,26 @@
  {
   "firm": "M&T Bank",
   "id": "m-t-bank",
-  "readable": true,
-  "postings_read": 114,
-  "matches": 22,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "mtb.wd5.myworkdayjobs.com|mtb|MTB",
-    "ok": true,
-    "count": 55,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/MTB/jobs"
    },
    {
     "kind": "workday",
     "key": "mtb.wd5.myworkdayjobs.com|mtb|Campus",
-    "ok": true,
-    "count": 59,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/Campus/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 Executive Associate Program - Audit",
-   "2027 Technology Development Program - Cybersecurity (Insider Threat)",
-   "2027 Technology Development Program - Cybersecurity (Encryption Services)",
-   "2027 Technology Development Program - Operating Systems Engineer",
-   "2027 Community Branch Management Program - Philadelphia Metro"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "M. Klein & Company",
@@ -4764,14 +4744,14 @@
   "firm": "Marshall Wace",
   "id": "marshall-wace",
   "readable": true,
-  "postings_read": 6,
+  "postings_read": 5,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "marshallwace",
     "ok": true,
-    "count": 1,
+    "count": 0,
     "error": ""
    },
    {
@@ -4788,14 +4768,14 @@
   "firm": "MarshBerry",
   "id": "marshberry",
   "readable": true,
-  "postings_read": 19,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "ukg",
     "key": "recruiting.ultipro.com|MAR1036MBCI|0127d5ea-e4e8-48ee-a74a-cc71dcd13133",
     "ok": true,
-    "count": 19,
+    "count": 17,
     "error": ""
    }
   ],
@@ -4804,32 +4784,34 @@
  {
   "firm": "Maven Securities",
   "id": "maven-securities",
-  "readable": false,
-  "postings_read": 0,
-  "matches": 0,
+  "readable": true,
+  "postings_read": 1,
+  "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "emergingtalent",
     "ok": true,
-    "count": 0,
+    "count": 1,
     "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "Graduate Floor Trader 2027"
+  ]
  },
  {
   "firm": "Maxwell Locke & Ritter",
   "id": "maxwell-locke-ritter",
   "readable": true,
-  "postings_read": 79,
+  "postings_read": 78,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.mlrpc.com/careers/",
     "ok": true,
-    "count": 79,
+    "count": 78,
     "error": ""
    }
   ],
@@ -4880,14 +4862,14 @@
   "firm": "Mesirow",
   "id": "mesirow",
   "readable": true,
-  "postings_read": 18,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "ukg",
     "key": "recruiting2.ultipro.com|MES1003MFAC|69451223-cdce-4faf-9407-23a2cd5ac83b",
     "ok": true,
-    "count": 18,
+    "count": 17,
     "error": ""
    }
   ],
@@ -4927,16 +4909,16 @@
  {
   "firm": "Mizuho",
   "id": "mizuho",
-  "readable": true,
-  "postings_read": 38,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "mizuho.wd1.myworkdayjobs.com|mizuho|mizuho_confidential",
-    "ok": true,
-    "count": 38,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuho_confidential/jobs"
    }
   ],
   "sample_matches": []
@@ -4969,29 +4951,29 @@
   "firm": "Moelis & Co",
   "id": "moelis-co",
   "readable": true,
-  "postings_read": 78,
+  "postings_read": 52,
   "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/adv/",
     "ok": true,
-    "count": 28,
+    "count": 26,
     "error": ""
    },
    {
     "kind": "oleeo",
     "key": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
     "ok": true,
-    "count": 28,
+    "count": 26,
     "error": ""
    },
    {
     "kind": "workday",
     "key": "moelis.wd1.myworkdayjobs.com|moelis|Experienced-Hires",
-    "ok": true,
-    "count": 22,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://moelis.wd1.myworkdayjobs.com/wday/cxs/moelis/Experienced-Hires/jobs"
    }
   ],
   "sample_matches": [
@@ -5003,14 +4985,14 @@
   "firm": "Moody's",
   "id": "moody-s",
   "readable": true,
-  "postings_read": 1340,
+  "postings_read": 1298,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://careers.moodys.com/en/search-jobs",
     "ok": true,
-    "count": 1340,
+    "count": 1298,
     "error": ""
    }
   ],
@@ -5079,16 +5061,16 @@
  {
   "firm": "Morningstar",
   "id": "morningstar",
-  "readable": true,
-  "postings_read": 58,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "morningstar.wd5.myworkdayjobs.com|morningstar|morningstar",
-    "ok": true,
-    "count": 58,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/morningstar/jobs"
    }
   ],
   "sample_matches": []
@@ -5113,23 +5095,23 @@
  {
   "firm": "MUFG",
   "id": "mufg",
-  "readable": true,
-  "postings_read": 101,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-Careers",
-    "ok": true,
-    "count": 75,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MUFG-Careers/jobs"
    },
    {
     "kind": "workday",
     "key": "mufgub.wd3.myworkdayjobs.com|mufgub|MUFG-EarlyCareers",
-    "ok": true,
-    "count": 26,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MUFG-EarlyCareers/jobs"
    }
   ],
   "sample_matches": []
@@ -5161,16 +5143,16 @@
  {
   "firm": "Nationwide Mutual Insurance Company",
   "id": "nationwide-mutual-insurance-company",
-  "readable": true,
-  "postings_read": 59,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "nationwide.wd1.myworkdayjobs.com|nationwide|Nationwide_Career",
-    "ok": true,
-    "count": 59,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career/jobs"
    }
   ],
   "sample_matches": []
@@ -5261,21 +5243,21 @@
   "firm": "Nomura",
   "id": "nomura",
   "readable": true,
-  "postings_read": 92,
+  "postings_read": 96,
   "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/1/adv/",
     "ok": true,
-    "count": 46,
+    "count": 48,
     "error": ""
    },
    {
     "kind": "oleeo",
     "key": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/candidate/jobboard/vacancy/2/adv/",
     "ok": true,
-    "count": 46,
+    "count": 48,
     "error": ""
    }
   ],
@@ -5351,16 +5333,16 @@
  {
   "firm": "Northwestern Mutual",
   "id": "northwestern-mutual",
-  "readable": true,
-  "postings_read": 26,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "northwesternmutual.wd5.myworkdayjobs.com|northwesternmutual|CORPORATE-CAREERS",
-    "ok": true,
-    "count": 26,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://northwesternmutual.wd5.myworkdayjobs.com/wday/cxs/northwesternmutual/CORPORATE-CAREERS/jobs"
    }
   ],
   "sample_matches": []
@@ -5402,16 +5384,16 @@
  {
   "firm": "Oaktree Capital Management",
   "id": "oaktree-capital-management",
-  "readable": true,
-  "postings_read": 24,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "oaktree.wd1.myworkdayjobs.com|oaktree|Oaktree",
-    "ok": true,
-    "count": 24,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oaktree.wd1.myworkdayjobs.com/wday/cxs/oaktree/Oaktree/jobs"
    }
   ],
   "sample_matches": []
@@ -5451,14 +5433,14 @@
   "firm": "Old Mission",
   "id": "old-mission",
   "readable": true,
-  "postings_read": 38,
+  "postings_read": 42,
   "matches": 0,
   "sources": [
    {
     "kind": "ashby",
     "key": "old-mission-capital",
     "ok": true,
-    "count": 38,
+    "count": 42,
     "error": ""
    }
   ],
@@ -5467,42 +5449,40 @@
  {
   "firm": "Oliver Wyman",
   "id": "oliver-wyman",
-  "readable": true,
-  "postings_read": 213,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "mmc.wd1.myworkdayjobs.com|mmc|MMC",
-    "ok": true,
-    "count": 116,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/MMC/jobs"
    },
    {
     "kind": "workday",
     "key": "mmc.wd1.myworkdayjobs.com|mmc|careers",
-    "ok": true,
-    "count": 97,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/careers/jobs"
    }
   ],
-  "sample_matches": [
-   "Marsh People and Investments Executive Rewards Analyst- Louisville- College Program 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "OMERS",
   "id": "omers",
-  "readable": true,
-  "postings_read": 32,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "omers.wd3.myworkdayjobs.com|omers|OMERS_External",
-    "ok": true,
-    "count": 32,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://omers.wd3.myworkdayjobs.com/wday/cxs/omers/OMERS_External/jobs"
    }
   ],
   "sample_matches": []
@@ -5535,14 +5515,14 @@
   "firm": "Optiver",
   "id": "optiver",
   "readable": true,
-  "postings_read": 152,
+  "postings_read": 151,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "optiverus",
     "ok": true,
-    "count": 152,
+    "count": 151,
     "error": ""
    }
   ],
@@ -5552,14 +5532,14 @@
   "firm": "Orion Group",
   "id": "orion-group",
   "readable": true,
-  "postings_read": 12,
+  "postings_read": 13,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "oriongroup",
     "ok": true,
-    "count": 12,
+    "count": 13,
     "error": ""
    }
   ],
@@ -5568,16 +5548,16 @@
  {
   "firm": "OTPP",
   "id": "otpp",
-  "readable": true,
-  "postings_read": 32,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "otppb.wd3.myworkdayjobs.com|otppb|OntarioTeachers_Careers",
-    "ok": true,
-    "count": 32,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://otppb.wd3.myworkdayjobs.com/wday/cxs/otppb/OntarioTeachers_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -5585,16 +5565,16 @@
  {
   "firm": "Oxford Properties Group",
   "id": "oxford-properties-group",
-  "readable": true,
-  "postings_read": 32,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "omers.wd3.myworkdayjobs.com|omers|OMERS_External",
-    "ok": true,
-    "count": 32,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://omers.wd3.myworkdayjobs.com/wday/cxs/omers/OMERS_External/jobs"
    }
   ],
   "sample_matches": []
@@ -5620,14 +5600,14 @@
   "firm": "Partners Group",
   "id": "partners-group",
   "readable": true,
-  "postings_read": 94,
+  "postings_read": 92,
   "matches": 0,
   "sources": [
    {
     "kind": "oracle",
     "key": "fa-eugx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1001",
     "ok": true,
-    "count": 94,
+    "count": 92,
     "error": ""
    }
   ],
@@ -5637,14 +5617,14 @@
   "firm": "Pathstone",
   "id": "pathstone",
   "readable": true,
-  "postings_read": 29,
+  "postings_read": 26,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "pathstone",
     "ok": true,
-    "count": 29,
+    "count": 26,
     "error": ""
    }
   ],
@@ -5653,23 +5633,23 @@
  {
   "firm": "PEAK6",
   "id": "peak6",
-  "readable": true,
-  "postings_read": 23,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "peak6group.wd1.myworkdayjobs.com|peak6group|PEAK6",
-    "ok": true,
-    "count": 16,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://peak6group.wd1.myworkdayjobs.com/wday/cxs/peak6group/PEAK6/jobs"
    },
    {
     "kind": "workday",
     "key": "peak6group.wd1.myworkdayjobs.com|peak6group|CapMan",
-    "ok": true,
-    "count": 7,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://peak6group.wd1.myworkdayjobs.com/wday/cxs/peak6group/CapMan/jobs"
    }
   ],
   "sample_matches": []
@@ -5678,14 +5658,14 @@
   "firm": "Perella Weinberg Partners",
   "id": "perella-weinberg-partners",
   "readable": true,
-  "postings_read": 7,
+  "postings_read": 5,
   "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/adv/",
     "ok": true,
-    "count": 7,
+    "count": 5,
     "error": ""
    }
   ],
@@ -5728,16 +5708,16 @@
  {
   "firm": "PGIM",
   "id": "pgim",
-  "readable": true,
-  "postings_read": 50,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pru.wd5.myworkdayjobs.com|pru|Careers",
-    "ok": true,
-    "count": 50,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -5745,16 +5725,16 @@
  {
   "firm": "Phillips Edison & Company",
   "id": "phillips-edison-company",
-  "readable": true,
-  "postings_read": 8,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "phillipsedison.wd503.myworkdayjobs.com|phillipsedison|PECO",
-    "ok": true,
-    "count": 8,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://phillipsedison.wd503.myworkdayjobs.com/wday/cxs/phillipsedison/PECO/jobs"
    }
   ],
   "sample_matches": []
@@ -5762,16 +5742,16 @@
  {
   "firm": "PIMCO",
   "id": "pimco",
-  "readable": true,
-  "postings_read": 68,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pimco.wd1.myworkdayjobs.com|pimco|pimco-careers",
-    "ok": true,
-    "count": 68,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs"
    }
   ],
   "sample_matches": []
@@ -5797,14 +5777,14 @@
   "firm": "Piper Sandler",
   "id": "piper-sandler",
   "readable": true,
-  "postings_read": 38,
+  "postings_read": 37,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pipersandler.wd501.myworkdayjobs.com|pipersandler|Piper_Sandler_Careers",
     "ok": true,
-    "count": 38,
+    "count": 37,
     "error": ""
    }
   ],
@@ -5813,43 +5793,40 @@
  {
   "firm": "PJT Partners",
   "id": "pjt-partners",
-  "readable": true,
-  "postings_read": 40,
-  "matches": 2,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pjtpartners.wd1.myworkdayjobs.com|pjtpartners|Careers",
-    "ok": true,
-    "count": 24,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjobs.com/wday/cxs/pjtpartners/Careers/jobs"
    },
    {
     "kind": "workday",
     "key": "pjtpartners.wd1.myworkdayjobs.com|pjtpartners|Students",
-    "ok": true,
-    "count": 16,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pjtpartners.wd1.myworkdayjobs.com/wday/cxs/pjtpartners/Students/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)",
-   "2027 Full Time Analyst - PJT Camberview (Governance - San Francisco)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "PMCF Investment Banking",
   "id": "pmcf-investment-banking",
-  "readable": true,
-  "postings_read": 66,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "plantemoran.wd1.myworkdayjobs.com|plantemoran|pmexternalcareers",
-    "ok": true,
-    "count": 66,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://plantemoran.wd1.myworkdayjobs.com/wday/cxs/plantemoran/pmexternalcareers/jobs"
    }
   ],
   "sample_matches": []
@@ -5857,16 +5834,16 @@
  {
   "firm": "PNC",
   "id": "pnc",
-  "readable": true,
-  "postings_read": 64,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pnc.wd5.myworkdayjobs.com|pnc|External",
-    "ok": true,
-    "count": 64,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/External/jobs"
    }
   ],
   "sample_matches": []
@@ -5875,14 +5852,14 @@
   "firm": "Point72",
   "id": "point72",
   "readable": true,
-  "postings_read": 199,
+  "postings_read": 197,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "point72",
     "ok": true,
-    "count": 199,
+    "count": 197,
     "error": ""
    }
   ],
@@ -5908,23 +5885,19 @@
  {
   "firm": "Protiviti",
   "id": "protiviti",
-  "readable": true,
-  "postings_read": 53,
-  "matches": 3,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "roberthalf.wd1.myworkdayjobs.com|roberthalf|ProtivitiNA",
-    "ok": true,
-    "count": 53,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/ProtivitiNA/jobs"
    }
   ],
-  "sample_matches": [
-   "Americas Delivery Center Analyst - 2027",
-   "Minneapolis Internal Audit and Financial Advisory Consultant - 2027",
-   "Phoenix Internal Audit and Financial Advisory Consultant - 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Provident Healthcare Partners",
@@ -5977,9 +5950,9 @@
    {
     "kind": "workday",
     "key": "psgequity.wd5.myworkdayjobs.com|psgequity|PSG_External_Careers",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://psgequity.wd5.myworkdayjobs.com/wday/cxs/psgequity/PSG_External_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -5987,16 +5960,16 @@
  {
   "firm": "PSP Investments",
   "id": "psp-investments",
-  "readable": true,
-  "postings_read": 33,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "investpsp.wd3.myworkdayjobs.com|investpsp|psp_careers",
-    "ok": true,
-    "count": 33,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://investpsp.wd3.myworkdayjobs.com/wday/cxs/investpsp/psp_careers/jobs"
    }
   ],
   "sample_matches": []
@@ -6038,16 +6011,16 @@
  {
   "firm": "PwC",
   "id": "pwc",
-  "readable": true,
-  "postings_read": 48,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pwc.wd3.myworkdayjobs.com|pwc|US_Entry_Level_Careers",
-    "ok": true,
-    "count": 48,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/US_Entry_Level_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -6090,14 +6063,14 @@
   "firm": "Quantbot Technologies",
   "id": "quantbot-technologies",
   "readable": true,
-  "postings_read": 6,
+  "postings_read": 3,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "quantbot-technologies",
     "ok": true,
-    "count": 6,
+    "count": 3,
     "error": ""
    }
   ],
@@ -6147,48 +6120,43 @@
  {
   "firm": "Raymond James",
   "id": "raymond-james",
-  "readable": true,
-  "postings_read": 58,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "raymondjames.wd1.myworkdayjobs.com|raymondjames|RaymondJamesCareers",
-    "ok": true,
-    "count": 49,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jobs"
    },
    {
     "kind": "workday",
     "key": "raymondjames.wd1.myworkdayjobs.com|raymondjames|RaymondJamesEarlyCareers",
-    "ok": true,
-    "count": 9,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesEarlyCareers/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 Spring Associate \u2013 Alternative Investments Due Diligence \u2013 St. Petersburg, FL"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "RBC Capital Markets",
   "id": "rbc-capital-markets",
-  "readable": true,
-  "postings_read": 29,
-  "matches": 2,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "rbc.wd3.myworkdayjobs.com|rbc|RBCEARLYTALENT1",
-    "ok": true,
-    "count": 29,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/RBCEARLYTALENT1/jobs"
    }
   ],
-  "sample_matches": [
-   "Business Analyst, RBC Amplify 2027, Vancouver",
-   "Data Engineer, RBC Amplify 2027, Vancouver"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "RDV Corporation",
@@ -6227,16 +6195,16 @@
  {
   "firm": "Regions Bank",
   "id": "regions-bank",
-  "readable": true,
-  "postings_read": 62,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "regions.wd5.myworkdayjobs.com|regions|Regions_Careers",
-    "ok": true,
-    "count": 62,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://regions.wd5.myworkdayjobs.com/wday/cxs/regions/Regions_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -6269,14 +6237,14 @@
   "firm": "Roark Capital Group",
   "id": "roark-capital-group",
   "readable": true,
-  "postings_read": 3,
+  "postings_read": 4,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "roarkcapitalgroup",
     "ok": true,
-    "count": 3,
+    "count": 4,
     "error": ""
    }
   ],
@@ -6286,14 +6254,14 @@
   "firm": "Rockefeller Capital Management",
   "id": "rockefeller-capital-management",
   "readable": true,
-  "postings_read": 27,
+  "postings_read": 28,
   "matches": 0,
   "sources": [
    {
     "kind": "icims",
     "key": "careers-rcm.icims.com",
     "ok": true,
-    "count": 27,
+    "count": 28,
     "error": ""
    }
   ],
@@ -6320,14 +6288,14 @@
   "firm": "Rothschild & Co.",
   "id": "rothschild-co",
   "readable": true,
-  "postings_read": 1,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
     "key": "https://rothschildandco.tal.net/vx/lang-en-GB/appcentre-1/candidate/jobboard/vacancy/1/adv/",
     "ok": true,
-    "count": 1,
+    "count": 17,
     "error": ""
    }
   ],
@@ -6336,41 +6304,39 @@
  {
   "firm": "RSM US",
   "id": "rsm-us",
-  "readable": true,
-  "postings_read": 60,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "rsm.wd1.myworkdayjobs.com|rsm|RSMCareers",
-    "ok": true,
-    "count": 60,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rsm.wd1.myworkdayjobs.com/wday/cxs/rsm/RSMCareers/jobs"
    }
   ],
-  "sample_matches": [
-   "Complex Financial Instruments Consulting Associate - Fall 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "RWE",
   "id": "rwe",
   "readable": true,
-  "postings_read": 367,
+  "postings_read": 357,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://jobs.rwe.com/RWE/search/",
     "ok": true,
-    "count": 88,
+    "count": 76,
     "error": ""
    },
    {
     "kind": "site",
     "key": "https://uk.rwe.com/careers/early-careers/",
     "ok": true,
-    "count": 279,
+    "count": 281,
     "error": ""
    }
   ],
@@ -6380,14 +6346,14 @@
   "firm": "Rystad Energy",
   "id": "rystad-energy",
   "readable": true,
-  "postings_read": 2,
+  "postings_read": 5,
   "matches": 0,
   "sources": [
    {
     "kind": "workable",
     "key": "rystad-energy",
     "ok": true,
-    "count": 2,
+    "count": 5,
     "error": ""
    }
   ],
@@ -6413,16 +6379,16 @@
  {
   "firm": "Santander",
   "id": "santander",
-  "readable": true,
-  "postings_read": 80,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "santander.wd3.myworkdayjobs.com|santander|SantanderCareers",
-    "ok": true,
-    "count": 80,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs"
    }
   ],
   "sample_matches": []
@@ -6465,14 +6431,14 @@
   "firm": "Scotiabank",
   "id": "scotiabank",
   "readable": true,
-  "postings_read": 300,
-  "matches": 2,
+  "postings_read": 299,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://jobs.scotiabank.com/",
     "ok": true,
-    "count": 89,
+    "count": 88,
     "error": ""
    },
    {
@@ -6490,10 +6456,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Customer Care Advisor (Client Experience Centre) Halifax NS - January 2027",
-   "Service Officer (January 2027)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Sculptor Capital Management",
@@ -6505,9 +6468,9 @@
    {
     "kind": "workday",
     "key": "sculptor.wd12.myworkdayjobs.com|sculptor|Sculptor_External_Career_Site",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sculptor.wd12.myworkdayjobs.com/wday/cxs/sculptor/Sculptor_External_Career_Site/jobs"
    }
   ],
   "sample_matches": []
@@ -6549,16 +6512,16 @@
  {
   "firm": "Shell",
   "id": "shell",
-  "readable": true,
-  "postings_read": 68,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "shell.wd3.myworkdayjobs.com|shell|ShellCareers",
-    "ok": true,
-    "count": 68,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs"
    }
   ],
   "sample_matches": []
@@ -6591,7 +6554,7 @@
   "firm": "Simon-Kucher",
   "id": "simon-kucher",
   "readable": true,
-  "postings_read": 343,
+  "postings_read": 347,
   "matches": 0,
   "sources": [
    {
@@ -6605,7 +6568,7 @@
     "kind": "site",
     "key": "https://www.simon-kucher.com/en/careers",
     "ok": true,
-    "count": 343,
+    "count": 347,
     "error": ""
    }
   ],
@@ -6614,16 +6577,16 @@
  {
   "firm": "Sixth Street",
   "id": "sixth-street",
-  "readable": true,
-  "postings_read": 17,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "sixthstreet.wd1.myworkdayjobs.com|sixthstreet|sixthstreetcareers",
-    "ok": true,
-    "count": 17,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sixthstreet.wd1.myworkdayjobs.com/wday/cxs/sixthstreet/sixthstreetcareers/jobs"
    }
   ],
   "sample_matches": []
@@ -6686,9 +6649,9 @@
    {
     "kind": "workday",
     "key": "gordonbrothers.wd1.myworkdayjobs.com|gordonbrothers|Solic_career_pathway",
-    "ok": true,
+    "ok": false,
     "count": 0,
-    "error": ""
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://gordonbrothers.wd1.myworkdayjobs.com/wday/cxs/gordonbrothers/Solic_career_pathway/jobs"
    }
   ],
   "sample_matches": []
@@ -6713,16 +6676,16 @@
  {
   "firm": "SouthState Bank",
   "id": "southstate-bank",
-  "readable": true,
-  "postings_read": 42,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "southstatebank.wd5.myworkdayjobs.com|southstatebank|External",
-    "ok": true,
-    "count": 42,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://southstatebank.wd5.myworkdayjobs.com/wday/cxs/southstatebank/External/jobs"
    }
   ],
   "sample_matches": []
@@ -6765,7 +6728,7 @@
   "firm": "Standard Chartered",
   "id": "standard-chartered",
   "readable": true,
-  "postings_read": 755,
+  "postings_read": 757,
   "matches": 0,
   "sources": [
    {
@@ -6779,7 +6742,7 @@
     "kind": "site",
     "key": "https://www.sc.com/en/global-careers/early-careers/",
     "ok": true,
-    "count": 660,
+    "count": 662,
     "error": ""
    }
   ],
@@ -6789,14 +6752,14 @@
   "firm": "Starwood Capital Group",
   "id": "starwood-capital-group",
   "readable": true,
-  "postings_read": 139,
+  "postings_read": 137,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://jobs.jobvite.com/starwoodcapitalgroup/jobs",
     "ok": true,
-    "count": 19,
+    "count": 17,
     "error": ""
    },
    {
@@ -6836,16 +6799,16 @@
  {
   "firm": "State Street",
   "id": "state-street",
-  "readable": true,
-  "postings_read": 104,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "statestreet.wd1.myworkdayjobs.com|statestreet|Global",
-    "ok": true,
-    "count": 104,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs"
    }
   ],
   "sample_matches": []
@@ -6871,14 +6834,14 @@
   "firm": "Stephens",
   "id": "stephens",
   "readable": true,
-  "postings_read": 20,
+  "postings_read": 22,
   "matches": 0,
   "sources": [
    {
     "kind": "ukg",
     "key": "recruiting2.ultipro.com|STE1004|fbeef081-b55b-0ae3-a2ac-7b4fb3db6826",
     "ok": true,
-    "count": 20,
+    "count": 22,
     "error": ""
    }
   ],
@@ -6907,14 +6870,14 @@
   "firm": "Stifel",
   "id": "stifel",
   "readable": true,
-  "postings_read": 80,
+  "postings_read": 85,
   "matches": 0,
   "sources": [
    {
     "kind": "icims",
     "key": "careers-stifel.icims.com",
     "ok": true,
-    "count": 80,
+    "count": 85,
     "error": ""
    }
   ],
@@ -6940,30 +6903,30 @@
  {
   "firm": "Stout",
   "id": "stout",
-  "readable": true,
-  "postings_read": 77,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "stout.wd5.myworkdayjobs.com|stout|Stout-Careers",
-    "ok": true,
-    "count": 39,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stout.wd5.myworkdayjobs.com/wday/cxs/stout/Stout-Careers/jobs"
    },
    {
     "kind": "workday",
     "key": "stout.wd5.myworkdayjobs.com|stout|Stout-Student-Careers",
-    "ok": true,
-    "count": 3,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stout.wd5.myworkdayjobs.com/wday/cxs/stout/Stout-Student-Careers/jobs"
    },
    {
     "kind": "workday",
     "key": "stout.wd5.myworkdayjobs.com|stout|Stout-Experienced-Careers",
-    "ok": true,
-    "count": 35,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stout.wd5.myworkdayjobs.com/wday/cxs/stout/Stout-Experienced-Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -6972,14 +6935,14 @@
   "firm": "Strategic Investment Group",
   "id": "strategic-investment-group",
   "readable": true,
-  "postings_read": 5,
+  "postings_read": 4,
   "matches": 0,
   "sources": [
    {
     "kind": "bamboo",
     "key": "strategicgroup.bamboohr.com",
     "ok": true,
-    "count": 5,
+    "count": 4,
     "error": ""
    }
   ],
@@ -7041,7 +7004,7 @@
   "id": "susquehanna-international-group",
   "readable": true,
   "postings_read": 60,
-  "matches": 8,
+  "matches": 9,
   "sources": [
    {
     "kind": "icims",
@@ -7055,7 +7018,7 @@
    "Associate Linux/Windows Engineer - New Grad",
    "Associate Network Engineer - New Grad",
    "Compliance Analyst - Operations Analyst Program: August 2027 Start",
-   "End User Services University Co - Op Placement 2027",
+   "Hong Kong Equity Research Discovery Program: April 2027",
    "Hong Kong PhD Discovery Program: April 2027"
   ]
  },
@@ -7063,14 +7026,14 @@
   "firm": "Susser Bank",
   "id": "susser-bank",
   "readable": true,
-  "postings_read": 13,
+  "postings_read": 14,
   "matches": 0,
   "sources": [
    {
     "kind": "ukg",
     "key": "recruiting2.ultipro.com|SUS1004SUSR|e3cec380-56d8-4be1-9958-d9c8c585755d",
     "ok": true,
-    "count": 13,
+    "count": 14,
     "error": ""
    }
   ],
@@ -7080,14 +7043,14 @@
   "firm": "Sweeney Conrad",
   "id": "sweeney-conrad",
   "readable": true,
-  "postings_read": 94,
+  "postings_read": 92,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "ascendtogether",
     "ok": true,
-    "count": 94,
+    "count": 92,
     "error": ""
    }
   ],
@@ -7097,21 +7060,21 @@
   "firm": "Swiss Re",
   "id": "swiss-re",
   "readable": true,
-  "postings_read": 804,
+  "postings_read": 810,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://www.swissre.com/careers/",
     "ok": true,
-    "count": 402,
+    "count": 405,
     "error": ""
    },
    {
     "kind": "site",
     "key": "https://www.swissre.com/careers.html",
     "ok": true,
-    "count": 402,
+    "count": 405,
     "error": ""
    }
   ],
@@ -7120,41 +7083,39 @@
  {
   "firm": "T. Rowe Price",
   "id": "t-rowe-price",
-  "readable": true,
-  "postings_read": 77,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "troweprice.wd5.myworkdayjobs.com|troweprice|TRowePrice",
-    "ok": true,
-    "count": 56,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs"
    },
    {
     "kind": "workday",
     "key": "troweprice.wd5.myworkdayjobs.com|troweprice|TRowePriceInternational",
-    "ok": true,
-    "count": 21,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePriceInternational/jobs"
    }
   ],
-  "sample_matches": [
-   "Associate Sales Consultant (December 2026 & Spring 2027 Graduates)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Talos",
   "id": "talos",
   "readable": true,
-  "postings_read": 19,
+  "postings_read": 20,
   "matches": 0,
   "sources": [
    {
     "kind": "ashby",
     "key": "Talos-Trading",
     "ok": true,
-    "count": 19,
+    "count": 20,
     "error": ""
    }
   ],
@@ -7180,16 +7141,16 @@
  {
   "firm": "TD Securities",
   "id": "td-securities",
-  "readable": true,
-  "postings_read": 87,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "td.wd3.myworkdayjobs.com|td|TD_Bank_Careers",
-    "ok": true,
-    "count": 87,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -7223,23 +7184,23 @@
  {
   "firm": "Texas Capital Bank",
   "id": "texas-capital-bank",
-  "readable": true,
-  "postings_read": 37,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "texascapitalbank.wd12.myworkdayjobs.com|texascapitalbank|Careers",
-    "ok": true,
-    "count": 36,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://texascapitalbank.wd12.myworkdayjobs.com/wday/cxs/texascapitalbank/Careers/jobs"
    },
    {
     "kind": "workday",
     "key": "texascapitalbank.wd12.myworkdayjobs.com|texascapitalbank|College_Career",
-    "ok": true,
-    "count": 1,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://texascapitalbank.wd12.myworkdayjobs.com/wday/cxs/texascapitalbank/College_Career/jobs"
    }
   ],
   "sample_matches": []
@@ -7248,14 +7209,14 @@
   "firm": "The Brattle Group",
   "id": "the-brattle-group",
   "readable": true,
-  "postings_read": 45,
+  "postings_read": 44,
   "matches": 1,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "thebrattlegroup",
     "ok": true,
-    "count": 45,
+    "count": 44,
     "error": ""
    }
   ],
@@ -7317,16 +7278,16 @@
  {
   "firm": "TIAA",
   "id": "tiaa",
-  "readable": true,
-  "postings_read": 49,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "tiaa.wd1.myworkdayjobs.com|tiaa|Search",
-    "ok": true,
-    "count": 49,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs"
    }
   ],
   "sample_matches": []
@@ -7352,14 +7313,14 @@
   "firm": "Tower Research Capital",
   "id": "tower-research-capital",
   "readable": true,
-  "postings_read": 91,
+  "postings_read": 92,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "towerresearchcapital",
     "ok": true,
-    "count": 91,
+    "count": 92,
     "error": ""
    }
   ],
@@ -7402,16 +7363,16 @@
  {
   "firm": "Truist",
   "id": "truist",
-  "readable": true,
-  "postings_read": 64,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "truist.wd1.myworkdayjobs.com|truist|Careers",
-    "ok": true,
-    "count": 64,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -7477,16 +7438,16 @@
  {
   "firm": "U.S. Bank",
   "id": "u-s-bank",
-  "readable": true,
-  "postings_read": 73,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "usbank.wd1.myworkdayjobs.com|usbank|US_Bank_Careers",
-    "ok": true,
-    "count": 73,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -7518,16 +7479,16 @@
  {
   "firm": "Uline",
   "id": "uline",
-  "readable": true,
-  "postings_read": 76,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "uline.wd1.myworkdayjobs.com|uline|Uline_Careers",
-    "ok": true,
-    "count": 76,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://uline.wd1.myworkdayjobs.com/wday/cxs/uline/Uline_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -7586,16 +7547,16 @@
  {
   "firm": "Vanguard",
   "id": "vanguard",
-  "readable": true,
-  "postings_read": 74,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "vanguard.wd5.myworkdayjobs.com|vanguard|vanguard_external",
-    "ok": true,
-    "count": 74,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/vanguard_external/jobs"
    }
   ],
   "sample_matches": []
@@ -7621,14 +7582,14 @@
   "firm": "Varney & Associates",
   "id": "varney-associates",
   "readable": true,
-  "postings_read": 2,
+  "postings_read": 3,
   "matches": 0,
   "sources": [
    {
     "kind": "bamboo",
     "key": "varney.bamboohr.com",
     "ok": true,
-    "count": 2,
+    "count": 3,
     "error": ""
    }
   ],
@@ -7655,14 +7616,14 @@
   "firm": "Virtu Financial",
   "id": "virtu-financial",
   "readable": true,
-  "postings_read": 47,
+  "postings_read": 45,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "virtu",
     "ok": true,
-    "count": 47,
+    "count": 45,
     "error": ""
    }
   ],
@@ -7672,7 +7633,7 @@
   "firm": "Vista Equity Partners",
   "id": "vista-equity-partners",
   "readable": true,
-  "postings_read": 17,
+  "postings_read": 23,
   "matches": 2,
   "sources": [
    {
@@ -7686,14 +7647,14 @@
     "kind": "icims",
     "key": "careers2-vistaequitypartners.icims.com",
     "ok": true,
-    "count": 5,
+    "count": 9,
     "error": ""
    },
    {
     "kind": "icims",
     "key": "careers-vistaequitypartners.icims.com",
     "ok": true,
-    "count": 4,
+    "count": 6,
     "error": ""
    }
   ],
@@ -7855,22 +7816,22 @@
   "firm": "Wells Fargo",
   "id": "wells-fargo",
   "readable": true,
-  "postings_read": 206,
+  "postings_read": 100,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "wd1.myworkdaysite.com|wf|WellsFargoJobs",
     "ok": true,
-    "count": 103,
+    "count": 100,
     "error": ""
    },
    {
     "kind": "workday",
     "key": "wf.wd1.myworkdayjobs.com|wf|wellsfargojobs",
-    "ok": true,
-    "count": 103,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/wellsfargojobs/jobs"
    }
   ],
   "sample_matches": []
@@ -7878,16 +7839,16 @@
  {
   "firm": "Wesleyan University",
   "id": "wesleyan-university",
-  "readable": true,
-  "postings_read": 16,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "wesleyan.wd5.myworkdayjobs.com|wesleyan|careers",
-    "ok": true,
-    "count": 16,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://wesleyan.wd5.myworkdayjobs.com/wday/cxs/wesleyan/careers/jobs"
    }
   ],
   "sample_matches": []
@@ -7896,14 +7857,14 @@
   "firm": "William Blair",
   "id": "william-blair",
   "readable": true,
-  "postings_read": 49,
+  "postings_read": 48,
   "matches": 0,
   "sources": [
    {
     "kind": "greenhouse",
     "key": "williamblair",
     "ok": true,
-    "count": 49,
+    "count": 48,
     "error": ""
    }
   ],
@@ -7913,14 +7874,14 @@
   "firm": "Wintermute",
   "id": "wintermute",
   "readable": true,
-  "postings_read": 19,
+  "postings_read": 18,
   "matches": 0,
   "sources": [
    {
     "kind": "lever",
     "key": "wintermute-trading",
     "ok": true,
-    "count": 19,
+    "count": 18,
     "error": ""
    }
   ],
@@ -7953,16 +7914,16 @@
  {
   "firm": "Withum",
   "id": "withum",
-  "readable": true,
-  "postings_read": 16,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "withum.wd108.myworkdayjobs.com|withum|CR_Career_Site",
-    "ok": true,
-    "count": 16,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://withum.wd108.myworkdayjobs.com/wday/cxs/withum/CR_Career_Site/jobs"
    }
   ],
   "sample_matches": []
@@ -8022,14 +7983,14 @@
   "firm": "Ziegler",
   "id": "ziegler",
   "readable": true,
-  "postings_read": 2,
+  "postings_read": 4,
   "matches": 0,
   "sources": [
    {
     "kind": "adp",
     "key": "43c38b06-45d4-4a3e-b934-7559b88c2d3e",
     "ok": true,
-    "count": 2,
+    "count": 4,
     "error": ""
    }
   ],
