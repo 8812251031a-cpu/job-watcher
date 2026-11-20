@@ -1,4 +1,4 @@
-# Open right now: 77 postings at 33 firms
+# Open right now: 80 postings at 35 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -26,6 +26,10 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 
 ## CBIZ
 - [Forensic Accounting and Litigation Associate | 2027](https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6699) · posted Nov 19
+
+## Cohen & Company
+- [Assurance Staff Accountant, January 2027](https://cohenco.wd108.myworkdayjobs.com/en-US/CC/job/Akron-OH/Assurance-Staff-Accountant--January-2027_JR100422-1) · posted Nov 18
+- [Tax Staff Accountant, January 2027](https://cohenco.wd108.myworkdayjobs.com/en-US/CC/job/Akron-OH/Tax-Staff-Accountant--January-2027_JR100557) · posted Nov 16
 
 ## Deutsche Bank
 - [Deutsche Bank Graduate Program - Investment Bank & Capital Markets: Investment Bank Coverage - New York 2027](https://db.recsolu.com/external/requisitions/JIkU4EX_XpVcHMakTXQZng) · first seen Nov 8
@@ -125,6 +129,9 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 - [Customer Care Advisor, Bilingual (French/English) (Client Experience Center) Ottawa - January 2027](https://jobs.scotiabank.com/job/Ottawa-Customer-Care-Advisor%2C-Bilingual-%28FrenchEnglish%29-%28Client-Experience-Center%29-Ottawa-January-2027-ON/608122417/) · first seen Nov 18
 - [Conseiller.ère au service à la clientèle bilingue (français et anglais) Janvier 2027](https://jobs.scotiabank.com/job/Ottawa-Conseiller_%C3%A8re-au-service-%C3%A0-la-client%C3%A8le-bilingue-%28fran%C3%A7ais-et-anglais%29-Janvier-2027-ON/608122517/) · first seen Nov 18
 
+## SouthState Bank
+- [January 2027 Cohort: Commercial Banking Associate (Charlotte)](https://southstatebank.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-110-East/January-2027-Cohort--Commercial-Banking-Associate--Charlotte-_R-06690) · posted Nov 19
+
 ## Susquehanna International Group
 - [Hong Kong Equity Research Discovery Program: April 2027](https://careers-sig.icims.com/jobs/13202/hong-kong-equity-research-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
 - [Hong Kong Quantitative Trading and Quantitative Strategy Development Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11193/hong-kong-quantitative-trading-and-quantitative-strategy-development-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
@@ -145,7 +152,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 143 firms the watcher can't read
+## Check these yourself: 139 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -156,11 +163,9 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **AllianceBernstein** · [careers site](https://www.alliancebernstein.com/corporate/en/careers/students.html) · site blocks automated checks
 - **AlphaSights** · [careers site](https://www.alphasights.com/careers/students-and-interns/) · site blocks automated checks
 - **Alvarez & Marsal** · [careers site](https://careers.alvarezandmarsal.com/) · site blocks automated checks
-- **Apollo Global Management** · [careers site](https://www.apollo.com/careers) · site blocks automated checks
 - **Ardian** · [careers site](https://careers.ardian.com/en-GB) · site blocks automated checks
 - **Ares Management** · [careers site](https://www.ares.com/careers) · site blocks automated checks
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
-- **Arrowstreet Capital** · [careers site](https://www.arrowstreetcapital.com/student-careers) · site blocks automated checks
 - **Bain & Company** · [careers site](https://www.bain.com/careers/work-with-us/students/) · site blocks automated checks
 - **Bain Capital** · [careers site](https://www.baincapital.com/careers) · site blocks automated checks
 - **Baker Tilly** · [careers site](https://bakertilly.wd5.myworkdayjobs.com/BTCareers) · site blocks automated checks
@@ -190,7 +195,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Citi** · [careers site](https://careers.citigroup.com/students-and-graduates/) · site blocks automated checks
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
 - **CNO Financial Group** · [careers site](https://careers.cnoinc.com/career-areas) · site blocks automated checks
-- **Cohen & Company** · [careers site](https://www.cohenco.com/careers) · site blocks automated checks
 - **Columbia Threadneedle Investments** · [careers site](https://www.columbiathreadneedle.co.uk/en/intm/careers/) · site blocks automated checks
 - **Connor Group** · [careers site](https://www.connorgp.com/career/students-and-interns) · site blocks automated checks
 - **Corient** · [careers site](https://corient.com/us/en/careers) · site blocks automated checks
@@ -202,7 +206,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **EY** · [careers site](https://www.ey.com/en_uk/careers/students/programmes) · job-site link is broken or moved
 - **Fifth Third Bank** · [careers site](https://www.53.com/content/fifth-third/en/careers/early-careers.html) · site blocks automated checks
 - **FMI Capital Advisors** · [careers site](https://fmicorp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **FTI Consulting** · [careers site](https://www.fticonsulting.com/careers) · site blocks automated checks
 - **Geffen Mesher** · [careers site](https://gmco.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Global Atlantic** · [careers site](https://www.globalatlantic.com/careers) · job-site link is broken or moved
 - **Greenhill** · [careers site](https://greenhill.freshminds.co.uk/) · site blocks automated checks
@@ -251,7 +254,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PGIM** · [careers site](https://www.pgim.com/gb/en/institutional/about/careers) · site blocks automated checks
 - **PIMCO** · [careers site](https://www.pimco.co.uk/en-gb/our-firm/careers/students) · site blocks automated checks
-- **Piper Sandler** · [careers site](https://www.pipersandler.com/careers/students) · site blocks automated checks
 - **PJT Partners** · [careers site](https://pjtpartners.com/careers) · site blocks automated checks
 - **PMCF Investment Banking** · [careers site](https://pmcf.com/careers/) · site blocks automated checks
 - **PNC** · [careers site](https://careers.pnc.com/global/en/students) · site blocks automated checks
@@ -268,20 +270,21 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **RSM US** · [careers site](https://rsmus.com/careers.html) · site blocks automated checks
 - **Santander** · [careers site](https://www.santander.com/en/careers/where-you-want-to-create-an-impact/corporate---investment-banking) · site blocks automated checks
 - **SBF Advisors** · [careers site](https://sbfadvisors.com/careers/) · site couldn't be reached securely
-- **Sculptor Capital Management** · [careers site](https://www.sculptor.com/careers/internships) · site blocks automated checks
 - **Sensiba** · [careers site](https://sensiba.com/careers/student-opportunities) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Shell** · [careers site](https://www.shell.com/careers/about-careers-at-shell/early-careers.html) · site blocks automated checks
 - **Sixth Street** · [careers site](https://sixthstreet.com/careers) · site blocks automated checks
 - **SOLIC Capital Advisors** · [careers site](https://www.soliccapital.com/careers) · site blocks automated checks
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **SouthState Bank** · [careers site](https://careers.southstatebank.com/us/en/home) · site blocks automated checks
+- **Sower Investment Partners** · [careers site](https://sower.com/) · site blocks automated checks
 - **State Street** · [careers site](https://careers.statestreet.com/global/en/state-street-early-careers) · site blocks automated checks
+- **Stout** · [careers site](https://www.stout.com/en/careers) · site blocks automated checks
 - **T. Rowe Price** · [careers site](https://www.troweprice.com/en/us/careers) · site blocks automated checks
 - **TD Securities** · [careers site](https://careers.td.com/) · site blocks automated checks
 - **Temasek** · [careers site](https://www.temasek.com.sg/en/about-us/careers) · site blocks automated checks
 - **Tessaro Quant Research** · no link in the config · no job site in the config
 - **Texas Capital Bank** · [careers site](https://www.texascapitalbank.com/who-we-are/careers) · site blocks automated checks
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
+- **TIAA** · [careers site](https://careers.tiaa.org/earlytalent) · site blocks automated checks
 - **Tidal Partners** · [careers site](https://www.tidalpartners.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Truist** · [careers site](https://careers.truist.com/us/en) · site blocks automated checks
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
