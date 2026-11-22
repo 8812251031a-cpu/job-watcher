@@ -44,8 +44,34 @@ EXCLUDE = re.compile(r"summer|\bintern\b|\binterns\b|internship|co-?op|apprentic
                      r"director|manager|principal|\blead\b|head of|managing", re.I)
 
 
+# AI, data center, power and energy-transition roles. These count even without "2027" or a
+# full-time sign, as long as the title is an analyst/associate-level or early-career role and not
+# an engineering, trades or IT job. Covers banks, investors, advisors, consultants, developers
+# and tech firms alike.
+THEME = re.compile(r"data[\s\-]?cent(er|re)s?|digital infra|\bAI\b|artificial intelligence|infrastructure|"
+                   r"\binfra\b|energy|power|renewable|solar|\bwind\b|storage|batter(y|ies)|utilit(y|ies)|"
+                   r"electrifi|\bgrid\b|transmission|interconnect|decarboni|climate|sustainab|clean[\s\-]?tech|"
+                   r"carbon|hydrogen|nuclear|geothermal|project finance|real assets|natural resources|"
+                   r"\bP&U\b|\bPUI\b|site (acquisition|selection)|land acquisition|capacity planning", re.I)
+THEME_ROLE = re.compile(r"\banalyst\b|\bassociate\b|new[\s\-]?grad|early[\s\-]?career|university grad|"
+                        r"graduate|rotation(al)?|development program|leadership program|fellow(ship)?\b", re.I)
+THEME_EXCLUDE = re.compile(r"engineer|technician|electrician|mechanic|operator|machinist|lineman|lineworker|"
+                           r"scientist|architect|designer|developer advocate|software|\bIT\b|cyber|security|"
+                           r"network|cloud|help ?desk|service desk|systems analyst|\bSOC\b|attorney|counsel|"
+                           r"paralegal|accountant|accounting|audit|\btax\b|payroll|recruit|\bHR\b|human resources|"
+                           r"marketing|nurse|driver|warehouse|automation|^technology\b|\bsr\.?\b|\bIII\b|\bIV\b", re.I)
+
+
+def is_theme(title):
+    """True for an early-career AI, data center, power or energy-transition role."""
+    t = " ".join(title.split())
+    return bool(THEME.search(t) and THEME_ROLE.search(t) and not THEME_EXCLUDE.search(t)
+                and not EXCLUDE.search(t) and not LATER.search(t))
+
+
 def is_match(title):
-    """True for titles that say 2027, or that read like a full-time analyst program.
+    """True for titles that say 2027, that read like a full-time analyst program, or that are
+    early-career AI / data center / energy roles (is_theme).
     Internships and senior roles are always left out."""
     t = " ".join(title.split())
     if EXCLUDE.search(t):
@@ -54,7 +80,7 @@ def is_match(title):
         return True
     if LATER.search(t):
         return False
-    return bool(FULLTIME.search(t) and ROLE.search(t))
+    return bool(FULLTIME.search(t) and ROLE.search(t)) or is_theme(t)
 
 
 # ---------------------------------------------------------------- location filter
@@ -165,7 +191,8 @@ def a_workday(key):
     host, tenant, site = key.split("|")
     api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     jobs, seen = [], set()
-    for q, pages in (("2027", 5), ("full time analyst", 2), ("analyst program", 1), ("", 1)):
+    for q, pages in (("2027", 5), ("full time analyst", 2), ("analyst program", 1), ("", 1),
+                     ("data center", 1), ("energy analyst", 1), ("infrastructure analyst", 1), ("renewable", 1)):
         for page in range(pages):
             body = {"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": q}
             data = post(api, json=body, headers={"Accept": "application/json"}).json()
@@ -569,12 +596,15 @@ def main():
     total = sum(len(v) for v in current.values())
     with open(os.path.join(DATA, "open_now.md"), "w") as fh:
         fh.write(f"# Open right now: {total} postings at {len(current)} firms\n\n"
-                 "Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong "
+                 "Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in "
+                 "AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong "
                  "(postings with no location listed are included), posted in the last 14 days. Postings with no posting date "
                  "count from the day the watcher first saw them. Internships and senior roles are left out. "
                  "Refreshed on every check.\n\n")
         for f in sorted(current, key=str.lower):
-            fh.write(f"## {f}\n" + "".join(f"- [{m['title']}]({m['url']}) · {age_label(m)}\n" for m in current[f]) + "\n")
+            fh.write(f"## {f}\n" + "".join(
+                f"- [{m['title']}]({m['url']}) · {age_label(m)}{' · AI/energy infra' if is_theme(m['title']) else ''}\n"
+                for m in current[f]) + "\n")
 
     topic = os.environ.get("NTFY_TOPIC", "")
     if quiet:
