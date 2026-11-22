@@ -114,7 +114,8 @@ ELSEWHERE = re.compile(
     r"toronto|canada|montreal|vancouver|calgary|mexico|s(?:ã|a)o paulo|brazil|buenos aires|bogot|santiago|lima|"
     r"johannesburg|south africa|taipei|taiwan|macau|macao|manila|philippines|jakarta|indonesia|kuala lumpur|malaysia|"
     r"bangkok|thailand|vietnam|budapest|bucharest|krak(?:ó|o)w|northampton|leeds|\bEMEA\b|\bLDN\b|\bAMS\b|"
-    r"\bSGP\b|cayman|bermuda|jersey channel|guernsey", re.I)
+    r"\bSGP\b|cayman|bermuda|jersey channel|guernsey|\bessen\b|dortmund|cologne|k(?:ö|oe|o)ln|"
+    r"\b[dm]\s?/\s?[fwm]\s?/\s?[dfmw]\b", re.I)
 
 
 def location_ok(j):
