@@ -1,4 +1,4 @@
-# Open right now: 91 postings at 42 firms
+# Open right now: 89 postings at 41 firms
 
 Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -29,6 +29,11 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## BlackRock
 - [Analyst Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11985-2028-Full-Time-Analyst-Program-APAC/en-GB) · first seen Nov 8
 - [Analyst Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11983-2027-Full-Time-Analyst-Program-APAC/en-GB) · first seen Nov 8
+
+## Brookfield
+- [Associate, Infrastructure AI](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/Associate--Infrastructure-AI_R2052872) · first seen Nov 22 · AI/energy infra
+- [Associate, Investments (Energy)](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/Associate--Investments--Energy-_R2051526) · first seen Nov 22 · AI/energy infra
+- [Associate, Investor Relations (Energy)](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/Associate--Investor-Relations--Energy-_R2051516) · first seen Nov 22 · AI/energy infra
 
 ## CBIZ
 - [Forensic Accounting and Litigation Associate | 2027](https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6699) · posted Nov 19
@@ -64,9 +69,6 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 
 ## Graham Partners
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
-
-## Guidehouse
-- [Consultant - Revenue Cycle, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---IL-Chicago/Consultant---Revenue-Cycle--Provider-Advisory---Campus-2027_46645) · posted Nov 13
 
 ## J.P. Morgan
 - [Human Resources - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809250) · posted Nov 20
@@ -135,14 +137,8 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 - [Analyst, Project Finance - Solect Energy](https://careers-patternenergy.icims.com/jobs/3528/analyst%2c-project-finance---solect-energy/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 - [Energy Risk Analyst](https://careers-patternenergy.icims.com/jobs/3483/energy-risk-analyst/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 
-## PJT Partners
-- [Associate - Strategic Advisory (Power, Utilities & Renewables)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Careers/job/New-York/Associate---Strategic-Advisory--Power--Utilities---Renewables-_R0003518) · first seen Nov 22 · AI/energy infra
-- [2027 Full Time Analyst - PJT Camberview (Strategic Investor Relations)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/New-York/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003476) · first seen Nov 8
-- [2027 Full Time Analyst - PJT Camberview (Governance - San Francisco)](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/San-Francisco/XMLNAME-2027-Full-Time-Analyst---PJT-Camberview--Governance---San-Francisco-_R0003478) · first seen Nov 8
-
-## Raymond James
-- [2027 Investment Banking Analyst I Diversified Industrials New York, NY](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/XMLNAME-2027-Investment-Banking-Analyst-I-Diversified-Industrials-New-York--NY_R-0013958) · posted Nov 20
-- [2027 Investment Banking Analyst I Private Capital Advisory New York, NY](https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/XMLNAME-2027-Investment-Banking-Analyst-I-Private-Capital-Advisory-New-York--NY_R-0012145) · posted Nov 13
+## RSM US
+- [Assurance Associate - Fall 2027](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/St-Louis/Assurance-Associate---Fall-2027_JR118612-1) · posted Nov 19
 
 ## Scotiabank
 - [Analyst, Investment Banking, Energy](https://jobs.scotiabank.com/job/Houston-Analyst%2C-Investment-Banking%2C-Energy-TX-77002/606429217/) · first seen Nov 22 · AI/energy infra
@@ -177,7 +173,7 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## Wood Mackenzie
 - [Featured event North American Power & Renewables Forum 2027 April 28-29, 2027, Omni Interlocken Hotel, Denver, CO Find out more](https://www.woodmac.com/events/north-american-power-renewables-forum/) · first seen Nov 22
 
-## Check these yourself: 166 firms the watcher can't read
+## Check these yourself: 164 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -210,7 +206,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **bp** · [careers site](https://careers.bp.com/early-careers) · site blocks automated checks
 - **BRG** · [careers site](https://www.thinkbrg.com/careers/global-careers/) · site blocks automated checks
 - **Brio Real Estate** · [careers site](https://www.briore.com/careers) · site blocks automated checks
-- **Brookfield** · [careers site](https://www.brookfield.com/careers) · site blocks automated checks
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
 - **Caldwell Bray Securities** · no link in the config · no job site in the config
 - **Campbell Lutyens** · [careers site](https://www.campbell-lutyens.com/careers/graduate-programme/) · site couldn't be reached securely
@@ -235,9 +230,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Constellation Energy** · [careers site](https://www.constellationenergy.com/careers.html) · job-site link is broken or moved
 - **Copenhagen Infrastructure Partners** · [careers site](https://cip.com/careers/) · job-site link is broken or moved
 - **Corient** · [careers site](https://corient.com/us/en/careers) · site blocks automated checks
-- **Cornerstone Research** · [careers site](https://www.cornerstone.com/careers/) · site blocks automated checks
 - **Crowe** · [careers site](https://www.crowe.com/uk/careers/early-careers) · site blocks automated checks
-- **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · site blocks automated checks
 - **Energy Capital Partners** · [careers site](https://www.ecpgp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
 - **Enterprise Mobility** · [careers site](https://www.enterprisemobility.com/en/careers.html) · site blocks automated checks
@@ -257,7 +250,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Greystar** · [careers site](https://jobs.greystar.com/early-careers) · site blocks automated checks
 - **Greystone** · [careers site](https://www.greystone.com/) · site blocks automated checks
 - **GTCR** · [careers site](https://www.gtcr.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Guggenheim Partners** · [careers site](https://www.guggenheimpartners.com/firm/careers) · site blocks automated checks
+- **Guidehouse** · [careers site](https://guidehouse.com/careers/students) · site blocks automated checks
 - **Gunvor** · [careers site](https://gunvorgroup.com/careers/) · site blocks automated checks
 - **Halvorsen Capital Partners** · no link in the config · no job site in the config
 - **Hamilton Lane** · [careers site](https://www.hamiltonlane.com/en-us/careers/entry-level-programs) · job-site link is broken or moved
@@ -304,6 +297,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **PGIM** · [careers site](https://www.pgim.com/gb/en/institutional/about/careers) · site blocks automated checks
 - **PIMCO** · [careers site](https://www.pimco.co.uk/en-gb/our-firm/careers/students) · site blocks automated checks
 - **Piper Sandler** · [careers site](https://www.pipersandler.com/careers/students) · site blocks automated checks
+- **PJT Partners** · [careers site](https://pjtpartners.com/careers) · site blocks automated checks
 - **PMCF Investment Banking** · [careers site](https://pmcf.com/careers/) · site blocks automated checks
 - **PNC** · [careers site](https://careers.pnc.com/global/en/students) · site blocks automated checks
 - **Protiviti** · [careers site](https://www.protiviti.com/uk-en/careers) · site blocks automated checks
@@ -312,12 +306,12 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **PwC** · [careers site](https://www.pwc.co.uk/careers/early-careers.html) · site blocks automated checks
 - **QTS Data Centers** · [careers site](https://qtsdatacenters.com/careers) · site blocks automated checks
 - **Rabobank** · [careers site](https://www.rabobank.co.uk/about-us/careers) · site blocks automated checks
+- **Raymond James** · [careers site](https://www.raymondjames.com/careers/students-and-recent-grads) · site blocks automated checks
 - **RBC Capital Markets** · [careers site](https://www.rbccm.com/en/careers) · site blocks automated checks
 - **Readystate** · [careers site](https://www.readyx.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Regions Bank** · [careers site](https://careers.regions.com/us/en/interns-and-graduates) · site blocks automated checks
 - **RMI (Rocky Mountain Institute)** · [careers site](https://rmi.org/careers/) · site blocks automated checks
 - **Rothesay** · [careers site](https://www.rothesay.com/about-us/working-here/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **RSM US** · [careers site](https://rsmus.com/careers.html) · site blocks automated checks
 - **Santander** · [careers site](https://www.santander.com/en/careers/where-you-want-to-create-an-impact/corporate---investment-banking) · site blocks automated checks
 - **SBF Advisors** · [careers site](https://sbfadvisors.com/careers/) · site couldn't be reached securely
 - **Sculptor Capital Management** · [careers site](https://www.sculptor.com/careers/internships) · site blocks automated checks
@@ -326,10 +320,11 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Sixth Street** · [careers site](https://sixthstreet.com/careers) · site blocks automated checks
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **SouthState Bank** · [careers site](https://careers.southstatebank.com/us/en/home) · site blocks automated checks
+- **Sower Investment Partners** · [careers site](https://sower.com/) · site blocks automated checks
 - **STACK Infrastructure** · [careers site](https://www.stackinfra.com/careers/) · job-site link is broken or moved
 - **State Street** · [careers site](https://careers.statestreet.com/global/en/state-street-early-careers) · site blocks automated checks
 - **Stonepeak** · [careers site](https://stonepeak.com/careers) · job-site link is broken or moved
-- **T. Rowe Price** · [careers site](https://www.troweprice.com/en/us/careers) · site blocks automated checks
+- **Stout** · [careers site](https://www.stout.com/en/careers) · site blocks automated checks
 - **TD Securities** · [careers site](https://careers.td.com/) · site blocks automated checks
 - **Temasek** · [careers site](https://www.temasek.com.sg/en/about-us/careers) · site blocks automated checks
 - **Tessaro Quant Research** · no link in the config · no job site in the config
@@ -344,6 +339,5 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · site blocks automated checks
 - **Vantage Data Centers** · [careers site](https://vantage-dc.com/careers/) · site blocks automated checks
 - **Vistra** · [careers site](https://www.vistracorp.com/careers) · site blocks automated checks
-- **Wesleyan University** · [careers site](https://www.wesleyan.edu/about/careers.html) · site blocks automated checks
 - **Wipfli** · [careers site](https://careers.wipfli.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Withum** · [careers site](https://www.withum.com/careers) · site blocks automated checks
