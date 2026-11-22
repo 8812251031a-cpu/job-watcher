@@ -1,4 +1,4 @@
-# Open right now: 78 postings at 34 firms
+# Open right now: 74 postings at 32 firms
 
 Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -59,10 +59,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Graham Partners
 - [Full Time: Business Development Analyst](https://www.grahampartners.net/careers/business-development-analyst/) · first seen Nov 8
 
-## Greenhill
-- [2027 Investment Banking Analyst - New York](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Investment-Banking-Analyst---New-York_R7579) · posted Nov 20
-- [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
-
 ## J.P. Morgan
 - [Human Resources - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809250) · posted Nov 20
 - [Investment Banking- United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809667) · posted Nov 19
@@ -112,10 +108,6 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Maven Securities
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
 
-## Mizuho
-- [2027 Investment Banking Analyst - New York](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Investment-Banking-Analyst---New-York_R7579) · posted Nov 20
-- [2027 Investment Banking Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2027-Investment-Banking-Analyst---San-Francisco_R7546) · posted Nov 12
-
 ## Morgan Stanley
 - [2027 Step In, Step Up: Empowering Women - Career Pathways Programmme](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22357-2027-Step-In-Step-Up-Empowering-Women-Career-Pathways-Programmme/en-GB) · first seen Nov 8
 
@@ -148,7 +140,7 @@ Titles with 2027 or a full-time analyst sign, in the US, mainland China or Hong 
 ## Voloridge Investment Management
 - [Quantitative Research Fellowship 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) · first seen Nov 8
 
-## Check these yourself: 143 firms the watcher can't read
+## Check these yourself: 141 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -160,7 +152,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **AlphaSights** · [careers site](https://www.alphasights.com/careers/students-and-interns/) · site blocks automated checks
 - **Alvarez & Marsal** · [careers site](https://careers.alvarezandmarsal.com/) · site blocks automated checks
 - **Apollo Global Management** · [careers site](https://www.apollo.com/careers) · site blocks automated checks
-- **Ardian** · [careers site](https://careers.ardian.com/en-GB) · site blocks automated checks
 - **Ares Management** · [careers site](https://www.ares.com/careers) · site blocks automated checks
 - **Armanino** · [careers site](https://www.armanino.com/careers/) · site blocks automated checks
 - **Arrowstreet Capital** · [careers site](https://www.arrowstreetcapital.com/student-careers) · site blocks automated checks
@@ -180,6 +171,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
 - **Caldwell Bray Securities** · no link in the config · no job site in the config
 - **Campbell Lutyens** · [careers site](https://www.campbell-lutyens.com/careers/graduate-programme/) · site couldn't be reached securely
+- **Capital Group** · [careers site](https://www.capitalgroup.com/corporate/careers.html) · site blocks automated checks
 - **Capital One** · [careers site](https://www.capitalonecareers.com/) · site blocks automated checks
 - **Capstone Partners** · [careers site](https://www.capstonepartners.com/about/careers) · site blocks automated checks
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
@@ -191,7 +183,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
 - **Citi** · [careers site](https://careers.citigroup.com/students-and-graduates/) · site blocks automated checks
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
-- **CliftonLarsonAllen** · [careers site](https://www.claconnect.com/en/careers) · site blocks automated checks
 - **CNO Financial Group** · [careers site](https://careers.cnoinc.com/career-areas) · site blocks automated checks
 - **Cohen & Company** · [careers site](https://www.cohenco.com/careers) · site blocks automated checks
 - **Columbia Threadneedle Investments** · [careers site](https://www.columbiathreadneedle.co.uk/en/intm/careers/) · site blocks automated checks
@@ -209,10 +200,10 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **FTI Consulting** · [careers site](https://www.fticonsulting.com/careers) · site blocks automated checks
 - **Geffen Mesher** · [careers site](https://gmco.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Global Atlantic** · [careers site](https://www.globalatlantic.com/careers) · job-site link is broken or moved
+- **Greenhill** · [careers site](https://greenhill.freshminds.co.uk/) · site blocks automated checks
 - **Greystar** · [careers site](https://jobs.greystar.com/early-careers) · site blocks automated checks
 - **Greystone** · [careers site](https://www.greystone.com/) · site blocks automated checks
 - **GTCR** · [careers site](https://www.gtcr.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Guggenheim Partners** · [careers site](https://www.guggenheimpartners.com/firm/careers) · site blocks automated checks
 - **Guidehouse** · [careers site](https://guidehouse.com/careers/students) · site blocks automated checks
 - **Gunvor** · [careers site](https://gunvorgroup.com/careers/) · site blocks automated checks
 - **Halvorsen Capital Partners** · no link in the config · no job site in the config
@@ -225,7 +216,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Huron** · [careers site](https://www.huronconsultinggroup.com/en/careers) · site blocks automated checks
 - **ING** · [careers site](https://careers.ing.com/en/global/careers.htm) · site blocks automated checks
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Invesco** · [careers site](https://careers.invesco.com/emea/) · site blocks automated checks
 - **JLL** · [careers site](https://www.jll.com/en-uk/careers/early-careers) · site blocks automated checks
 - **KeyBank** · [careers site](https://www.key.com/about/careers/students-graduates.html) · site blocks automated checks
 - **Leerink Partners** · [careers site](https://www.leerink.com/firm/careers/) · site blocks automated checks
@@ -235,6 +225,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
+- **Mizuho** · [careers site](https://www.mizuhogroup.com/emea/careers) · site blocks automated checks
 - **Morningstar** · [careers site](https://www.morningstar.com/company/careers) · site blocks automated checks
 - **MUFG** · [careers site](https://mufgcampus.com/our-programmes/) · site blocks automated checks
 - **Nationwide Mutual Insurance Company** · [careers site](https://www.nationwide.com/personal/about-us/careers) · site blocks automated checks
@@ -248,10 +239,9 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **OMERS** · [careers site](https://www.omers.com/careers) · site blocks automated checks
 - **OTPP** · [careers site](https://www.otpp.com/en-ca/careers/) · site blocks automated checks
 - **Oxford Properties Group** · [careers site](https://www.oxfordproperties.com/careers) · site blocks automated checks
-- **PEAK6** · [careers site](https://www.peak6.com/careers/) · site blocks automated checks
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Phillips Edison & Company** · [careers site](https://peco-uk.com/pages/careers) · site blocks automated checks
+- **PGIM** · [careers site](https://www.pgim.com/gb/en/institutional/about/careers) · site blocks automated checks
 - **PIMCO** · [careers site](https://www.pimco.co.uk/en-gb/our-firm/careers/students) · site blocks automated checks
 - **Piper Sandler** · [careers site](https://www.pipersandler.com/careers/students) · site blocks automated checks
 - **PJT Partners** · [careers site](https://pjtpartners.com/careers) · site blocks automated checks
@@ -265,7 +255,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Raymond James** · [careers site](https://www.raymondjames.com/careers/students-and-recent-grads) · site blocks automated checks
 - **RBC Capital Markets** · [careers site](https://www.rbccm.com/en/careers) · site blocks automated checks
 - **Readystate** · [careers site](https://www.readyx.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Regions Bank** · [careers site](https://careers.regions.com/us/en/interns-and-graduates) · site blocks automated checks
 - **Rothesay** · [careers site](https://www.rothesay.com/about-us/working-here/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **RSM US** · [careers site](https://rsmus.com/careers.html) · site blocks automated checks
 - **Santander** · [careers site](https://www.santander.com/en/careers/where-you-want-to-create-an-impact/corporate---investment-banking) · site blocks automated checks
@@ -277,6 +266,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **SOLIC Capital Advisors** · [careers site](https://www.soliccapital.com/careers) · site blocks automated checks
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **SouthState Bank** · [careers site](https://careers.southstatebank.com/us/en/home) · site blocks automated checks
+- **Sower Investment Partners** · [careers site](https://sower.com/) · site blocks automated checks
 - **State Street** · [careers site](https://careers.statestreet.com/global/en/state-street-early-careers) · site blocks automated checks
 - **Stout** · [careers site](https://www.stout.com/en/careers) · site blocks automated checks
 - **T. Rowe Price** · [careers site](https://www.troweprice.com/en/us/careers) · site blocks automated checks
