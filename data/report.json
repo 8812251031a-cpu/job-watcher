@@ -1850,7 +1850,7 @@
     "key": "osv-cci.wd1.myworkdayjobs.com|osv-cci|CCICareers",
     "ok": false,
     "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv-cci/CCICareers/jobs"
+    "error": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv-cci/CCICareers/jobs"
    }
   ],
   "sample_matches": []
@@ -2902,16 +2902,16 @@
  {
   "firm": "Fifth Third Bank",
   "id": "fifth-third-bank",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 101,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "fifththird.wd5.myworkdayjobs.com|fifththird|53careers",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fifththird.wd5.myworkdayjobs.com/wday/cxs/fifththird/53careers/jobs"
+    "ok": true,
+    "count": 101,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -3428,16 +3428,16 @@
  {
   "firm": "Greystone",
   "id": "greystone",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 17,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "greyco.wd108.myworkdayjobs.com|greyco|GTI",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://greyco.wd108.myworkdayjobs.com/wday/cxs/greyco/GTI/jobs"
+    "ok": true,
+    "count": 17,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -4658,32 +4658,26 @@
  {
   "firm": "M&T Bank",
   "id": "m-t-bank",
-  "readable": true,
-  "postings_read": 172,
-  "matches": 19,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "mtb.wd5.myworkdayjobs.com|mtb|MTB",
-    "ok": true,
-    "count": 101,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/MTB/jobs"
    },
    {
     "kind": "workday",
     "key": "mtb.wd5.myworkdayjobs.com|mtb|Campus",
-    "ok": true,
-    "count": 71,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/Campus/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 Executive Associate Program - Human Resouces",
-   "2027 Executive Associate Program - Enterprise Operations",
-   "2027 Technology Development Program - Infrastructure Automation",
-   "2027 Technology Development Program - Application Observability",
-   "2027 Technology Development Program - Capacity Management"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "M. Klein & Company",
@@ -5343,16 +5337,16 @@
  {
   "firm": "Northwestern Mutual",
   "id": "northwestern-mutual",
-  "readable": true,
-  "postings_read": 38,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "northwesternmutual.wd5.myworkdayjobs.com|northwesternmutual|CORPORATE-CAREERS",
-    "ok": true,
-    "count": 38,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://northwesternmutual.wd5.myworkdayjobs.com/wday/cxs/northwesternmutual/CORPORATE-CAREERS/jobs"
    }
   ],
   "sample_matches": []
@@ -5394,16 +5388,16 @@
  {
   "firm": "Oaktree Capital Management",
   "id": "oaktree-capital-management",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 43,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "oaktree.wd1.myworkdayjobs.com|oaktree|Oaktree",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oaktree.wd1.myworkdayjobs.com/wday/cxs/oaktree/Oaktree/jobs"
+    "ok": true,
+    "count": 43,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -5791,16 +5785,16 @@
  {
   "firm": "Piper Sandler",
   "id": "piper-sandler",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 36,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pipersandler.wd501.myworkdayjobs.com|pipersandler|Piper_Sandler_Careers",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pipersandler.wd501.myworkdayjobs.com/wday/cxs/pipersandler/Piper_Sandler_Careers/jobs"
+    "ok": true,
+    "count": 36,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -5832,19 +5826,21 @@
  {
   "firm": "PMCF Investment Banking",
   "id": "pmcf-investment-banking",
-  "readable": false,
-  "postings_read": 0,
-  "matches": 0,
+  "readable": true,
+  "postings_read": 76,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
     "key": "plantemoran.wd1.myworkdayjobs.com|plantemoran|pmexternalcareers",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://plantemoran.wd1.myworkdayjobs.com/wday/cxs/plantemoran/pmexternalcareers/jobs"
+    "ok": true,
+    "count": 76,
+    "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "2027 Cybersecurity Consultant Entry Level Staff"
+  ]
  },
  {
   "firm": "PNC",
@@ -6338,7 +6334,7 @@
   "id": "rwe",
   "readable": true,
   "postings_read": 363,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -6355,10 +6351,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Financial Systems & AI Analyst Corporate Controlling d/f/m",
-   "Financial Systems & AI Analyst Corporate Controlling d/w/m"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Rystad Energy",
@@ -6716,16 +6709,16 @@
  {
   "firm": "Sower Investment Partners",
   "id": "sower-investment-partners",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 117,
   "matches": 0,
   "sources": [
    {
     "kind": "site",
     "key": "https://sower.com/",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://sower.com/"
+    "ok": true,
+    "count": 117,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -6822,16 +6815,16 @@
  {
   "firm": "State Street",
   "id": "state-street",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 155,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "statestreet.wd1.myworkdayjobs.com|statestreet|Global",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs"
+    "ok": true,
+    "count": 155,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -7210,23 +7203,23 @@
  {
   "firm": "Texas Capital Bank",
   "id": "texas-capital-bank",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 46,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "texascapitalbank.wd12.myworkdayjobs.com|texascapitalbank|Careers",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://texascapitalbank.wd12.myworkdayjobs.com/wday/cxs/texascapitalbank/Careers/jobs"
+    "ok": true,
+    "count": 44,
+    "error": ""
    },
    {
     "kind": "workday",
     "key": "texascapitalbank.wd12.myworkdayjobs.com|texascapitalbank|College_Career",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://texascapitalbank.wd12.myworkdayjobs.com/wday/cxs/texascapitalbank/College_Career/jobs"
+    "ok": true,
+    "count": 2,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -7302,16 +7295,16 @@
  {
   "firm": "TIAA",
   "id": "tiaa",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 75,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "tiaa.wd1.myworkdayjobs.com|tiaa|Search",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs"
+    "ok": true,
+    "count": 75,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -7840,7 +7833,7 @@
   "firm": "Wells Fargo",
   "id": "wells-fargo",
   "readable": true,
-  "postings_read": 127,
+  "postings_read": 254,
   "matches": 0,
   "sources": [
    {
@@ -7853,9 +7846,9 @@
    {
     "kind": "workday",
     "key": "wf.wd1.myworkdayjobs.com|wf|wellsfargojobs",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/wellsfargojobs/jobs"
+    "ok": true,
+    "count": 127,
+    "error": ""
    }
   ],
   "sample_matches": []
