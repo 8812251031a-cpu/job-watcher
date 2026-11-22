@@ -372,7 +372,6 @@
   categories: [Consulting]
   homepage: https://www.bateswhite.com/careers/overview
   career_sites:
-    - https://bateswhite-apply.viglobalcloud.com/viRecruitSelfApply/RecDefault.aspx?Tag=2176ef43-ed32-42c2-b100-85563ffd1dbb
     - https://www.bateswhite.com/careers/overview
 
 - id: battery
@@ -1604,8 +1603,6 @@
   homepage: https://www.kkr.com/our-firm/careers
   career_sites:
     - https://job-boards.greenhouse.io/staged
-    - https://www.kkr.com/careers/student-careers/student-career-opportunities/post
-    - https://www.kkr.com/careers/career-opportunities/post
 
 - id: kline-hill-partners
   name: Kline Hill Partners
@@ -2515,6 +2512,7 @@
   homepage: https://www.soliccapital.com/careers
   career_sites:
     - https://gordonbrothers.wd1.myworkdayjobs.com/Solic_career_pathway
+    - https://wd1.myworkdaysite.com/recruiting/gordonbrothers/Solic_career_pathway
 
 - id: solomon-partners
   name: Solomon Partners
@@ -3048,14 +3046,14 @@
   categories: [AI & Energy Infra]
   homepage: https://www.digitalbridge.com/careers
   career_sites:
-    - https://www.digitalbridge.com/careers
+    - https://job-boards.greenhouse.io/digitalbridge
 
 - id: brookfield
   name: Brookfield
   categories: [AI & Energy Infra]
   homepage: https://www.brookfield.com/careers
   career_sites:
-    - https://www.brookfield.com/careers
+    - https://brookfield.wd5.myworkdayjobs.com/brookfield
 
 - id: i-squared-capital
   name: I Squared Capital
@@ -3104,7 +3102,7 @@
   categories: [AI & Energy Infra]
   homepage: https://www.hasi.com/careers
   career_sites:
-    - https://www.hasi.com/careers
+    - https://jobs.lever.co/hasi
 
 - id: eqt
   name: EQT
@@ -3125,14 +3123,14 @@
   categories: [AI & Energy Infra]
   homepage: https://www.energyimpactpartners.com/careers
   career_sites:
-    - https://www.energyimpactpartners.com/careers
+    - https://www.energyimpactpartners.com/join-the-team/
 
 - id: breakthrough-energy
   name: Breakthrough Energy
   categories: [AI & Energy Infra]
   homepage: https://breakthroughenergy.org/careers
   career_sites:
-    - https://breakthroughenergy.org/careers
+    - https://www.breakthroughenergy.org/careers
 
 - id: newmark
   name: Newmark
@@ -3153,7 +3151,7 @@
   categories: [AI & Energy Infra]
   homepage: https://www.woodmac.com/careers/
   career_sites:
-    - https://www.woodmac.com/careers/
+    - https://www.woodmac.com/careers/overview/
 
 - id: enverus
   name: Enverus
@@ -3167,14 +3165,14 @@
   categories: [AI & Energy Infra]
   homepage: https://careers.icf.com
   career_sites:
-    - https://careers.icf.com
+    - https://careers.icf.com/us/en
 
 - id: black-veatch
   name: Black & Veatch
   categories: [AI & Energy Infra]
   homepage: https://www.bv.com/careers
   career_sites:
-    - https://www.bv.com/careers
+    - https://www.bv.com/en-US/careers
 
 - id: burns-mcdonnell
   name: Burns & McDonnell
@@ -3195,21 +3193,22 @@
   categories: [AI & Energy Infra]
   homepage: https://www.ethree.com/careers/
   career_sites:
-    - https://www.ethree.com/careers/
+    - https://jobs.lever.co/ethree
 
 - id: rmi
   name: RMI (Rocky Mountain Institute)
   categories: [AI & Energy Infra]
   homepage: https://rmi.org/careers/
   career_sites:
-    - https://rmi.org/careers/
+    - https://rockymountain.wd1.myworkdayjobs.com/RMI
 
 - id: digital-realty
   name: Digital Realty
   categories: [AI & Energy Infra]
   homepage: https://www.digitalrealty.com/about/careers
   career_sites:
-    - https://www.digitalrealty.com/about/careers
+    - https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs
+    - https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/jobs
 
 - id: equinix
   name: Equinix
@@ -3223,21 +3222,21 @@
   categories: [AI & Energy Infra]
   homepage: https://qtsdatacenters.com/careers
   career_sites:
-    - https://qtsdatacenters.com/careers
+    - https://qtsdatacenters.wd5.myworkdayjobs.com/qts
 
 - id: vantage-data-centers
   name: Vantage Data Centers
   categories: [AI & Energy Infra]
   homepage: https://vantage-dc.com/careers/
   career_sites:
-    - https://vantage-dc.com/careers/
+    - https://vantagedc.wd1.myworkdayjobs.com/Vantage
 
 - id: aligned-data-centers
   name: Aligned Data Centers
   categories: [AI & Energy Infra]
   homepage: https://aligneddc.com/careers/
   career_sites:
-    - https://aligneddc.com/careers/
+    - https://aligneddc.wd12.myworkdayjobs.com/aligneddc
 
 - id: stack-infrastructure
   name: STACK Infrastructure
@@ -3251,28 +3250,28 @@
   categories: [AI & Energy Infra]
   homepage: https://www.cyrusone.com/careers
   career_sites:
-    - https://www.cyrusone.com/careers
+    - https://www.cyrusone.com/company/careers
 
 - id: edgecore
   name: EdgeCore Digital Infrastructure
   categories: [AI & Energy Infra]
   homepage: https://edgecore.com/careers/
   career_sites:
-    - https://edgecore.com/careers/
+    - https://edgecore.com/company/careers
 
 - id: compass-datacenters
   name: Compass Datacenters
   categories: [AI & Energy Infra]
   homepage: https://www.compassdatacenters.com/careers/
   career_sites:
-    - https://www.compassdatacenters.com/careers/
+    - https://compass-datacenters.breezy.hr/
 
 - id: switch
   name: Switch
   categories: [AI & Energy Infra]
   homepage: https://www.switch.com/careers/
   career_sites:
-    - https://www.switch.com/careers/
+    - https://job-boards.greenhouse.io/switch-data-centers
 
 - id: coreweave
   name: CoreWeave
@@ -3286,14 +3285,14 @@
   categories: [AI & Energy Infra]
   homepage: https://crusoe.ai/careers
   career_sites:
-    - https://crusoe.ai/careers
+    - https://jobs.ashbyhq.com/Crusoe
 
 - id: lambda
   name: Lambda
   categories: [AI & Energy Infra]
   homepage: https://lambda.ai/careers
   career_sites:
-    - https://lambda.ai/careers
+    - https://jobs.ashbyhq.com/lambda
 
 - id: applied-digital
   name: Applied Digital
@@ -3321,7 +3320,7 @@
   categories: [AI & Energy Infra]
   homepage: https://iren.com/careers
   career_sites:
-    - https://iren.com/careers
+    - https://iren.com/company/careers
 
 - id: nextera-energy
   name: NextEra Energy
@@ -3335,21 +3334,23 @@
   categories: [AI & Energy Infra]
   homepage: https://invenergy.com/careers
   career_sites:
-    - https://invenergy.com/careers
+    - https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers
+    - https://invenergyllc.wd1.myworkdayjobs.com/invenergyllc
+    - https://invenergyllc.wd1.myworkdayjobs.com/invenergyservices
 
 - id: intersect-power
   name: Intersect Power
   categories: [AI & Energy Infra]
   homepage: https://www.intersectpower.com/careers
   career_sites:
-    - https://www.intersectpower.com/careers
+    - https://jobs.lever.co/intersect
 
 - id: aes
   name: AES
   categories: [AI & Energy Infra]
   homepage: https://www.aes.com/careers
   career_sites:
-    - https://www.aes.com/careers
+    - https://aes.wd1.myworkdayjobs.com/AES_US
 
 - id: constellation-energy
   name: Constellation Energy
@@ -3363,14 +3364,14 @@
   categories: [AI & Energy Infra]
   homepage: https://www.vistracorp.com/careers
   career_sites:
-    - https://www.vistracorp.com/careers
+    - https://vst.wd5.myworkdayjobs.com/vistra_careers
 
 - id: pattern-energy
   name: Pattern Energy
   categories: [AI & Energy Infra]
   homepage: https://patternenergy.com/careers/
   career_sites:
-    - https://patternenergy.com/careers/
+    - https://careers-patternenergy.icims.com/jobs
 
 - id: clearway-energy
   name: Clearway Energy
@@ -3398,21 +3399,21 @@
   categories: [AI & Energy Infra]
   homepage: https://www.longroadenergy.com/careers
   career_sites:
-    - https://www.longroadenergy.com/careers
+    - https://www.longroadenergy.com/about-us/careers/
 
 - id: silicon-ranch
   name: Silicon Ranch
   categories: [AI & Energy Infra]
   homepage: https://www.siliconranch.com/careers
   career_sites:
-    - https://www.siliconranch.com/careers
+    - https://job-boards.greenhouse.io/siliconranch
 
 - id: cypress-creek-renewables
   name: Cypress Creek Renewables
   categories: [AI & Energy Infra]
   homepage: https://ccrenew.com/careers/
   career_sites:
-    - https://ccrenew.com/careers/
+    - http://cypresscreekenergy.com/careers/
 
 - id: fervo-energy
   name: Fervo Energy
@@ -3433,7 +3434,7 @@
   categories: [AI & Energy Infra]
   homepage: https://careers.microsoft.com
   career_sites:
-    - https://careers.microsoft.com
+    - https://careers.microsoft.com/v2/global/en/home.html
 
 - id: google
   name: Google
@@ -3454,5 +3455,5 @@
   categories: [AI & Energy Infra]
   homepage: https://careers.oracle.com
   career_sites:
-    - https://careers.oracle.com
+    - https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/jobs
 
