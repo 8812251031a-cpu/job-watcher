@@ -13,8 +13,10 @@ import datetime as dt
 import html
 import json
 import os
+import random
 import re
 import sys
+import threading
 import time
 from urllib.parse import urljoin, urlparse, quote
 
@@ -131,18 +133,78 @@ def location_ok(j):
 # ---------------------------------------------------------------- http helpers
 S = requests.Session()
 S.headers.update({"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"})
+S.mount("https://", requests.adapters.HTTPAdapter(pool_connections=64, pool_maxsize=64))
+
+# Many firms share one job-system cluster (every Workday tenant on wd1 answers from
+# wd1.myworkdayjobs.com, and so on). Hitting a cluster with 16 parallel checks gets the
+# whole cluster to answer 429 Too Many Requests, which is how boards went unread for hours.
+# So each cluster gets a few requests at a time with a short gap, and a 429 or a 5xx is
+# retried with backoff instead of failing the firm for the run.
+RETRY_STATUS = {429, 500, 502, 503, 504}
+MAX_TRIES = 4
+_locks_guard = threading.Lock()
+_host_sem, _host_last, _host_lock = {}, {}, {}
+
+
+def host_group(url):
+    host = (urlparse(url).hostname or "").lower()
+    m = re.search(r"(wd\d+\.myworkday(jobs|site)\.com)$", host)
+    if m:
+        return m.group(1), 3, 0.25
+    if host.endswith(".icims.com"):
+        return "icims.com", 3, 0.25
+    if host.endswith(".oraclecloud.com"):
+        return host, 2, 0.25
+    return host, 4, 0.0
+
+
+def _slot(url):
+    group, limit, gap = host_group(url)
+    with _locks_guard:
+        if group not in _host_sem:
+            _host_sem[group] = threading.BoundedSemaphore(limit)
+            _host_lock[group] = threading.Lock()
+            _host_last[group] = 0.0
+    return group, gap
+
+
+def _request(method, url, **kw):
+    group, gap = _slot(url)
+    for attempt in range(MAX_TRIES):
+        wait = None
+        with _host_sem[group]:
+            if gap:
+                with _host_lock[group]:
+                    pause = _host_last[group] + gap - time.monotonic()
+                    if pause > 0:
+                        time.sleep(pause)
+                    _host_last[group] = time.monotonic()
+            try:
+                r = S.request(method, url, timeout=TIMEOUT, **kw)
+            except (requests.ConnectionError, requests.Timeout):
+                if attempt == MAX_TRIES - 1:
+                    raise
+                wait = 2 ** attempt + random.random()
+            else:
+                if r.status_code not in RETRY_STATUS or attempt == MAX_TRIES - 1:
+                    r.raise_for_status()
+                    return r
+                ra = r.headers.get("Retry-After", "")
+                wait = float(ra) if ra.isdigit() else 2 ** (attempt + 1) + random.random() * 2
+        STATS["retries"] += 1
+        time.sleep(min(wait, 20))  # back off outside the host slot so others can go
+    raise RuntimeError("unreachable")
+
+
+STATS = {"retries": 0}
 
 
 def get(url, **kw):
-    r = S.get(url, timeout=TIMEOUT, **kw)
-    r.raise_for_status()
-    return r
+    return _request("GET", url, **kw)
 
 
 def post(url, **kw):
-    r = S.post(url, timeout=TIMEOUT, **kw)
-    r.raise_for_status()
-    return r
+    return _request("POST", url, **kw)
 
 
 MAX_AGE_DAYS = 14
@@ -189,24 +251,44 @@ def job(title, url, jid=None, loc="", posted=None):
 
 # ---------------------------------------------------------------- adapters
 def a_workday(key):
+    """Read a Workday board with as few requests as possible.
+
+    First a blank search, newest first, until the board is fully read or the page reaches
+    postings older than MAX_AGE_DAYS (the filter drops those anyway). A board read in full
+    needs nothing more, which covers most boards in 1-3 requests. Larger boards then get a
+    few broad keyword searches, so a title like "Analyst - Investment Banking, Infrastructure"
+    is caught even when it sits past the pages read."""
     host, tenant, site = key.split("|")
     api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     jobs, seen = [], set()
-    for q, pages in (("2027", 5), ("full time analyst", 2), ("analyst program", 1), ("", 1),
-                     ("data center", 1), ("energy analyst", 1), ("infrastructure analyst", 1), ("renewable", 1)):
+
+    def search(q, pages):
+        total, read, stale = 0, 0, False
         for page in range(pages):
             body = {"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": q}
             data = post(api, json=body, headers={"Accept": "application/json"}).json()
             posts = data.get("jobPostings", [])
+            total = data.get("total") or total
+            read += len(posts)
             for p in posts:
                 path = p.get("externalPath", "")
+                d = to_date(p.get("postedOn"))
+                if d and (TODAY - d).days > MAX_AGE_DAYS:
+                    stale = True
                 if path in seen:
                     continue
                 seen.add(path)
                 jobs.append(job(p.get("title"), f"https://{host}/en-US/{site}{path}", path, p.get("locationsText"),
                                 p.get("postedOn")))
-            if len(posts) < 20 or (page + 1) * 20 >= (data.get("total") or 0):
+            if len(posts) < 20 or read >= total or (q == "" and stale):
                 break
+        return read >= total
+
+    if search("", 6):
+        return jobs
+    for q, pages in (("2027", 3), ("analyst", 3), ("associate", 1), ("graduate", 1), ("infrastructure", 1),
+                     ("energy", 1)):
+        search(q, pages)
     return jobs
 
 
@@ -569,6 +651,20 @@ def main():
     t0 = time.time()
     with cf.ThreadPoolExecutor(max_workers=16) as ex:
         results = list(ex.map(check_firm, firms))
+    # Second pass: firms where a board was rate-limited, timed out or dropped the connection
+    # get one more slow try at the end, once the burst has passed.
+    def transient(r):
+        return any(not s["ok"] and re.search(r"429|Timeout|ConnectionError|50[234]", s["error"]) for s in r["sources"])
+    retry = [i for i, r in enumerate(results) if transient(r)]
+    if retry:
+        time.sleep(5)
+        by_id = {f["id"]: f for f in firms}
+        with cf.ThreadPoolExecutor(max_workers=4) as ex:
+            again = list(ex.map(lambda i: check_firm(by_id[results[i]["id"]]), retry))
+        for i, r in zip(retry, again):
+            if sum(s["ok"] for s in r["sources"]) >= sum(s["ok"] for s in results[i]["sources"]):
+                results[i] = r
+        print(f"Second pass: rechecked {len(retry)} firms, {sum(not transient(r) for r in again)} now fully read.")
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     new = []
@@ -657,7 +753,7 @@ def main():
     good = sum(1 for h in health if h["readable"])
     with open(os.path.join(DATA, "status.md"), "w") as fh:
         fh.write(f"Last run {now}. {good}/{len(health)} firms readable. "
-                 f"{len(new)} new matches this run. Took {time.time() - t0:.0f}s.\n")
+                 f"{len(new)} new matches this run. Took {time.time() - t0:.0f}s, {STATS['retries']} retries.\n")
     print(open(os.path.join(DATA, "status.md")).read())
 
 
