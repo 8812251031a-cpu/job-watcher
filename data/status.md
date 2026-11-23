@@ -1,1 +1,1 @@
-Last run 2026-11-23 15:09 UTC. 304/476 firms readable. 0 new matches this run. Took 60s.
+Last run 2026-11-23 16:13 UTC. 300/476 firms readable. 1 new matches this run. Took 64s.
