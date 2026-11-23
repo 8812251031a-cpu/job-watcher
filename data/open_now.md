@@ -1,4 +1,4 @@
-# Open right now: 72 postings at 31 firms
+# Open right now: 92 postings at 30 firms
 
 Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -22,9 +22,6 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## BDO Global
 - [Assurance Associate - Fall 2027 (Baltimore)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14733) · posted Nov 11
 - [Assurance Associate - Fall 2027 (Norfolk)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14734) · posted Nov 11
-
-## CBIZ
-- [Forensic Accounting and Litigation Associate | 2027](https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6699) · posted Nov 19
 
 ## CBRE
 - [Energy and Sustainability Graduate](https://www.cbre.co.uk/careers/students-and-graduates) · first seen Nov 22 · AI/energy infra
@@ -80,6 +77,30 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## Lazard
 - [Lazard Veterans Analyst Program (LVAP)](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/job/6824) · posted Nov 11
 
+## M&T Bank
+- [2027 Executive Associate Program - Mortgage](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Mortgage_R90850) · posted Nov 23
+- [2027 Community Branch Management Program - Northern New England](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Kennebunkport-ME/XMLNAME-2027-Community-Branch-Management-Program---Northern--New-England_R92239) · posted Nov 23
+- [2027 Management Development Program - Commercial Product Management (Buffalo, NY)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Commercial-Product-Management--Buffalo--NY-_R90323) · posted Nov 23
+- [2027 Management Development Program - Banking Services - Commercial Lending Operations (Buffalo, NY)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Banking-Services---Commercial-Lending-Operations--Buffalo--NY-_R90431) · posted Nov 23
+- [2027 Management Development Program - Banking Services - Mortgage, Print Services (Buffalo, NY)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Banking-Services---Mortgage--Print-Services--Buffalo--NY-_R90437) · posted Nov 23
+- [2027 Management Development Program - Consumer Credit Risk Management (Buffalo, NY)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Consumer-Credit-Risk-Management--Buffalo--NY-_R92260) · posted Nov 23
+- [2027 Management Development Program - Financial Planning (Buffalo, NY or Wilmington, DE)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Financial-Planning--Buffalo--NY-or-Wilmington--DE-_R91460) · posted Nov 18
+- [2027 Technology Development Program - Infrastructure Automation](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Infrastructure-Automation_R92087) · posted Nov 17
+- [2027 Technology Development Program - Application Observability](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Application-Observability_R91935) · posted Nov 17
+- [2027 Technology Development Program - Capacity Management](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Capacity-Management_R91938) · posted Nov 17
+- [2027 Executive Associate Program - Chief Technology & Operations Officer Strategy Team](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Technology_R91406) · posted Nov 13
+- [2027 Technology Development Program - Cybersecurity (Encryption Services)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Encryption-Services-_R91554) · posted Nov 12
+- [2027 Management Development Program - Internal Audit (Buffalo, NY)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Internal-Audit--Buffalo--NY-_R89201) · posted Nov 12
+- [2027 Technology Development Program - Cybersecurity (Vulnerability Risk Management)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Vulnerability-Risk-Management-_R91480) · posted Nov 12
+- [2027 Executive Associate Program - Human Resouces](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Human-Resouces_R92086) · posted Nov 10
+- [2027 Executive Associate Program - Enterprise Operations](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Executive-Associate-Program---Enterprise-Operations_R92094) · posted Nov 10
+- [2027 Executive Associate Program - Office of the Customer](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Wilmington-DE/XMLNAME-2027-Executive-Associate-Program---Office-of-the-Customer_R92092) · posted Nov 10
+- [2027 Community Branch Management Program - Buffalo West (Delaware Sheridan)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Kenmore-NY/XMLNAME-2027-Community-Branch-Management-Program---Buffalo-West--Delaware-Sheridan-_R91959) · posted Nov 10
+- [2027 Technology Development Program - Cybersecurity (Insider Threat)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Insider-Threat-_R91500) · posted Nov 9
+- [2027 Community Branch Management Program - Jersey City, NJ](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Jersey-City-NJ/XMLNAME-2027-Community-Branch-Management-Program---Jersey-City--NJ_R91961) · posted Nov 9
+- [2027 Community Branch Management Program - New Jersey South](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Marlboro-NJ/XMLNAME-2027-Community-Branch-Management-Program---New-Jersey-South_R91962) · posted Nov 9
+- [2027 Management Development Program - Wealth Management, US Markets (Falls Church, VA)](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Falls-Church-VA/XMLNAME-2027-Management-Development-Program---Wealth-Management--US-Markets--Falls-Church--VA-_R89071) · posted Nov 9
+
 ## Maven Securities
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
 
@@ -98,9 +119,6 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## Pattern Energy
 - [Analyst, Project Finance - Solect Energy](https://careers-patternenergy.icims.com/jobs/3528/analyst%2c-project-finance---solect-energy/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 - [Energy Risk Analyst](https://careers-patternenergy.icims.com/jobs/3483/energy-risk-analyst/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
-
-## Protiviti
-- [Houston Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/HOUSTON/Houston-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-257689) · posted Nov 19
 
 ## Scotiabank
 - [Customer Care Advisor - Investments - Client Experience Centre - January 2027](https://jobs.scotiabank.com/job/Scarborough-Customer-Care-Advisor-Investments-Client-Experience-Centre-January-2027-ON/608301917/) · first seen Nov 23
@@ -136,7 +154,7 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## Wood Mackenzie
 - [Featured event North American Power & Renewables Forum 2027 April 28-29, 2027, Omni Interlocken Hotel, Denver, CO Find out more](https://www.woodmac.com/events/north-american-power-renewables-forum/) · first seen Nov 22
 
-## Check these yourself: 169 firms the watcher can't read
+## Check these yourself: 170 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -195,6 +213,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Constellation Energy** · [careers site](https://www.constellationenergy.com/careers.html) · job-site link is broken or moved
 - **Copenhagen Infrastructure Partners** · [careers site](https://cip.com/careers/) · job-site link is broken or moved
 - **Corient** · [careers site](https://corient.com/us/en/careers) · site blocks automated checks
+- **Cornerstone Research** · [careers site](https://www.cornerstone.com/careers/) · site blocks automated checks
 - **Crowe** · [careers site](https://www.crowe.com/uk/careers/early-careers) · site blocks automated checks
 - **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · site blocks automated checks
 - **Energy Capital Partners** · [careers site](https://www.ecpgp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -236,7 +255,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **KeyBank** · [careers site](https://www.key.com/about/careers/students-graduates.html) · site blocks automated checks
 - **Leerink Partners** · [careers site](https://www.leerink.com/firm/careers/) · site blocks automated checks
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **M&T Bank** · [careers site](https://www.mtb.com/careers) · site blocks automated checks
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
@@ -262,12 +280,12 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PGIM** · [careers site](https://www.pgim.com/gb/en/institutional/about/careers) · site blocks automated checks
-- **Phillips Edison & Company** · [careers site](https://peco-uk.com/pages/careers) · site blocks automated checks
 - **PIMCO** · [careers site](https://www.pimco.co.uk/en-gb/our-firm/careers/students) · site blocks automated checks
 - **Piper Sandler** · [careers site](https://www.pipersandler.com/careers/students) · site blocks automated checks
 - **PJT Partners** · [careers site](https://pjtpartners.com/careers) · site blocks automated checks
 - **PMCF Investment Banking** · [careers site](https://pmcf.com/careers/) · site blocks automated checks
 - **PNC** · [careers site](https://careers.pnc.com/global/en/students) · site blocks automated checks
+- **Protiviti** · [careers site](https://www.protiviti.com/uk-en/careers) · site blocks automated checks
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · site blocks automated checks
 - **PSP Investments** · [careers site](https://www.investpsp.com/en/work/careers/) · site blocks automated checks
 - **PwC** · [careers site](https://www.pwc.co.uk/careers/early-careers.html) · site blocks automated checks
@@ -306,6 +324,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Uline** · [careers site](https://www.uline.jobs/) · site blocks automated checks
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · site blocks automated checks
 - **Vantage Data Centers** · [careers site](https://vantage-dc.com/careers/) · site blocks automated checks
+- **Vistra** · [careers site](https://www.vistracorp.com/careers) · site blocks automated checks
 - **Wesleyan University** · [careers site](https://www.wesleyan.edu/about/careers.html) · site blocks automated checks
 - **Wipfli** · [careers site](https://careers.wipfli.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Withum** · [careers site](https://www.withum.com/careers) · site blocks automated checks
