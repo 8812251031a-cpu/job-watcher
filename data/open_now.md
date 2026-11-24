@@ -1,4 +1,4 @@
-# Open right now: 66 postings at 28 firms
+# Open right now: 67 postings at 29 firms
 
 Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -75,6 +75,9 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## Maven Securities
 - [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/emergingtalent/jobs/8352764) · posted Nov 11
 
+## Moelis & Co
+- [2027 Analyst, Investment Banking - Shareholder Advisory (Los Angeles)](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/507-2027-Analyst-Investment-Banking-Shareholder-Advisory-Los-Angeles/en-GB) · first seen Nov 24
+
 ## Optiver
 - [FutureFocus: Quants (Trading & Research) 2027](https://www.optiver.com/join-us/jobs/8843445002/?gh_jid=8843445002) · posted Nov 20
 - [FutureFocus: Tech 2027](https://www.optiver.com/join-us/jobs/8843460002/?gh_jid=8843460002) · posted Nov 20
@@ -124,7 +127,7 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## Wood Mackenzie
 - [Featured event North American Power & Renewables Forum 2027 April 28-29, 2027, Omni Interlocken Hotel, Denver, CO Find out more](https://www.woodmac.com/events/north-american-power-renewables-forum/) · first seen Nov 22
 
-## Check these yourself: 171 firms the watcher can't read
+## Check these yourself: 169 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -176,7 +179,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Citrin Cooperman** · [careers site](https://www.citrincooperman.com/Join-Us) · site blocks automated checks
 - **Clearway Energy** · [careers site](https://www.clearwayenergy.com/careers/) · job-site link is broken or moved
 - **CliftonLarsonAllen** · [careers site](https://www.claconnect.com/en/careers) · site blocks automated checks
-- **CMD Global Partners** · [careers site](https://www.cmdglobal.com/) · site timed out
 - **CNO Financial Group** · [careers site](https://careers.cnoinc.com/career-areas) · site blocks automated checks
 - **Cohen & Company** · [careers site](https://www.cohenco.com/careers) · site blocks automated checks
 - **Columbia Threadneedle Investments** · [careers site](https://www.columbiathreadneedle.co.uk/en/intm/careers/) · site blocks automated checks
@@ -184,6 +186,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Constellation Energy** · [careers site](https://www.constellationenergy.com/careers.html) · job-site link is broken or moved
 - **Copenhagen Infrastructure Partners** · [careers site](https://cip.com/careers/) · job-site link is broken or moved
 - **Corient** · [careers site](https://corient.com/us/en/careers) · site blocks automated checks
+- **Cornerstone Research** · [careers site](https://www.cornerstone.com/careers/) · site blocks automated checks
 - **Crowe** · [careers site](https://www.crowe.com/uk/careers/early-careers) · site blocks automated checks
 - **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · site blocks automated checks
 - **Energy Capital Partners** · [careers site](https://www.ecpgp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -220,7 +223,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **ING** · [careers site](https://careers.ing.com/en/global/careers.htm) · site blocks automated checks
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Invenergy** · [careers site](https://invenergy.com/careers) · site blocks automated checks
-- **Invesco** · [careers site](https://careers.invesco.com/emea/) · site blocks automated checks
 - **JLL** · [careers site](https://www.jll.com/en-uk/careers/early-careers) · site blocks automated checks
 - **KeyBank** · [careers site](https://www.key.com/about/careers/students-graduates.html) · site blocks automated checks
 - **Leerink Partners** · [careers site](https://www.leerink.com/firm/careers/) · site blocks automated checks
@@ -242,7 +244,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Northwestern Mutual** · [careers site](https://careers.northwesternmutual.com/) · site blocks automated checks
 - **NVIDIA** · [careers site](https://www.nvidia.com/en-us/about-nvidia/careers/) · site blocks automated checks
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
-- **Oaktree Capital Management** · [careers site](https://www.oaktreecapital.com/careers) · site blocks automated checks
 - **Oliver Wyman** · [careers site](https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html) · site blocks automated checks
 - **OMERS** · [careers site](https://www.omers.com/careers) · site blocks automated checks
 - **OTPP** · [careers site](https://www.otpp.com/en-ca/careers/) · site blocks automated checks
