@@ -1,4 +1,4 @@
-# Open right now: 51 postings at 22 firms
+# Open right now: 46 postings at 20 firms
 
 Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -23,16 +23,11 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 - [2027 BNY Analyst Program – Credit and Trading - (New York, NY)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/84368) · posted Nov 24
 - [2027 BNY Analyst Program – Credit and Trading - (Pittsburgh, PA)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/84372) · posted Nov 24
 
-## CBRE
-- [Energy and Sustainability Graduate](https://www.cbre.co.uk/careers/students-and-graduates) · first seen Nov 22 · AI/energy infra
-
 ## Five Rings
 - [QT Connect 2027 - EU/UK](https://job-boards.greenhouse.io/fiveringsllc/jobs/5473153008) · posted Nov 16
 - [QT Connect 2027 - US](https://job-boards.greenhouse.io/fiveringsllc/jobs/5473043008) · posted Nov 16
 
 ## J.P. Morgan
-- [U.S. Private Bank - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809294) · posted Nov 25
-- [Finance & Business Management - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809512) · posted Nov 24
 - [U.S. Private Bank - Client Service Team - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811620) · posted Nov 23
 - [U.S. Private Bank - National Client Team - Multiple Locations - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811605) · posted Nov 23
 - [Human Resources - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809250) · posted Nov 20
@@ -48,7 +43,7 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 - [CIB Markets, Sales, Research - New York - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809425) · posted Nov 16
 
 ## Koch
-- [Georgia-Pacific EDP Process Control Engineer - Crossett, AR (2027)](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/United-States-Georgia-Pacific-EDP-Process-Control-Engineer-Crossett-AR-2027/189496) · first seen Nov 18
+- [Georgia-Pacific EDP Process Control Engineer - Crossett, AR (2027)](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/Estados-Unidos-Georgia-Pacific-EDP-Process-Control-Engineer-Crossett-AR-2027/189496) · first seen Nov 19
 
 ## Moelis & Co
 - [2027 Analyst, Investment Banking - Shareholder Advisory (Los Angeles)](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/507-2027-Analyst-Investment-Banking-Shareholder-Advisory-Los-Angeles/en-GB) · first seen Nov 24
@@ -58,7 +53,6 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 - [FutureFocus: Tech 2027](https://www.optiver.com/join-us/jobs/8843460002/?gh_jid=8843460002) · posted Nov 20
 
 ## Oracle
-- [Research Assistant - PFE 2027](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351128) · posted Nov 23
 - [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350824) · posted Nov 20
 - [Site Reliability Engineer - OCI (Start Date: Feb 2027)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350510) · posted Nov 12
 
@@ -88,16 +82,13 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## TCW
 - [Quantitative Sustainable Investment Research Analyst](https://careers-tcw.icims.com/jobs/2283/quantitative-sustainable-investment-research-analyst/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 
-## U.S. Bank
-- [Quantitative Analyst - Artificial Intelligence/Machine Learning](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Analyst---Artificial-Intelligence-Machine-Learning_2026-0035343) · posted Nov 12 · AI/energy infra
-
 ## William Blair
 - [Research Associate - Energy and Power Technologies](https://www.williamblair.com/Careers/job-description?gh_jid=5298594007) · posted Nov 23 · AI/energy infra
 
 ## Wood Mackenzie
 - [Featured event North American Power & Renewables Forum 2027 April 28-29, 2027, Omni Interlocken Hotel, Denver, CO Find out more](https://www.woodmac.com/events/north-american-power-renewables-forum/) · first seen Nov 22
 
-## Check these yourself: 170 firms the watcher can't read
+## Check these yourself: 175 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -141,6 +132,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · site blocks automated checks
+- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
 - **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **CIBC** · [careers site](https://www.cibc.com/en/about-cibc/careers/students-and-graduates.html) · site blocks automated checks
@@ -211,6 +203,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Newmark** · [careers site](https://www.nmrk.com/careers) · site blocks automated checks
+- **Northborne Partners** · [careers site](https://northborne.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Northwestern Mutual** · [careers site](https://careers.northwesternmutual.com/) · site blocks automated checks
 - **NVIDIA** · [careers site](https://www.nvidia.com/en-us/about-nvidia/careers/) · site blocks automated checks
@@ -245,6 +238,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **RSM US** · [careers site](https://rsmus.com/careers.html) · site blocks automated checks
 - **Santander** · [careers site](https://www.santander.com/en/careers/where-you-want-to-create-an-impact/corporate---investment-banking) · site blocks automated checks
 - **SBF Advisors** · [careers site](https://sbfadvisors.com/careers/) · site couldn't be reached securely
+- **ScottMadden** · [careers site](https://www.scottmadden.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Sculptor Capital Management** · [careers site](https://www.sculptor.com/careers/internships) · site blocks automated checks
 - **Sensiba** · [careers site](https://sensiba.com/careers/student-opportunities) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Shell** · [careers site](https://www.shell.com/careers/about-careers-at-shell/early-careers.html) · site blocks automated checks
@@ -265,7 +259,9 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Truist** · [careers site](https://careers.truist.com/us/en) · site blocks automated checks
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
+- **U.S. Bank** · [careers site](https://careers.usbank.com/) · site blocks automated checks
 - **Uline** · [careers site](https://www.uline.jobs/) · site blocks automated checks
+- **University Partners** · [careers site](https://www.universitypartners.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · site blocks automated checks
 - **Vantage Data Centers** · [careers site](https://vantage-dc.com/careers/) · site blocks automated checks
 - **Vistra** · [careers site](https://www.vistracorp.com/careers) · site blocks automated checks
