@@ -1,4 +1,4 @@
-# Open right now: 50 postings at 21 firms
+# Open right now: 51 postings at 22 firms
 
 Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
 
@@ -48,7 +48,7 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 - [CIB Markets, Sales, Research - New York - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809425) · posted Nov 16
 
 ## Koch
-- [Georgia-Pacific EDP Process Control Engineer - Crossett, AR (2027)](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/Estados-Unidos-Georgia-Pacific-EDP-Process-Control-Engineer-Crossett-AR-2027/189496) · first seen Nov 19
+- [Georgia-Pacific EDP Process Control Engineer - Crossett, AR (2027)](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/United-States-Georgia-Pacific-EDP-Process-Control-Engineer-Crossett-AR-2027/189496) · first seen Nov 18
 
 ## Moelis & Co
 - [2027 Analyst, Investment Banking - Shareholder Advisory (Los Angeles)](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/507-2027-Analyst-Investment-Banking-Shareholder-Advisory-Los-Angeles/en-GB) · first seen Nov 24
@@ -88,13 +88,16 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## TCW
 - [Quantitative Sustainable Investment Research Analyst](https://careers-tcw.icims.com/jobs/2283/quantitative-sustainable-investment-research-analyst/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 
+## U.S. Bank
+- [Quantitative Analyst - Artificial Intelligence/Machine Learning](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Analyst---Artificial-Intelligence-Machine-Learning_2026-0035343) · posted Nov 12 · AI/energy infra
+
 ## William Blair
 - [Research Associate - Energy and Power Technologies](https://www.williamblair.com/Careers/job-description?gh_jid=5298594007) · posted Nov 23 · AI/energy infra
 
 ## Wood Mackenzie
 - [Featured event North American Power & Renewables Forum 2027 April 28-29, 2027, Omni Interlocken Hotel, Denver, CO Find out more](https://www.woodmac.com/events/north-american-power-renewables-forum/) · first seen Nov 22
 
-## Check these yourself: 172 firms the watcher can't read
+## Check these yourself: 170 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -248,7 +251,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Sixth Street** · [careers site](https://sixthstreet.com/careers) · site blocks automated checks
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **SouthState Bank** · [careers site](https://careers.southstatebank.com/us/en/home) · site blocks automated checks
-- **Sower Investment Partners** · [careers site](https://sower.com/) · site blocks automated checks
 - **STACK Infrastructure** · [careers site](https://www.stackinfra.com/careers/) · job-site link is broken or moved
 - **State Street** · [careers site](https://careers.statestreet.com/global/en/state-street-early-careers) · site blocks automated checks
 - **Stonepeak** · [careers site](https://stonepeak.com/careers) · job-site link is broken or moved
@@ -263,7 +265,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Truist** · [careers site](https://careers.truist.com/us/en) · site blocks automated checks
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
-- **U.S. Bank** · [careers site](https://careers.usbank.com/) · site blocks automated checks
 - **Uline** · [careers site](https://www.uline.jobs/) · site blocks automated checks
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · site blocks automated checks
 - **Vantage Data Centers** · [careers site](https://vantage-dc.com/careers/) · site blocks automated checks
