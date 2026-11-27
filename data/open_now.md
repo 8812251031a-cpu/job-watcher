@@ -1,9 +1,6 @@
-# Open right now: 48 postings at 22 firms
+# Open right now: 46 postings at 20 firms
 
 Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
-
-## AES
-- [Associate, Project Finance](https://aes.wd1.myworkdayjobs.com/en-US/AES_US/job/US-Salt-Lake-City-UT/Associate--Project-Finance_R1065189-1) · posted Nov 25 · AI/energy infra
 
 ## Affinius Capital
 - [Analyst, Data Center and Office Asset Management (San Antonio, TX)](https://careers-affiniuscapital.icims.com/jobs/2305/analyst%2c-data-center-and-office-asset-management-%28san-antonio%2c-tx%29/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
@@ -46,7 +43,7 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 - [CIB Markets, Sales, Research - New York - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809425) · posted Nov 16
 
 ## Koch
-- [Georgia-Pacific EDP Process Control Engineer - Crossett, AR (2027)](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/Estados-Unidos-Georgia-Pacific-EDP-Process-Control-Engineer-Crossett-AR-2027/189496) · first seen Nov 19
+- [Georgia-Pacific EDP Process Control Engineer - Crossett, AR (2027)](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/United-States-Georgia-Pacific-EDP-Process-Control-Engineer-Crossett-AR-2027/189496) · first seen Nov 18
 
 ## Moelis & Co
 - [2027 Analyst, Investment Banking - Shareholder Advisory (Los Angeles)](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/507-2027-Analyst-Investment-Banking-Shareholder-Advisory-Los-Angeles/en-GB) · first seen Nov 24
@@ -85,22 +82,20 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## TCW
 - [Quantitative Sustainable Investment Research Analyst](https://careers-tcw.icims.com/jobs/2283/quantitative-sustainable-investment-research-analyst/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 
-## U.S. Bank
-- [Quantitative Analyst - Artificial Intelligence/Machine Learning](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Quantitative-Analyst---Artificial-Intelligence-Machine-Learning_2026-0035343) · posted Nov 13 · AI/energy infra
-
 ## William Blair
 - [Research Associate - Energy and Power Technologies](https://www.williamblair.com/Careers/job-description?gh_jid=5298594007) · posted Nov 23 · AI/energy infra
 
 ## Wood Mackenzie
 - [Featured event North American Power & Renewables Forum 2027 April 28-29, 2027, Omni Interlocken Hotel, Denver, CO Find out more](https://www.woodmac.com/events/north-american-power-renewables-forum/) · first seen Nov 22
 
-## Check these yourself: 169 firms the watcher can't read
+## Check these yourself: 168 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
 - **Abdiel Capital** · [careers site](https://abdielcapital.com/careers/) · job-site link is broken or moved
 - **Aberdeen Group** · [careers site](https://www.aberdeenplc.com/en-gb/careers/early-careers) · site blocks automated checks
 - **Abrams Bison Investments** · [careers site](https://www.linkedin.com/company/abrams-bison-investments) · no job site in the config
+- **AES** · [careers site](https://www.aes.com/careers) · site blocks automated checks
 - **Aldrich** · [careers site](https://aldrichadvisors.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Aligned Data Centers** · [careers site](https://aligneddc.com/careers/) · site blocks automated checks
 - **AllianceBernstein** · [careers site](https://www.alliancebernstein.com/corporate/en/careers/students.html) · site blocks automated checks
@@ -152,7 +147,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Constellation Energy** · [careers site](https://www.constellationenergy.com/careers.html) · job-site link is broken or moved
 - **Copenhagen Infrastructure Partners** · [careers site](https://cip.com/careers/) · job-site link is broken or moved
 - **Corient** · [careers site](https://corient.com/us/en/careers) · site blocks automated checks
-- **Cornerstone Research** · [careers site](https://www.cornerstone.com/careers/) · site blocks automated checks
 - **Crowe** · [careers site](https://www.crowe.com/uk/careers/early-careers) · site blocks automated checks
 - **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · site blocks automated checks
 - **Energy Capital Partners** · [careers site](https://www.ecpgp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -211,7 +205,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Northwestern Mutual** · [careers site](https://careers.northwesternmutual.com/) · site blocks automated checks
 - **NVIDIA** · [careers site](https://www.nvidia.com/en-us/about-nvidia/careers/) · site blocks automated checks
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
-- **Oaktree Capital Management** · [careers site](https://www.oaktreecapital.com/careers) · site blocks automated checks
 - **Oliver Wyman** · [careers site](https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html) · site blocks automated checks
 - **OMERS** · [careers site](https://www.omers.com/careers) · site blocks automated checks
 - **OTPP** · [careers site](https://www.otpp.com/en-ca/careers/) · site blocks automated checks
@@ -220,7 +213,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PGIM** · [careers site](https://www.pgim.com/gb/en/institutional/about/careers) · site blocks automated checks
-- **Phillips Edison & Company** · [careers site](https://peco-uk.com/pages/careers) · site blocks automated checks
+- **PIMCO** · [careers site](https://www.pimco.co.uk/en-gb/our-firm/careers/students) · site blocks automated checks
 - **Piper Sandler** · [careers site](https://www.pipersandler.com/careers/students) · site blocks automated checks
 - **PJT Partners** · [careers site](https://pjtpartners.com/careers) · site blocks automated checks
 - **PMCF Investment Banking** · [careers site](https://pmcf.com/careers/) · site blocks automated checks
@@ -240,6 +233,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **RSM US** · [careers site](https://rsmus.com/careers.html) · site blocks automated checks
 - **Santander** · [careers site](https://www.santander.com/en/careers/where-you-want-to-create-an-impact/corporate---investment-banking) · site blocks automated checks
 - **SBF Advisors** · [careers site](https://sbfadvisors.com/careers/) · site couldn't be reached securely
+- **ScottMadden** · [careers site](https://www.scottmadden.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Sculptor Capital Management** · [careers site](https://www.sculptor.com/careers/internships) · site blocks automated checks
 - **Sensiba** · [careers site](https://sensiba.com/careers/student-opportunities) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Shell** · [careers site](https://www.shell.com/careers/about-careers-at-shell/early-careers.html) · site blocks automated checks
@@ -258,10 +252,9 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Texas Capital Bank** · [careers site](https://www.texascapitalbank.com/who-we-are/careers) · site blocks automated checks
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
 - **TIAA** · [careers site](https://careers.tiaa.org/earlytalent) · site blocks automated checks
-- **Truist** · [careers site](https://careers.truist.com/us/en) · site blocks automated checks
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
-- **Uline** · [careers site](https://www.uline.jobs/) · site blocks automated checks
+- **U.S. Bank** · [careers site](https://careers.usbank.com/) · site blocks automated checks
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · site blocks automated checks
 - **Vantage Data Centers** · [careers site](https://vantage-dc.com/careers/) · site blocks automated checks
 - **Vistra** · [careers site](https://www.vistracorp.com/careers) · site blocks automated checks
