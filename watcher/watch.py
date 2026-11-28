@@ -41,7 +41,7 @@ ROLE = re.compile(r"analyst|associate|trader|researcher", re.I)
 SUMMER = re.compile(r"summer|\bintern\b|\binterns\b|internship", re.I)
 SUMMER_YEAR = re.compile(r"\b20(27|28)\b")
 SUMMER_OFF = re.compile(r"\b20(2[0-6]|29|3\d)\b|\b(fall|autumn|spring|winter)\b|off[\s\-]?cycle|\bmba\b|\bphd\b|"
-                        r"\bjd\b|law school|high school|sophomore|freshman|first[\s\-]?year|insight|discovery|"
+                        r"summer associate|\b(january|february|march|april|may)\b|\bjd\b|law school|high school|sophomore|freshman|first[\s\-]?year|insight|discovery|"
                         r"sneak peek|\bconnect\b|futurefocus|shadow|spring week|open day|virtual", re.I)
 # Non-English student schemes and senior roles never count. Insight, co-op, apprenticeship and
 # off-cycle programs are left out too.
