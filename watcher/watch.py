@@ -1,5 +1,5 @@
 """Check every firm's job site and alert on new postings that look like
-2027 or full-time analyst roles.
+2027 or full-time analyst roles, or 2027 / 2028 summer analyst programs.
 
 Reads the firm list from config/firms.yaml (no Trackr).
 
@@ -37,8 +37,15 @@ LATER = re.compile(r"\b20(28|29|30)\b")
 FULLTIME = re.compile(r"full[\s\-]?time|new[\s\-]?grad|graduate (program|programme|analyst|scheme)|campus hire|"
                       r"analyst (program|programme|class)|rotational (program|analyst)|entry[\s\-]level analyst", re.I)
 ROLE = re.compile(r"analyst|associate|trader|researcher", re.I)
-# Internships, non-English student schemes and senior roles never count, even with 2027 in the title.
-EXCLUDE = re.compile(r"summer|\bintern\b|\binterns\b|internship|co-?op|apprentic|\bstage\b|off[\s\-]?cycle|insight|"
+# Summer analyst programs for summer 2027 or summer 2028 count (Frank, Nov 28, 2026).
+SUMMER = re.compile(r"summer|\bintern\b|\binterns\b|internship", re.I)
+SUMMER_YEAR = re.compile(r"\b20(27|28)\b")
+SUMMER_OFF = re.compile(r"\b20(2[0-6]|29|3\d)\b|\b(fall|autumn|spring|winter)\b|off[\s\-]?cycle|\bmba\b|\bphd\b|"
+                        r"\bjd\b|law school|high school|sophomore|freshman|first[\s\-]?year|insight|discovery|"
+                        r"sneak peek|\bconnect\b|futurefocus|shadow|spring week|open day|virtual", re.I)
+# Non-English student schemes and senior roles never count. Insight, co-op, apprenticeship and
+# off-cycle programs are left out too.
+EXCLUDE = re.compile(r"co-?op|apprentic|\bstage\b|off[\s\-]?cycle|insight|"
                      r"spring week|winter|ausbildung|werkstudent|working student|praktikum|stagiaire|alternance|"
                      r"duales|studium|bachelor of science|test req|experienced|lateral|senior|vice president|\bvp\b|"
                      r"director|manager|principal|\blead\b|head of|managing", re.I)
@@ -66,14 +73,24 @@ def is_theme(title):
     """True for an early-career AI, data center, power or energy-transition role."""
     t = " ".join(title.split())
     return bool(THEME.search(t) and THEME_ROLE.search(t) and not THEME_EXCLUDE.search(t)
-                and not EXCLUDE.search(t) and not LATER.search(t))
+                and not EXCLUDE.search(t) and not SUMMER.search(t) and not LATER.search(t))
+
+
+def is_summer(title):
+    """True for a summer analyst or summer internship for summer 2027 or 2028. A title with no
+    year counts too; the 14-day posting filter keeps old ones out."""
+    t = " ".join(title.split())
+    return bool(SUMMER.search(t) and not SUMMER_OFF.search(t) and not EXCLUDE.search(t)
+                and (SUMMER_YEAR.search(t) or re.search(r"summer", t, re.I)))
 
 
 def is_match(title):
-    """True for titles that say 2027, that read like a full-time analyst program, or that are
-    early-career AI / data center / energy roles (is_theme).
-    Internships and senior roles are always left out."""
+    """True for titles that say 2027, that read like a full-time analyst program, that are
+    early-career AI / data center / energy roles (is_theme), or that are 2027 / 2028 summer
+    analyst programs (is_summer). Senior roles and other internships are left out."""
     t = " ".join(title.split())
+    if SUMMER.search(t):
+        return is_summer(t)
     if EXCLUDE.search(t):
         return False
     if YEAR.search(t):
@@ -192,7 +209,8 @@ def a_workday(key):
     host, tenant, site = key.split("|")
     api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     jobs, seen = [], set()
-    for q, pages in (("2027", 5), ("full time analyst", 2), ("analyst program", 1), ("", 1),
+    for q, pages in (("2027", 5), ("2028", 3), ("summer analyst", 2), ("full time analyst", 2),
+                     ("analyst program", 1), ("", 1),
                      ("data center", 1), ("energy analyst", 1), ("infrastructure analyst", 1), ("renewable", 1)):
         for page in range(pages):
             body = {"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": q}
@@ -223,7 +241,7 @@ def a_oracle(key):
             raise RuntimeError("oracle siteNumber not found")
         num = _oracle_site[key] = m.group(1)
     jobs = []
-    for kw in ("", "2027"):
+    for kw in ("", "2027", "2028", "summer"):
         finder = f"findReqs;siteNumber={num},limit=100,sortBy=POSTING_DATES_DESC"
         if kw:
             finder += f",keyword=\"{kw}\""
@@ -335,7 +353,7 @@ def anchors(page, base, href_re=None):
 
 def a_icims(host):
     jobs = []
-    for kw in ("", "2027", "analyst"):
+    for kw in ("", "2027", "2028", "summer", "analyst"):
         url = f"https://{host}/jobs/search?ss=1&in_iframe=1&searchKeyword={quote(kw)}"
         jobs += anchors(get(url).text, url, r"/jobs/\d+/")
     return jobs
@@ -395,7 +413,7 @@ def a_site(url):
     if "phApp" in page or "eagerLoadRefineSearch" in page:
         m = re.match(r"^/([a-z]{2,6})/([a-z]{2})(/|$)", u.path)
         base = f"{u.scheme}://{u.netloc}" + (f"/{m.group(1)}/{m.group(2)}" if m else "")
-        for kw in ("2027", "full time analyst", "analyst program"):
+        for kw in ("2027", "2028", "summer analyst", "full time analyst", "analyst program"):
             try:
                 jobs += phenom_jobs(get(f"{base}/search-results?keywords={quote(kw)}").text, base)
             except Exception:
@@ -405,7 +423,7 @@ def a_site(url):
             return jobs
     if "jobTitle-link" in page or "/search/?q=" in page:
         base = f"{u.scheme}://{u.netloc}"
-        for kw in ("2027", "analyst"):
+        for kw in ("2027", "2028", "summer", "analyst"):
             try:
                 jobs += anchors(get(f"{base}/search/?q={quote(kw)}&sortColumn=referencedate&sortDirection=desc").text,
                                 base, r"/job/")
@@ -428,7 +446,7 @@ GS_QUERY = ("query GetRoles($searchQueryInput: RoleSearchQueryInput!) { roleSear
 
 def a_goldman(_key):
     jobs = []
-    for term in ("2027", "analyst program", "new analyst", "full time analyst"):
+    for term in ("2027", "2028", "summer analyst", "analyst program", "new analyst", "full time analyst"):
         body = {"operationName": "GetRoles", "query": GS_QUERY, "variables": {"searchQueryInput": {
             "page": {"pageSize": 40, "pageNumber": 0}, "sort": {"sortStrategy": "POSTED_DATE", "sortOrder": "DESC"},
             "filters": [], "experiences": ["EARLY_CAREER", "PROFESSIONAL"], "searchTerm": term}}}
@@ -597,14 +615,14 @@ def main():
     total = sum(len(v) for v in current.values())
     with open(os.path.join(DATA, "open_now.md"), "w") as fh:
         fh.write(f"# Open right now: {total} postings at {len(current)} firms\n\n"
-                 "Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in "
+                 "Titles with 2027 or a full-time analyst sign, summer 2027 and summer 2028 analyst programs (tagged summer), plus early-career analyst and associate roles in "
                  "AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong "
                  "(postings with no location listed are included), posted in the last 14 days. Postings with no posting date "
-                 "count from the day the watcher first saw them. Internships and senior roles are left out. "
+                 "count from the day the watcher first saw them. Insight, off-cycle and other internships and senior roles are left out. "
                  "Refreshed on every check.\n\n")
         for f in sorted(current, key=str.lower):
             fh.write(f"## {f}\n" + "".join(
-                f"- [{m['title']}]({m['url']}) · {age_label(m)}{' · AI/energy infra' if is_theme(m['title']) else ''}\n"
+                f"- [{m['title']}]({m['url']}) · {age_label(m)}{' · AI/energy infra' if is_theme(m['title']) else ''}{' · summer' if is_summer(m['title']) else ''}\n"
                 for m in current[f]) + "\n")
 
     topic = os.environ.get("NTFY_TOPIC", "")

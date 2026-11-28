@@ -1,6 +1,6 @@
 # Job watcher
 
-Checks the job boards of every firm in `config/firms.yaml`. When a new posting's title says **2027**, or reads like a **full-time analyst** role, in the US, mainland China or Hong Kong and posted in the last 14 days, it alerts you.
+Checks the job boards of every firm in `config/firms.yaml`. When a new posting's title says **2027**, reads like a **full-time analyst** role, or is a **summer 2027 or summer 2028 analyst program** (insight, off-cycle, MBA and sophomore programs left out), in the US, mainland China or Hong Kong and posted in the last 14 days, it alerts you.
 
 - **Phone:** a push through the ntfy app. The channel name lives in the `NTFY_TOPIC` repo secret.
 - **Email:** a GitHub issue in this repo, which GitHub emails to you.
