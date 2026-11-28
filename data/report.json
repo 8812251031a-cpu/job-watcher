@@ -893,7 +893,7 @@
   "id": "bank-of-america",
   "readable": true,
   "postings_read": 48,
-  "matches": 4,
+  "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
@@ -905,8 +905,6 @@
   ],
   "sample_matches": [
    "2027 Global Markets Military and Athlete Programme",
-   "Latin America Investment Banking Summer Associate Program \u2013 2027",
-   "Global Investment Banking Summer Associate Program - 2027",
    "Global Payments Solutions Summer Analyst - 2027 - Shanghai"
   ]
  },
@@ -1235,16 +1233,16 @@
  {
   "firm": "Blue Owl Capital",
   "id": "blue-owl-capital",
-  "readable": false,
-  "postings_read": 0,
+  "readable": true,
+  "postings_read": 23,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "blueowl.wd1.myworkdayjobs.com|blueowl|blueowl",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueowl.wd1.myworkdayjobs.com/wday/cxs/blueowl/blueowl/jobs"
+    "ok": true,
+    "count": 23,
+    "error": ""
    }
   ],
   "sample_matches": []
@@ -1874,7 +1872,7 @@
     "key": "osv-cci.wd1.myworkdayjobs.com|osv-cci|CCICareers",
     "ok": false,
     "count": 0,
-    "error": "HTTPError: 422 Client Error: Unprocessable Entity for url: https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv-cci/CCICareers/jobs"
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://osv-cci.wd1.myworkdayjobs.com/wday/cxs/osv-cci/CCICareers/jobs"
    }
   ],
   "sample_matches": []
@@ -2396,8 +2394,8 @@
  {
   "firm": "Cornerstone Research",
   "id": "cornerstone-research",
-  "readable": true,
-  "postings_read": 9,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
@@ -2410,9 +2408,9 @@
    {
     "kind": "workday",
     "key": "cornerstone.wd501.myworkdayjobs.com|cornerstone|CornerstoneResearch_Careers",
-    "ok": true,
-    "count": 9,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cornerstone.wd501.myworkdayjobs.com/wday/cxs/cornerstone/CornerstoneResearch_Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -2581,19 +2579,21 @@
  {
   "firm": "Dodge & Cox",
   "id": "dodge-cox",
-  "readable": false,
-  "postings_read": 0,
-  "matches": 0,
+  "readable": true,
+  "postings_read": 9,
+  "matches": 1,
   "sources": [
    {
     "kind": "workday",
     "key": "dodgeandcox.wd5.myworkdayjobs.com|dodgeandcox|Dodgecox",
-    "ok": false,
-    "count": 0,
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://dodgeandcox.wd5.myworkdayjobs.com/wday/cxs/dodgeandcox/Dodgecox/jobs"
+    "ok": true,
+    "count": 9,
+    "error": ""
    }
   ],
-  "sample_matches": []
+  "sample_matches": [
+   "2028 Investment Associate Internship"
+  ]
  },
  {
   "firm": "DRW",
@@ -2802,7 +2802,7 @@
   "id": "evercore",
   "readable": true,
   "postings_read": 40,
-  "matches": 8,
+  "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
@@ -2819,13 +2819,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Strategic Advisory: Summer Associate Program \u2013 New York Industry Pods",
-   "2027 Liability Management & Restructuring Summer Associate Program \u2013 New York",
-   "2027 Strategic Advisory: Real Estate Strategic Advisory Summer Associate Program \u2013 New York",
-   "2027 Equity Research Summer Associate \u2013 New York, NY",
-   "2027 Strategic Advisory: Summer Associate Program \u2013 New York Industry Pods"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Evergreen Services Group",
@@ -2890,7 +2884,7 @@
   "id": "federated-insurance",
   "readable": true,
   "postings_read": 57,
-  "matches": 17,
+  "matches": 16,
   "sources": [
    {
     "kind": "icims",
@@ -3453,23 +3447,19 @@
  {
   "firm": "Greenhill",
   "id": "greenhill",
-  "readable": true,
-  "postings_read": 45,
-  "matches": 3,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "mizuho.wd1.myworkdayjobs.com|mizuho|mizuho_confidential",
-    "ok": true,
-    "count": 45,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuho_confidential/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 Investment Banking Analyst - New York",
-   "Summer 2027 Fixed Income Sales and Trading Internship \u2013 Derivatives Risk Solutions Americas",
-   "2028 Investment Banking Summer Analyst - San Francisco"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Greystar",
@@ -4026,7 +4016,7 @@
   "id": "itw",
   "readable": true,
   "postings_read": 45,
-  "matches": 2,
+  "matches": 0,
   "sources": [
    {
     "kind": "site",
@@ -4036,17 +4026,14 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "Manufacturing Engineer Intern - Summer 2027",
-   "Software or Computer Engineer Intern - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "J.P. Morgan",
   "id": "j-p-morgan",
   "readable": true,
   "postings_read": 283,
-  "matches": 19,
+  "matches": 16,
   "sources": [
    {
     "kind": "oracle",
@@ -4057,11 +4044,11 @@
    }
   ],
   "sample_matches": [
-   "2027 Applied AI - HR CDAO - Summer Associate",
    "Full Time Associate Banker, Magnolia Ave and Tyler Branch, Riverside, CA",
    "2027 Market Sales Analyst Internship \u2013 Emerging Talent Summer Experience Program",
    "2027 Latin American Debt Capital Markets Analyst Internship \u2013 Emerging Talent Summer Experience Program",
-   "2027 Market Risk Management Internship - Emerging Talent Summer Experience Program"
+   "2027 Market Risk Management Internship - Emerging Talent Summer Experience Program",
+   "U.S. Private Bank - Client Service Team - 2027 ReEntry Program"
   ]
  },
  {
@@ -4092,7 +4079,7 @@
   "id": "jefferies",
   "readable": true,
   "postings_read": 150,
-  "matches": 25,
+  "matches": 15,
   "sources": [
    {
     "kind": "oleeo",
@@ -4244,7 +4231,7 @@
   "firm": "Kearney",
   "id": "kearney",
   "readable": true,
-  "postings_read": 442,
+  "postings_read": 441,
   "matches": 0,
   "sources": [
    {
@@ -4258,7 +4245,7 @@
     "kind": "site",
     "key": "https://www.kearney.com/careers",
     "ok": true,
-    "count": 439,
+    "count": 438,
     "error": ""
    }
   ],
@@ -4996,23 +4983,19 @@
  {
   "firm": "Mizuho",
   "id": "mizuho",
-  "readable": true,
-  "postings_read": 45,
-  "matches": 3,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "mizuho.wd1.myworkdayjobs.com|mizuho|mizuho_confidential",
-    "ok": true,
-    "count": 45,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuho_confidential/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 Investment Banking Analyst - New York",
-   "Summer 2027 Fixed Income Sales and Trading Internship \u2013 Derivatives Risk Solutions Americas",
-   "2028 Investment Banking Summer Analyst - San Francisco"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "MMB+CO",
@@ -5043,7 +5026,7 @@
   "id": "moelis-co",
   "readable": true,
   "postings_read": 8,
-  "matches": 2,
+  "matches": 1,
   "sources": [
    {
     "kind": "oleeo",
@@ -5068,8 +5051,7 @@
    }
   ],
   "sample_matches": [
-   "2027 Analyst, Investment Banking - Shareholder Advisory (Los Angeles)",
-   "2027 Investment Banking Summer Associate \u2013 Generalist \u2013 New York"
+   "2027 Analyst, Investment Banking - Shareholder Advisory (Los Angeles)"
   ]
  },
  {
@@ -5135,7 +5117,7 @@
   "id": "morgan-stanley",
   "readable": true,
   "postings_read": 50,
-  "matches": 2,
+  "matches": 1,
   "sources": [
    {
     "kind": "oleeo",
@@ -5146,7 +5128,6 @@
    }
   ],
   "sample_matches": [
-   "2027 Quantitative Investment Strategies Summer Associate Program (New York)",
    "2027 Step In, Step Up: Empowering Women - Career Pathways Programmme"
   ]
  },
@@ -5338,7 +5319,7 @@
   "id": "nomura",
   "readable": true,
   "postings_read": 92,
-  "matches": 1,
+  "matches": 0,
   "sources": [
    {
     "kind": "oleeo",
@@ -5355,9 +5336,7 @@
     "error": ""
    }
   ],
-  "sample_matches": [
-   "2027 Investment Banking Summer Associate Program - San Francisco"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Nonantum Capital Partners",
@@ -5765,7 +5744,7 @@
   "id": "perella-weinberg-partners",
   "readable": true,
   "postings_read": 4,
-  "matches": 4,
+  "matches": 2,
   "sources": [
    {
     "kind": "oleeo",
@@ -5777,8 +5756,6 @@
   ],
   "sample_matches": [
    "2028 Restructuring Advisory Summer Analyst \u2013 NY",
-   "2027 NY Summer Associate - M&A (Consumer/Retail, Healthcare, FIG, Technology)",
-   "2027 NY Summer Associate - Restructuring",
    "2028 US Advisory Summer Analyst \u2013 NY, CHI, FL, LA, SF"
   ]
  },
@@ -5819,16 +5796,16 @@
  {
   "firm": "PGIM",
   "id": "pgim",
-  "readable": true,
-  "postings_read": 59,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "pru.wd5.myworkdayjobs.com|pru|Careers",
-    "ok": true,
-    "count": 59,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs"
    }
   ],
   "sample_matches": []
@@ -5836,16 +5813,16 @@
  {
   "firm": "Phillips Edison & Company",
   "id": "phillips-edison-company",
-  "readable": true,
-  "postings_read": 8,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "phillipsedison.wd503.myworkdayjobs.com|phillipsedison|PECO",
-    "ok": true,
-    "count": 8,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://phillipsedison.wd503.myworkdayjobs.com/wday/cxs/phillipsedison/PECO/jobs"
    }
   ],
   "sample_matches": []
@@ -5998,25 +5975,19 @@
  {
   "firm": "Protiviti",
   "id": "protiviti",
-  "readable": true,
-  "postings_read": 58,
-  "matches": 5,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "roberthalf.wd1.myworkdayjobs.com|roberthalf|ProtivitiNA",
-    "ok": true,
-    "count": 58,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/ProtivitiNA/jobs"
    }
   ],
-  "sample_matches": [
-   "Atlanta Technology Consulting Intern - 2027",
-   "Denver Technology Consulting Consultant - 2027",
-   "Atlanta Internal Audit and Financial Advisory Intern - 2027",
-   "Metro DC Legal, Risk and Compliance Intern - 2027",
-   "Houston Internal Audit and Financial Advisory Consultant - 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Provident Healthcare Partners",
@@ -6410,7 +6381,7 @@
   "id": "rothschild-co",
   "readable": true,
   "postings_read": 19,
-  "matches": 6,
+  "matches": 5,
   "sources": [
    {
     "kind": "oleeo",
@@ -6421,11 +6392,11 @@
    }
   ],
   "sample_matches": [
-   "Internship - Investment Analyst \u2013 Five Arrows Growth Partners \u2013 January / March 2027",
    "Leveraged Finance 2027 Summer Analyst Programme",
    "Long Term Internship - Global Advisory FIG \u2013 Juillet 2027",
    "Long Term Internship \u2013 Healthcare coverage team \u2013 Global Advisory \u2013 Juillet 2027",
-   "Long Term Internship \u2013 Sovereign Advisory \u2013 Juillet/Septembre 2027"
+   "Long Term Internship \u2013 Sovereign Advisory \u2013 Juillet/Septembre 2027",
+   "Long Term ESG Internship - Global Advisory \u2013 Juillet 2027"
   ]
  },
  {
@@ -6825,21 +6796,19 @@
  {
   "firm": "SouthState Bank",
   "id": "southstate-bank",
-  "readable": true,
-  "postings_read": 48,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "southstatebank.wd5.myworkdayjobs.com|southstatebank|External",
-    "ok": true,
-    "count": 48,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://southstatebank.wd5.myworkdayjobs.com/wday/cxs/southstatebank/External/jobs"
    }
   ],
-  "sample_matches": [
-   "Summer 2027 Commercial Banking Intern Waco, TX"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Sower Investment Partners",
@@ -7442,21 +7411,19 @@
  {
   "firm": "TIAA",
   "id": "tiaa",
-  "readable": true,
-  "postings_read": 78,
-  "matches": 1,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "tiaa.wd1.myworkdayjobs.com|tiaa|Search",
-    "ok": true,
-    "count": 78,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs"
    }
   ],
-  "sample_matches": [
-   "2027 Early Talent Internship: Corporate Strategy & Planning"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Tidal Partners",
@@ -7647,23 +7614,19 @@
  {
   "firm": "Uline",
   "id": "uline",
-  "readable": true,
-  "postings_read": 80,
-  "matches": 3,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "uline.wd1.myworkdayjobs.com|uline|Uline_Careers",
-    "ok": true,
-    "count": 80,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://uline.wd1.myworkdayjobs.com/wday/cxs/uline/Uline_Careers/jobs"
    }
   ],
-  "sample_matches": [
-   "Digital Marketing Internship - Summer 2027",
-   "Human Resources Recruiting Internship - Summer 2027",
-   "Warehouse Management Internship - Summer 2027"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Union Square Advisors",
@@ -7808,7 +7771,7 @@
   "id": "vista-equity-partners",
   "readable": true,
   "postings_read": 24,
-  "matches": 3,
+  "matches": 2,
   "sources": [
    {
     "kind": "icims",
@@ -7833,7 +7796,6 @@
    }
   ],
   "sample_matches": [
-   "2027 Private Equity Summer Associate Internship",
    "2027 Private Equity Associate, Austin",
    "2027 Private Equity Associate, Chicago"
   ]
@@ -8233,23 +8195,19 @@
  {
   "firm": "Brookfield",
   "id": "brookfield",
-  "readable": true,
-  "postings_read": 73,
-  "matches": 3,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "brookfield.wd5.myworkdayjobs.com|brookfield|brookfield",
-    "ok": true,
-    "count": 73,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brookfield/jobs"
    }
   ],
-  "sample_matches": [
-   "Associate, Infrastructure AI",
-   "Associate, Investments (Energy)",
-   "Associate, Investor Relations (Energy)"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "I Squared Capital",
@@ -8600,16 +8558,16 @@
  {
   "firm": "RMI (Rocky Mountain Institute)",
   "id": "rmi",
-  "readable": true,
-  "postings_read": 7,
+  "readable": false,
+  "postings_read": 0,
   "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "rockymountain.wd1.myworkdayjobs.com|rockymountain|RMI",
-    "ok": true,
-    "count": 7,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockymountain.wd1.myworkdayjobs.com/wday/cxs/rockymountain/RMI/jobs"
    }
   ],
   "sample_matches": []
@@ -9168,25 +9126,19 @@
  {
   "firm": "NVIDIA",
   "id": "nvidia",
-  "readable": true,
-  "postings_read": 198,
-  "matches": 14,
+  "readable": false,
+  "postings_read": 0,
+  "matches": 0,
   "sources": [
    {
     "kind": "workday",
     "key": "nvidia.wd5.myworkdayjobs.com|nvidia|NVIDIAExternalCareerSite",
-    "ok": true,
-    "count": 198,
-    "error": ""
+    "ok": false,
+    "count": 0,
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
    }
   ],
-  "sample_matches": [
-   "Applied Research Intern - 2027",
-   "NVIDIA 2027 Internships: Hardware Verification",
-   "NVIDIA 2027 Internships: Computer Architecture",
-   "NVIDIA 2027 Internships: Software Engineering",
-   "NVIDIA 2027 Internships: Deep Learning"
-  ]
+  "sample_matches": []
  },
  {
   "firm": "Microsoft",
