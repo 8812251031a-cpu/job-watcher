@@ -1,6 +1,12 @@
-# Open right now: 44 postings at 20 firms
+# Open right now: 322 postings at 84 firms
 
-Titles with 2027 or a full-time analyst sign, plus early-career analyst and associate roles in AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Internships and senior roles are left out. Refreshed on every check.
+Titles with 2027 or a full-time analyst sign, summer 2027 and summer 2028 analyst programs (tagged summer), plus early-career analyst and associate roles in AI, data centers, power and energy transition (tagged AI/energy infra), in the US, mainland China or Hong Kong (postings with no location listed are included), posted in the last 14 days. Postings with no posting date count from the day the watcher first saw them. Insight, off-cycle and other internships and senior roles are left out. Refreshed on every check.
+
+## AArete
+- [Data Architecture & Engineering Intern (Summer 2027)](https://jobs.jobvite.com/aarete/job/otGLAfwe) · first seen Nov 28 · summer
+
+## Advantage Capital
+- [Investment Summer Analyst (Summer 2027 Start Date- NYC)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693668) · posted Nov 25 · summer
 
 ## Affinius Capital
 - [Analyst, Data Center and Office Asset Management (San Antonio, TX)](https://careers-affiniuscapital.icims.com/jobs/2305/analyst%2c-data-center-and-office-asset-management-%28san-antonio%2c-tx%29/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
@@ -16,22 +22,179 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## Appian
 - [Enablement Specialist (December 2026 and May 2027 Grads)](https://job-boards.greenhouse.io/appian/jobs/8400562) · posted Nov 20
 
+## Apple
+- [Apple Summer Camp](https://jobs.apple.com/en-gb/search?location=united-kingdom-GBR) · first seen Nov 28 · summer
+
 ## AQR Capital Management
 - [2027 Portfolio Finance Analyst](https://careers.aqr.com/jobs?gh_jid=8161734&gh_jid=8161734) · posted Nov 19
+
+## Baird
+- [Internship – Private Wealth Management (Abilene, TX Summer 2027)](https://wd1.myworkdaysite.com/en-US/Careers/job/TX-Abilene/Internship---Private-Wealth-Management--Abilene--TX-Summer-2027-_R20261336-1) · posted Nov 24 · summer
+- [Internship – Private Wealth Management (Blue Bell, PA Summer 2027)](https://wd1.myworkdaysite.com/en-US/Careers/job/PA-Blue-Bell/Internship---Private-Wealth-Management--Blue-Bell--PA-Summer-2027-_R20261305-1) · posted Nov 16 · summer
+
+## Bank of America
+- [Latin America Investment Banking Summer Associate Program – 2027](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/13956-Latin-America-Investment-Banking-Summer-Associate-Program-2027/en-GB) · first seen Nov 28 · summer
+- [Global Investment Banking Summer Associate Program - 2027](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/13930-Global-Investment-Banking-Summer-Associate-Program-2027/en-GB) · first seen Nov 28 · summer
+- [Global Payments Solutions Summer Analyst - 2027 - Shanghai](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14381-Global-Payments-Solutions-Summer-Analyst-2027-Shanghai/en-GB) · first seen Nov 28 · summer
+
+## Bates White
+- [Summer Consultant Program](https://www.bateswhite.com/careers/summer-consultants) · first seen Nov 28 · summer
+- [Summer Consultant Program](https://www.bateswhite.com/careers/overview) · first seen Nov 28 · summer
+- [Summer Consultant Program Learn More](https://www.bateswhite.com/careers/overview) · first seen Nov 28 · summer
+
+## BDO Global
+- [Summer Analyst, Investment Banking, BDO Capital Advisors - Summer 2027 (Richmond)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10683) · posted Nov 19 · summer
+- [Assurance Intern - Summer 2027 (Norfolk)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14817) · posted Nov 19 · summer
+- [Tax Intern, Business Incentives Group - Summer 2027 (San Francisco)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11850) · posted Nov 17 · summer
+- [Tax Intern, State and Local Tax - Summer 2027 (Akron)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13709) · posted Nov 17 · summer
+- [Tax Associate, Business Incentives Group - Summer 2027 (San Francisco)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14162) · posted Nov 17 · summer
+
+## BlackRock
+- [Summer Internship Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11986-2027-Summer-Internship-Program-AMERS/en-GB) · first seen Nov 28 · summer
+- [Summer Internship Program](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/11984-2027-Summer-Internship-Program-APAC/en-GB) · first seen Nov 28 · summer
 
 ## BNY Mellon
 - [2027 BNY Analyst Program – Credit and Trading - (New York, NY)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/84368) · posted Nov 24
 - [2027 BNY Analyst Program – Credit and Trading - (Pittsburgh, PA)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/84372) · posted Nov 24
+- [2027 BNY Summer Internship Program – Client Service (Berwyn, PA)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/84126) · posted Nov 20 · summer
+
+## Brookfield
+- [Associate, Infrastructure AI](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/Associate--Infrastructure-AI_R2052872) · first seen Nov 22 · AI/energy infra
+- [Associate, Investments (Energy)](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/Associate--Investments--Energy-_R2051526) · first seen Nov 22 · AI/energy infra
+- [Associate, Investor Relations (Energy)](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/Associate--Investor-Relations--Energy-_R2051516) · first seen Nov 22 · AI/energy infra
+
+## Cantor Fitzgerald
+- [Lucera – 2027 Summer Internship](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250629) · posted Nov 28 · summer
+- [BGC’s 2027 US Technology Summer Internship – Development](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630) · posted Nov 25 · summer
+- [BGC’s 2027 US Technology Summer Internship – Infrastructure](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631) · posted Nov 25 · summer
+- [Cantor 2027 Technology Infrastructure & Automation Internship](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250648) · posted Nov 25 · summer
+- [2028 Internship Program: Investment Banking (Healthcare)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250434) · posted Nov 23 · summer
+- [2027 Internship Program: Investment Banking (Real Estate)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250462) · posted Nov 23 · summer
+- [2028 Internship Program: Investment Banking (Real Estate)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250463) · posted Nov 23 · summer
+- [2028 Internship Program: Investment Banking (Industrials) NY](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250481) · posted Nov 23 · summer
+- [2028 Internship Program: Investment Banking (FIG)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250480) · posted Nov 23 · summer
+- [2028 Internship Program: Investment Banking (Tech NY)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250483) · posted Nov 23 · summer
+- [2028 Internship Program: Investment Banking (Tech SF)](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250484) · posted Nov 23 · summer
+- [2028 Internship Program: Equity Capital Markets](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250609) · posted Nov 23 · summer
+- [2028 Internship Program: Investment Banking (Industrials) - Chicago](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250614) · posted Nov 23 · summer
+
+## CBRE
+- [Summer Real Estate Internship](https://www.cbre.co.uk/careers/students-and-graduates) · first seen Nov 28 · summer
+- [Energy and Sustainability Graduate](https://www.cbre.co.uk/careers/students-and-graduates) · first seen Nov 22 · AI/energy infra
+
+## Cleveland Research Company
+- [Research Intern- Summer 2027](https://clevelandresearch.applytojob.com/apply/0oj2pH6LVJ/Research-Intern-Summer-2027) · first seen Nov 28 · summer
+- [Research Intern- Summer 2027 Cleveland, OH](https://clevelandresearch.applytojob.com/apply) · first seen Nov 28 · summer
+- [Research Intern- Summer 2027](https://clevelandresearch.applytojob.com/apply) · first seen Nov 28 · summer
+
+## CohnReznick
+- [Valuation Advisory Services - VAS Summer 2027 Internship – Chicago, IL, New York, NY & Bethesda, MD](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10214-Valuation-Advisory-Services-VAS-Summer-2027-Internship-Chicago-IL-New-York-NY-Bethesda-MD/en-GB) · first seen Nov 28 · summer
+- [Project Finance Consulting Advisory Services - PFC Summer 2027 Internship – Charlotte, NC](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10216-Project-Finance-Consulting-Advisory-Services-PFC-Summer-2027-Internship-Charlotte-NC/en-GB) · first seen Nov 28 · summer
+- [Restructuring and Dispute Resolution Advisory Services - RDR Summer 2027 Internship – New York, NY](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10218-Restructuring-and-Dispute-Resolution-Advisory-Services-RDR-Summer-2027-Internship-New-York-NY/en-GB) · first seen Nov 28 · summer
+- [Government Contract Audit Advisory Summer 2027 Internship – Tysons, VA](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10278-Government-Contract-Audit-Advisory-Summer-2027-Internship-Tysons-VA/en-GB) · first seen Nov 28 · summer
+- [CFO Advisory Summer 2027 Internship – New York, NY](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10277-CFO-Advisory-Summer-2027-Internship-New-York-NY/en-GB) · first seen Nov 28 · summer
+- [Transaction Advisory Services - TAS Summer 2027 Internship – New York, NY](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10215-Transaction-Advisory-Services-TAS-Summer-2027-Internship-New-York-NY/en-GB) · first seen Nov 28 · summer
+
+## Eastdil Secured
+- [2027 U.S. Summer Internship Program](https://eastdilsecured.bamboohr.com/careers/168) · first seen Nov 28 · summer
+- [2027 U.S. Summer Internship Program – M&A/Corporate Advisory](https://eastdilsecured.bamboohr.com/careers/175) · first seen Nov 28 · summer
+
+## Evercore
+- [2027 Strategic Advisory: Summer Associate Program – New York Industry Pods](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3235-2027-Strategic-Advisory-Summer-Associate-Program-New-York-Industry-Pods/en-GB) · first seen Nov 28 · summer
+- [2027 Liability Management & Restructuring Summer Associate Program – New York](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3242-2027-Liability-Management-Restructuring-Summer-Associate-Program-New-York/en-GB) · first seen Nov 28 · summer
+- [2027 Strategic Advisory: Real Estate Strategic Advisory Summer Associate Program – New York](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3244-2027-Strategic-Advisory-Real-Estate-Strategic-Advisory-Summer-Associate-Program-New-York/en-GB) · first seen Nov 28 · summer
+- [2027 Equity Research Summer Associate – New York, NY](https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3246-2027-Equity-Research-Summer-Associate-New-York-NY/en-GB) · first seen Nov 28 · summer
+- [2027 Strategic Advisory: Summer Associate Program – New York Industry Pods](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3235-2027-Strategic-Advisory-Summer-Associate-Program-New-York-Industry-Pods/en-GB) · first seen Nov 28 · summer
+- [2027 Liability Management & Restructuring Summer Associate Program – New York](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3242-2027-Liability-Management-Restructuring-Summer-Associate-Program-New-York/en-GB) · first seen Nov 28 · summer
+- [2027 Strategic Advisory: Real Estate Strategic Advisory Summer Associate Program – New York](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3244-2027-Strategic-Advisory-Real-Estate-Strategic-Advisory-Summer-Associate-Program-New-York/en-GB) · first seen Nov 28 · summer
+- [2027 Equity Research Summer Associate – New York, NY](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3246-2027-Equity-Research-Summer-Associate-New-York-NY/en-GB) · first seen Nov 28 · summer
+
+## Federated Insurance
+- [2027 Claims College Internship - Atlanta, GA](https://careers-federatedinsurance.icims.com/jobs/5512/2027-claims-college-internship---atlanta%2c-ga/job?in_iframe=1) · first seen Nov 28 · summer
+- [2027 Claims College Internship - Edina, MN](https://careers-federatedinsurance.icims.com/jobs/5515/2027-claims-college-internship---edina%2c-mn/job?in_iframe=1) · first seen Nov 28 · summer
+- [2027 Claims College Internship - Glendale, AZ](https://careers-federatedinsurance.icims.com/jobs/5516/2027-claims-college-internship---glendale%2c-az/job?in_iframe=1) · first seen Nov 28 · summer
+- [2027 Claims College Internship - Indianapolis, IN](https://careers-federatedinsurance.icims.com/jobs/5510/2027-claims-college-internship---indianapolis%2c-in/job?in_iframe=1) · first seen Nov 28 · summer
+- [2027 Claims College Internship - North Richland Hills, TX](https://careers-federatedinsurance.icims.com/jobs/5511/2027-claims-college-internship---north-richland-hills%2c-tx/job?in_iframe=1) · first seen Nov 28 · summer
+- [2027 Claims College Internship - Overland Park, KS](https://careers-federatedinsurance.icims.com/jobs/5514/2027-claims-college-internship---overland-park%2c-ks/job?in_iframe=1) · first seen Nov 28 · summer
+- [2027 Claims College Internship - Owatonna, MN](https://careers-federatedinsurance.icims.com/jobs/5509/2027-claims-college-internship---owatonna%2c-mn/job?in_iframe=1) · first seen Nov 28 · summer
+- [2027 Claims College Internship - Tampa, FL](https://careers-federatedinsurance.icims.com/jobs/5513/2027-claims-college-internship---tampa%2c-fl/job?in_iframe=1) · first seen Nov 28 · summer
+- [Accounting Intern - January 2028](https://careers-federatedinsurance.icims.com/jobs/5761/accounting-intern---january-2028/job?in_iframe=1) · first seen Nov 28 · summer
+- [Accounting Intern - Summer 2028](https://careers-federatedinsurance.icims.com/jobs/5749/accounting-intern---summer-2028/job?in_iframe=1) · first seen Nov 28 · summer
+- [IT Intern - Summer 2027](https://careers-federatedinsurance.icims.com/jobs/5718/it-intern---summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Risk Consultant Intern - Summer 2027 - Dallas - Fort Worth Metroplex, Texas](https://careers-federatedinsurance.icims.com/jobs/5799/risk-consultant-intern---summer-2027---dallas---fort-worth-metroplex%2c-texas/job?in_iframe=1) · first seen Nov 28 · summer
+- [Risk Consultant Intern - Summer 2027 - Detroit, Michigan](https://careers-federatedinsurance.icims.com/jobs/5797/risk-consultant-intern---summer-2027---detroit%2c-michigan/job?in_iframe=1) · first seen Nov 28 · summer
+- [Risk Consultant Intern - Summer 2027 - Hartford, Connecticut](https://careers-federatedinsurance.icims.com/jobs/5809/risk-consultant-intern---summer-2027---hartford%2c-connecticut/job?in_iframe=1) · first seen Nov 28 · summer
+- [Risk Consultant Intern - Summer 2027 - Kansas City, Missouri](https://careers-federatedinsurance.icims.com/jobs/5800/risk-consultant-intern---summer-2027---kansas-city%2c-missouri/job?in_iframe=1) · first seen Nov 28 · summer
+- [Risk Consultant Intern - Summer 2027 - Metro Atlanta, Georgia](https://careers-federatedinsurance.icims.com/jobs/5801/risk-consultant-intern---summer-2027---metro-atlanta%2c-georgia/job?in_iframe=1) · first seen Nov 28 · summer
+- [Risk Consultant Intern - Summer 2027 - Sacramento, California/Bay Area](https://careers-federatedinsurance.icims.com/jobs/5798/risk-consultant-intern---summer-2027---sacramento%2c-california-bay-area/job?in_iframe=1) · first seen Nov 28 · summer
+
+## Fidelity International
+- [Wholesale Internship Programme 2027 - Kronberg](https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/so/pm/1/pl/1/opp/1434-Wholesale-Internship-Programme-2027-Kronberg/en-GB) · first seen Nov 28 · summer
 
 ## Five Rings
 - [QT Connect 2027 - EU/UK](https://job-boards.greenhouse.io/fiveringsllc/jobs/5473153008) · posted Nov 16
 - [QT Connect 2027 - US](https://job-boards.greenhouse.io/fiveringsllc/jobs/5473043008) · posted Nov 16
 
+## Forvis
+- [Associate Tax Summer 2027 | Enid](https://forvis.avature.net/campuscareers/JobDetail/Enid-Oklahoma-United-States-Associate-Tax-Summer-2027-Enid/13459) · first seen Nov 28 · summer
+- [Associate Tax Summer 2027 | Minneapolis](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Tax-Summer-2027-Minneapolis/14124) · first seen Nov 28 · summer
+- [Associate Tax Summer 2027 | Oklahoma City](https://forvis.avature.net/campuscareers/JobDetail/Oklahoma-City-Oklahoma-United-States-Associate-Tax-Summer-2027-Oklahoma-City/12571) · first seen Nov 28 · summer
+- [Associate Tax Summer 2027 | Tulsa](https://forvis.avature.net/campuscareers/JobDetail/Tulsa-Oklahoma-United-States-Associate-Tax-Summer-2027-Tulsa/12577) · first seen Nov 28 · summer
+
+## Forvis Mazars
+- [Associate Tax Summer 2027 | Enid](https://forvis.avature.net/campuscareers/JobDetail/Enid-Oklahoma-United-States-Associate-Tax-Summer-2027-Enid/13459) · first seen Nov 28 · summer
+- [Associate Tax Summer 2027 | Minneapolis](https://forvis.avature.net/campuscareers/JobDetail/United-States-Associate-Tax-Summer-2027-Minneapolis/14124) · first seen Nov 28 · summer
+- [Associate Tax Summer 2027 | Oklahoma City](https://forvis.avature.net/campuscareers/JobDetail/Oklahoma-City-Oklahoma-United-States-Associate-Tax-Summer-2027-Oklahoma-City/12571) · first seen Nov 28 · summer
+- [Associate Tax Summer 2027 | Tulsa](https://forvis.avature.net/campuscareers/JobDetail/Tulsa-Oklahoma-United-States-Associate-Tax-Summer-2027-Tulsa/12577) · first seen Nov 28 · summer
+
+## G2 Capital Advisors
+- [Summer Analyst 2027](https://g2cap.bamboohr.com/careers/175) · first seen Nov 28 · summer
+
+## Galaxy
+- [2027 FP&A Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6267160004) · posted Nov 20 · summer
+- [2027 Finance (Internal Audit) Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266826004) · posted Nov 19 · summer
+- [2027 Finance (Treasury) Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266835004) · posted Nov 19 · summer
+- [2027 Ventures Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266798004) · posted Nov 19 · summer
+- [2027 Site Reliability Engineer Intern-Afton, Texas](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) · posted Nov 18 · summer
+- [2027 Environmental Health & Safety Engineer Intern-Afton Texas](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6262681004) · posted Nov 16 · summer
+
+## GCM Grosvenor
+- [2027 Credit Summer Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8208687003) · posted Nov 20 · summer
+
+## GID
+- [Summer Industrial Analyst Program](https://jobs.jobvite.com/gid/job/omo6Afwa) · first seen Nov 28 · summer
+
+## Graham Partners
+- [Internship: 2027 Summer Analyst – Business Development Team (Class of 2028)](https://www.grahampartners.net/careers/internship-2027-summer-analyst-business-development-team/) · first seen Nov 28 · summer
+- [Internship: 2027 Summer Analyst – Investment Team (Class of 2028)](https://www.grahampartners.net/careers/internship-opportunity-2026-summer-analyst/) · first seen Nov 28 · summer
+
+## Greenhill
+- [Summer 2027 Fixed Income Sales and Trading Internship – Derivatives Risk Solutions Americas](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/Summer-2027-Fixed-Income-Sales-and-Trading-Internship---Derivatives-Risk-Solutions-Americas_R7585) · posted Nov 24 · summer
+- [2027 Investment Banking Analyst - New York](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Investment-Banking-Analyst---New-York_R7579) · posted Nov 20
+- [2028 Investment Banking Summer Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2028-Investment-Banking-Summer-Analyst---San-Francisco_R7499) · posted Nov 20 · summer
+
+## Harrison Street
+- [Summer 2027 Accounting Intern](https://jobs.lever.co/harrisonst/270f8c23-2116-4be7-87d2-1c5d16be42e7) · posted Nov 23 · summer
+
+## ICF
+- [Economics Specialist (Entry Level, Hybrid, Summer 2027)](https://careers.icf.com/us/en/job/R2603903) · posted Nov 24 · summer
+- [2027 Summer Intern, Media Coordinator (DC/MD/VA; NY)](https://careers.icf.com/us/en/job/R2603480) · posted Nov 18 · summer
+- [2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)](https://careers.icf.com/us/en/job/R2603312) · posted Nov 18 · summer
+
+## ITW
+- [Manufacturing Engineer Intern - Summer 2027](https://careers.itw.com/us/en/job/JR11366) · posted Nov 23 · summer
+- [Software or Computer Engineer Intern - Summer 2027](https://careers.itw.com/us/en/job/JR11356) · posted Nov 23 · summer
+
 ## J.P. Morgan
+- [2027 Applied AI - HR CDAO - Summer Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549) · posted Nov 27 · summer
 - [Full Time Associate Banker, Magnolia Ave and Tyler Branch, Riverside, CA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810102) · posted Nov 27
+- [2027 Market Sales Analyst Internship – Emerging Talent Summer Experience Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811687) · posted Nov 27 · summer
+- [2027 Latin American Debt Capital Markets Analyst Internship – Emerging Talent Summer Experience Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811409) · posted Nov 27 · summer
+- [2027 Market Risk Management Internship - Emerging Talent Summer Experience Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811859) · posted Nov 27 · summer
 - [U.S. Private Bank - Client Service Team - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811620) · posted Nov 23
 - [U.S. Private Bank - National Client Team - Multiple Locations - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811605) · posted Nov 23
 - [Human Resources - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809250) · posted Nov 20
+- [2027 Applied Research Associate - Summer Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359) · posted Nov 20 · summer
 - [Investment Banking- United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809667) · posted Nov 19
 - [Quantitative Trading & Research - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810432) · posted Nov 19
 - [Financial Analysis - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809515) · posted Nov 19
@@ -41,12 +204,135 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 - [Internal Audit - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810047) · posted Nov 17
 - [Consumer and Community Banking - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808031) · posted Nov 16
 - [CIB Markets, Sales, Research - New York - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809425) · posted Nov 16
+- [2027 Consumer & Community Banking -Summer Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923) · posted Nov 16 · summer
+
+## Jane Street
+- [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8810604002/) · first seen Nov 28 · summer
+- [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) · first seen Nov 28 · summer
+- [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) · first seen Nov 28 · summer
+- [Formal Methods Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8927083002/) · first seen Nov 28 · summer
+- [Fundamental Research Analyst (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8347286002/) · first seen Nov 28 · summer
+- [IT Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8641377002/) · first seen Nov 28 · summer
+- [IT Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8641280002/) · first seen Nov 28 · summer
+- [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626260002/) · first seen Nov 28 · summer
+- [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8625946002/) · first seen Nov 28 · summer
+- [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) · first seen Nov 28 · summer
+- [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8596771002/) · first seen Nov 28 · summer
+- [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) · first seen Nov 28 · summer
+- [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8498547002/) · first seen Nov 28 · summer
+- [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8623868002/) · first seen Nov 28 · summer
+- [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617344002/) · first seen Nov 28 · summer
+- [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8623733002/) · first seen Nov 28 · summer
+- [Sales and Trading (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8347385002/) · first seen Nov 28 · summer
+- [Sales and Trading (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8630687002/) · first seen Nov 28 · summer
+- [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617298002/) · first seen Nov 28 · summer
+- [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) · first seen Nov 28 · summer
+- [Strategy and Product (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8621552002/) · first seen Nov 28 · summer
+- [Strategy and Product (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8630713002/) · first seen Nov 28 · summer
+- [Tools and Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5869205002/) · first seen Nov 28 · summer
+- [Trading Desk Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8621450002/) · first seen Nov 28 · summer
+- [Trading Desk Operations Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8620505002/) · first seen Nov 28 · summer
+- [Windows Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8628843002/) · first seen Nov 28 · summer
+
+## Jefferies
+- [2028 Investment Banking Summer Analyst Program – San Francisco, Technology, Media & Telecom Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2038-2028-Investment-Banking-Summer-Analyst-Program-San-Francisco-Technology-Media-Telecom-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program - New York, LP Advisory Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2056-2028-Investment-Banking-Summer-Analyst-Program-New-York-LP-Advisory-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – New York, Municipals Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2028-2028-Investment-Banking-Summer-Analyst-Program-New-York-Municipals-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – New York, Israel Coverage Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2030-2028-Investment-Banking-Summer-Analyst-Program-New-York-Israel-Coverage-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Equities Sales & Trading Summer Analyst – High Touch Trading – Hong Kong](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2018-2027-Equities-Sales-Trading-Summer-Analyst-High-Touch-Trading-Hong-Kong/en-GB) · first seen Nov 28 · summer
+- [2027 Information Technology Summer Analyst (Infrastructure) - Hong Kong](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2052-2027-Information-Technology-Summer-Analyst-Infrastructure-Hong-Kong/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – New York, Financial Institutions Group (FIG)](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1910-2027-Investment-Banking-Summer-Associate-Program-New-York-Financial-Institutions-Group-FIG/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – San Francisco, Technology, Media & Telecom Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1911-2027-Investment-Banking-Summer-Associate-Program-San-Francisco-Technology-Media-Telecom-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – Charlotte, Aerospace, Defense & Government Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1903-2027-Investment-Banking-Summer-Associate-Program-Charlotte-Aerospace-Defense-Government-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – Charlotte or New York, Real Estate, Gaming & Lodging Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1905-2027-Investment-Banking-Summer-Associate-Program-Charlotte-or-New-York-Real-Estate-Gaming-Lodging-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – Charlotte, Technology, Media & Telecom Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1906-2027-Investment-Banking-Summer-Associate-Program-Charlotte-Technology-Media-Telecom-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – Houston, Energy Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1907-2027-Investment-Banking-Summer-Associate-Program-Houston-Energy-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – Houston, Energy Transition Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1908-2027-Investment-Banking-Summer-Associate-Program-Houston-Energy-Transition-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – New York, Generalist](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1912-2027-Investment-Banking-Summer-Associate-Program-New-York-Generalist/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – Charlotte, Consumer & Retail Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1904-2027-Investment-Banking-Summer-Associate-Program-Charlotte-Consumer-Retail-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Investment Banking Summer Associate Program – Chicago or New York, Industrials Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1914-2027-Investment-Banking-Summer-Associate-Program-Chicago-or-New-York-Industrials-Group/en-GB) · first seen Nov 28 · summer
+- [2027 Information Technology Summer Analyst (Equity Technology) - Hong Kong](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2053-2027-Information-Technology-Summer-Analyst-Equity-Technology-Hong-Kong/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – Charlotte, Technology, Media & Telecom Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2045-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Technology-Media-Telecom-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – Charlotte, Aerospace, Defense & Government Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2047-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Aerospace-Defense-Government-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – Charlotte, Consumer & Retail Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2048-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Consumer-Retail-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – New York, Private Fund Advisory Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2050-2028-Investment-Banking-Summer-Analyst-Program-New-York-Private-Fund-Advisory-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – Chicago, Mergers & Acquisitions Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2044-2028-Investment-Banking-Summer-Analyst-Program-Chicago-Mergers-Acquisitions-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – Dallas, Secondary Advisory Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2049-2028-Investment-Banking-Summer-Analyst-Program-Dallas-Secondary-Advisory-Group/en-GB) · first seen Nov 28 · summer
+- [2028 Investment Banking Summer Analyst Program – Boston, Industrials Group](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2040-2028-Investment-Banking-Summer-Analyst-Program-Boston-Industrials-Group/en-GB) · first seen Nov 28 · summer
+
+## Johnson Lambert
+- [ELITE Summer Leadership Conference Multiple Locations](https://ats.rippling.com/johnson-lambert-careers/jobs/8d403792-1027-4e4b-bbe4-fea78a65b571) · first seen Nov 28 · summer
+- [Summer 2028 Tax Intern Multiple Locations](https://ats.rippling.com/johnson-lambert-careers/jobs/9e8b5514-a725-4050-b761-e5e9c05e59ac) · first seen Nov 28 · summer
+- [Summer 2028 Audit Intern Multiple Locations](https://ats.rippling.com/johnson-lambert-careers/jobs/f483d7d3-c5d7-406a-817a-221c11ae2ea0) · first seen Nov 28 · summer
+
+## K1 Investment Management
+- [Intern, Business Development (Summer 2027)](https://k1.com/careers/) · first seen Nov 28 · summer
 
 ## Koch
+- [Associate Intern - Strategy and Business Development (Summer 2027)](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/United-States-Associate-Intern-Strategy-and-Business-Development-Summer-2027/198084) · first seen Nov 28 · summer
+- [Summer 2027 - Technical Analyst Intern](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/United-States-Summer-2027-Technical-Analyst-Intern/197764) · first seen Nov 28 · summer
 - [Georgia-Pacific EDP Process Control Engineer - Crossett, AR (2027)](https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/United-States-Georgia-Pacific-EDP-Process-Control-Engineer-Crossett-AR-2027/189496) · first seen Nov 18
 
+## KPMG
+- [Summer 2027](https://www.kpmguscareers.com/job-search/) · first seen Nov 28 · summer
+- [Summer 2028](https://www.kpmguscareers.com/job-search/) · first seen Nov 28 · summer
+
+## L.E.K. Consulting
+- [U.S. Summer Consultant - 2027](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/so/pm/1/pl/6/opp/4097-U-S-Summer-Consultant-2027/en-GB) · first seen Nov 28 · summer
+
+## Lincoln International
+- [2027 Summer Analyst Intern, Valuations & Opinions Group](http://www.lincolninternational.com/greenhouse/?gh_jid=8402833) · posted Nov 19 · summer
+
+## LLR Partners
+- [2027 LLR Diversity Collaborate - Summer 2028 Investment Team Internship](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4479187009) · posted Nov 23 · summer
+- [2027 LLR Case Competition - Summer 2028 Investment Team Internship](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4512321009) · posted Nov 18 · summer
+
+## Lord Abbett
+- [Technology Associate, Internship - Summer 2027](https://careers-lordabbett.icims.com/jobs/2392/technology-associate%2c-internship---summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Technology Associate Full-Time - Summer 2027](https://careers-lordabbett.icims.com/jobs/2387/technology-associate-full-time---summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+
+## Millennium Management
+- [2027 Internship Program applications are now open](https://campusjobs.mlp.com/careers?domain=mlp.comµsite=campus-site) · first seen Nov 28 · summer
+- [What does the summer internship look like?](https://www.mlp.com/careers/students/) · first seen Nov 28 · summer
+
+## Mizuho
+- [Summer 2027 Fixed Income Sales and Trading Internship – Derivatives Risk Solutions Americas](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/Summer-2027-Fixed-Income-Sales-and-Trading-Internship---Derivatives-Risk-Solutions-Americas_R7585) · posted Nov 24 · summer
+- [2027 Investment Banking Analyst - New York](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/New-York-NY-1271-AOA6th-Ave/XMLNAME-2027-Investment-Banking-Analyst---New-York_R7579) · posted Nov 20
+- [2028 Investment Banking Summer Analyst - San Francisco](https://mizuho.wd1.myworkdayjobs.com/en-US/mizuho_confidential/job/San-Francisco/XMLNAME-2028-Investment-Banking-Summer-Analyst---San-Francisco_R7499) · posted Nov 20 · summer
+
 ## Moelis & Co
+- [2027 Investment Banking Summer Associate – Generalist – New York](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/398-2027-Investment-Banking-Summer-Associate-Generalist-New-York/en-GB) · first seen Nov 28 · summer
 - [2027 Analyst, Investment Banking - Shareholder Advisory (Los Angeles)](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/507-2027-Analyst-Investment-Banking-Shareholder-Advisory-Los-Angeles/en-GB) · first seen Nov 24
+
+## Morgan Stanley
+- [2027 Quantitative Investment Strategies Summer Associate Program (New York)](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22417-2027-Quantitative-Investment-Strategies-Summer-Associate-Program-New-York/en-GB) · first seen Nov 28 · summer
+
+## NERA
+- [Marsh People and Investments Health and Benefits Summer Internship- Nashville- College Program 2027](https://careers.marsh.com/global/en/job/R_371344) · posted Nov 16 · summer
+
+## Nomura
+- [2027 Investment Banking Summer Associate Program - San Francisco](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/1/opp/1549-2027-Investment-Banking-Summer-Associate-Program-San-Francisco/en-GB) · first seen Nov 28 · summer
+
+## Norges Bank
+- [Summer internship](https://www.nbim.no/en/about-us/career/summer-internship/) · first seen Nov 28 · summer
+- [Our former summer interns](https://www.nbim.no/en/about-us/career/people-culture-and-diversity/meet-our-people/meet-our-former-summer-interns/) · first seen Nov 28 · summer
+- [Summer internship](https://www.nbim.no/en/about-us/career/) · first seen Nov 28 · summer
+
+## NVIDIA
+- [NVIDIA 2027 Internships: Hardware Verification](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) · posted Nov 25 · summer
+- [NVIDIA 2027 Internships: Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) · posted Nov 25 · summer
+- [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) · posted Nov 25 · summer
+- [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) · posted Nov 25 · summer
+- [NVIDIA 2027 Internships: Hardware Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) · posted Nov 25 · summer
+- [Financial Analyst Intern, Hardware FP&A - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1) · posted Nov 25 · summer
+- [Finance AI Engineering Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131) · posted Nov 25 · summer
+- [Enterprise Sales Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Sales-Intern---Summer-2027_JR2029682) · posted Nov 25 · summer
+- [VLSI Timing Methodology Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798) · posted Nov 25 · summer
+- [Cost Accountant Intern, Global Operations and Manufacturing - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1) · posted Nov 25 · summer
+- [Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) · posted Nov 25 · summer
+- [ASIC Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277) · posted Nov 25
+- [Strategic Financial Analyst - AI Compute](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Strategic-Financial-Analyst---AI-Compute_JR2029681-1) · posted Nov 25 · AI/energy infra
+- [Applied Research Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Armenia-Yerevan/Applied-Research-Intern---2027_JR2030233) · posted Nov 24 · summer
 
 ## Optiver
 - [FutureFocus: Quants (Trading & Research) 2027](https://www.optiver.com/join-us/jobs/8843445002/?gh_jid=8843445002) · posted Nov 20
@@ -56,22 +342,113 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 - [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350824) · posted Nov 20
 
 ## Orion Group
+- [CI Operations Intern - 2027](https://job-boards.greenhouse.io/oriongroup/jobs/4730308006) · posted Nov 18 · summer
 - [Operating Associate 2027](https://job-boards.greenhouse.io/oriongroup/jobs/4730207006) · posted Nov 17
 
 ## Pattern Energy
 - [Analyst, Project Finance - Solect Energy](https://careers-patternenergy.icims.com/jobs/3528/analyst%2c-project-finance---solect-energy/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 - [Energy Risk Analyst](https://careers-patternenergy.icims.com/jobs/3483/energy-risk-analyst/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 
+## Perella Weinberg Partners
+- [2028 Restructuring Advisory Summer Analyst – NY](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1124-2028-Restructuring-Advisory-Summer-Analyst-NY/en-GB) · first seen Nov 28 · summer
+- [2027 NY Summer Associate - M&A (Consumer/Retail, Healthcare, FIG, Technology)](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1109-2027-NY-Summer-Associate-M-A-Consumer-Retail-Healthcare-FIG-Technology/en-GB) · first seen Nov 28 · summer
+- [2027 NY Summer Associate - Restructuring](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1111-2027-NY-Summer-Associate-Restructuring/en-GB) · first seen Nov 28 · summer
+- [2028 US Advisory Summer Analyst – NY, CHI, FL, LA, SF](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1123-2028-US-Advisory-Summer-Analyst-NY-CHI-FL-LA-SF/en-GB) · first seen Nov 28 · summer
+
+## Point72
+- [2027 Asia Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8931689002?gh_jid=8931689002) · posted Nov 17 · summer
+
+## Protiviti
+- [Denver Technology Consulting Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/DENVER/Denver-Technology-Consulting-Consultant---2027_JR-260518-1) · posted Nov 25
+- [Metro DC Legal, Risk and Compliance Intern - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/WASHINGTON-DC---MCLEAN/Metro-DC-Legal--Risk-and-Compliance-Intern---2027_JR-258922-2) · posted Nov 23 · summer
+- [Atlanta Technology Consulting Intern - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/ATLANTA---PEACHTREE-RD/Atlanta-Technology-Consulting-Intern---2027_JR-258798-2) · posted Nov 20 · summer
+- [Houston Internal Audit and Financial Advisory Consultant - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/HOUSTON/Houston-Internal-Audit-and-Financial-Advisory-Consultant---2027_JR-257689) · posted Nov 19
+- [Atlanta Internal Audit and Financial Advisory Intern - 2027](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/ATLANTA---PEACHTREE-RD/Atlanta-Internal-Audit-and-Financial-Advisory-Intern---2027_JR-258876) · posted Nov 18 · summer
+
+## Rockefeller Capital Management
+- [Summer Analyst - Information Security](https://careers-rcm.icims.com/jobs/5355/summer-analyst---information-security/job?in_iframe=1) · first seen Nov 28 · summer
+
+## Rothschild & Co.
+- [Internship - Investment Analyst – Five Arrows Growth Partners – January / March 2027](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/966-Internship-Investment-Analyst-Five-Arrows-Growth-Partners-January-March-2027/en-GB) · first seen Nov 28 · summer
+- [Leveraged Finance 2027 Summer Analyst Programme](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1056-Leveraged-Finance-2027-Summer-Analyst-Programme/en-GB) · first seen Nov 28 · summer
+- [Long Term Internship - Global Advisory FIG – Juillet 2027](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1030-Long-Term-Internship-Global-Advisory-FIG-Juillet-2027/en-GB) · first seen Nov 28 · summer
+- [Long Term Internship – Healthcare coverage team – Global Advisory – Juillet 2027](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1038-Long-Term-Internship-Healthcare-coverage-team-Global-Advisory-Juillet-2027/en-GB) · first seen Nov 28 · summer
+- [Long Term Internship – Sovereign Advisory – Juillet/Septembre 2027](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1032-Long-Term-Internship-Sovereign-Advisory-Juillet-Septembre-2027/en-GB) · first seen Nov 28 · summer
+- [Long Term ESG Internship - Global Advisory – Juillet 2027](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1027-Long-Term-ESG-Internship-Global-Advisory-Juillet-2027/en-GB) · first seen Nov 28 · summer
+
+## RWE
+- [Business Development Analyst Intern, Flexible Generation, Summer 2027](https://jobs.rwe.com/RWE/job/Austin-Business-Development-Analyst-Intern%2C-Flexible-Generation%2C-Summer-2027-TX-78702/1460810033/) · first seen Nov 28 · summer
+- [Business Development Analyst Intern, Flexible Generation, Summer 2027](https://jobs.rwe.com/RWE/job/Austin-Business-Development-Analyst-Intern%2C-Flexible-Generation%2C-Summer-2027-TX-78701/1460804433/) · first seen Nov 28 · summer
+- [Legal Intern, Summer 2027](https://jobs.rwe.com/RWE/job/Austin-Legal-Intern%2C-Summer-2027-TX-78701/1460772533/) · first seen Nov 28 · summer
+- [Tax Summer Intern, 2027](https://jobs.rwe.com/RWE/job/Chicago-Tax-Summer-Intern%2C-2027-IL-60654-4704/1460711733/) · first seen Nov 28 · summer
+- [GL Accounting Intern, Summer 2027](https://jobs.rwe.com/RWE/job/Chicago-GL-Accounting-Intern%2C-Summer-2027-IL-60654-4704/1460791133/) · first seen Nov 28 · summer
+- [Energy Campus Development Intern, Flexible Generation, Summer 2027](https://jobs.rwe.com/RWE/job/Austin-Energy-Campus-Development-Intern%2C-Flexible-Generation%2C-Summer-2027-TX-78702/1460816033/) · first seen Nov 28 · summer
+
 ## Scotiabank
 - [Conseiller(ère) bilingue, Expérience client - janvier 2027 - Tangerine](https://jobs.scotiabank.com/Tangerine/job/Moncton-Conseiller%28%C3%A8re%29-bilingue%2C-Exp%C3%A9rience-client-janvier-2027-Tangerine-NB/607584617/) · first seen Nov 28
 - [Bilingual Client Experience Advisor - Moncton, NB - January 2027 - Tangerine](https://jobs.scotiabank.com/Tangerine/job/Moncton-Bilingual-Client-Experience-Advisor-Moncton%2C-NB-January-2027-Tangerine-NB/607584517/) · first seen Nov 28
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608473617/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608418617/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608419417/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/607502017/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/607510717/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608478817/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608479217/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608479417/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608396917/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608397217/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608395517/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608377417/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608378417/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608287617/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/608103517/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/607996617/) · first seen Nov 28 · summer
+- [Summer Student](https://jobs.scotiabank.com/job/Bogota-Summer-Student-DC/607943417/) · first seen Nov 28 · summer
 - [Customer Care Advisor - Investments - Client Experience Centre - January 2027](https://jobs.scotiabank.com/job/Scarborough-Customer-Care-Advisor-Investments-Client-Experience-Centre-January-2027-ON/608301917/) · first seen Nov 23
 
+## SMBC
+- [2027 Summer Intern Program – Credit Portfolio Management](https://smbc.recsolu.com/jobs/EXLDjsqZ2psTSwCXHhAO5A?job_board_id=eaXXV_6DqjCnE-NZ7B8R6A) · first seen Nov 28 · summer
+- [2027 Summer Intern Program – Credit Portfolio Management Intern New York, NY 3d](https://smbc.recsolu.com/job_boards/eaXXV_6DqjCnE-NZ7B8R6A) · first seen Nov 28 · summer
+
+## SouthState Bank
+- [Summer 2027 Commercial Banking Intern Waco, TX](https://southstatebank.wd5.myworkdayjobs.com/en-US/External/job/Waco-Woodway/Summer-2027-Commercial-Banking-Intern-Waco--TX_R-05812) · posted Nov 17 · summer
+
+## Starwood Capital Group
+- [2027 Information Technology Summer Intern](https://jobs.jobvite.com/starwoodcapitalgroup/job/oezXAfw4) · first seen Nov 28 · summer
+
+## Stellex
+- [Summer Analyst Program Overview](https://www.stellexcapital.com/careers-culture/) · first seen Nov 28 · summer
+
 ## Stifel
+- [Venture Banking Credit Analyst (Summer 2027 Start)](https://careers-stifel.icims.com/jobs/9903/venture-banking-credit-analyst-%28summer-2027-start%29/job?in_iframe=1) · first seen Nov 28 · summer
+- [Venture Banking Credit Analyst (Summer 2027 Start)](https://careers-stifel.icims.com/jobs/9902/venture-banking-credit-analyst-%28summer-2027-start%29/job?in_iframe=1) · first seen Nov 28 · summer
 - [Research Associate I - Energy](https://careers-stifel.icims.com/jobs/11312/research-associate-i---energy/job?in_iframe=1) · first seen Nov 25 · AI/energy infra
 - [IB Analyst - Clean Energy & Power (New York)](https://careers-stifel.icims.com/jobs/10116/ib-analyst---clean-energy-%26-power-%28new-york%29/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 
+## Stone Point Capital
+- [Summer Program](https://www.stonepoint.com/join-our-team/) · first seen Nov 28 · summer
+
+## Strategic Investment Group
+- [Intern, Investment Analyst - Summer 2027](https://strategicgroup.bamboohr.com/careers/38) · first seen Nov 28 · summer
+
 ## Susquehanna International Group
+- [Analytics Internship: Summer 2027](https://careers-sig.icims.com/jobs/11099/analytics-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Credit Analyst Internship: Summer 2027](https://careers-sig.icims.com/jobs/10794/credit-analyst-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Electricity + Natural Gas Analyst Internship: Summer 2027](https://careers-sig.icims.com/jobs/10945/electricity-%2b-natural-gas-analyst-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Equity Analyst Internship: Summer 2027](https://careers-sig.icims.com/jobs/11216/equity-analyst-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Equity Analyst Internship: Summer 2027](https://careers-sig.icims.com/jobs/11361/equity-analyst-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Machine Learning Engineering Internship: Summer 2027](https://careers-sig.icims.com/jobs/11555/machine-learning-engineering-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Machine Learning Engineering Internship: Summer 2027](https://careers-sig.icims.com/jobs/11620/machine-learning-engineering-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Macro Analyst Internship: Summer 2027](https://careers-sig.icims.com/jobs/11362/macro-analyst-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Quantitative Research Internship – Master's: Summer 2027](https://careers-sig.icims.com/jobs/10819/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Quantitative Research Internship – Master's: Summer 2027](https://careers-sig.icims.com/jobs/10820/quantitative-research-internship-%e2%80%93-master%27s%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Quantitative Research Internship: Summer 2027](https://careers-sig.icims.com/jobs/10843/quantitative-research-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Quantitative Research Internship: Summer 2027](https://careers-sig.icims.com/jobs/11007/quantitative-research-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Operations Internship: Summer 2027](https://careers-sig.icims.com/jobs/10916/operations-internship%3a-summer-2027/job?in_iframe=1) · first seen Nov 28 · summer
+- [Quantitative Researcher – Master's: 2027](https://careers-sig.icims.com/jobs/11016/quantitative-researcher-%e2%80%93-master%27s%3a-2027/job?in_iframe=1) · first seen Nov 28
+- [Quantitative Researcher – Master's: 2027](https://careers-sig.icims.com/jobs/11018/quantitative-researcher-%e2%80%93-master%27s%3a-2027/job?in_iframe=1) · first seen Nov 28
+- [Quantitative Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/11015/quantitative-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 28
+- [Quantitative Researcher - PhD: 2027](https://careers-sig.icims.com/jobs/11017/quantitative-researcher---phd%3a-2027/job?in_iframe=1) · first seen Nov 28
 - [Hong Kong Equity Research Discovery Program: April 2027](https://careers-sig.icims.com/jobs/13202/hong-kong-equity-research-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
 - [Hong Kong Quantitative Trading and Quantitative Strategy Development Discovery Program: April 2027](https://careers-sig.icims.com/jobs/11193/hong-kong-quantitative-trading-and-quantitative-strategy-development-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
 - [Hong Kong Trading Operations Discovery Program: April 2027](https://careers-sig.icims.com/jobs/13235/hong-kong-trading-operations-discovery-program%3a-april-2027/job?in_iframe=1) · first seen Nov 16
@@ -80,13 +457,42 @@ Titles with 2027 or a full-time analyst sign, plus early-career analyst and asso
 ## TCW
 - [Quantitative Sustainable Investment Research Analyst](https://careers-tcw.icims.com/jobs/2283/quantitative-sustainable-investment-research-analyst/job?in_iframe=1) · first seen Nov 22 · AI/energy infra
 
+## The Brattle Group
+- [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) · posted Nov 20 · summer
+
+## TIAA
+- [2027 Early Talent Internship: Corporate Strategy & Planning](https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--Corporate-Strategy---Planning_R261000129) · posted Nov 18 · summer
+
+## Tidal Partners
+- [2028 Summer Analyst](https://tidalpartners.breezy.hr/p/38e815b1f710-2028-summer-analyst) · posted Nov 20 · summer
+
+## Uline
+- [Digital Marketing Internship - Summer 2027](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Paid-Search-Internship---Summer-2027_R268243) · posted Nov 24 · summer
+- [Human Resources Recruiting Internship - Summer 2027](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Human-Resources-Recruiting-Internship---Summer-2027_R269361) · posted Nov 23 · summer
+- [Warehouse Management Internship - Summer 2027](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Etna-OH/Warehouse-Management-Internship---Summer-2027_R268575) · posted Nov 19 · summer
+
+## UVIMCO
+- [2028 Summer Investment Intern](https://job-boards.greenhouse.io/uvimco/jobs/5486467008) · posted Nov 18 · summer
+
+## Vista Equity Partners
+- [2027 Private Equity Summer Associate Internship](https://careers3-vistaequitypartners.icims.com/jobs/3049/2027-private-equity-summer-associate-internship/job?in_iframe=1) · first seen Nov 28 · summer
+
+## Voloridge Investment Management
+- [Quantitative Research Intern 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4226247009) · first seen Nov 28 · summer
+- [Quantitative Trading Intern 2027](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4405530009) · first seen Nov 28 · summer
+
+## Waterfall Asset Management
+- [Summer Analyst (Undergraduate)](https://waterfallam.applytojob.com/apply/SNRUY6aiKO/Summer-Analyst-Undergraduate) · first seen Nov 28 · summer
+- [Summer Analyst (Undergraduate) New York, NY Investment](https://waterfallam.applytojob.com/apply) · first seen Nov 28 · summer
+- [Summer Analyst (Undergraduate)](https://waterfallam.applytojob.com/apply) · first seen Nov 28 · summer
+
 ## William Blair
 - [Research Associate - Energy and Power Technologies](https://www.williamblair.com/Careers/job-description?gh_jid=5298594007) · posted Nov 23 · AI/energy infra
 
 ## Wood Mackenzie
 - [Featured event North American Power & Renewables Forum 2027 April 28-29, 2027, Omni Interlocken Hotel, Denver, CO Find out more](https://www.woodmac.com/events/north-american-power-renewables-forum/) · first seen Nov 22
 
-## Check these yourself: 182 firms the watcher can't read
+## Check these yourself: 161 firms the watcher can't read
 
 Their job sites didn't return postings on this check, so new roles there won't trigger an alert. Visit them directly.
 
@@ -117,26 +523,20 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Blackstone** · [careers site](https://www.blackstone.com/careers/students/) · site blocks automated checks
 - **Blue Owl Capital** · [careers site](https://www.blueowl.com/careers) · site blocks automated checks
 - **BMO Capital Markets** · [careers site](https://jobs.bmo.com/ca/en/campus) · site blocks automated checks
-- **Boulay** · [careers site](https://boulaygroup.com/careers) · site blocks automated checks
 - **bp** · [careers site](https://careers.bp.com/early-careers) · site blocks automated checks
 - **BRG** · [careers site](https://www.thinkbrg.com/careers/global-careers/) · site blocks automated checks
-- **Bridgepoint Investment Banking** · [careers site](https://www.bridgepointgroup.com/about-us/joining-the-team) · site blocks automated checks
 - **Brio Real Estate** · [careers site](https://www.briore.com/careers) · site blocks automated checks
-- **Brookfield** · [careers site](https://www.brookfield.com/careers) · site blocks automated checks
 - **BTG Pactual** · [careers site](https://btgpactual.eu/en/careers) · site couldn't be reached securely
 - **Caldwell Bray Securities** · no link in the config · no job site in the config
 - **Campbell Lutyens** · [careers site](https://www.campbell-lutyens.com/careers/graduate-programme/) · site couldn't be reached securely
 - **Capital Group** · [careers site](https://www.capitalgroup.com/corporate/careers.html) · site blocks automated checks
 - **Capital One** · [careers site](https://www.capitalonecareers.com/) · site blocks automated checks
 - **Capstone Partners** · [careers site](https://www.capstonepartners.com/about/careers) · site blocks automated checks
-- **Capula Investment Management** · [careers site](https://careers.capulaglobal.com/interns/) · site blocks automated checks
 - **Carr, Riggs & Ingram** · [careers site](https://www.criadv.com/careers) · site blocks automated checks
 - **Cascadia Capital** · [careers site](https://www.cascadiacapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · site blocks automated checks
-- **CBRE** · [careers site](https://www.cbre.co.uk/careers/students-and-graduates) · site blocks automated checks
-- **Ccaventus** · [careers site](https://www.arenaco.com/) · site blocks automated checks
+- **Castleton Commodities International** · [careers site](https://www.cci.com/careers/students/) · job system refused the request
 - **Chartwell Financial Advisory** · [careers site](https://chartwellfa.com/about/careers/open-positions) · job-site link is broken or moved
-- **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · site blocks automated checks
+- **Chimera Securities** · [careers site](https://www.chimerasecurities.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **CIBC** · [careers site](https://www.cibc.com/en/about-cibc/careers/students-and-graduates.html) · site blocks automated checks
 - **Citadel** · [careers site](https://www.citadel.com/careers/) · site blocks automated checks
 - **Citi** · [careers site](https://careers.citigroup.com/students-and-graduates/) · site blocks automated checks
@@ -150,11 +550,10 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Constellation Energy** · [careers site](https://www.constellationenergy.com/careers.html) · job-site link is broken or moved
 - **Copenhagen Infrastructure Partners** · [careers site](https://cip.com/careers/) · job-site link is broken or moved
 - **Corient** · [careers site](https://corient.com/us/en/careers) · site blocks automated checks
-- **Cornerstone Research** · [careers site](https://www.cornerstone.com/careers/) · site blocks automated checks
 - **Crowe** · [careers site](https://www.crowe.com/uk/careers/early-careers) · site blocks automated checks
 - **Dodge & Cox** · [careers site](https://www.dodgeandcox.com/individual-investor/us/en/careers/overview.html) · site blocks automated checks
 - **Energy Capital Partners** · [careers site](https://www.ecpgp.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Ensis Partners** · [careers site](https://ensispartners.com/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **Ensis Partners** · [careers site](https://ensispartners.com/) · site couldn't be reached securely
 - **Enterprise Mobility** · [careers site](https://www.enterprisemobility.com/en/careers.html) · site blocks automated checks
 - **Enverus** · [careers site](https://www.enverus.com/careers/) · site blocks automated checks
 - **EQT** · [careers site](https://eqtgroup.com/careers) · job-site link is broken or moved
@@ -168,7 +567,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Geffen Mesher** · [careers site](https://gmco.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Global Atlantic** · [careers site](https://www.globalatlantic.com/careers) · job-site link is broken or moved
 - **Greenbacker** · [careers site](https://greenbacker.com/careers) · job-site link is broken or moved
-- **Greenhill** · [careers site](https://greenhill.freshminds.co.uk/) · site blocks automated checks
 - **Greystar** · [careers site](https://jobs.greystar.com/early-careers) · site blocks automated checks
 - **Greystone** · [careers site](https://www.greystone.com/) · site blocks automated checks
 - **GTCR** · [careers site](https://www.gtcr.com/) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -183,7 +581,7 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Howden** · [careers site](https://www.howdengroup.com/uk-en/culture-and-careers) · site blocks automated checks
 - **Huntington National Bank** · [careers site](https://www.huntington.com/careers) · site blocks automated checks
 - **Huron** · [careers site](https://www.huronconsultinggroup.com/en/careers) · site blocks automated checks
-- **I Squared Capital** · [careers site](https://isquaredcapital.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
+- **I Squared Capital** · [careers site](https://isquaredcapital.com/careers/) · job-site link is broken or moved
 - **ING** · [careers site](https://careers.ing.com/en/global/careers.htm) · site blocks automated checks
 - **Insight Partners** · [careers site](https://www.insightpartners.com/join-our-team/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Invenergy** · [careers site](https://invenergy.com/careers) · site blocks automated checks
@@ -192,24 +590,20 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **KeyBank** · [careers site](https://www.key.com/about/careers/students-graduates.html) · site blocks automated checks
 - **Leerink Partners** · [careers site](https://www.leerink.com/firm/careers/) · site blocks automated checks
 - **Long Ridge** · [careers site](https://long-ridge.com/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **LV Collective** · [careers site](https://lvcollective.com/careers/) · site blocks automated checks
 - **M&T Bank** · [careers site](https://www.mtb.com/careers) · site blocks automated checks
 - **M31 Capital** · [careers site](https://m31.capital/academy) · job-site link is broken or moved
 - **Macquarie Group** · [careers site](https://www.macquarie.com/de/en/careers/graduates-and-interns.html) · no postings found (the page may load jobs in a way the watcher can't read)
 - **McKinsey & Company** · [careers site](https://www.mckinsey.com/careers/students) · site timed out
 - **Mercuria** · [careers site](https://mercuria.com/careers) · site couldn't be reached securely
 - **Meta** · [careers site](https://www.metacareers.com) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Mizuho** · [careers site](https://www.mizuhogroup.com/emea/careers) · site blocks automated checks
 - **Morningstar** · [careers site](https://www.morningstar.com/company/careers) · site blocks automated checks
 - **MUFG** · [careers site](https://mufgcampus.com/our-programmes/) · site blocks automated checks
 - **Nationwide Mutual Insurance Company** · [careers site](https://www.nationwide.com/personal/about-us/careers) · site blocks automated checks
 - **Natixis** · [careers site](https://recrutement.natixis.com/en) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Neuberger Berman** · [careers site](https://www.nb.com/who-we-are/careers) · site blocks automated checks
 - **Newmark** · [careers site](https://www.nmrk.com/careers) · site blocks automated checks
-- **Northborne Partners** · [careers site](https://northborne.com/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Northgate Advisory Group** · no link in the config · no job site in the config
 - **Northwestern Mutual** · [careers site](https://careers.northwesternmutual.com/) · site blocks automated checks
-- **NVIDIA** · [careers site](https://www.nvidia.com/en-us/about-nvidia/careers/) · site blocks automated checks
 - **Oak Hill Advisors** · [careers site](https://careers-oakhilladvisors.icims.com/) · job-site link is broken or moved
 - **Oaktree Capital Management** · [careers site](https://www.oaktreecapital.com/careers) · site blocks automated checks
 - **Oliver Wyman** · [careers site](https://www.oliverwyman.com/uk-ireland/careers/recruiting-events-uk-and-ireland.html) · site blocks automated checks
@@ -218,14 +612,12 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Oxford Properties Group** · [careers site](https://www.oxfordproperties.com/careers) · site blocks automated checks
 - **PEAK6** · [careers site](https://www.peak6.com/careers/) · site blocks automated checks
 - **Performance Trust Capital Partners** · [careers site](https://www.performancetrust.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
-- **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · site blocks automated checks
-- **PGIM** · [careers site](https://www.pgim.com/gb/en/institutional/about/careers) · site blocks automated checks
+- **Perkins & Co** · [careers site](https://perkinsaccounting.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **PIMCO** · [careers site](https://www.pimco.co.uk/en-gb/our-firm/careers/students) · site blocks automated checks
 - **Piper Sandler** · [careers site](https://www.pipersandler.com/careers/students) · site blocks automated checks
 - **PJT Partners** · [careers site](https://pjtpartners.com/careers) · site blocks automated checks
 - **PMCF Investment Banking** · [careers site](https://pmcf.com/careers/) · site blocks automated checks
 - **PNC** · [careers site](https://careers.pnc.com/global/en/students) · site blocks automated checks
-- **Protiviti** · [careers site](https://www.protiviti.com/uk-en/careers) · site blocks automated checks
 - **PSG Equity** · [careers site](https://careers.psgequity.com/) · site blocks automated checks
 - **PSP Investments** · [careers site](https://www.investpsp.com/en/work/careers/) · site blocks automated checks
 - **PwC** · [careers site](https://www.pwc.co.uk/careers/early-careers.html) · site blocks automated checks
@@ -235,10 +627,8 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **RBC Capital Markets** · [careers site](https://www.rbccm.com/en/careers) · site blocks automated checks
 - **Readystate** · [careers site](https://www.readyx.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Regions Bank** · [careers site](https://careers.regions.com/us/en/interns-and-graduates) · site blocks automated checks
-- **RMI (Rocky Mountain Institute)** · [careers site](https://rmi.org/careers/) · site blocks automated checks
 - **Rothesay** · [careers site](https://www.rothesay.com/about-us/working-here/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
 - **RSM US** · [careers site](https://rsmus.com/careers.html) · site blocks automated checks
-- **Rystad Energy** · [careers site](https://www.rystadenergy.com/career) · site blocks automated checks
 - **Santander** · [careers site](https://www.santander.com/en/careers/where-you-want-to-create-an-impact/corporate---investment-banking) · site blocks automated checks
 - **SBF Advisors** · [careers site](https://sbfadvisors.com/careers/) · site couldn't be reached securely
 - **ScottMadden** · [careers site](https://www.scottmadden.com/careers/) · no postings found (the page may load jobs in a way the watcher can't read)
@@ -247,7 +637,6 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Shell** · [careers site](https://www.shell.com/careers/about-careers-at-shell/early-careers.html) · site blocks automated checks
 - **Sixth Street** · [careers site](https://sixthstreet.com/careers) · site blocks automated checks
 - **Solomon Partners** · [careers site](https://solomonpartners.com/careers/students-graduates/) · no postings found (the page may load jobs in a way the watcher can't read)
-- **SouthState Bank** · [careers site](https://careers.southstatebank.com/us/en/home) · site blocks automated checks
 - **Sower Investment Partners** · [careers site](https://sower.com/) · site blocks automated checks
 - **STACK Infrastructure** · [careers site](https://www.stackinfra.com/careers/) · job-site link is broken or moved
 - **State Street** · [careers site](https://careers.statestreet.com/global/en/state-street-early-careers) · site blocks automated checks
@@ -259,14 +648,10 @@ Their job sites didn't return postings on this check, so new roles there won't t
 - **Tessaro Quant Research** · no link in the config · no job site in the config
 - **Texas Capital Bank** · [careers site](https://www.texascapitalbank.com/who-we-are/careers) · site blocks automated checks
 - **The Carlyle Group** · [careers site](https://www.carlyle.com/careers) · site blocks automated checks
-- **The McLean Group** · [careers site](https://mcleanllc.com/jobs) · site blocks automated checks
-- **TIAA** · [careers site](https://careers.tiaa.org/earlytalent) · site blocks automated checks
 - **Truist** · [careers site](https://careers.truist.com/us/en) · site blocks automated checks
 - **Turn/River Capital** · [careers site](https://turnriver.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Two Sigma** · [careers site](https://www.twosigma.com/careers/internships/) · job-site link is broken or moved
 - **U.S. Bank** · [careers site](https://careers.usbank.com/) · site blocks automated checks
-- **Uline** · [careers site](https://www.uline.jobs/) · site blocks automated checks
-- **University Partners** · [careers site](https://www.universitypartners.com/careers) · no postings found (the page may load jobs in a way the watcher can't read)
 - **Vanguard** · [careers site](https://www.vanguardjobs.com/students-and-recent-graduates/) · site blocks automated checks
 - **Vantage Data Centers** · [careers site](https://vantage-dc.com/careers/) · site blocks automated checks
 - **Vistra** · [careers site](https://www.vistracorp.com/careers) · site blocks automated checks
